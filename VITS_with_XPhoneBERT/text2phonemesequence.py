@@ -29,8 +29,11 @@ class Text2PhonemeSequence:
                 else:
                     self.phone_dict[w_p[0]] = [w_p[1].split(',')[0]]
 
-    def infer_dataset(self, input_file='', seperate_syllabel_token= "_", output_file="", batch_size=64):
-        f = open(input_file, 'r', encoding="utf-8")
+    def infer_dataset(self, input_file='', seperate_syllabel_token= "_", output_file="", batch_size=64, encoding = None):
+        if encoding:
+            f = open(input_file, 'r', encoding=encoding)
+        else:
+            f = open(input_file, 'r')
         list_lines = f.readlines()
         f.close()
         list_words = []
