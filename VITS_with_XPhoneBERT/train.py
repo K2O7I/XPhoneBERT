@@ -34,7 +34,7 @@ from losses import (
 from mel_processing import mel_spectrogram_torch, spec_to_mel_torch
 # WANDB
 wandb_name = '2307_VITS_01'
-wandb.init(project = wandb_name)
+wandb.init(project = wandb_name, name = 'A100')
 
 torch.backends.cudnn.benchmark = True
 global_step = 0
