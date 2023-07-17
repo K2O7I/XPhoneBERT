@@ -108,10 +108,10 @@ def run(rank, n_gpus, hps):
     try:
         _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "G_*.pth"), net_g,
                                                    optim_g)
-        print("Load G model")
+        #print("Load G model")
         _, _, _, epoch_str = utils.load_checkpoint(utils.latest_checkpoint_path(hps.model_dir, "D_*.pth"), net_d,
                                                    optim_d)
-        print("Load D model")
+        #print("Load D model")
         global_step = (epoch_str - 1) * len(train_loader)
     except:
         epoch_str = 1
@@ -142,6 +142,7 @@ def run(rank, n_gpus, hps):
 
 
 def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loaders, logger, writers):
+    count = 0
     net_g, net_d = nets
     optim_g, optim_d = optims
     scheduler_g, scheduler_d = schedulers
@@ -225,7 +226,8 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
                            "loss_mel": loss_mel,
                            "loss_dur": loss_dur,
                            "loss_kl": loss_kl,
-                           "learning-rate": lr})
+                           "learning-rate": lr}, step = epoch*10+count)
+                count+=1
                 logger.info('Train Epoch: {} [{:.0f}%]'.format(
                     epoch,
                     100. * batch_idx / len(train_loader)))
