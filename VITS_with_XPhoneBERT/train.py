@@ -142,7 +142,6 @@ def run(rank, n_gpus, hps):
 
 
 def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loaders, logger, writers):
-    count = 0
     net_g, net_d = nets
     optim_g, optim_d = optims
     scheduler_g, scheduler_d = schedulers
@@ -226,8 +225,7 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
                            "loss_mel": loss_mel,
                            "loss_dur": loss_dur,
                            "loss_kl": loss_kl,
-                           "learning-rate": lr}, step = epoch*10+count)
-                count+=1
+                           "learning-rate": lr}, step = 1)
                 logger.info('Train Epoch: {} [{:.0f}%]'.format(
                     epoch,
                     100. * batch_idx / len(train_loader)))
