@@ -34,7 +34,6 @@ from losses import (
 from mel_processing import mel_spectrogram_torch, spec_to_mel_torch
 # WANDB
 wandb_name = '2307_VITS_01'
-wandb.init(project = wandb_name, name = 'A100')
 
 torch.backends.cudnn.benchmark = True
 global_step = 0
@@ -50,6 +49,7 @@ def main():
     os.environ['WANDB_PROJECT'] = wandb_name
 
     hps = utils.get_hparams()
+    wandb.init(project = wandb_name, name = 'A100')
     mp.spawn(run, nprocs=n_gpus, args=(n_gpus, hps,))
     wandb.finish()
 
@@ -225,7 +225,7 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
                            "loss_mel": loss_mel,
                            "loss_dur": loss_dur,
                            "loss_kl": loss_kl,
-                           "learning-rate": lr}, step = 1)
+                           "learning-rate": lr}, step=global_step)
                 logger.info('Train Epoch: {} [{:.0f}%]'.format(
                     epoch,
                     100. * batch_idx / len(train_loader)))
