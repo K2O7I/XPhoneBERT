@@ -46,12 +46,12 @@ def main():
     n_gpus = torch.cuda.device_count()
     os.environ['MASTER_ADDR'] = 'localhost'
     os.environ['MASTER_PORT'] = '9999'
-    os.environ['WANDB_PROJECT'] = wandb_name
+    #os.environ['WANDB_PROJECT'] = wandb_name
 
     hps = utils.get_hparams()
-    wandb.init(project = wandb_name, name = 'A100')
+    #wandb.init(project = wandb_name, name = 'A100')
     mp.spawn(run, nprocs=n_gpus, args=(n_gpus, hps,))
-    wandb.finish()
+    #wandb.finish()
 
 def run(rank, n_gpus, hps):
     global global_step
@@ -219,13 +219,13 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
             if global_step % hps.train.log_interval == 0:
                 lr = optim_g.param_groups[0]['lr']
                 losses = [loss_disc, loss_gen, loss_fm, loss_mel, loss_dur, loss_kl]
-                wandb.log({"loss_disc": loss_disc,
+                '''wandb.log({"loss_disc": loss_disc,
                            "loss_gen": loss_gen,
                            "loss_fm": loss_fm,
                            "loss_mel": loss_mel,
                            "loss_dur": loss_dur,
                            "loss_kl": loss_kl,
-                           "learning-rate": lr}, step=global_step)
+                           "learning-rate": lr}, step=global_step)'''
                 logger.info('Train Epoch: {} [{:.0f}%]'.format(
                     epoch,
                     100. * batch_idx / len(train_loader)))
