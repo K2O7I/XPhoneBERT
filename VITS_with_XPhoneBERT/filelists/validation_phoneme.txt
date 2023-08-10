@@ -1,0 +1,1000 @@
+DUMMY/wav/819f451034038a9a817de325da1b4c96.wav|j a ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ f a j ˨˩˦ ▁ c w i ə ŋ ˨˩˦ ▁ ʂ a ŋ ˧˧ ▁ m o k͡p ˨˩˨ ▁ m o ˧˧ ▁ h i n ˧˨ ▁ tʰ e o ˧˧ ▁ m o ˧˧ ▁ h i n ˧˨ ▁ j a ˧˨ ▁ j a ˧˨ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ l a m ˧˨ ▁ tʰ e ˦˥ ▁ n a w ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ k i m ˦˥ ▁ t i ə ŋ ˧˨ ▁ j a ˧˨ ▁ l a m ˧˨ ▁ d u ŋ͡m ˦˥
+DUMMY/wav/0da811f35e8f04e505db692aa48353bd.wav|j a j ˨˩˦ ▁ f a p ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ d ɯ ə ˧˧ ▁ ʐ a ˧˧ ▁ ɲ ɯ ŋ ˧˧ ▁ c ɯ ə ˧˧ ▁ m a ŋ ˧˧ ▁ l a j ˨˩˨ ▁ h i ə w ˨˩˨ ▁ w a ˨˩˦
+DUMMY/wav/91ef7011864770aa80901e41656cda7c.wav|j a ˧˨ ▁ j i ˧˨ ▁ tʰ e ˦˥ ▁ b a ŋ ˨˩˨ ▁ c i ˨˩˦ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ n ɔ ˦˥ ▁ t ɯ ˧˨ ▁ m ɛ ˨˩˨ ▁ m i n ˧˨
+DUMMY/wav/a548e3a1138effecb88166723185f04d.wav|n o j ˨˩˨ ▁ j u ŋ͡m ˧˧ ▁ c ă ŋ ˨˩˦ ▁ tʰ ă j ˧˧ ▁ d o j ˨˩˦
+DUMMY/wav/2d97c397a124799bc0217e339cc08c13.wav|ʈ i n ˧˨ ▁ b a w ˦˥ ▁ ɛ m ˧˧ ▁ tʰ ˧˧
+DUMMY/wav/30688c2cfd455b5b5961c78b24e048bd.wav|t o j ˧˧ ▁ c i ˨˩˦ ▁ k ɤ̆ ŋ ˧˨ ▁ c ɤ̆ m ˧˧ ▁ d i ə w ˦˥ ▁ tʰ u ə k ˦˥
+DUMMY/wav/1fb68ec261019f48137dfc3bfd1fc4f9.wav|ʈ w i ˧˧ ▁ n a ˨˩˦ ▁ ŋ w i ə ŋ ˧˧ ▁ f ɔ ˦˥ ▁ j a m ˦˥ ▁ d o k͡p ˦˥ ▁ ɛ z i m ˧˧ b a ŋ ˧˧ ▁ l ɯ ə ˧˨ ▁ t ɔ ˧˧ ʂ ɛ ˧˧ ▁ t i ˨˩˦ ▁ d o ŋ͡m ˧˨
+DUMMY/wav/8a536620e606f54a3a6384856f515e0b.wav|j ɔ ˧˧ ▁ d ɔ ˦˥ ▁ o ŋ͡m ˧˧ ▁ c a n ˦˥ ▁ c i ˨˩˦ ▁ s i n ˧˧ ▁ ŋ i m ˧˧ ▁ t u k͡p ˦˥ ▁ t ɯ ˨˩˨ ▁ k i m ˨˩˦ ▁ d i m ˨˩˦
+DUMMY/wav/9da987f7b872c3e0badf2b8a78aca5e7.wav|f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ j ɤ̆ ŋ ˨˩˨ ▁ c w i ə ŋ ˨˩˦ ▁ ʈ a j ˦˥ ▁ f ɛ p ˦˥ ▁ k a ˧˧ k ˌa ɣ ˧˧ ▁ f a w ˦˥ ▁ h w a ˧˧
+DUMMY/wav/2363c5d143100d74a747ee1c32394d15.wav|tˤ i ˧˧ ▁ n ɯ ˨˩˦ ▁ j u ˧˧ ▁ x a t ˦˥ ▁ j i ə k ˨˩˨ ▁ m ɤ̆ k ˦˥ ▁ t i t ˦˥ ▁ t a j ˨˩˨ ▁ ʂ ɤ̆ ŋ ˧˧ ▁ b ă j ˧˧ ▁ m i ˨˩˦
+DUMMY/wav/32b153f09e8b44b13d62c57b2ec1f13b.wav|b a ŋ ˧˨ ▁ b a k ˨˩˨ ▁ s ɔ ŋ͡m ˧˧ ▁ tʰ o ŋ͡m ˦˥ ▁ k ɛ p ˨˩˨ ▁ ɣ i ˧˧ ▁ ʈ ɯ k ˨˩˨ ▁ c i ˨˩˦ ▁ p ˧˧
+DUMMY/wav/c38051a529a532ce3851f8dc063a7fbf.wav|h a j ˧˧ ▁ t ă w ˧˨ ▁ h w a ˨˩˦ ▁ d ɤ̆ m ˧˧ ▁ j a w ˧˨ ▁ ɲ ă w ˧˧ ▁ ɤ ˨˩˦ ▁ tʰ u j ˨˩˨ ▁ ʂ i ˨˩˦ ▁ h o m ˧˧ ▁ ɛ ˧˧ ▁ i ˧˧
+DUMMY/wav/9a21911925ffdd2963c068d21059ed07.wav|c ɔ ˦˥ ▁ ŋ i p ˨˩˨ ▁ j u ˨˩˨ ▁ k i m ˨˩˦ ▁ ʈ a ˧˧ ▁ h a n ˧˨ ▁ l i ˦˥ ▁ t a j ˨˩˨ ▁ ʂ ɤ̆ ŋ ˧˧ ▁ b ă j ˧˧ ▁ m i ə m i ˧˧
+DUMMY/wav/df6ec0e7c32f3994f66a7844a851773e.wav|j a ˧˨ ▁ x o ŋ͡m ˧˧ ▁ f a j ˨˩˦ ▁ a j ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ k ɔ ˦˥ ▁ m o k͡p ˨˩˨ ▁ k a j ˦˥ ▁ b ă ŋ ˧˨ ▁ t i ə ŋ ˦˥ ▁ ʂ i ˨˩˦ ▁ x w a ˧˧ ▁ h ɔ k͡p ˨˩˨
+DUMMY/wav/68d604857290ce46f3ab7b830a7373bc.wav|l u k͡p ˦˥ ▁ n ă j ˧˨ ▁ t e n ˧˧ ▁ k ɯ p ˦˥ ▁ d e o ˧˧ ▁ ɣ ă ŋ ˧˧ ▁ t ă j ˧˧ ▁ d ɤ̆ j ˨˩˦ ▁ k ɯ ə ˨˩˦ ▁ b ɯ ə k ˦˥ ▁ j a w ˧˨
+DUMMY/wav/6b168c54b64408ab26865eca4d3ec3e7.wav|t i n ˧˨ ▁ h i n ˧˨ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧
+DUMMY/wav/2fb181852c4ee09ed6fcdf9cddd2ca3d.wav|d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ i ˧˧ ▁ w a ˨˩˦ ▁ k ɤ̆ w ˧˨ ▁ w ɛ t ˦˥ ▁ x u ə ŋ ˧˧ ▁ m ă k ˨˩˨ ▁ j ɤ j ˦˥ ▁ ɛ ˧˧ i ˧˧ ▁ d ɛ ŋ ˧˨ ▁ l ɛ j ˧˧ ▁ ʈ ă ŋ ˦˥ ▁ s u ŋ͡m ˧˧ ▁ w a n ˧˧ ▁ c ɔ ˧˧ ▁ f ɛ p ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ c u p ˨˩˨ ▁ a n ˨˩˦ ▁ k o ˧˧ ▁ ɤ̆ j ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ i ˧˧ ▁ c u ə j ˨˩˦ ▁ k a k ˦˥ ▁ d i ə w ˧˨ ▁ k i ə ŋ ˨˩˨ ▁ c i ə w ˦˥ ▁ ʂ a ŋ ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ k i m ˨˩˦ ▁ ʂ w a t ˦˥
+DUMMY/wav/e43e2dc54d3da293663a0bd30e9d7577.wav|b a ˧˨ ▁ b ɤ̆ w ˧˨ ▁ tʰ w a t ˦˥ ▁ n a ŋ ˨˩˨ ▁ k i ˧˨ ▁ j i ə w ˨˩˨ ▁ j u ˨˩˨ ▁ s ɛ ˧˧ ▁ x a t ˦˥ ▁ b i ˨˩˨ ▁ l ɤ̆ k ˨˩˨
+DUMMY/wav/124316ff0ff71b16627fdd0f9c622fd6.wav|k a ˨˩˦ ▁ ɲ a ˧˨ ▁ d ɯ ə k ˨˩˨ ▁ tʰ a ˨˩˦ ▁ x i ˧˧ ▁ w a ˦˥ ▁ ʈ i n ˧˨ ▁ k ɯ ə ŋ ˨˩˦ ▁ c e ˦˥ ▁ h w a ŋ ˧˨ ▁ t ɤ̆ k ˦˥
+DUMMY/wav/aec08b225cf691fd878d02b2784486c9.wav|f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ d o j ˦˥ ▁ f ɯ ə ŋ ˧˧ ▁ c u ŋ͡m ˦˥ ▁ l a w ˧˧ ▁ t ɤ j ˦˥ ▁ d ɤ̆ m ˧˧ ▁ c ɛ m ˦˥ ▁ l i ə ŋ ˧˧ ▁ t i p ˦˥
+DUMMY/wav/81e448f330aa8156f0f91e0dc8537c35.wav|x i ˧˧ ▁ n a w ˧˨ ▁ t͡ʃ ˌe ˧˧ ɣ ˧˧ t ˈe ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ t a m ˨˩˨ ▁ j ɯ ˨˩˦ ▁ o t o ˧˧ ▁ d o ˨˩˦ ▁ ʂ a j ˧˧ ▁ w i ˧˧ ▁ d i n ˨˩˨
+DUMMY/wav/83ff3e38d919376525aff373e6c6b2d1.wav|h i ə ŋ ˨˩˨ ▁ ʈ ɯ ə ŋ ˧˨ ▁ j u ˨˩˨ ▁ n o ˨˩˦ ▁ l ɤ ŋ ˦˥ ▁ ɤ ˨˩˦ ▁ j ă ŋ ˧˧ ▁ f u ˦˥ ▁ h a ˧˨ ▁ d o ŋ͡m ˧˧
+DUMMY/wav/0f57fb795f69ddbe080ca5498d09ae98.wav|ŋ ɯ ə j ˧˨ ▁ d a ŋ ˧˨ ▁ o ŋ͡m ˧˧ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧ ▁ b ɤ̆ k ˦˥ ▁ tʰ ɯ ə ŋ ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ɲ a ˧˨ ▁ j e ˨˩˨ ▁ ʂ i n ˧˧
+DUMMY/wav/feb4efeefc7937d6fe51d5d1cbf87ff7.wav|j a ˧˨ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ j i ˧˨ ▁ ʂ a w ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ ɤ ˨˩˦ ▁ d ɤ̆ j ˧˧ ▁ l ɤ̆ ŋ ˧˨ ▁ d ɤ̆ w ˧˨ ▁ t i ə ŋ ˧˧ ▁ w a ŋ ˧˧ ▁ ʂ a t ˦˥ ▁ k a j ˦˥ ▁ b i ə w ˨˩˦ ▁ d o ˧˨ ▁ ʐ o j ˦˥ ▁ ɲ ɯ ˧˧ ▁ m i ˧˨ ▁ ʂ p a ɣ ɛ t ˧˧ i ˧˧ ▁ n ă j ˧˨ ▁ ʐ a ˧˧ ▁ m o k͡p ˨˩˨ ▁ h e ˨˩˨ ▁ tʰ o ŋ͡m ˦˥ ▁ k ɔ ˦˥ ▁ ʈ ɤ̆ k ˨˩˨ ▁ t ɯ ˨˩˨
+DUMMY/wav/511777f0b00e4561b5ed32e99d200628.wav|m u ə ŋ ˦˥ ▁ c ɔ ˧˧ ▁ k ɔ ŋ͡m ˧˧ ▁ t a j ˧˨ ▁ ʂ a ŋ ˨˩˦ ▁ ʐ i ə ŋ ˧˧ ▁ k u ə ˨˩˦ ▁ c o ŋ͡m ˧˨ ▁ f a j ˨˩˦ ▁ l a m ˧˨ ▁ ʂ a w ˧˧
+DUMMY/wav/6d0467d26a55e5a6946663e8bfb87495.wav|d a m ˦˥ ▁ k ɯ ə j ˦˥ ▁ k u ə ˨˩˦ ▁ k ɔ ŋ͡m ˧˧ ▁ o ŋ͡m ˧˧ ▁ m ɔ j ˧˧ ▁ a l i ˧˧ ▁ ʐ u ʃ t a m ˧˧ ▁ b i ˨˩˨ ▁ c i ˨˩˦ ▁ ʈ i t ˦˥
+DUMMY/wav/48ad460d6b4f5c6cd473986706bd300b.wav|h ă ŋ ˦˥ ▁ x o ŋ͡m ˧˧ ▁ ŋ ɤ ˧˨ ▁ c i ˨˩˨ ▁ k o ˧˧ ▁ b a w ˦˥ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ n e n ˧˧ ▁ ʂ a ˧˧ ▁ l ɯ ə j ˦˥
+DUMMY/wav/a7d7ba5e233b041bb10917372970ff71.wav|t i p ˦˥ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ l ɯ ə ˧˨ ▁ i ə w ˧˧ ▁ ʐ o j ˧˨ ▁ b a ŋ ˦˥ ▁ ʂ a ŋ ˧˧ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥
+DUMMY/wav/88770e8841fe9c8b2bfc6e54e5490d12.wav|ɲ ɯ ŋ ˨˩˦ ▁ m a n ˨˩˦ ▁ j ɤ ˨˩˦ ▁ k u ə ˨˩˦ ▁ k ɔ ŋ͡m ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ m a ˧˨ ▁ b a ŋ ˨˩˨ ▁ d a ˨˩˦ ▁ ʈ ɤ ˨˩˦ ▁ tʰ a n ˧˨
+DUMMY/wav/57d45a6a9b438524f047faff55672338.wav|j a w ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ n ă m ˧˧ ▁ ɛ ˧˧ ʂ ˈi ˨˩˦
+DUMMY/wav/ecc78dd38c82192bc0a7c5110f407fab.wav|t ă w ˧˨ ▁ ŋ ɤ̆ m ˧˨ ▁ h a t ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ d a ˨˩˦ ▁ b ă k ˦˥ ▁ k i p ˨˩˨ ▁ a n ˧˧ ▁ f a p ˦˥
+DUMMY/wav/3478c5b3311c11cd106b4ef283dd713f.wav|w ɤ̆ k ˦˥ ▁ ɯ k ˦˥ ▁ k w ˧˧ ▁ j a ˧˨ ▁ ɛ ŋ ˧˧ ▁ u ə ŋ ˦˥ ▁ tʰ u ə k ˦˥ ▁ j i ə k ˨˩˨ ▁ k ɔ ˨˩˦ ▁ t ɯ ˨˩˨ ▁ t ɯ ˨˩˦
+DUMMY/wav/6585f637cbc739d2d4282c81e30caa27.wav|w ɛ ŋ ˧˧ ▁ ɲ ă w ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ t u ˧˨ ▁ ʐ a ˧˧ ▁ t u ˧˨ ▁ ʐ u ˨˩˦ ▁ ɲ ă w ˧˧ ▁ d i ˧˧ ▁ ɣ ɤ̆ j ˧˧ ▁ a ŋ ˦˥
+DUMMY/wav/08642cf6c6f4fb85f04a875f71e56a9f.wav|h i n ˧˨ ▁ a n ˨˩˦ ▁ b ɛ ˦˥ ▁ ʈ a j ˧˧ ▁ b i ˨˩˨ ▁ m ɛ ˨˩˨ ▁ b ɔ ˨˩˦ ▁ ʐ ɤ j ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ɲ a ˧˨ ▁ ŋ i ˨˩˦
+DUMMY/wav/53cbe6a1cb2ce77a7c3451759d8a1d24.wav|k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ d ă k ˨˩˨ ▁ ɲ i m ˨˩˨ ▁ h a ˨˩˨ ▁ ɣ u k͡p ˨˩˨ ▁ tˤ i ˧˧ ▁ t e n ˧˧ ▁ k ɯ p ˦˥ ▁ d ɯ ə ŋ ˧˨ ▁ f o ˦˥
+DUMMY/wav/8c793e70b5d56c8718f51b3a8fd0c24c.wav|t e n ˧˧ ▁ l ɯ ə ˨˩˦ ▁ d a ŋ ˨˩˨ ▁ d a w ˨˩˨ ▁ j i ˧˧ ▁ tˤ i ˧˧ ▁ x i ə ŋ ˦˥ ▁ m i ˨˩˦ ▁ b ɤ̆ k ˦˥ ▁ a ŋ ˧˧ ▁ c u k͡p ˦˥ ▁ ʂ ɤ ŋ ˧˧
+DUMMY/wav/41793b029b960315ee7059148b842369.wav|ɲ ɯ ŋ ˧˧ ▁ d e n ˦˥ ▁ j ɤ ˧˨ ▁ c ɔ k͡p ˦˥ ▁ f i ə ˦˥ ▁ m a z ˧˧ j a ˧˧ ▁ s i n ˧˧ ▁ h w a ŋ ˨˩˦ ▁ ʂ ă w ˧˧ ▁ ŋ ă j ˧˨ ▁ ɛ ˧˧ ▁ ɛ ˧˧
+DUMMY/wav/ee26dd9c56aa34a55ff744f7c4964aeb.wav|m u ə ˦˥ ▁ b a ˧˧ ▁ l e ˧˧ ▁ d ɔ j ˧˨ ▁ h ɔ j ˨˩˦ ▁ m o k͡p ˨˩˨ ▁ ʈ i n ˧˨ ▁ d o ˨˩˨ ▁ c w i ə ŋ ˧˧ ▁ m o ŋ͡m ˧˧ ▁ d ă k ˨˩˨ ▁ b i ə k ˨˩˨ ▁ j a ˧˨ ▁ ʈ i n ˧˨ ▁ d o ˨˩˨ ▁ k i ˨˩˦ ▁ tʰ w ɤ̆ k ˨˩˨ ▁ k a w ˧˧ ▁ j a ˧˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ m ɯ k ˦˥ ▁ d o ˨˩˨ ▁ f u ˧˨ ▁ h ɤ p ˨˩˨ ▁ j ɤ j ˦˥ ▁ b o ˨˩˨ ▁ m o ŋ͡m ˧˧ ▁ n ă j ˧˨ ▁ k ɔ ˦˥ ▁ l i ə ŋ ˧˧ ▁ w a ŋ ˧˧ ▁ d e n ˦˥ ▁ i ə w ˦˥ ▁ t o ˦˥ ▁ j i ˧˧ ▁ ʈ w i ə ŋ ˧˨
+DUMMY/wav/0d974f1c8ebff3a03385fc21bad0f9e8.wav|w ɤ̆ ŋ ˧˧ ▁ d o j ˨˩˨ ▁ ʂ i ɾ i ə ˧˧ ▁ c i m ˦˥ ▁ d i m ˨˩˦ ▁ k a w ˧˧ ▁ tʰ ɛ ŋ ˧˧ ▁ c o k͡p ˦˥ ▁ ɤ ˨˩˦ ▁ j e i ˧˧ ▁ ɛ z ˧˧ ɔ r ˧˧
+DUMMY/wav/231288fe202eee1f6a5474f7f76a45f9.wav|t o j ˧˧ ▁ m u ə ŋ ˦˥ ▁ ă ŋ ˧˧ ▁ p i t ˨˩˦ z a ˧˧
+DUMMY/wav/2ac294c387ba44e3598387234f6c726e.wav|t o j ˧˧ ▁ k o ˦˥ ▁ ʂ o ŋ͡m ˦˥ ▁ k ɤ̆ ŋ ˨˩˦ ▁ ʈ ɔ ŋ͡m ˨˩˨ ▁ j a ˧˨ ▁ k ɔ ˦˥ ▁ m ă k ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ l u k͡p ˦˥ ▁ w a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨
+DUMMY/wav/ebb9fb8ec37c1c54110f0a010a58ebf7.wav|m ă j ˦˥ ▁ b ă j ˧˧ ▁ t i p ˦˥ ▁ j ɤ̆ w ˧˨ ▁ k a ˧˧ t͡s ˧˧ ▁ w a ˧˧ ▁ m i ˨˩˦ ▁ b ă j ˧˧ ▁ tʰ ɯ ˨˩˦ ▁ j a w ˧˨ ▁ tʰ a ŋ ˦˥ ▁ ɛ ˧˧
+DUMMY/wav/268e19194bc3da50b0c004f9aaf8f423.wav|d e ˨˩˦ ▁ ʈ ɛ ˨˩˦ ▁ c e t ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ tʰ u ŋ͡m ˧˨ ▁ ʐ a k ˦˥ ▁ k ɤ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ b i ˨˩˨ ▁ k i ˨˩˦ ▁ l w ɤ̆ k ˨˩˨
+DUMMY/wav/5acf8b70f66d3f8ef0a619aea765b72a.wav|d ă k ˨˩˨ ▁ f a j ˦˥ ▁ j i ə ŋ ˧˧ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ ŋ ă ŋ ˧˧ ▁ ʈ i ə w ˧˨ ▁ t i ə ŋ ˧˧ ▁ tʰ ɯ ˨˩˦ ▁ h a t ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧
+DUMMY/wav/34aae293297eaddbc49689635f119d38.wav|k i n ˧˧ ▁ ŋ a k ˨˩˨ ▁ f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ j ɤ̆ k ˨˩˨ ▁ tʰ e ˨˩˦ ▁ l a ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ b u ŋ͡m ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ ŋ ɛ ˦˥
+DUMMY/wav/c557699bdea22c1e63f979a31b4295f5.wav|m o k͡p ˨˩˨ ▁ k a t ˦˥ ▁ c o ŋ͡m ˦˥ ▁ l a j ˨˩˨ ▁ k a j ˦˥ ▁ d ɔ j ˦˥ ▁ k a j ˦˥ ▁ m a ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ ʈ a j ˨˩˦ ▁ w a ˧˧ ▁ l u k͡p ˦˥ ▁ d ɔ ˦˥
+DUMMY/wav/c9e3020613c5a32c3f27b652a9ffdb24.wav|b a ŋ ˨˩˨ ▁ m u ə ŋ ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ ŋ ɛ ˧˧ ▁ ɣ i ˧˨ ▁ ʈ ɯ ə k ˦˥ ▁ x i ˧˧ ▁ c e t ˦˥ ▁ j a ˧˨ ▁ m u ə ŋ ˦˥ ▁ ŋ ɛ ˧˧ ▁ t ɯ ˧˨ ▁ a j ˧˧
+DUMMY/wav/f94e67a67cbb5d5630c514f7212d739b.wav|j a ˧˨ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ ʐ a ˧˧ ▁ ʐ ă ŋ ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ f ɤ̆ ŋ ˧˨ ▁ x o ŋ͡m ˧˧ ▁ tʰ e ˨˩˦ ▁ t a t ˦˥ ▁ ʐ ɤ j ˧˨ ▁ k u ə ˨˩˦ ▁ tʰ i ə ŋ ˧˧ ▁ ɲ i ə ŋ ˧˧
+DUMMY/wav/846545fced48629db5f99eec06df908d.wav|h o ˨˩˦ ▁ ʈ ɤ ˨˩˨ ▁ b a ŋ ˧˧ ▁ d ɤ̆ w ˧˨ ▁ ɛ ˧˧ t i ˧˧
+DUMMY/wav/51b88fed7b28feeec282b4ef16436fed.wav|ʐ i ə ŋ ˧˧ ▁ k u k͡p ˦˥ ▁ k u ŋ͡m ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ ɣ a j ˦˥ ▁ c ɔ ˧˧ ▁ t ɯ ˧˨ ▁ ɣ i ˧˧ ▁ j ɛ ˧˧ ▁ ʈ i ə w ˨˩˨ ▁ d o ŋ͡m ˧˨
+DUMMY/wav/2c244115eecf3a00e4ca97b4a48bee1a.wav|t a k ˦˥ ▁ c i ə ŋ ˦˥ ▁ x o ŋ͡m ˧˧ ▁ b i ə ŋ ˨˩˦ ▁ k u ə ˨˩˦ ▁ m i ˨˩˦ ▁ j o ˧˧ ▁ j u ŋ͡m ˨˩˨ ▁ d o j ˦˥ ▁ j ɤ j ˦˥ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥
+DUMMY/wav/86ec35a1311c2db3d66ae684f40b3832.wav|n ɯ ˨˩˦ ▁ f i ˧˧ ▁ k o ŋ͡m ˧˧ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧ ▁ n a j ˧˧ i ə ˧˧ ▁ ʂ a w ˧˧ c ɛ ŋ ˧˧ k ɔ ˧˧ ▁ d a ŋ ˧˧ ▁ b i ˨˩˨ ▁ j a m ˧˧ ▁ ɤ ˨˩˦ ▁ m ɔ ʃ k ɔ w ˧˧
+DUMMY/wav/79dc5239197e1ab51dbc65710c1a02b7.wav|k ɤ̆ ŋ ˧˨ ▁ ʂ ɤ m ˦˥ ▁ tʰ a w ˦˥ ▁ ŋ ɔ j ˧˨ ▁ n o ˨˩˦ ▁ w a ˨˩˦ ▁ b ɔ m ˧˧ ▁ j ɤ̆ ŋ ˧˧ ▁ ʂ o ˦˥ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥
+DUMMY/wav/27ec8c7555bae3b628659ec7eb1ea25b.wav|ɲ i ə k ˨˩˨ ▁ d o ˨˩˨ ▁ k u ə ˨˩˦ ▁ b i w ˧˨ ▁ f a ŋ ˨˩˦ ▁ a n ˦˥ ▁ ɲ i ə k ˨˩˨ ▁ d o ˨˩˨ ▁ k u ə ˨˩˦ ▁ t i n ˧˧ ▁ h w a ŋ ˧˨ ▁ j a ˧˨ ▁ ʂ ɛ ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ j a m ˨˩˦ ▁ b ă ŋ ˧˨ ▁ j i ə k ˨˩˨ ▁ k a w ˨˩˨
+DUMMY/wav/e796e6d3fef1ec3d71f2dfb088506818.wav|f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ ɕ i t ˧˧ ▁ k ɤ ˧˧ ▁ ʂ ɤ ˨˩˦ ▁ k i n ˧˧ ▁ j w a n ˧˧ ▁ ʈ a ˧˨ ▁ ʂ ɯ ə ˨˩˦ ▁ j i ˧˧ ▁ f a m ˨˩˨
+DUMMY/wav/c75b0f42d4e8b0df343b522740b057b6.wav|n a t ˧˧ a n i ə l ˧˧ ▁ b ɔ ˨˩˦ ▁ j u j ˧˧ l i a ʁ d ˧˧ ▁ o ŋ͡m ˧˧ ▁ b i ˨˩˨ ▁ ʂ w i ˧˧ ▁ ɲ ɯ ə k ˨˩˨ ▁ h w a ŋ ˧˨ ▁ t w a ˧˧ ▁ ɛ ŋ ˧˧ ▁ j a ˧˨ ▁ ɛ ˧˧ ▁ n ă m ˧˧ ▁ ʂ ă w ˧˧ ▁ o ŋ͡m ˧˧ ▁ ʂ o ŋ͡m ˦˥ ▁ x o ŋ͡m ˧˧ ▁ ɲ a ˧˨ ▁ ʈ e n ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ k ɔ ŋ͡m ˧˧ ▁ d ɯ ə ŋ ˧˨ ▁ j ɔ k͡p ˨˩˨ ▁ ʂ k i d ˧˧ ▁ ʐ ɔ w ˧˧ ▁ ɤ ˨˩˦ ▁ ʈ u ŋ͡m ˧˧ ▁ t ɤ̆ m ˧˧ ▁ tʰ a n ˧˨ ▁ f o ˦˥ ▁ l ɔ ʃ ˧˧ ▁ a ŋ ˧˧ ɣ ɛ l ɛ ʃ ˧˧
+DUMMY/wav/bceaa481a773240d5f193bfaf516741c.wav|h i ə ŋ ˨˩˨ ▁ j u ˨˩˨ ▁ j i ə k ˨˩˨ ▁ d a ŋ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ t i p ˦˥ ▁ t u k͡p ˨˩˨ ▁ s a k ˦˥ ▁ m i n ˧˧ ▁ l a m ˧˨ ▁ ʐ ɔ ˨˩˦
+DUMMY/wav/c7fd697e6bee1542dcc134b4d5fa16de.wav|b i ˨˩˨ ▁ h a j ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ j u ˨˩˨ ▁ a ŋ ˦˥ ▁ n ă j ˧˨ ▁ l a ˧˨ ▁ c ă w ˦˥ ▁ ʈ ɤ̆ ŋ ˧˨ ▁ j a ˧˧ ▁ k ˈa ˧˧
+DUMMY/wav/63f65e21e7d0e821101e105d09dc735a.wav|a n ˧˧ ▁ t a ˧˧ ▁ m ă k ˨˩˨ ▁ d ă ŋ ˧˨ ▁ d ă ŋ ˧˨
+DUMMY/wav/25d2c5d18d8a93e8e3220cf28c370dba.wav|j i ˨˩˨ ▁ ʈ i ˦˥ ▁ t ă w ˧˨ ▁ t w ɤ̆ ŋ ˧˨ ▁ ʈ a ˧˧ ▁ ŋ a ˧˧ ▁ b ă ŋ ˦˥ ▁ t ă w ˧˨ ▁ k a ˦˥ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥
+DUMMY/wav/5e1fbcb275656555f556174a2b11776a.wav|t w i ˧˧ ▁ ɲ i ə ŋ ˧˧ ▁ t ɯ ˧˨ ▁ d ɔ ˦˥ ▁ t ɤ j ˦˥ ▁ n ă j ˧˧ ▁ o ŋ͡m ˧˧ ▁ x o ŋ͡m ˧˧ ▁ tʰ ɤ̆ j ˦˥ ▁ h o j ˧˨ ▁ ɤ̆ m ˧˧
+DUMMY/wav/fb659da206ce1225427ade6df14754c7.wav|t i ə ŋ ˦˥ ▁ d o ŋ͡m ˨˩˨ ▁ b a ŋ ˨˩˨ ▁ ŋ ɛ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ tʰ u ˧˧ ▁ t ɯ ˧˨ ▁ k ɤ ˧˧ ▁ m i t ˧˧ ▁ ɣ ă ŋ ˦˥ ▁ t a j ˨˩˨ ▁ k ɤ ˧˧ ▁ d i m ˨˩˦ ▁ x ă p ˦˥ ▁ k o ŋ͡m ˧˧ ▁ j i ə ŋ ˧˧
+DUMMY/wav/026385866552ee13f176cc5841dd94d0.wav|j i ˧˧ ▁ x o ŋ͡m ˧˧ ▁ d o ŋ͡m ˧˨ ▁ i ˦˥ ▁ tʰ i ˧˨ ▁ h a j ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ k ɯ ˨˩˨ ▁ k a j ˨˩˦
+DUMMY/wav/8f6aa799833f8acdc4113e7bec68807a.wav|k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ x o ŋ͡m ˧˧ ▁ k o ŋ͡m ˧˧ ▁ b o ˦˥ ▁ k u ˨˩˨ ▁ tʰ e ˨˩˦ ▁ w a ˦˥ ▁ ʈ i n ˧˨ ▁ d i ə w ˧˨ ▁ ʈ a ˧˧
+DUMMY/wav/bbc5181e317755787447d894272dfc39.wav|k i ə w ˧˧ ▁ m ɯ ə ŋ ˨˩˨ ▁ t ă j ˧˧ ▁ w ɤ̆ ŋ ˧˧ ▁ d o j ˨˩˨ ▁ n ɯ ə k ˦˥ ▁ ŋ w a j ˧˨ ▁ ʈ ɤ̆ ŋ ˦˥ ▁ a p ˦˥ ▁ m i ə ŋ ˧˨ ▁ d o ŋ͡m ˧˧
+DUMMY/wav/dda43db783d28ce3e698a17fc5460bda.wav|t o j ˧˧ ▁ c i ˨˩˦ ▁ m u ə ŋ ˦˥ ▁ h ɔ j ˨˩˦ ▁ b a ŋ ˨˩˨ ▁ m o k͡p ˨˩˨ ▁ ʂ o ˦˥ ▁ k ɤ̆ w ˧˧ ▁ h ɔ j ˨˩˦
+DUMMY/wav/833708b1dcde74164506b63ad5e22e1b.wav|t w i ˧˧ ▁ ɲ i ə ŋ ˧˧ ▁ j ɔ ˧˧ ▁ b i ˨˩˨ ▁ ŋ a t ˨˩˨ ▁ x i ˦˥ ▁ c i ˨˩˨ ▁ tʰ u j ˨˩˦ ▁ d a ˨˩˦ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧
+DUMMY/wav/b9828f87daf4fead938aef10fbc4f827.wav|l i ˧˧ h a ˧˧ ▁ k ɛ u ˧˧ ▁ ɣ ɔ j ˨˩˨ ▁ tʰ a n ˧˧ ▁ n i ə ŋ ˧˧ ▁ j a j ˨˩˦ ▁ w i ɛ t ˦˥ ▁ j ɤ̆ ŋ ˦˥ ▁ d e ˧˨ ▁ t w a ŋ ˧˨ ▁ k ɤ̆ w ˧˨
+DUMMY/wav/7a28056222f2776f5395ad0e3e09c943.wav|t ă w ˧˨ ▁ h o ŋ͡m ˧˨ ▁ k o ŋ͡m ˧˧ ▁ ʐ ɤ j ˧˨ ▁ t i m ˧˧ ▁ ʂ a ˧˧ ▁ c u j ˨˩˦ ▁ ʐ a ˧˧ ▁ ʂ ɛ ŋ ˧˧ k a k u ˧˧ ▁ ŋ ă j ˧˨ ▁ ɛ ˧˧ ▁ k ɤ ˧˧
+DUMMY/wav/c5c1f5fd608a769cff74798e8c767686.wav|t a j ˧˨ ▁ ʂ a ŋ ˨˩˦ ▁ tʰ a m ˧˧ ▁ ɲ u ŋ͡m ˨˩˦ ▁ f a j ˨˩˦ ▁ t i t ˨˩˨ ▁ tʰ u ˧˧
+DUMMY/wav/6291d0d7f1fee5564325e3b90c8241dd.wav|m o k͡p ˨˩˨ ▁ f i ə ŋ ˧˧ ▁ h ɔ p ˨˩˨ ▁ k u ə ˨˩˦ ▁ t o ˨˩˦ ▁ c ɯ k ˦˥ ▁ h ɤ p ˨˩˨ ▁ t a k ˦˥ ▁ tʰ ɯ ə ŋ ˨˩˨ ▁ h a j ˨˩˦
+DUMMY/wav/00120809d48b791729abcf9664fd35c5.wav|n ɔ ˦˥ ▁ ɤ ˨˩˦ ▁ ă w ˧˧ t i n ˧˧ ▁ t ɛ k ˦˥ s a ʃ ˧˧
+DUMMY/wav/eef9fc3783fcd344890e1c03e61209cb.wav|t o j ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ n ɔ j ˦˥ ▁ j e ˧˨ ▁ ʂ ɯ ˨˩˨ ▁ h ɯ ˧˧ ▁ h ɔ ŋ͡m ˨˩˦ ▁ k u ə ˨˩˦ ▁ c u ŋ͡m ˦˥ ▁ x i ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ ŋ i ˨˩˦ ▁ h ɔ k͡p ˨˩˨ ▁ ɲ ɤ ˦˥ ▁ j a ˧˨ ▁ m u ə ŋ ˦˥ ▁ k a j ˨˩˦ ▁ tʰ i ə ŋ ˨˩˨
+DUMMY/wav/b7b701ff5b36a80e7967f226967d9b9e.wav|n ɛ u ˦˥ ▁ ŋ i ˨˩˦ ▁ j e ˧˨ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥ ▁ j a w ˦˥ ▁ j u k͡p ˨˩˨ ▁ k u ˨˩˨ ▁ tʰ e ˨˩˦ ▁ l a ˧˨ ▁ j a w ˦˥ ▁ j u k͡p ˨˩˨ ▁ tʰ i ˨˩˨ ▁ tʰ a n ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ n ă j ˧˨ ▁ b u ˧˨ ▁ ʈ ɯ ˧˨ ▁ c ɔ ˧˧ ▁ ɲ ă w ˧˧ ▁ j a ˧˨ ▁ tʰ e ˦˥ ▁ tʰ i ˧˨ ▁ ʂ ɛ ˨˩˦ ▁ o ŋ͡m ˨˩˦ ▁ k a ˨˩˦
+DUMMY/wav/d2af1739860f82a0ebb0f945dc9e4f19.wav|j a ˧˨ ▁ ʐ o j ˧˨ ▁ b a ŋ ˨˩˨ ▁ h w a ŋ ˧˨ ▁ t w a ŋ ˧˨ ▁ k i ə k ˨˩˨ ▁ ʂ ɯ k ˦˥
+DUMMY/wav/01dd638976f8795384b0bd384e14e696.wav|l a m ˧˨ ▁ ʂ ɯ k ˦˥ ▁ m ɛ p ˦˥ ▁ c i ə k ˦˥ ▁ b a ŋ ˧˨ ▁ tʰ i ə w ˦˥ ▁ f u ˨˩˨ ▁ l a n ˨˩˦ ▁ ɛ ˧˧ ▁ tʰ a ŋ ˦˥ ▁ t u ˧˨
+DUMMY/wav/0d2c520eda9ef67b02c4d7b501ce99a3.wav|c u ŋ͡m ˦˥ ▁ d a ŋ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ d ɯ ə ˧˧ ▁ ʈ ɤ ˨˩˦ ▁ l a j ˨˩˨ ▁ d u ŋ͡m ˦˥ ▁ j i ˨˩˨ ▁ ʈ i ˦˥
+DUMMY/wav/23e54592adebc5e05f7cbbbd0b6f9045.wav|n u ə j ˧˧ ▁ c ɔ ˦˥ ▁ f a j ˨˩˦ ▁ d ă ŋ ˧˧ ▁ k i ˦˥
+DUMMY/wav/0c8ee1231bd36a024a289f7525b2f277.wav|ŋ i ˨˩˦ ▁ k ɔ ˦˥ ▁ c w i ə ŋ ˨˩˨ ▁ c ă ŋ ˨˩˦ ▁ l a n ˧˨ ▁ n e n ˧˧ ▁ c i ə ŋ ˦˥ ▁ l ɤ̆ p ˨˩˨ ▁ t ɯ k ˦˥ ▁ f a ˦˥ ▁ k ɯ ə ˨˩˦
+DUMMY/wav/8dcfa944c3c4d87e1a33f975f91c8f8f.wav|x ɤ̆ w ˨˩˦ ▁ ʂ u ŋ͡m ˦˥ ▁ m a ˧˨ ▁ f ˧˧
+DUMMY/wav/1b489f77d9f0005a153a498ef6ea6e90.wav|h a ŋ ˧˨ ▁ w o k͡p ˦˥ ▁ k ɛ u ˧˧ ▁ ɣ ɔ j ˨˩˨ ▁ ʈ i ə w ˧˨ ▁ t i ə ŋ ˧˧ ▁ k ɔ ˦˥ ▁ h a n ˧˨ ▁ d o ŋ͡m ˨˩˨ ▁ k u ˨˩˨ ▁ tʰ e ˨˩˦
+DUMMY/wav/02bbbf5d57b7ae69845a6fcd475e9535.wav|l i ə ŋ ˧˧ ▁ w a ŋ ˧˧ ▁ d e n ˦˥ ▁ j u ˨˩˨ ▁ a ŋ ˦˥ ▁ k ɔ ŋ͡m ˧˨ ▁ k ɔ ˦˥ ▁ ɛ ˧˧ ▁ b i ˨˩˨ ▁ k a w ˦˥ ▁ x a k ˦˥
+DUMMY/wav/45703681ac6d416ff4fd6f7a263248c4.wav|ʈ ɔ ŋ͡m ˧˧ ▁ m o k͡p ˨˩˨ ▁ x ɤ p ˦˥ ▁ n o j ˦˥ ▁ j ɯ ə ˨˩˦ ▁ ʈ e n ˧˧ ▁ ɕ i ˧˧ ▁ ŋ a ŋ ˧˨ ▁ n a m ˧˧ ▁ c ɤ̆ m ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ l i ˧˧ h a ˧˧ ▁ d a ˨˩˦ ▁ k ɔ ˦˥ ▁ m o k͡p ˨˩˨ ▁ l o j ˨˩˦ ▁ ʂ a ŋ ˨˩˦ ▁ s w ɤ̆ k ˦˥
+DUMMY/wav/ff607d203471b5485bcee180630cff28.wav|x i ˧˧ ▁ j u ŋ͡m ˧˨ ▁ m ă j ˦˥ ▁ a n ˨˩˦ ▁ t o j ˧˧ ▁ ʈ u k͡p ˦˥ ▁ b ɔ ˨˩˦ ▁ l ɤ p ˦˥ ▁ j a ˧˧ ▁ k u ə ˨˩˦ ▁ m i n ˧˨ ▁ ɲ ɯ ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ d o ŋ͡m ˨˩˨ ▁ j ɤ̆ k ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ h a ŋ ˧˧ ▁ d ɔ ˦˥ ▁ d e ˨˩˦ ▁ t o j ˧˧ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ c i ˨˩˦ ▁ ʐ a ˧˧ ▁ c u ŋ͡m ˦˥ ▁ tʰ ɯ k ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ l a ˧˨ ▁ a j ˧˧
+DUMMY/wav/9cc241d3730e68ff39733f744382a351.wav|c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ ɣ ɔ j ˨˩˨ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ k a j ˦˥ ▁ k o ˨˩˦ ▁ c a j ˧˧
+DUMMY/wav/180f5063f328907207a666f395c20b90.wav|d ɔ ˦˥ ▁ l a ˧˨ ▁ l i ˦˥ ▁ j ɔ ˧˧ ▁ t a j ˨˩˨ ▁ ʂ a w ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ d ă k ˨˩˨ ▁ m u k͡p ˨˩˨ ▁ t i ə w ˧˧ ▁ h a ŋ ˧˨ ▁ d ɤ̆ w ˧˨ ▁ c ɔ ˧˧ ▁ m i n ˧˨ ▁ l a ˧˨ ▁ t i ə w ˧˧ ▁ m o k͡p ˨˩˨ ▁ x w a ŋ ˨˩˦ ▁ t i ə ŋ ˧˨ ▁ k ɯ k ˨˩˨ ▁ l ɤ ŋ ˦˥ ▁ c ɔ ˧˧ ▁ n o ˨˩˦ ▁ l ɯ k ˨˩˨ ▁ w a ŋ ˨˩˦ ▁ k a w ˦˥ ▁ d e ˨˩˦ ▁ l a m ˧˨ ▁ ʐ ɔ ˨˩˦ ▁ ʂ ɯ ˨˩˨ ▁ tʰ ɤ̆ k ˨˩˨ ▁ j e ˧˨ ▁ tʰ a ŋ ˧˧
+DUMMY/wav/90d83cc3f03941536006ef0704c91b85.wav|b i ˨˩˨ ▁ d a n ˦˥ ▁ h o j ˨˩˨ ▁ d o ŋ͡m ˧˨ ▁ j i ˧˨ ▁ j w a ˨˩˨ ▁ j u ŋ͡m ˧˨ ▁ t i ə ŋ ˧˨ ▁ n ɛ m ˦˥ ▁ c e t ˦˥ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/040debda529a0f4f947dcf2876337d0a.wav|f ɤ̆ ŋ ˧˨ ▁ ʂ ă k ˦˥ ▁ ɲ ɔ ŋ͡m ˨˩˨ ▁ k u ə ˨˩˦ ▁ j i ə ŋ ˧˧ ▁ ɣ a t ˨˩˨ ▁ ʐ ɤ j ˧˧ ▁ ʈ u ŋ͡m ˦˥ ▁ d ɤ̆ w ˧˨ ▁ c ă w ˦˥ ▁ b ɛ ˦˥
+DUMMY/wav/387406d3e0024a136b444c3a97a3bb69.wav|t u ə j ˨˩˦ ▁ ʈ ɛ ˨˩˦ ▁ s ɛ m ˧˧ ▁ d w a ŋ ˨˩˨ ▁ k l i p ˧˧ ▁ s ɔ ŋ͡m ˧˧ ▁ m a ˧˨ ▁ t o j ˧˧ ▁ b a ŋ ˧˨ ▁ h w a ŋ ˧˨
+DUMMY/wav/1400d401521e56f34310192b9a2f742f.wav|d e ˨˩˦ ▁ m a ŋ ˧˧ ▁ j a ˧˧ ▁ d i n ˧˨ ▁ ɣ ɤ̆ ŋ ˧˨ ▁ l a j ˨˩˨ ▁ b e n ˧˧ ▁ ɲ ă w ˧˧ ▁ ɲ ɯ ŋ ˧˧ ▁ x o ŋ͡m ˧˧ ▁ o ŋ͡m ˨˩˦ ▁ b o ˦˥ ▁ m ɛ ˨˩˨ ▁ t o j ˧˧ ▁ l i ˧˧ ▁ h o ŋ͡m ˧˧
+DUMMY/wav/c3ab9c3b57ad1f1557e39aa794901362.wav|j a ˧˨ ▁ d ɤ̆ j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ f a j ˨˩˦ ▁ l a ˧˨ ▁ tʰ ɯ ˦˥ ▁ c ɔ ŋ͡m ˦˥ ▁ j a n ˦˥ ▁ ɲ ɯ ˧˧ ▁ j a ˦˥ ▁ ʈ i ˨˩˨ ▁ j a ˧˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ k a t ˦˥
+DUMMY/wav/df1c3061d4467e2a086b9f1620d7928e.wav|k a m ˨˩˦ ▁ tʰ ɤ̆ j ˦˥ ▁ j o ˧˧ ▁ i t ˦˥ ▁ h ă j ˨˩˦ ▁ j u p ˦˥ ▁ m o k͡p ˨˩˨ ▁ a j ˧˧ ▁ d ɔ ˦˥ ▁ n ɛ u ˦˥ ▁ b a ŋ ˨˩˨ ▁ d a ŋ ˧˧ ▁ k a m ˨˩˦ ▁ tʰ ɤ̆ j ˦˥ ▁ j o ˧˧ ▁ i t ˦˥ ▁ h ă j ˨˩˦ ▁ j u p ˦˥ ▁ m o k͡p ˨˩˨ ▁ a j ˧˧ ▁ d ɔ ˦˥ ▁ x o ŋ͡m ˧˧ ▁ a j ˧˧ ▁ tʰ ɯ k ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ b i ə k ˦˥ ▁ h ɔ ˨˩˨ ▁ ʂ ɛ ˨˩˦ ▁ d i ˧˧ ▁ s a ˧˧ ▁ b a w ˧˧ ▁ ɲ i ə w ˧˧ ▁ d e ˨˩˦ ▁ t i p ˦˥ ▁ t u k͡p ˧˧ ▁ ʂ o ŋ͡m ˦˥ ▁ x o ŋ͡m ˧˧ ▁ a j ˧˧ ▁ tʰ ɯ k ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ b i ə k ˦˥ ▁ h ɔ ˨˩˨ ▁ ʂ ɛ ˨˩˦ ▁ d i ˧˧ ▁ s a ˧˧ ▁ b a w ˧˧ ▁ ɲ i ə w ˧˧ ▁ d e ˨˩˦ ▁ t i p ˦˥ ▁ t u k͡p ˨˩˨
+DUMMY/wav/4574c5b671b69978453f121ee2377541.wav|ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ b a ŋ ˨˩˨ ▁ c i ˨˩˦ ▁ k ɤ̆ ŋ ˧˨ ▁ l a m ˧˨ ▁ n ɔ ŋ͡m ˦˥ ▁ l a j ˨˩˨ ▁ t u j ˦˥ ▁ ʂ a p ˦˥ ▁ ʐ o j ˧˨ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ t i p ˦˥
+DUMMY/wav/35f3465081143028768aa127f58e4346.wav|t o j ˧˧ ▁ m ɤ j ˧˨ ▁ k a k ˦˥ ▁ b a ŋ ˨˩˨ ▁ k u ŋ͡m ˧˨ ▁ tʰ a w ˨˩˦ ▁ l w ɤ̆ ŋ ˨˩˨ ▁ t i p ˦˥ ▁ j ɤ j ˦˥ ▁ t o j ˧˧ ▁ j e ˧˨ ▁ c u ˨˩˦ ▁ d e ˧˨ ▁ n ă j ˧˨ ▁ j a ˧˨ ▁ t o j ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ c u k͡p ˦˥ ▁ k a k ˦˥ ▁ b a ŋ ˨˩˨ ▁ ɲ i ə w ˧˨ ▁ m ă j ˧˧ ▁ m ă ŋ ˦˥
+DUMMY/wav/7da66393a4120f461056182c1ef12072.wav|j a ˧˨ ▁ k a ˨˩˦ ▁ ɤ ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ b e p ˦˥ ▁ j ɤ ˨˩˨ ▁ t o j ˧˧ ▁ d e n ˦˥ ▁ c a ŋ ˦˥ ▁ n a ŋ ˨˩˦
+DUMMY/wav/cb48db2f0249d12b9be139fc214eef08.wav|t o j ˧˧ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ ʐ a ˧˧ ▁ n ɔ ˦˥ ▁ c i ˨˩˦ ▁ l a ˧˨ ▁ tʰ ɯ ˦˥ ▁ ɣ i ˧˨ ▁ d ɔ ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ʂ w i ˧˧ ▁ ŋ i ˨˩˦ ▁ k w a ˨˩˦ ▁ t o j ˧˧ ▁ n ɤ j ˧˧ ▁ m a ˧˨ ▁ t o j ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ b a w ˧˧ ▁ j ɤ ˧˨ ▁ w e n ˧˧ ▁ l ɤ̆ ŋ ˧˨ ▁ n ɯ ə ˨˩˦ ▁ b ɤ i ˨˩˦ ▁ j ɤ̆ j ˨˩˨
+DUMMY/wav/4c42c5a261ac9de03ac02408215da94b.wav|ɯ ŋ ˦˥ ▁ k ɯ ˨˩˦ ▁ j i ə ŋ ˧˧ ▁ ʐ ɔ m n i ˧˧ ▁ c i m ˦˥ ▁ ɯ w ˧˧ ▁ tʰ e ˦˥ ▁ t a j ˨˩˨ ▁ b a ŋ ˧˧ ▁ n ɛ j ˧˧ j a ˧˧
+DUMMY/wav/75c7847e7e2bda6c3b8fa72663216dea.wav|d i ə ŋ ˨˩˨ ▁ j ɤ̆ k ˨˩˨ ▁ c e t ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ x i ˧˧ ▁ j ɯ ə ˧˨ ▁ ʂ a k ˨˩˨ ▁ j ɯ ə ˧˨ ▁ j u ŋ͡m ˧˨ ▁ d i ə ŋ ˨˩˨ ▁ tʰ w a j ˨˩˨
+DUMMY/wav/dd3a446ca217574c0fc41c1a673557ed.wav|b a w ˦˥ ▁ f a p ˦˥ ▁ l a j ˨˩˨ ▁ d o ˨˩˦ ▁ tʰ e m ˧˧ ▁ j ɤ̆ w ˧˨ ▁ j a w ˧˨ ▁ l ɯ ə ˨˩˦
+DUMMY/wav/c406b8274893b71efbe119ee349ec571.wav|f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ j i ə ŋ ˧˧ ▁ h a ŋ ˧˨ ▁ x o ŋ͡m ˧˧ ▁ c w i ə ŋ ˨˩˦ ▁ ɛ ˧˧ ▁ d i ə ŋ ˨˩˨ ▁ tʰ w a j ˨˩˨ ▁ l ɤ̆ w ˨˩˨
+DUMMY/wav/c657ffffcdc588a5a99b9cbe4340da6e.wav|d ɔ ˦˥ ▁ l a ˧˨ ▁ l i ˦˥ ▁ j ɔ ˧˧ ▁ j i ˧˨ ▁ ʂ a w ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ k a ˨˩˦ ▁ j u ˨˩˦ ▁ ʈ u ˨˩˨ ▁ ʐ o ŋ͡m ˨˩˨ ▁ l ɤ ŋ ˦˥ ▁ j a ˧˨ ▁ l a n ˨˩˨ ▁ l e o ˨˩˦ ▁ n ă j ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ d ɛ u ˧˨ ▁ tʰ ɤ̆ k ˨˩˨ ▁ l a k ˨˩˨ ▁ w a ŋ ˧˧
+DUMMY/wav/6123a7a570aced163267e80939fb5e18.wav|b a ˧˧ ▁ b o ˨˩˨ ▁ ʈ ɯ ə ŋ ˨˩˦ ▁ b a ŋ ˧˧ ▁ m ɤ̆ k ˦˥ ▁ c ɯ k ˦˥ ▁ j i ˧˨ ▁ s ɛ m ˧˧ ▁ f i m ˧˧ ▁ x i ə w ˧˧ ▁ j ɤ̆ m ˧˧
+DUMMY/wav/9604e4f3b0df14f42bc7b5bae01f4dc6.wav|l ˧˧ ▁ ɣ ă p ˨˩˨ ▁ b o ˦˥ ▁ m ɛ ˨˩˨ ▁ j a ˧˨ ▁ k e ˨˩˦ ▁ l a j ˨˩˨ ▁ c w i ə ŋ ˨˩˨ ▁ b i ˨˩˨ ▁ h i p ˦˥ ▁ j ɤ̆ m ˧˧
+DUMMY/wav/7c00f2bdfbed7405ae92f11df79319da.wav|ʐ ɤ̆ k ˦˥ ▁ ɲ i ə w ˧˨ ▁ ʈ ɯ ə ŋ ˧˨ ▁ h ɤ p ˨˩˨ ▁ d a ˨˩˦ ▁ b i ˨˩˨ ▁ k ɯ ˧˧ ▁ j ɤ̆ ŋ ˧˧ ▁ m a ŋ ˨˩˨ ▁ l e n ˧˧ ▁ a ŋ ˦˥
+DUMMY/wav/90197dcba532fde4ccc7234a7b592873.wav|t o j ˧˧ ▁ i ə w ˧˧ ▁ k ɤ̆ w ˧˨ ▁ k u ŋ͡m ˧˧ ▁ k ɤ̆ p ˦˥ ▁ b a ŋ ˨˩˦ ▁ d o ˧˨ ▁ ɲ ɯ ŋ ˧˧ ▁ h ɔ ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥
+DUMMY/wav/abc2a55ac512e2995a86a0e6a415cf4e.wav|n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ l a ˧˨ ▁ n ɯ ˨˩˦ ▁ j u ˧˧ ▁ x a t ˦˥ ▁ w o k͡p ˦˥ ▁ t i t ˨˩˨ ▁ b ʐ a ʂ i l ˧˧
+DUMMY/wav/31cdb2de6e2541b26f55a33d831af2f8.wav|x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ k a ˨˩˦ ▁ k e t ˦˥ ▁ n o j ˦˥ ▁ i n t ɛ r n ɛ t ˧˧
+DUMMY/wav/d220713a3d26d7df08249756b855e020.wav|ʂ o ŋ͡m ˧˧ ▁ i a ɾ i ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ x u ˧˧ ▁ j ɯ k ˨˩˨ ▁ d a m ˨˩˦ ▁ b a w ˨˩˦ ▁ ŋ u ə ŋ ˧˨ ▁ k u ŋ͡m ˧˧ ▁ k ɤ̆ p ˦˥ ▁ n ɯ ə k ˦˥
+DUMMY/wav/2af3f4d54c314623e86513f12ecc7f14.wav|j u ŋ͡m ˧˨ ▁ f ɤ̆ ŋ ˧˨ ▁ m e m ˧˨ ▁ n ă j ˧˨ ▁ b a k ˦˥ ▁ ʂ i ˨˩˦ ▁ k u ə ˨˩˦ ▁ t o j ˧˧ ▁ ɣ i ˧˧ ▁ l a j ˨˩˨ ▁ k a k ˦˥ ▁ d o ŋ͡m ˨˩˨ ▁ t a k ˦˥ ▁ t ɤ̆ p ˨˩˨ ▁ j a j ˧˧ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ i ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ d o ŋ͡m ˨˩˨ ▁ t a k ˦˥ ▁ m ɛ ˨˩˨ ▁ t o j ˧˧ ▁ f a j ˨˩˦ ▁ t ɤ̆ p ˨˩˨ ▁ x i ˧˧ ▁ b a ˧˨ ▁ ɤ̆ j ˦˥ ▁ b i ˨˩˨ ▁ t e ˧˧ ▁ k ɯ ŋ ˦˥ ▁ j a j ˧˧
+DUMMY/wav/4d733b3b088ebf08cca9edbbce6be051.wav|m o k͡p ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ f o ˦˥ ▁ ɤ ˨˩˦ ▁ ɣ u ʂ ă w ˧˧ ▁ tʰ u ˨˩˦ ▁ f u ˨˩˦ ▁ b a ŋ ˧˧ ▁ z a m ˧˧ f a ɾ a ˧˧ ▁ b ă k ˦˥ ▁ n i ɣ ɛ ˧˧ ʐ i ə ˧˧
+DUMMY/wav/6ebc31448aaf4f8e981c931fbae9d164.wav|t ɤ̆ m ˧˧ ▁ c ɤ̆ ŋ ˦˥ ▁ d o ŋ͡m ˨˩˨ ▁ d ɤ̆ k ˦˥ ▁ n ă m ˧˨ ▁ ɤ ˨˩˦ ▁ tʰ i ˨˩˨ ▁ ʈ ɤ̆ ŋ ˦˥ ▁ ɛ d ˧˧ r ɛ m i t ˧˧ ▁ t i n ˨˩˦ ▁ j a ŋ ˧˧
+DUMMY/wav/30fd0ef274b4eeb6b8f48e13ba0cfe52.wav|j a j ˧˨ ▁ n ă m ˧˧ ▁ ʂ ă w ˧˧ ▁ t o j ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ m ɤ j ˧˨ ▁ d e n ˦˥ ▁ l a m ˧˨ ▁ c ɯ ŋ ˦˥ ▁ ʈ ɯ ə k ˦˥ ▁ w o k͡p ˦˥ ▁ h o j ˨˩˨ ▁ j e ˧˨ ▁ b a w ˦˥ ▁ k a w ˦˥ ▁ k u ə ˨˩˦ ▁ m i n ˧˨ ▁ t o j ˧˧ ▁ n ɔ j ˦˥ ▁ j ɤ j ˦˥ ▁ k a k ˦˥ ▁ ɲ a ˧˨ ▁ l ɤ̆ p ˨˩˨ ▁ f a p ˦˥ ▁ ʐ ă ŋ ˧˨ ▁ k ɔ ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ d a ˨˩˦ ▁ c ɤ̆ p ˦˥ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ ŋ w i ˧˧ ▁ h i m ˨˩˦ ▁ t i n ˦˥ ▁ m a ŋ ˨˩˨ ▁ d e ˨˩˦ ▁ b a w ˨˩˦ ▁ j e ˨˩˨ ▁ ʐ ɯ ŋ ˧˨ ▁ ŋ ă ŋ ˧˧ ▁ c ă ŋ ˨˩˨ ▁ d ă k ˨˩˨ ▁ o ŋ͡m ˦˥ ▁ j ɤ̆ ŋ ˨˩˦ ▁ j ɤ̆ w ˧˨
+DUMMY/wav/963d5803a0fdaf75f4da6f2b6960b532.wav|b i ˨˩˨ ▁ b a ŋ ˨˩˨ ▁ ɣ a j ˦˥ ▁ k ă k ˦˥ ▁ d ɯ k ˦˥ ▁ k u ə ˨˩˦ ▁ w i ˦˥ ▁ j i ˧˨ ▁ x o ŋ͡m ˧˧ ▁ c i w ˨˩˨ ▁ k ɯ ə j ˦˥
+DUMMY/wav/75aaddfe3af5d578474c97d0c151b1ad.wav|k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ j i ə k ˨˩˨ ▁ n ă j ˧˨ ▁ ʂ ɛ ˨˩˦ ▁ d o ŋ͡m ˨˩˨ ▁ j i ə ŋ ˧˧ ▁ ɲ i ə w ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ h a w ˨˩˦ ▁ t ɤ̆ m ˧˧ ▁ d ă ŋ ˧˧ ▁ k i ˦˥ ▁ d e ˨˩˦ ▁ h i ə ŋ ˦˥ ▁ t u j ˨˩˦ ▁ k ɯ w ˦˥ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/a8bd98fe66bdf735f4e44e92528686b3.wav|ɔ k ă j ˧˧ ▁ k ɔ ŋ͡m ˧˨ ▁ p i t ˨˩˦ z a ˧˧ ▁ tʰ i ˧˨ ▁ ʂ a w ˧˧
+DUMMY/wav/3059ffc280ee6365e2c32cf4035c934a.wav|f i ə ŋ ˦˥ ▁ w ɤ̆ ŋ ˧˧ ▁ h o j ˧˨ ▁ j a w ˦˥ ▁ i ʃ ˧˧ ▁ h a n ˧˨ ▁ w i ɛ t ˦˥ ▁ k ɔ ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ a n ˧˧
+DUMMY/wav/3c7042e0914f8f5e0b9603e00074ba17.wav|m ă j ˦˥ ▁ b ă j ˧˧ ▁ w ɤ̆ ŋ ˧˧ ▁ ʂ ɯ ˨˩˨ ▁ ŋ a ˧˧ ▁ ʐ ɤ j ˧˧ ▁ i ˧˧ ▁ f i ˧˧ ▁ k o ŋ͡m ˧˧ ▁ tʰ i ə k ˨˩˨ ▁ m a ŋ ˨˩˨
+DUMMY/wav/9cbeb7b50628838afffc4431135bff10.wav|ʂ ă w ˧˧ ▁ f i ə ŋ ˧˧ ▁ t w a ˧˨ ▁ k o ŋ͡m ˧˧ ▁ x a ŋ ˦˥ ▁ k a w ˦˥ ▁ s i n ˧˧ ▁ j a m ˨˩˦ ▁ ɲ ɛ ˨˩˨ ▁ h i n ˧˨ ▁ f a t ˨˩˨
+DUMMY/wav/4dd52c48f5574923a78ed6a031b02e79.wav|j a k ˧˧ k i n ɛ ˧˧ ▁ t i m ˧˧ ▁ c u ŋ͡m ˨˩˦ ▁ f a j ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ b a w ˨˩˦ ▁ w a ŋ ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ h e ˨˩˨ ▁ tʰ o ŋ͡m ˦˥ ▁ l a n ˨˩˨
+DUMMY/wav/9f281bb11db4e880b1670a00279171bc.wav|ʈ ɔ ŋ͡m ˧˧ ▁ m o k͡p ˨˩˨ ▁ ŋ i ə ŋ ˧˧ ▁ k ɯ w ˦˥
+DUMMY/wav/bb1ed4a2df1734594a77d61e6774a6c5.wav|b i ˦˥ ▁ ɤ̆ ŋ ˨˩˦ ▁ h a j ˧˧ ▁ n ɯ ˨˩˦ ▁ ʂ i n ˧˧ ▁ b o ŋ͡m ˨˩˦ ▁ j ɯ ŋ ˧˧ ▁ m ɤ̆ k ˦˥ ▁ t i t ˦˥
+DUMMY/wav/817d87ead17f1cb96fb6b73546787424.wav|k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ i n ˧˧ n ɛ ˧˧ ʂ i ə ˧˧ ▁ d ɤ̆ w ˦˥ ▁ ʂ u ŋ͡m ˦˥ ▁ j ɤ j ˦˥ ▁ k ɛ ˨˩˦ ▁ t i n ˧˨ ▁ ŋ i ˧˧ ▁ d a n ˦˥ ▁ b ɔ m ˧˧
+DUMMY/wav/e1c3b1042901e3b9a9101a67fcb60331.wav|k ɤ ŋ ˧˧ ▁ ʂ o k͡p ˦˥ ▁ t ă w ˧˨ ▁ k a w ˧˧ ▁ t o k͡p ˦˥ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ l a ŋ ˧˧ ▁ d e n ˦˥ ▁ t ɤ̆ ŋ ˨˩˨ ▁ w a ʃ i n ˧˧ t ɔ ŋ͡m ˧˧
+DUMMY/wav/f6bf9ce21ae46c36587e1374ef8d3b61.wav|m ă j ˧˧ ▁ m ă ŋ ˦˥ ▁ tʰ ă j ˧˧ ▁ j ɤ j ˦˥ ▁ f ɯ ə ŋ ˧˧ ▁ f a p ˦˥ ▁ tʰ e o ˧˧ ▁ j ɔ j ˨˩˦ ▁ d i m ˨˩˦ ▁ b a ŋ ˦˥ ▁ j a ˧˨ ▁ t i ə w ˧˧ ▁ j u ŋ͡m ˧˨ ▁ k a k ˦˥ ▁ l w a j ˨˩˨ ▁ tʰ i ə k ˦˥ ▁ b i ˨˩˨ ▁ ʈ w i ə ŋ ˧˨ ▁ tʰ o ŋ͡m ˧˧ ▁ ʂ o ˦˥ ▁ h w a ˦˥ ▁ b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ d ɔ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ s ɛ m ˧˧ ▁ x a t ˦˥ ▁ h a ŋ ˧˨ ▁ d a ŋ ˧˧ ▁ tʰ ɯ k ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ l a m ˧˨ ▁ ɣ i ˧˨ ▁ h ɤ ŋ ˧˧ ▁ l a ˧˨ ▁ d e ˨˩˦ ▁ h ɔ ˨˩˨ ▁ n ɔ j ˦˥ ▁ h ɔ ˨˩˨ ▁ d a ŋ ˧˧ ▁ l a m ˧˨ ▁ ɣ i ˧˨
+DUMMY/wav/e78c7e294b759b532c4f57ad0970becb.wav|t o j ˧˧ ▁ ŋ i ˨˩˦ ▁ d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ x a j ˦˥ ▁ n i m ˨˩˨ ▁ t e ˦˥ ▁ ɲ i ˨˩˨ ▁ x i ˧˧ ▁ s ɛ ˧˧ ▁ k o ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ tʰ e o ˧˧ ▁ j ɔ j ˨˩˦ ▁ t a ˧˧ ▁ b u ə ŋ ˧˧ ▁ c w i ə ŋ ˨˩˨ ▁ j ɤ j ˦˥ ▁ s ɛ ˧˧ ▁ x a k ˦˥ ▁ j e ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ ʐ o j ˧˨ ▁ t a ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ d i ˧˧ ▁ ʈ e n ˧˧ ▁ k ɔ ŋ͡m ˧˧ ▁ d ɯ ə ŋ ˧˨ ▁ ʐ ă k ˨˩˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ c w i ə ŋ ˨˩˨ ▁ f i m ˦˥
+DUMMY/wav/fb6edcf9b5c3860aa49058f31e87bef3.wav|t w a ŋ ˧˨ ▁ c ɤ̆ w ˧˧ ▁ ɤ̆ w ˧˧ ▁ ɲ ɤ̆ k ˦˥ ▁ ʈ i ˦˥ ▁ tʰ ă k ˦˥ ▁ c ă k ˨˩˨ ▁ ŋ ɤ̆ ŋ ˧˧ ▁ ʂ a t ˦˥ ▁ x ă k ˦˥ ▁ x o ˨˩˦
+DUMMY/wav/dffb93b7b1a1c446031ede30e63f2092.wav|ʂ ɛ ˨˩˦ ▁ tʰ e ˦˥ ▁ n a w ˧˨ ▁ n ɛ u ˦˥ ▁ k e ˨˩˦ ▁ c ɔ ˧˧ ▁ k o ˧˧ ▁ ɤ̆ j ˦˥ ▁ ŋ ɛ ˧˧ ▁ k ɤ̆ w ˧˧ ▁ c w i ə ŋ ˨˩˨ ▁ k u ə ˨˩˦ ▁ t o j ˧˧ ▁ ɲ i ə w ˧˨ ▁ n ă m ˧˧ ▁ ʈ ɯ ə k ˦˥
+DUMMY/wav/c77946fbcf5be7b3a7a42bf825dc2f4f.wav|j a j ˨˩˦ ▁ m a ˨˩˦ ▁ t ă w ˧˨ ▁ b u ə ŋ ˧˧ ▁ b i ˨˩˨ ▁ d ɯ k ˦˥ ▁ d a n ˦˥ ▁ c i m ˧˨ ▁ ɤ ˨˩˦ ▁ b i ə ŋ ˨˩˦ ▁ d ɔ ˨˩˦
+DUMMY/wav/ade46353203db56a789039600d58e325.wav|ŋ ɯ ə j ˧˨ ▁ c o ŋ͡m ˧˨ ▁ ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ d a ˨˩˦ ▁ j u ŋ͡m ˧˨ ▁ h u ŋ͡m ˧˧ ▁ x i ˦˥ ▁ ʂ a t ˦˥ ▁ h a j ˨˩˨ ▁ j ɤ ˨˩˨
+DUMMY/wav/eae2e33e13f59e62dddb8b6f7713c451.wav|f i ə ŋ ˦˥ ▁ w ɤ̆ ŋ ˧˧ ▁ i ʃ ˧˧ ▁ k ă k ˦˥ ▁ ʐ ɤ̆ w ˧˧ ▁ ʈ o ŋ͡m ˦˥ ▁ k a k ˦˥ ▁ k u ə k ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ k i t ˦˥ ▁ ŋ a ˧˧
+DUMMY/wav/59fa5c02aad377719b8b741620247857.wav|j a ˧˨ ▁ x i ˧˧ ▁ t o j ˧˧ ▁ f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ ʐ a ˧˧ ▁ d i ə w ˧˨ ▁ n ă j ˧˨ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ k ɔ ˦˥ ▁ i ˧˧ ▁ i ˦˥ ▁ t ɯ ə ŋ ˨˩˦ ▁ m a ˧˨ ▁ ɲ i ə w ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ n ɔ j ˦˥ ▁ ʐ ă ŋ ˧˨ ▁ n ɔ ˦˥ ▁ tʰ ɤ̆ k ˨˩˨ ▁ d i ə ŋ ˧˧ ▁ ʐ o ˧˨ ▁ ɲ ɯ ŋ ˧˧ ▁ t o j ˧˧ ▁ l a j ˨˩˨ ▁ ŋ i ˨˩˦ ▁ ʂ ɛ ˨˩˦ ▁ tʰ e ˦˥ ▁ n a w ˧˨ ▁ n ɛ u ˦˥ ▁ b ɯ m ˦˥ ▁ j u ə ˧˧ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ c u ŋ͡m ˦˥
+DUMMY/wav/a4f3d988a0e956b5dfcf2c45a32493f3.wav|n ɔ j ˦˥ ▁ s ɔ ŋ͡m ˧˧ ▁ n ă m ˧˧ ▁ k a m ˧˧ ▁ ʂ i ə k ˦˥ ▁ c ă k ˨˩˨ ▁ t ă j ˧˧ ▁ ʂ ɤ ŋ ˧˧ ▁ t ɔ ˨˩˦ ▁ c ɤ̆ ŋ ˧˧ ▁ t i n ˧˨
+DUMMY/wav/b77da415c0bea9d2bb1ce95da7870251.wav|d i ə w ˧˨ ▁ d ɔ ˦˥ ▁ tʰ ɯ k ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ k ɔ ˦˥ ▁ i ˦˥ ▁ ŋ i ə ˨˩˦ ▁ j o ˧˧ ▁ k u ŋ͡m ˧˨ ▁ w a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨
+DUMMY/wav/2412d7ff9a8d13682f54f40d6a875cff.wav|j a ˧˨ ▁ d e ˨˩˦ ▁ b a w ˨˩˦ ▁ j e ˧˨ ▁ j a n ˧˧ ▁ h i ə w ˨˩˨ ▁ k u ə ˨˩˦ ▁ m i n ˧˨ ▁ ɲ ɯ ˧˧ ▁ j u ˧˧ j ɔ k a ʂ ˧˧ ▁ j ɔ ˧˧ ▁ j a ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ j ɤ̆ ŋ ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ j i ə ŋ ˧˧ ▁ tʰ e ˨˩˦ ▁ tʰ a w ˧˧ ▁ t o j ˧˧ ▁ ŋ i ˨˩˦ ▁ n ă m ˧˧ ▁ t ˌe ˧˧ i ˧˧ ▁ h ă j ˨˩˦ ▁ w ă j ˧˧ ▁ ʈ ɤ ˨˩˦ ▁ l a j ˨˩˨ ▁ d ɔ ˦˥ ▁ s ɛ m ˧˧ ▁ ʂ a w ˧˧ ▁ j a ˧˨ ▁ t o j ˧˧ ▁ t i p ˦˥ ▁ t u k͡p ˨˩˨ ▁ j a n ˧˨ ▁ j a j ˨˩˦ ▁ w a ŋ ˦˥ ▁ w ɤ̆ ŋ ˧˧
+DUMMY/wav/527c9f062d863f8bb44a122c5d07a823.wav|b ɤ̆ j ˧˧ ▁ j ɤ ˧˨ ▁ t o j ˧˧ ▁ k ɔ ˦˥ ▁ f ɤ̆ ŋ ˧˨ ▁ tʰ u ˧˧ ▁ ɤ̆ m ˧˧ ▁ d ɔ ˦˥ ▁ ʐ o j ˧˨
+DUMMY/wav/cc6461361bfb76fadfac1b3ec37ccc56.wav|k ɔ ˦˥ ▁ j ɤ̆ w ˦˥ ▁ h i ə w ˨˩˨ ▁ ɲ ɤ ŋ ˧˨ ▁ l w ɤ̆ k ˨˩˨ ▁ , ▁ tʰ a t ˦˥ ▁ tʰ ɯ k ˦˥ ▁ k ɤ ˧˧ ▁ w a ŋ ˧˧ ▁ k o ŋ͡m ˧˧ ▁ w i ɛ ŋ ˧˨
+DUMMY/wav/af911474d1e8029ff413134c8b06c2f5.wav|ʂ ă j ˧˧ ▁ ʐ ɯ ə w ˨˩˨ ▁ ʂ a t ˦˥ ▁ h a j ˨˩˨ ▁ m ɛ ˨˩˨ ▁ ʐ o j ˧˨ ▁ t ɯ ˨˩˨ ▁ j ɤ̆ ŋ ˨˩˦
+DUMMY/wav/71ba64936d201b051f4fe01c0805a1ae.wav|t o j ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ b i ə k ˦˥ ▁ d e n ˦˥ ▁ l a ˧˨ ▁ t u ˧˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ ʂ o ˦˥ ▁ t i ˧˧ t i ˨˩˦
+DUMMY/wav/32adcd6b3759c40e659f8c4bdc9f2530.wav|m o j ˨˩˦ ▁ h ɤ p ˨˩˨ ▁ d o ŋ͡m ˧˨ ▁ ɣ i ˧˧ ▁ ʂ o ˦˥ ▁ t i ə ŋ ˧˨ ▁ ɣ i ˧˧ ▁ w i ˧˧ ▁ ʈ i ə w ˨˩˨ ▁ d o ŋ͡m ˧˨
+DUMMY/wav/ed5378daecd088a1a1ef01982df6e16e.wav|h i n ˧˨ ▁ tʰ ɯ k ˦˥ ▁ ʈ a ˧˧ ▁ t ɤ̆ ŋ ˦˥ ▁ n ă j ˧˨ ▁ j i ˧˧ ▁ f a m ˨˩˨ ▁ l w ɤ̆ k ˨˩˨ ▁ f a p ˦˥ ▁ w o k͡p ˦˥ ▁ t e ˦˥
+DUMMY/wav/965bbe6f54965a4f035a8075e151b30f.wav|m o k͡p ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ ɤ ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ m i ə ŋ ˨˩˨ ▁ , ▁ ŋ ɯ ə j ˧˨ ▁ d ɔ ˦˥ ▁ d a ˨˩˦ ▁ b i ˨˩˨ ▁ b ă k ˦˥ ▁ j ɯ ˨˩˦
+DUMMY/wav/67068480861e558cc80dbcdb582eea91.wav|j u ˨˩˦ ▁ h ɯ ə ˦˥ ▁ ʂ ɛ ˨˩˦ ▁ x ă k ˦˥ ▁ f u k͡p ˨˩˨ ▁ t i p ˦˥ ▁ ʂ o ˦˥ ▁ t i ə ŋ ˧˨ ▁ ɛ u ˧˧ ʐ ɔ ˧˧ ▁ ʈ i ə w ˨˩˨ ▁ u ʃ ˧˧
+DUMMY/wav/c0bb9fdc315fea0db7b6aaa2a236f0ba.wav|ʂ ɔ ŋ͡m ˧˧ ▁ b a ˧˨ ▁ x ă ŋ ˨˩˦ ▁ d i n ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ ʈ a j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ j u ŋ͡m ˧˧ ▁ tʰ ɯ ˦˥ ▁ b a w ˨˩˨ ▁ l ɯ k ˨˩˨
+DUMMY/wav/a6342ed9acaf5c16e7961de495af4529.wav|d o ŋ͡m ˧˨ ▁ l w a t ˨˩˨ ▁ k i m ˨˩˦ ▁ ʈ a ˧˧ ▁ j i ə k ˨˩˨ ▁ k ɤ̆ p ˦˥ ▁ f a t ˦˥ ▁ t i ə ŋ ˧˨ ▁ t e t ˦˥
+DUMMY/wav/d77f29887abad5245685dd7b15a425cb.wav|t w i ˧˧ ▁ ɲ i ə ŋ ˧˧ ▁ d i ə ˨˩˨ ▁ d i m ˨˩˦ ▁ n ă j ˧˨ ▁ k ɔ ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ l ɤ j ˨˩˨ ▁ tʰ e ˦˥ ▁ w a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨
+DUMMY/wav/76465c422496f30f443afe741c47cfc2.wav|d ɯ ŋ ˧˨ ▁ b ɔ ˨˩˦ ▁ m ă k ˨˩˨ ▁ ɛ j ˧˧
+DUMMY/wav/99e7403a5be2d1c22272aa76fdca4b29.wav|j a ˧˨ ▁ t o ˨˩˦ ▁ c ɯ k ˦˥ ▁ i ˧˧ ▁ t e ˦˥ ▁ t ˌe ˧˧ ▁ d a ˨˩˦ ▁ ŋ i ə ŋ ˧˧ ▁ k ɯ w ˦˥ ▁ ʐ ă ŋ ˧˨ ▁ m o j ˨˩˦ ▁ d o ŋ͡m ˧˨ ▁ d o ˧˧ ▁ m a ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ d ɤ̆ w ˧˨ ▁ t ɯ ˧˧ ▁ c ɔ ˧˧ ▁ k ɤ ˧˧ ▁ ʂ ɤ ˨˩˦ ▁ h a ˨˩˨ ▁ t ɤ̆ ŋ ˧˨ ▁ v i ə ˧˧ ɛ m ˧˧ t i ˧˧
+DUMMY/wav/1ae9d56b02e75ea89117ecccf16928cb.wav|b ɤ̆ j ˦˥ ▁ j ɤ ˧˨ ▁ l a ˧˨ ▁ j ɯ ə ˨˩˦ ▁ d e m ˧˧ ▁ ŋ w a j ˧˨ ▁ ʈ ɤ j ˧˨ ▁ m ɯ ə ˧˧ ▁ t ɤ̆ m ˧˨ ▁ t a ˨˩˦ ▁ c i ˨˩˨ ▁ c u ˨˩˦ ▁ ɲ a ˧˨ ▁ d a ŋ ˧˧ ▁ d ɯ ŋ ˦˥ ▁ j ɯ ə j ˦˥ ▁ j u ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ b o ˨˩˨ ▁ p i ˧˧ j a m a ˧˧ ▁ j a ˧˨ ▁ d o j ˧˧ ▁ c ɤ̆ ŋ ˧˧ ▁ ʈ ɤ̆ ŋ ˧˨
+DUMMY/wav/edff0a12d6c51eb76b392728cef71f88.wav|ŋ a ˧˧ ▁ m u ə ŋ ˦˥ ▁ ʂ a ŋ ˨˩˦ ▁ s w ɤ̆ k ˦˥ ▁ ʈ ɯ k ˨˩˨ ▁ tʰ ă ŋ ˧˧ ▁ w ɤ̆ ŋ ˧˧ ▁ ʂ ɯ ˨˩˨ ▁ t a j ˨˩˨ ▁ ɤ̆ ŋ ˦˥ ▁ d o ˨˩˨
+DUMMY/wav/21accbe7a735368ff33f8d15db071b53.wav|j a ˦˥ ▁ x ɤ j ˨˩˦ ▁ d i m ˨˩˦
+DUMMY/wav/d67980ba78eb357336e9e156a1494579.wav|j a ˧˨ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ t i n ˦˥ ▁ h i ə w ˨˩˨ ▁ s ɤ̆ w ˦˥ ▁ c ɔ ˧˧ ▁ t ɯ ə ŋ ˧˧ ▁ l a j ˧˧ ▁ n ɯ ə k ˦˥ ▁ ŋ a ˧˧
+DUMMY/wav/a61b666eebaed12df12b5ca9f4eb69f8.wav|ɲ ɯ ŋ ˧˧ ▁ h ă j ˨˩˦ ▁ ɲ i n ˧˨ ▁ d i ə w ˧˨ ▁ ɣ i ˧˨ ▁ d a ˨˩˦ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ ɤ ˨˩˦ ▁ c ɤ̆ w ˧˧ ▁ ɤ̆ w ˧˧ ▁ ʂ ă w ˧˧ ▁ d a j ˨˩˨ ▁ j i t ˨˩˨
+DUMMY/wav/2335a64e5167c9ec1201d1b50cd80b82.wav|x ɤ j ˨˩˦ ▁ t o ˦˥ ▁ j u ˨˩˨ ▁ a ŋ ˦˥ ▁ j u ŋ͡m ˧˨ ▁ d i ə ŋ ˨˩˨ ▁ b ɤ̆ j ˨˩˦ ▁ c u ə k ˨˩˨ ▁ ɣ ɤ̆ j ˧˧ ▁ c e t ˦˥ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/f29c0560f8cbf0212111b4344187c8cb.wav|d e n ˦˥ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ j ɤ̆ k ˨˩˨ ▁ t i p ˦˥ ▁ tʰ e o ˧˧ ▁ k ɔ ˦˥ ▁ m o k͡p ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ t e n ˧˧ ▁ l a ˧˨ ▁ j ɔ w ˧˧ ▁ ɛ ŋ ˧˧ ɛ l ˧˧ b a r t ˧˧ ▁ d a ˨˩˦ ▁ d ɔ k͡p ˨˩˨ ▁ b a j ˧˨ ▁ b a w ˦˥ ▁ n ă j ˧˨ ▁ j a ˧˨ ▁ o ŋ͡m ˧˧ ▁ ɤ̆ j ˦˥ ▁ l a ˧˨ ▁ ʂ i ˨˩˦ ▁ w a ŋ ˧˧ ▁ x o ŋ͡m ˧˧ ▁ w ɤ̆ ŋ ˧˧ ▁ m i ˨˩˦
+DUMMY/wav/1292e580797f1625a498cda2e12c3638.wav|n ă j ˧˨ ▁ a n ˧˧ ▁ d a ŋ ˧˧ ▁ ɤ ˨˩˦ ▁ d ɤ̆ w ˧˧ ▁ d ɤ̆ j ˦˥
+DUMMY/wav/cde2e1e14afda9ba5e735e44ace71482.wav|h w a ŋ ˧˨ ▁ k a n ˨˩˦ ▁ k u ə ˨˩˦ ▁ tʰ a n ˧˧ ▁ x i ə ŋ ˦˥ ▁ a j ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ a j ˦˥ ▁ ŋ a j ˨˩˨ ▁ s ɔ k͡p ˦˥ ▁ tʰ ɯ ə ŋ ˧˧
+DUMMY/wav/de8db29d74fe21fa34f2ca320dbbf89c.wav|x o ŋ͡m ˧˧ ▁ b i ə k ˦˥ ▁ l i ə w ˨˩˨ ▁ t o j ˧˧ ▁ h a t ˦˥ ▁ b a j ˧˨ ▁ h a t ˦˥ ▁ d ɔ ˦˥ ▁ c ɔ ˧˧ ▁ k a k ˦˥ ▁ b a ŋ ˨˩˨ ▁ ŋ ɛ ˧˧ ▁ k ɔ ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ x o ŋ͡m ˧˧
+DUMMY/wav/eb744abea105b6fc2eafa8162ed2ac7b.wav|d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ j i ə k ˨˩˨ ▁ ʈ ɯ ə k ˦˥ ▁ m ă k ˦˥ ▁ ɲ ɯ ŋ ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ l a ˧˨ ▁ j i ə k ˨˩˨ ▁ l ɤ̆ w ˧˧ ▁ j a j ˧˨
+DUMMY/wav/b9934974d1fb34e14cf96a397077d343.wav|l ɯ k ˨˩˨ ▁ l ɯ ə ŋ ˨˩˨ ▁ c ɯ k ˦˥ ▁ n ă ŋ ˧˧ ▁ d a ŋ ˧˧ ▁ ʈ u k͡p ˨˩˨ ▁ j ɤ k ˦˥ ▁ ɣ o ˨˩˦ ▁ j ɯ ə j ˦˥ ▁ l ɔ ŋ͡m ˧˨ ▁ h o ˧˨
+DUMMY/wav/658e4392a36bc1097b5508fee396340d.wav|k a n a d a ˧˧ ▁ u k͡p ˦˥ ▁ n ɛ u ˧˧ ▁ z e a l a n d ˧˧ ▁ j a ˧˨ ▁ p ɛ ˧˧ ʐ u ˧˧ ▁ j ɤ̆ ŋ ˨˩˦ ▁ c ɯ ə ˧˧ ▁ k ɔ ˦˥ ▁ w i ɛ t ˦˥ ▁ d i n ˨˩˨
+DUMMY/wav/67fb055090ff241c387a76ad6d7bf7a8.wav|h o k͡p ˦˥ ▁ h w a ŋ ˨˩˦ ▁ o ŋ͡m ˧˧ ▁ j ɤ ˧˧ ▁ k a j ˦˥ ▁ t u j ˦˥ ▁ s a t ˦˥ ▁ ʐ a ˧˧ ▁ d e ˨˩˦ ▁ d ɤ ˨˩˦ ▁ d ɔ ŋ͡m ˧˨
+DUMMY/wav/774e2c0446945a6a3994b34e8f4ae0e3.wav|t a j ˧˨ ▁ s e ˦˥ ▁ tʰ u ə ˧˧ ▁ k i ə ŋ ˨˩˨ ▁ j u ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ f a t ˨˩˨ ▁ s ɛ ˧˧ ▁ w a ˦˥ ▁ t a j ˨˩˦
+DUMMY/wav/9b1a94193a5cdb80dfbbc3c42ce9157d.wav|h ă j ˨˩˦ ▁ ŋ ɛ ˧˧ ▁ ɲ ɛ ˦˥
+DUMMY/wav/dea16f0428354a054bab1777e1f6531f.wav|j a ˧˨ ▁ d i ə w ˧˨ ▁ n ă j ˧˨ ▁ x o ŋ͡m ˧˧ ▁ h e ˧˨ ▁ d u ŋ͡m ˦˥
+DUMMY/wav/1d09e2bfc24c181a8cc87b092756b05a.wav|ŋ ɯ ə j ˧˨ ▁ j ɤ̆ ŋ ˧˧ ▁ ʂ l a v ˧˧ j a ŋ ˧˧ s k ɔ ˧˧ ▁ tʰ i ə w ˦˥ ▁ k a ˨˩˦ ▁ d i ə ŋ ˨˩˨ ▁ j a ˧˨ ▁ n ɯ ə k ˦˥ ▁ j ɔ ˧˧ ▁ b i ˨˩˨ ▁ k ă k ˦˥
+DUMMY/wav/532a4c93dcd5125031075a4f503edfd4.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ m a ŋ ˧˧ ▁ b ă w ˦˥ ▁ j ɤ̆ k ˨˩˨ ▁ m o j ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ ʐ a ˧˧ ▁ ŋ w a j ˧˨ ▁ c ɔ ˧˧ ▁ c i ˨˩˨ ▁ c u ˨˩˦ ▁ ɲ a ˧˨ ▁ ɤ ˨˩˦ ▁ d ɔ ˦˥ ▁ c ă ŋ ˧˨ ▁ ŋ a k ˨˩˨ ▁ ɲ i ə ŋ ˧˧ ▁ ɣ i ˧˨ ▁ b ă w ˦˥ ▁ j ɤ̆ k ˨˩˨ ▁ k u ə ˨˩˦ ▁ h ă ŋ ˦˥ ▁ t a ˧˧ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ ɲ i ə w ˧˨ ▁ ʂ ɯ ˨˩˨ ▁ c u ˦˥ ▁ i ˦˥ ▁ h ɤ ŋ ˧˧ ▁ k u ə ˨˩˦ ▁ t o j ˧˧
+DUMMY/wav/9321617b7381f1868d00a93e4fc6c0ec.wav|t i ˨˩˦ ▁ l e ˨˩˨ ▁ k ɯ ˨˩˦ ▁ ʈ i ˧˧ ▁ tʰ a m ˧˧ ▁ j a ˧˧ ▁ b ɔ ˨˩˦ ▁ f i ə w ˦˥ ▁ c i ˨˩˦ ▁ d a t ˨˩˨ ▁ ɕ i ˧˧
+DUMMY/wav/b087bf99b4a88bfeec4b928a878e12cf.wav|n ɔ ˦˥ ▁ ʂ ɛ ˨˩˦ ▁ ʈ ɤ ˨˩˦ ▁ tʰ a n ˧˨ ▁ k u ə k ˨˩˨ ▁ c i ə ŋ ˦˥ ▁ tʰ ă j ˧˧ ▁ m ă k ˨˩˨ ▁ t ɯ ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ h w a ˦˥
+DUMMY/wav/1aff6cf7f29d54ce0c591fbe5071af52.wav|b a ˧˨ ▁ l a ˧˨ ▁ d e ˨˩˨ ▁ ɲ ɤ̆ k ˦˥ ▁ f u ˧˧ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ h ɔ k͡p ˨˩˨ ▁ ʐ o ŋ͡m ˨˩˨ ▁ ɲ ɤ̆ k ˦˥ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥
+DUMMY/wav/a0b7b84640e7b80481a5adbc905dce8f.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ f a t ˦˥ ▁ h a n ˧˨ ▁ tʰ ɛ ˧˧ ▁ n a t ˧˧ i ɔ n a w ˧˧ ▁ m a l ˧˧
+DUMMY/wav/7ff5f6e3321fe6e98844ae6d64fec40c.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ k ɤ̆ ŋ ˧˨ ▁ tʰ a w ˦˥ ▁ j ɤ ˨˩˦ ▁ d a w ˧˨ ▁ b ɤ j ˦˥ ▁ ɲ ɯ ˧˧ ▁ k a k ˦˥ ▁ ɲ a ˧˨ ▁ x a w ˨˩˦ ▁ k o ˨˩˦ ▁ ʈ e n ˧˧ ▁ c i n ˦˥ ▁ t w a ˧˧ ▁ s ɛ ˧˧ ▁ d e ˨˩˦ ▁ t i m ˧˨ ▁ ʐ a ˧˧ ▁ k a j ˦˥ ▁ d i t ˦˥ ▁ tʰ ɯ k ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ m o k͡p ˨˩˨ ▁ t w a ˧˧ ▁ s ɛ ˧˧ ▁ a j ˧˧ ʈ i m ˧˧ ▁ j a ˧˨ ▁ d u ŋ͡m ˦˥ ▁ l a ˧˨ ▁ n ɔ ˦˥ ▁ k ɔ ˦˥ ▁ m u k͡p ˨˩˨ ▁ d i t ˦˥ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ j a ˧˨ ▁ t i n ˦˥ ▁ h ɯ w ˨˩˦ ▁ i t ˦˥ ▁ d u ŋ͡m ˦˥ ▁ d ă ŋ ˦˥
+DUMMY/wav/e5abe2e5e045f0cd7035de6bcd4cec48.wav|t o j ˧˧ ▁ m u ə ŋ ˦˥ ▁ c i ə ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ j a j ˧˨ ▁ b i ˦˥ ▁ w i ɛ t ˦˥ ▁ d e ˨˩˦ ▁ l a m ˧˨ ▁ d ɯ ə k ˨˩˨ ▁ tʰ e ˦˥ ▁ d e ˨˩˦ ▁ c ă k ˦˥ ▁ ʐ ă ŋ ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ tʰ ɤ̆ j ˦˥ ▁ x w a ˧˧ ▁ h ɔ k͡p ˨˩˨ ▁ k u ə ˨˩˦ ▁ k a k ˦˥ ▁ a n ˧˧ ▁ tʰ ɤ̆ k ˨˩˨ ▁ w i ɛ ŋ ˦˥ ▁ ʐ u ˨˩˦ ▁ ʂ ɛ k ˦˥ s i ˧˧ ▁ k i ˨˩˦ ▁ tʰ w ɤ̆ k ˨˩˨ ▁ k u ŋ͡m ˨˩˦ ▁ ʐ ɤ̆ k ˦˥ ▁ h ɤ̆ p ˦˥ ▁ j ɤ̆ ŋ ˨˩˦ ▁ n ɔ ŋ͡m ˦˥ ▁ b ɔ ŋ͡m ˨˩˦
+DUMMY/wav/48ff9378e9b75c93ab8da00c832f29a3.wav|ŋ i ˨˩˨ ▁ ʂ i ˨˩˦ ▁ a r ˧˧ ɣ ɛ ŋ ˧˧ t i n a ˧˧ ▁ c ɔ ˧˧ ▁ k ɔ ŋ͡m ˧˧ ▁ b u ˦˥ ▁ j ɯ ə ˨˩˦ ▁ k u ə k ˨˩˨ ▁ h ɔ p ˨˩˨ ▁ w o k͡p ˦˥ ▁ h o j ˨˩˨
+DUMMY/wav/e77f076f2b9327f7fb87f24e70671b5e.wav|c u ˨˩˦ ▁ ʈ ɯ ə ŋ ˧˧ ▁ c i ˧˧ ▁ l a j ˨˩˦ ▁ ŋ w a j ˧˨ ▁ b i ˨˩˨ ▁ k a w ˦˥ ▁ k ɔ ˦˥ ▁ n ă m ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ x o ŋ͡m ˧˧
+DUMMY/wav/c1d47764ac182dc8499a60fa83d7b156.wav|ŋ i m ˧˧ ▁ t u k͡p ˦˥ ▁ m a ˧˨ ▁ n ɔ j ˦˥
+DUMMY/wav/4a835458e0e1b83b7593de1117d463ef.wav|k ɛ ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ l ɤ j ˨˩˨ ▁ ɲ i ə w ˧˨ ▁ ɲ ɤ̆ k ˦˥ ▁ s ɛ m ˧˧ ▁ ʐ a ˧˧ ▁ ʐ o j ˧˨ ▁ l a j ˨˩˨ ▁ l a ˧˨ ▁ t a l i b a ŋ ˧˧
+DUMMY/wav/8ab1429e8142651bc5dc1964754b374a.wav|d ɔ ˦˥ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ m a n ˧˧ ▁ m o j ˦˥ ▁ ʐ ɤ̆ k ˦˥ ▁ l ɤ ŋ ˦˥ ▁ o ŋ͡m ˧˧ ▁ z u ˧˧ x ɔ f ˧˧ k i ˧˧ ▁ c ɔ ˧˧ ▁ h ă j ˧˧
+DUMMY/wav/170583b7142ffbe5319e1908095278a0.wav|d i m ˨˩˦ ▁ l a j ˨˩˨ ▁ l i t ˨˩˨ ▁ ʂ ɯ ˨˩˦ ▁ w a j ˧˧ ▁ h u ŋ͡m ˧˨ ▁ k u ə ˨˩˦ ▁ h a m ˨˩˨ ▁ d o j ˨˩˨ ▁ b a l t i t ˧˧ ▁ ŋ a ˧˧
+DUMMY/wav/e529449edfb8f5dad9d99b79d5267602.wav|t o j ˧˧ ▁ j ɯ ə ˧˨ ▁ m ɤ j ˦˥ ▁ ʈ ɤ ˨˩˦ ▁ j e ˧˨ ▁ t ɯ ˧˨ ▁ m o k͡p ˨˩˨ ▁ k o ŋ͡m ˨˩˨ ▁ d o ŋ͡m ˧˨ ▁ n ɤ j ˧˧ ▁ n ă m ˦˥ ▁ j ɯ ˨˩˦ ▁ m o k͡p ˨˩˨ ▁ b i ˦˥ ▁ m ɤ̆ k ˨˩˨ ▁ d o j ˦˥ ▁ j ɤ j ˦˥ ▁ ʂ ɯ ˨˩˨ ▁ ʂ o ŋ͡m ˦˥ ▁ k ɔ ŋ͡m ˧˨ ▁ k u ə ˨˩˦ ▁ k ɔ ŋ͡m ˧˧ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/6e58e23ab0473fb8302b374f454f75ab.wav|b ă k ˦˥ ▁ w a ˨˩˦ ▁ t a ŋ ˧˧ ▁ s ɛ ˧˧ ▁ t a j ˨˩˦ ▁ d o ˨˩˦ ▁ ʈ o m ˨˩˨ ▁ ʐ a k ˦˥ ▁ tʰ a j ˨˩˦ ▁ k o ŋ͡m ˧˧ ▁ ŋ i p ˨˩˨
+DUMMY/wav/4516330a73afe7f4f1d51422d6239e06.wav|t ă w ˧˨ ▁ ɣ ɤ̆ ŋ ˧˨ ▁ ɲ ɤ̆ k ˦˥ ▁ k a t ˦˥ ▁ t ă w ˧˨ ▁ k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ b i ə ŋ ˨˩˦ ▁ k a ˧˧ t i ˨˩˦ ▁ t ɤ̆ m ˧˨ ▁ ɛ ˧˧ t i m ˧˧
+DUMMY/wav/345573d4edbbde97fb07d16f95ba42c8.wav|l i ə w ˨˩˨ ▁ o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ m o k͡p ˨˩˨ ▁ l i n ˧˧ ▁ k a m ˨˩˦ ▁ h ă j ˧˧ ▁ h i ˧˧ ▁ j ɔ ŋ͡m ˨˩˨ ▁ n a w ˧˨ ▁ j e ˧˨ ▁ k ɤ̆ w ˧˧ ▁ ʈ a ˨˩˦ ▁ l ɤ j ˧˨ ▁ c ɔ ˧˧ ▁ j ɤ̆ ŋ ˦˥ ▁ d e ˧˨ ▁ n ă j ˧˨ ▁ l a ˧˨ ▁ ɣ i ˧˨ ▁ x o ŋ͡m ˧˧
+DUMMY/wav/c59da44a576e13abb3302f0a55365414.wav|n a t ɔ ˧˧ ▁ b a w ˨˩˦ ▁ j e ˨˩˨ ▁ ɲ ɯ ŋ ˧˧ ▁ l i ə w ˨˩˨ ▁ k ɔ ˦˥ ▁ n u ə ŋ ˧˧ ▁ c i ə w ˧˨ ▁ tʰ o ˨˩˦ ▁ ɲ i ˨˩˦ ▁ k i ˧˨
+DUMMY/wav/4be9ec6b1f5ef932d8258f0721af0bfe.wav|tʰ e ˦˥ ▁ j ɤ j ˦˥ ▁ b e n ˧˧ ▁ b ɤ ˧˨ ▁ j ɯ k ˨˩˨ ▁ j i ˧˨ ▁ t e n ˧˧ ▁ l ɯ ə ˨˩˦
+DUMMY/wav/c90926dc69438cbfb13c5e2042079e0f.wav|k u ə k ˨˩˨ ▁ j a j ˨˩˦ ▁ k ɯ w ˦˥ ▁ k e o ˦˥ ▁ j a j ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ʂ u ə k ˦˥ ▁ t͡s u ˧˧ ▁ j ɤ ˧˨ ▁ d o ŋ͡m ˧˨ ▁ h o ˧˨
+DUMMY/wav/d4514a88a48393324a72285b5b47c9be.wav|h ă j ˧˧ ▁ ɲ ɯ ˧˧ ▁ j i ə k ˨˩˨ ▁ ʂ a ˧˧ ▁ tʰ a j ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ l a w ˧˧ ▁ d o ŋ͡m ˨˩˨ ▁ ʈ a j ˦˥ ▁ f a p ˦˥ ▁ l w ɤ̆ k ˨˩˨
+DUMMY/wav/35202ce5f247ed8c2f3c7d4f964b91b7.wav|j ɤ ˧˨ ▁ d ɤ̆ j ˧˧ ▁ f ɯ ə ŋ ˧˧ ▁ t ɤ̆ j ˧˧ ▁ d a ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ŋ͡m ˧˨ ▁ n o j ˨˩˦ ▁ l e n ˧˧ ▁ ɲ ɯ ˧˧ ▁ ʈ ɯ ə k ˦˥ ▁ n ɯ ə ˨˩˦
+DUMMY/wav/3c5b41243dc50ce6b87ebaf24f6a7d4c.wav|j a j ˧˨ ▁ f u k͡p ˦˥ ▁ ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ h ă ŋ ˦˥ ▁ d a ˨˩˦ ▁ ʈ o m ˨˩˨ ▁ m o k͡p ˨˩˨ ▁ c i ə k ˦˥ ▁ s ɛ ˧˧ ▁ x a k ˦˥
+DUMMY/wav/66786715d3255a86bb0a05e520c07fbb.wav|ɲ ɯ ŋ ˨˩˦ ▁ j ɤ̆ w ˦˥ ▁ m o k͡p ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ k u ə k ˨˩˨ ▁ d ɤ j ˧˨ ▁ ʈ u m ˧˨ ▁ x u ŋ͡m ˨˩˦ ▁ b o ˦˥ ▁ b i n ˧˧ ▁ l a j ɛ ŋ ˧˧
+DUMMY/wav/e5128146891bddbf6ed680f1f51b07fa.wav|k e ˦˥ ▁ h w a t ˨˩˨ ▁ k u ə ˨˩˦ ▁ o ŋ͡m ˧˧ ▁ a b ɛ ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ b i ˨˩˨ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ c i ˨˩˦ ▁ ʈ i t ˦˥
+DUMMY/wav/bb528d16980071c3c3ae325efd380bb4.wav|k u b a ˧˧ ▁ b a k ˦˥ ▁ b ɔ ˨˩˦ ▁ k a w ˦˥ ▁ b u ə k ˨˩˨ ▁ tʰ ɯ k ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ j u ˨˩˨ ▁ x u ŋ͡m ˨˩˦ ▁ b o ˦˥ ▁ b ɔ ʂ t ɔ ŋ͡m ˧˧
+DUMMY/wav/425acd0b925ba6e3b41816edda3204ed.wav|b ɤ̆ k ˦˥ ▁ d o ŋ͡m ˧˨ ▁ m i ˨˩˦ ▁ ʈ u ŋ͡m ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ c w i ə ŋ ˦˥ ▁ k o ŋ͡m ˧˧ ▁ j u ˧˧ ▁ k u ə ˨˩˦ ▁ b a ˧˨ ▁ h i l ˧˧ l a ɾ i ˧˧ ▁ k l i n ˧˧ t ɔ ŋ͡m ˧˧
+DUMMY/wav/f931e7f8e5b0befdcf68caac830da413.wav|m o k͡p ˨˩˨ ▁ j u ˨˩˨ ▁ t a j ˧˧ ▁ n a ŋ ˨˩˨ ▁ m ă j ˦˥ ▁ b ă j ˧˧ ▁ m i t ˧˧ ▁ tˤ i ˧˧ ▁ b i ʂ ɔ ŋ͡m ˧˧ ▁ k u ə ˨˩˦ ▁ ɤ̆ ŋ ˦˥ ▁ d o ˨˩˨
+DUMMY/wav/03dee93ae7a2c95fa12fa1a6621971ee.wav|ŋ ɯ ə j ˧˨ ▁ n ă j ˧˨ ▁ b ɛ ŋ ˧˨ ▁ l e n ˧˧ ▁ k i t ˨˩˨ ▁ b a ŋ ˨˩˦
+DUMMY/wav/0cc901e044dc86d9d68d8cfd3ac142b2.wav|ʂ o ˦˥ ▁ l ɯ ə ŋ ˨˩˨ ▁ l ɤ ŋ ˦˥ ▁ f a w ˦˥ ▁ l ɤ̆ w ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ k ɤ̆ k ˦˥ ▁ j ɤ̆ w ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ tʰ u ŋ͡m ˧˨ ▁ k ɔ ŋ͡m ˧˧ t e n ˨˩˦
+DUMMY/wav/343a969d06f1a0c2cfc870524f77131a.wav|x o ŋ͡m ˧˧ ▁ l ɤ̆ w ˧˧ ▁ ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ l a j ˨˩˨ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ j u ˨˩˨ ▁ d u ə j ˦˥ ▁ n ɯ ə k ˦˥ ▁ x a k ˦˥
+DUMMY/wav/45f39312c3c673643d20a276a2c87cf5.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ k ɔ ˦˥ ▁ m o k͡p ˨˩˨ ▁ b a ˧˨ ▁ m ɛ ˨˩˨ ▁ ɤ ˨˩˦ ▁ u t a h ˧˧ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ c u ŋ͡m ˦˥ ▁ j ɤ j ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ d ɯ ə ˦˥ ▁ ʈ ɛ ˨˩˦ ▁ k u ə ˨˩˦ ▁ d e n ˦˥ ▁ m o k͡p ˨˩˨ ▁ ɲ a ˧˨ ▁ ŋ i ə ŋ ˧˧ ▁ k ɯ w ˦˥ ▁ x w a ˧˧ ▁ h ɔ k͡p ˨˩˨ ▁ ɤ ˨˩˦ ▁ a n ˧˧ ▁ j a ˧˨ ▁ m o k͡p ˨˩˨ ▁ ɲ a ˧˨ ▁ f a t ˦˥ ▁ ʈ i ə ŋ ˨˩˦ ▁ c ɯ ə ŋ ˧˧ ▁ ʈ i n ˧˨ ▁ j a ŋ ˨˩˦ ▁ j ă j ˨˩˨ ▁ ɤ ˨˩˦ ▁ h a w a j ˧˧
+DUMMY/wav/bac51d5af681355e1daff193f6529ee3.wav|b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ ă ŋ ˧˧ ▁ n ɔ ˦˥ ▁ x o ŋ͡m ˧˧
+DUMMY/wav/d5bcecaf29a3c32545b7841a2c63df68.wav|m o ˨˩˦ ▁ ɲ ɤ̆ m ˧˨ ▁ c ɤ̆ ŋ ˧˧ ▁ b e n ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ b i ˧˧ v ˧˧ ▁ j i ə k ˨˩˨ ▁ d ɯ k ˦˥ ▁ h ɔ p ˨˩˨ ▁ b a w ˦˥ ▁ x ɤ̆ ŋ ˨˩˦
+DUMMY/wav/d322dd23314bebf4410ff6cfc9417ca6.wav|k ɔ ˦˥ ▁ x a ŋ ˨˩˦ ▁ i ˧˧
+DUMMY/wav/c86311d6a2d4bc8fef0132271dc2eddd.wav|j a w ˧˨ ▁ x w a n ˨˩˦ ▁ x ă k ˦˥ ▁ t o j ˧˧ ▁ d ɯ ŋ ˦˥ ▁ b e n ˧˧ ▁ j ɯ ə j ˦˥ ▁ c u ŋ͡m ˦˥
+DUMMY/wav/2e34670fc36fc19cab8df6e865eac911.wav|t ɯ ˧˨ ▁ d ɤ̆ j ˧˧ ▁ t i n ˧˨ ▁ k a m ˨˩˦ ▁ k u ə ˨˩˦ ▁ c i ˨˩˨ ▁ w a n ˧˧ ▁ j a ˧˨ ▁ c o ŋ͡m ˧˨ ▁ ʐ a ŋ ˨˩˨ ▁ n ɯ k ˦˥
+DUMMY/wav/0bdf5bdea333f12935bb646e58281d2e.wav|x i ˧˧ ▁ h o ŋ͡m ˨˩˦ ▁ c i ə ŋ ˦˥ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ a n ˧˧ ▁ t ˈe ˧˧
+DUMMY/wav/328d2742ebb1e3cf1380c6876ffd015d.wav|ŋ i ˧˧ ▁ k a ŋ ˧˧ ▁ ɣ ɤ̆ j ˧˧ ▁ a ŋ ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ c u ə ˧˨ ▁ k ɔ ˦˥ ▁ j ɤ̆ w ˦˥ ▁ h i ə w ˨˩˨ ▁ t ɤ̆ m ˧˧ ▁ tʰ ɤ̆ ŋ ˧˨
+DUMMY/wav/4dd343bba2d66f02dd66bf3c30eef3fe.wav|t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ m i ˨˩˦ ▁ k a n ˨˩˦ ▁ b a w ˦˥ ▁ b o ˨˩˦ ▁ ʂ u ŋ͡m ˧˧ ▁ ʈ ɯ ŋ ˧˨ ▁ f a t ˨˩˨ ▁ j ɤ j ˦˥ ▁ ŋ a ˧˧
+DUMMY/wav/0ba432befc2464423ad4256a2c192057.wav|k ɤ̆ w ˧˧ ▁ h ɔ j ˨˩˦ ▁ d ă k ˨˩˨ ▁ ʐ a ˧˧ ▁ l a ˧˨ ▁ l i ə w ˨˩˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ k ɔ ˦˥ ▁ ɲ ɯ ˧˧ ▁ tʰ e ˦˥ ▁ x o ŋ͡m ˧˧
+DUMMY/wav/81841b6bf5ee031fc954435658780565.wav|o ŋ͡m ˧˧ ▁ n ă j ˧˨ ▁ d a ˨˩˦ ▁ ɲ ɤ̆ j ˨˩˦ ▁ l ɤ̆ w ˧˨ ▁ t ɯ ˨˩˨ ▁ t ɯ ˨˩˦ ▁ h o m ˧˧ ▁ w a ˧˧ ▁ ŋ ă j ˧˨ ▁ t ɔ ˧˧ ▁ ɛ ˧˧
+DUMMY/wav/e6ca2fb2bb589c01aef42ad129c88dcd.wav|ʈ a t ˦˥ ▁ ɲ i m ˨˩˨ ▁ k a w ˧˧ ▁ ɲ ɤ̆ k ˦˥ ▁ tʰ u ə k ˨˩˨ ▁ j e ˧˨ ▁ a j ˧˧
+DUMMY/wav/e4094bd4fdac84a200e9add4e47078ac.wav|j ɤ ˧˧ ▁ ŋ o j ˧˨ ▁ k u ŋ͡m ˧˨ ▁ h a ŋ ˧˨ ▁ ɣ e ˦˥ ▁ f i ə ˦˥ ▁ ʂ ă w ˧˧ ▁ j ɤ j ˦˥ ▁ j a ŋ ˧˨ ▁ a ˧˧ ▁ c ɯ ˦˥
+DUMMY/wav/88ab7baeaaca3f97ea2f72c63a8fa508.wav|n ă m ˧˧ ▁ t ˌe ˧˧ i ɛ ˧˧ ▁ t ɛ d ˧˧ ▁ ʈ u j ˧˧ ▁ w i ɛ t ˦˥ ▁ d i n ˨˩˨ ▁ t i m ˧˨ ▁ m o k͡p ˨˩˨ ▁ c ɤ̆ ŋ ˧˧ ▁ ŋ i ˨˩˨ ▁ ʂ i ˨˩˦
+DUMMY/wav/637d381eb1339e3e5652cec9ffd70af2.wav|n ɯ ˨˩˦ ▁ h w a ŋ ˧˨ ▁ ɛ l i z a b ɛ t ˧˧ ▁ i j ˧˧ ▁ k i ˨˩˦ ▁ n i m ˨˩˨ ▁ w i ˧˧ ▁ n ă m ˧˧ ▁ l e n ˧˧ ▁ ŋ o j ˧˧
+DUMMY/wav/e6f317b4473f1f04192e76c98676ca65.wav|a n ˧˧ ▁ c i ˧˧ ▁ ɔ ˧˧ ʂ ɛ ˧˧ ▁ ʈ i ə w ˨˩˨ ▁ u ʃ ˧˧ ▁ d e ˨˩˦ ▁ k a n ˧˧ ▁ c ɯ ŋ ˧˨ ▁ o ŋ͡m ˧˧ ▁ c u ˨˩˦ ▁ w i ˧˧ k i ˧˧ l e a k ˧˧
+DUMMY/wav/6c6a74789d96bd7e16469294847c7e3b.wav|m o k͡p ˨˩˨ ▁ j a j ˧˨ ▁ j i ˦˥ ▁ j u ˨˩˨
+DUMMY/wav/7671210165c160a7646466e4b4ae79c4.wav|b a w ˨˩˦ ▁ ŋ ɔ k͡p ˨˩˨
+DUMMY/wav/1da2640a89e771d52cbcde6efe1a46bd.wav|c ă w ˦˥ ▁ c ɤ j ˧˧ ▁ ɣ a m ˧˧ ▁ l i ə ŋ ˧˧ ▁ m i n ˧˧ ▁ c ă w ˦˥ ▁ k ă j ˧˨ ▁ tˤ i ˧˧ ▁ n ă m ˧˧ ▁ ʐ o j ˧˨
+DUMMY/wav/556f493c09baf20138c1ebb70d602258.wav|tʰ ɯ k ˨˩˨ ▁ ʐ a ˧˧ ▁ h ɔ ˨˩˨ ▁ k ɔ ŋ͡m ˧˨ ▁ j u p ˦˥ ▁ t i ə k ˦˥ ▁ k i m ˨˩˨ ▁ n ă ŋ ˧˧ ▁ l ɯ ə ŋ ˨˩˨ ▁ d ɤ̆ j ˦˥ ▁ c ɯ ˦˥
+DUMMY/wav/d79ea6e6e5b180cbb42a6cea59f66dab.wav|ɤ ˨˩˦ ▁ tʰ a t ˨˩˨ ▁ tʰ ɤ̆ k ˦˥ ▁ k ɔ ˦˥ ▁ c u ə ˧˨ ▁ t ɤ̆ j ˧˧ ▁ f ɯ ə ŋ ˧˧ ▁ j a ˧˨ ▁ c u ə ˧˨ ▁ k ɯ k ˨˩˨ ▁ l a k ˨˩˨
+DUMMY/wav/18f9a8964884454f3482e1d259b6db55.wav|ɲ ɯ ŋ ˨˩˦ ▁ ɣ i ˧˨ ▁ t o j ˧˧ ▁ k ɔ ˦˥ ▁ ɤ ˨˩˦ ▁ d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ f ɔ ŋ͡m ˧˨ ▁ tʰ ɯ ˨˩˦ ▁ d o ˧˨ ▁ t ă ŋ ˧˧ ▁ k ɯ ə ŋ ˧˨ ▁ ʈ ɯ k ˨˩˨ ▁ t w i ə ŋ ˦˥ ▁ d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ h i n ˧˨ ▁ a n ˨˩˦ ▁ m a ˧˨ ▁ b a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ t ɯ ˧˨ ▁ m a ŋ ˧˨ ▁ h i n ˧˨ ▁ d e o ˧˧ ▁ ʈ e n ˧˧ ▁ d ɤ̆ w ˧˨ ▁ h ă j ˧˧ ▁ m a ŋ ˧˨ ▁ h i n ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ʂ u ə k ˦˥ ▁ x i ˧˧ ▁ h e ˨˩˨ ▁ tʰ o ŋ͡m ˦˥ ▁ d ɔ k͡p ˨˩˨ ▁ h i ə w ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ h i n ˧˨ ▁ j a ŋ ˨˩˨ ▁ k ɤ ˧˧ ▁ tʰ e ˨˩˦ ▁ k u ə ˨˩˦ ▁ b a ŋ ˨˩˨
+DUMMY/wav/32a050e6be18d32a9dc014bd48b05a0a.wav|c o ŋ͡m ˧˨ ▁ t o j ˧˧ ▁ j a w ˧˨ ▁ d ɤ̆ j ˧˧ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ j a ŋ ˨˩˨ ▁ ɛ m ˧˧ ▁ x ɔ k͡p ˦˥ ▁ d u ŋ͡m ˦˥ ▁ n ɔ ˦˥ ▁ ʐ o j ˧˨
+DUMMY/wav/f0a03cd3bb4b4855cbf05d8618887d9b.wav|h i ə ŋ ˨˩˨ ▁ ʈ ɯ ə ŋ ˧˨ ▁ m o k͡p ˨˩˨ ▁ d i ə ˨˩˨ ▁ d i m ˨˩˦ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ t ɤ̆ ŋ ˦˥ ▁ k o ŋ͡m ˧˧ ▁ ɤ ˨˩˦ ▁ p a ɾ i ʃ ˧˧
+DUMMY/wav/949f37eb2d7047264a8aff5651f5e933.wav|t o j ˧˧ ▁ n ɔ j ˦˥
+DUMMY/wav/d2770cc8b3a7278941b6af57a96ea203.wav|j ɤ̆ j ˨˩˨ ▁ b a ˧˨ ▁ d i ˧˧
+DUMMY/wav/6ccf6977f3147c4a783c78cb79ce789b.wav|x w a ŋ ˨˩˦ ▁ t i ˧˧
+DUMMY/wav/abcc127b099146ef8a17083b0f894a46.wav|ɲ ɯ ŋ ˨˩˦ ▁ l a n ˨˩˦ ▁ d a w ˨˩˨ ▁ m a n ˨˩˨ ▁ m ɛ ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ m o k͡p ˨˩˨ ▁ c ɤ̆ w ˧˧ ▁ a ˦˥ ▁ m ɔ ŋ͡m ˧˧ ▁ m a n ˧˧
+DUMMY/wav/8ba517266c689d628222cc19055579df.wav|n ă ŋ ˦˥ ▁ tʰ ă ŋ ˨˩˦ ▁ d ɯ ŋ ˦˥ ▁ c i ə w ˦˥ ▁ j a w ˧˨ ▁ m ă k ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ d i ˧˧ ▁ d ɯ ə ŋ ˧˨ ▁ b ɔ ŋ͡m ˨˩˦ ▁ ʐ a t ˦˥
+DUMMY/wav/ca95e2f655e73ae109598a8aa6f84a9c.wav|t i ˧˧ kʰ ɛ ˧˧ ▁ j u ŋ͡m ˧˨ ▁ t ă w ˧˨ ▁ h a j ˨˩˦ ▁ j a m ˦˥ ▁ ɣ i ˧˧
+DUMMY/wav/0bfc82232b179b524bc325a3db805708.wav|t o j ˧˧ ▁ t ɤ̆ p ˨˩˨ ▁ ʈ u ŋ͡m ˧˧ ▁ j a ˧˨ ▁ b a ˧˧ ▁ d i ə w ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ w a ˦˥ ▁ ʈ i n ˧˨ ▁ c w ɤ̆ ŋ ˨˩˦ ▁ b i ˨˩˨
+DUMMY/wav/b8c183c514ad81b1eb16d324cdb33f91.wav|l u ə ŋ ˦˥ ▁ c ɔ ˧˧ ▁ m i n ˧˨ ▁ s ɤ̆ w ˦˥ ▁ h ɤ ŋ ˧˧ ▁ l u ə ŋ ˦˥ ▁ d e ˨˩˦ ▁ b a ŋ ˦˥ ▁ s a n ˧˧ ▁ t o k͡p ˦˥ ▁ h ɤ ŋ ˧˧
+DUMMY/wav/ff6d1398195998b0a2cdc184996b0470.wav|c ɤ̆ ŋ ˧˧ ▁ ʐ e t ˦˥ ▁ a l ˧˧ ▁ w a e ˧˧ j a ˧˧ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ c u ˨˩˦ ▁ m ɯ w ˧˧ ▁ j u ˨˩˨ ▁ d a n ˦˥ ▁ b ɔ m ˧˧ ▁ t a j ˨˩˨ ▁ b a ɣ ˧˧ j a d ˧˧
+DUMMY/wav/302433bb2ba331feba4495afd579bb67.wav|h i n ˧˨ ▁ a n ˨˩˦ ▁ b a ŋ ˨˩˨ ▁ tʰ ɤ̆ j ˦˥ ▁ f i ə ˦˥ ▁ ʂ ă w ˧˧ ▁ t o j ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ ɣ ɔ j ˨˩˨ ▁ l a ˧˨ ▁ k ɔ l ˧˧ l u ʒ i ɔ ŋ͡m ˧˧ ▁ j a ˧˨ ▁ n ɔ ˦˥ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ t i ə ŋ ˨˩˨ ▁ i t ˦˥ ▁ ʈ i n ˧˨ ▁ j w i ə k ˨˩˨ ▁ tʰ ɯ k ˨˩˨ ▁ ŋ i m ˨˩˨ ▁ m a ˧˨ ▁ b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ k a j ˧˨ ▁ d ă k ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ʈ i n ˧˨ ▁ j w i ə k ˨˩˨ ▁ f a j ˧˧ f ɔ k͡p ˦˥ ▁ k u ə ˨˩˦ ▁ b a ŋ ˨˩˨
+DUMMY/wav/b006c3dc4c56bd25ab52a01af46b2d9c.wav|m o k͡p ˨˩˨ ▁ l a w ˧˧ ▁ d o ŋ͡m ˨˩˨ ▁ ŋ e ˨˩˨ ▁ a ŋ ˧˧ ▁ b i ˨˩˨ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧ ▁ ɤ ˨˩˦ ▁ h a ŋ ˧˨ ▁ w o k͡p ˦˥
+DUMMY/wav/daf5f42f7605bbfd890e77610ef7b81d.wav|m ɛ ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ m ɤ ˨˩˦ ▁ w a ŋ ˦˥ ▁ k a f ɛ ˧˧ ▁ b a ŋ ˦˥ ▁ j ɤ̆ m ˧˧
+DUMMY/wav/2c9aeb457c33c7deb1a755f20babe4ff.wav|ŋ ɯ ə j ˧˨ ▁ d a ŋ ˧˨ ▁ o ŋ͡m ˧˧ ▁ n ă j ˧˨ ▁ t ɯ ˧˨ ▁ c o j ˦˥ ▁ t w ɤ̆ ŋ ˧˧ ▁ tʰ e o ˧˧ ▁ k a k ˦˥ ▁ w i ˧˧ ▁ ɯ ə k ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ tʰ ɯ ə ŋ ˧˨ ▁ j a ˧˨ ▁ w i ɛ t ˦˥ ▁ d i n ˨˩˨ ▁ l a m ˧˨ ▁ x a k ˦˥ ▁ d i ˧˧
+DUMMY/wav/a5050ad61a3e4484e64a0192c6bc919e.wav|j i ə k ˨˩˨ ▁ n ă j ˧˨ ▁ ʂ ɛ ˨˩˦ ▁ l a m ˧˨ ▁ ŋ a ˧˧ ▁ tʰ i ə k ˨˩˨ ▁ h a j ˨˩˨ ▁ ɣ ɤ̆ ŋ ˧˨ ▁ ɔ ˧˧ t i ˧˧ ▁ ʈ i ə w ˨˩˨ ▁ ɛ u ˧˧ ʐ ɔ ˧˧
+DUMMY/wav/15aeba876e68d7438b97030dae9455d1.wav|ŋ ɛ ˧˧ ▁ s ɔ ŋ͡m ˧˧ ▁ a n ˧˧ ▁ l i n ˧˧ ▁ h ɛ ŋ ˨˩˨ ▁ tʰ a n ˧˨ ▁ ɣ ă p ˨˩˨ ▁ ɲ ă w ˧˧ ▁ d e ˨˩˦ ▁ n ɔ j ˦˥ ▁ c w i ə ŋ ˨˩˨
+DUMMY/wav/dd7f78bca04705be2d27eada911de745.wav|k ɔ ˦˥ ▁ ɣ i ˧˨ ▁ tʰ ă j ˧˧ ▁ d o j ˨˩˦ ▁ ʂ a ŋ ˦˥ ▁ m a j ˧˧ ▁ t a w ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ ɲ ă ŋ ˦˥ ▁ t i n ˧˧
+DUMMY/wav/2951954aab48ad194f95cb6fde6a5e5e.wav|h ɤ ŋ ˧˧ ▁ ɛ ˧˧ t i ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ d a ˨˩˦ ▁ b i ˨˩˨ ▁ tʰ ɯ ə ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ k a k ˦˥ ▁ j u ˨˩˨ ▁ d a n ˦˥ ▁ b ɔ m ˧˧
+DUMMY/wav/871304290eba83e83d4611052fb931d0.wav|ŋ w a j ˧˨ ▁ ʐ a ˧˧ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ t i ə ŋ ˧˨ ▁ m e n ˨˩˨ ▁ j a ˦˥ ▁ j ɯ ə j ˦˥ ▁ ʂ i t ˧˧ ▁ d o ŋ͡m ˧˨ ▁ m ɤ j ˦˥
+DUMMY/wav/4ee6fb881f3a1e8f391c8581e9637567.wav|h a j ˧˧ ▁ tʰ a n ˧˧ ▁ n i ə ŋ ˧˧ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧ ▁ j ɔ ˧˧ ▁ j i n ˦˥ ▁ b ɤ̆ j ˨˩˦ ▁ c u ə k ˨˩˨ ▁ b ă ŋ ˧˨ ▁ d i ə ŋ ˨˩˨
+DUMMY/wav/793c916ae1b5ee765dd8c411480f4cab.wav|b a k ˦˥ ▁ ʂ i ˨˩˦ ▁ b i ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ ɲ a ˧˨ ▁ b e n ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ h a n ˧˨ ▁ h u ŋ͡m ˧˧ ▁ b ɤ̆ k ˦˥ ▁ t i n ˨˩˦
+DUMMY/wav/f4f904ccb78ab22d35dc61be9b327dc5.wav|k ɯ w ˨˩˨ ▁ t o ŋ͡m ˨˩˦ ▁ tʰ a m ˧˧ ▁ m ɯ w ˧˧ ▁ ʈ ɯ ə ŋ ˨˩˦ ▁ tʰ o ˨˩˦ ▁ ɲ i ˨˩˦ ▁ k i ˧˨ ▁ f a j ˨˩˦ ▁ h ɤ̆ w ˧˨ ▁ t w a ˧˨
+DUMMY/wav/3ddc6e6439f384e9804964229c989223.wav|k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ m ɤ ˨˩˦ ▁ ʐ o ŋ͡m ˨˩˨ ▁ ɣ ɤ̆ p ˦˥ ▁ d o j ˧˧ ▁ x u ˧˧ ▁ j ɯ k ˨˩˨ ▁ t i m ˧˨ ▁ k i m ˦˥ ▁ m a ˧˧ h a ˧˧ ɛ m ˨˩˦ t i ˧˧
+DUMMY/wav/e8b81db17a7916e44e0cffb8be84fc59.wav|i ˧˧ i ˧˧ ▁ j ɤ̆ ŋ ˧˧ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧ ▁ m u ə ŋ ˦˥ ▁ k ɯ ˧˧ ▁ ʈ u ˦˥ ▁ j i n ˨˩˦ ▁ j i ə ŋ ˨˩˦ ▁ t a j ˨˩˨ ▁ ŋ a ˧˧
+DUMMY/wav/19524e5cb6043fe7c524d7361c6c008e.wav|t ă w ˧˨ ▁ k i m ˨˩˦ ▁ ŋ ɯ ˧˧ ▁ ɛ ˧˧ k ɛ ˧˧ ▁ c ă j ˨˩˨ ▁ tʰ ɯ ˨˩˦ ▁ ŋ i m ˨˩˨ ▁ ʈ e n ˧˧ ▁ j i n ˨˩˨ ▁ h a ˨˩˨ ▁ l ɔ ŋ͡m ˧˧
+DUMMY/wav/8deda21dfb9951c021e63a3745c01c76.wav|ʈ ɔ ŋ͡m ˧˧ ▁ d ɔ ˦˥ ▁ t w a ŋ ˧˨ ▁ b o ˨˩˨ ▁ w a ŋ ˦˥ ▁ k a ɾ a w ˧˧ k ɛ ˧˧ ▁ ɣ i ˧˧ ▁ b i ˨˩˨ ▁ c ă j ˦˥ ▁ h w a ŋ ˧˨ ▁ t w a ŋ ˧˨
+DUMMY/wav/3ae6bde8fc3992bc5ff0a62ec99d1eaf.wav|k a ˦˥ ▁ tʰ e ˨˩˦ ▁ ɣ ɤ̆ w ˦˥ ▁ d ɤ̆ w ˧˨ ▁ t i ə ŋ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ c w i ə ŋ ˨˩˦ ▁ j a w ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ n ă m ˧˧ ▁ t ˌe ˧˧ i ˧˧
+DUMMY/wav/e29e9d276ec2b8edaf8748ef42b725b2.wav|a j ˧˧ ▁ k ɤ̆ p ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ b o ˦˥ ▁ l e n ˨˩˨ ▁ k ɤ̆ m ˦˥ ▁ j ɤ j ˦˥ ▁ k a k ˦˥ ▁ k u ə k ˨˩˨ ▁ b i ə w ˨˩˦ ▁ t i n ˧˨
+DUMMY/wav/c71166905ea12787ae2f944e8a31683e.wav|j a ˧˨ ▁ ŋ ă j ˧˧ ▁ j ɯ ə j ˦˥ ▁ k ɤ̆ w ˧˨ ▁ d ɯ ə ŋ ˧˨ ▁ ʂ ă k ˦˥ ▁ l a ˧˨ ▁ l o j ˦˥ ▁ j a w ˧˨ ▁ d ɯ ə ŋ ˧˨ ▁ h ɤ̆ m ˧˨
+DUMMY/wav/83694eb0636845029e6d118446c36313.wav|t o j ˧˧ ▁ d a ˨˩˦ ▁ s e p ˦˥ ▁ h a ŋ ˧˨ ▁ k a ˨˩˦ ▁ d e m ˧˧ ▁ d e ˨˩˦ ▁ k ɔ ˦˥ ▁ ʂ a ŋ ˨˩˦ ▁ f ɤ̆ m ˨˩˦ ▁ n ă j ˧˨
+DUMMY/wav/e0801cdc6b6fce3180c74b9b48b59687.wav|tʰ u ˨˩˦ ▁ t ɯ ə ŋ ˦˥ ▁ ɲ ɤ̆ k ˨˩˨ ▁ b a ŋ ˨˩˦ ▁ m u ə ŋ ˦˥ ▁ j o ŋ͡m ˧˨ ▁ l ɯ k ˨˩˨ ▁ d o j ˦˥ ▁ f ɔ ˦˥ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥
+DUMMY/wav/f19afe3962895c2105b6b243ee3c0783.wav|d ɔ ˦˥ ▁ l a ˧˨ ▁ ɛ m ˧˧ ▁ h a ˧˨ ▁ tʰ i ˨˩˨ ▁ a n ˧˧ ▁ t u ˦˥ ▁ h ɔ k͡p ˨˩˨ ▁ ʂ i n ˧˧ ▁ l ɤ p ˦˥ ▁ ɛ ˧˧
+DUMMY/wav/2ec83a9f81da92d817938d444090652e.wav|ŋ ă j ˧˨ ▁ n ă j ˧˧ ▁ x i ˧˧ ▁ k o ˦˥ ▁ w i ɛ t ˦˥ ▁ d i n ˨˩˨ ▁ m o k͡p ˨˩˨ ▁ t ɯ ˧˨ ▁ l a ˧˨ ▁ t o k͡p ˦˥ ▁ h ă j ˧˧ ▁ s ɤ̆ w ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ t a ˧˧ ▁ x o ŋ͡m ˧˧ ▁ tʰ ɤ̆ k ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ k ɔ ˦˥ ▁ l i ˦˥ ▁ j ɔ ˧˧ ▁ ʐ ɔ ˨˩˦ ▁ ʐ a ŋ ˧˨
+DUMMY/wav/cba3442c561532b788ce0d9083fca19c.wav|tʰ i n ˨˩˨ ▁ x ɔ k͡p ˦˥ ▁ x i ˧˧ ▁ n ɔ j ˦˥ ▁ d e n ˦˥ ▁ h w a ŋ ˧˨ ▁ k a n ˨˩˦ ▁ b i ˨˩˨ ▁ j ɤ ˨˩˨ ▁ f a ŋ ˨˩˦ ▁ b o j ˨˩˨
+DUMMY/wav/2025d7ad180b3e3e39c70563dec78620.wav|tʰ ă ŋ ˧˨ ▁ b ɛ ˦˥ ▁ x o ŋ͡m ˧˧ ▁ tʰ e ˨˩˦ ▁ n ɔ j ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ ɣ i ˧˨
+DUMMY/wav/f18eefb05b5f33a68198d83e270901a3.wav|s ɛ ˧˧ ▁ w a ˦˥ ▁ t a j ˨˩˦ ▁ h w a n ˧˨ ▁ h a n ˧˨ ▁ l a m ˧˨ ▁ h ɯ ˧˧ ▁ d ɯ ə ŋ ˧˨ ▁ n ɔ ŋ͡m ˦˥ ▁ ŋ i ˨˩˨ ▁ ʈ ɯ ə ŋ ˧˨
+DUMMY/wav/fcb723c341412028650b6b9ac9771240.wav|ʐ ɤ̆ k ˦˥ ▁ m ă j ˧˧ ▁ j u ˨˩˨ ▁ ʂ ɤ̆ p ˨˩˨ ▁ ɲ a ˧˨ ▁ x o ŋ͡m ˧˧ ▁ ɣ ɤ̆ j ˧˧ ▁ tʰ i ə k ˨˩˨ ▁ h a j ˨˩˨ ▁ j e ˧˨ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/709f82782204b264e79fa731d83b390b.wav|c ă w ˦˥ ▁ ɛ ŋ ˧˧
+DUMMY/wav/4ffe7f839adaced7ff5c1d4ea22314e1.wav|ʂ ă w ˦˥ ▁ c i ə ŋ ˦˥ ▁ d ɤ̆ w ˦˥ ▁ k ɤ ˧˧ ▁ j ˧˧ ▁ ɛ ˧˧ ▁ k u ə ˨˩˦ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ b ă j ˧˧ ▁ b i ə w ˨˩˦ ▁ j i ə ŋ ˨˩˦
+DUMMY/wav/967e2d5ea8beb3f4899912da80b9f932.wav|b i ə k ˦˥ ▁ b a w ˧˧ ▁ tʰ a m ˨˩˦ ▁ k a n ˨˩˦ ▁ d a ˨˩˦ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ j i ˧˨ ▁ n a ŋ ˨˩˨ ▁ b a j ˧˨ ▁ b a k ˨˩˨
+DUMMY/wav/6835718c2e261b0eb2dd2e982a93e00f.wav|d ɤ̆ m ˧˧ ▁ c e t ˦˥ ▁ tˤ i ˧˧ ▁ h i p ˨˩˨ ▁ ʂ i ˨˩˦ ▁ , ▁ t a j ˧˨ ▁ m u ŋ͡m ˨˩˨ ▁ l i n ˨˩˦ ▁ a ŋ ˦˥ ▁ t ɯ ˨˩˦ ▁ h i n ˧˨
+DUMMY/wav/bf335ff1dab866d039fe656d1ae589ce.wav|t o ŋ͡m ˨˩˦ ▁ k i m ˨˩˦ ▁ ʈ a ˧˧ ▁ ʐ a ˧˨ ▁ ʂ w a t ˦˥ ▁ w a ŋ ˦˥ ▁ k a ɾ a w ˧˧ k ɛ ˧˧ ▁ j u ˨˩˦ ▁ ʈ ɯ ə ŋ ˧˨ ▁ w a ŋ ˦˥ ▁ b a ʁ ˧˧
+DUMMY/wav/dd0b805726893410e568c7935528f7a2.wav|m o k͡p ˨˩˨ ▁ tʰ a n ˧˧ ▁ n i ə ŋ ˧˧ ▁ c ɛ m ˦˥ ▁ c e t ˦˥ ▁ w a ŋ ˨˩˦ ▁ d o k͡p ˦˥ ▁ ʈ ɯ ə k ˦˥ ▁ k o ŋ͡m ˨˩˦ ▁ k o ŋ͡m ˧˧ ▁ t i ˧˧
+DUMMY/wav/0b5521f718904ab18b1ed7a8ed03a6a6.wav|j a ˧˨ ▁ ʐ o j ˧˨ ▁ c ɔ ˧˧ ▁ n ɔ ˦˥ ▁ d i ˧˧ ▁ i ˧˧ ▁ l u k͡p ˦˥ ▁ j a ˧˨ ▁ ŋ ă j ˧˧ ▁ ʂ ă w ˧˧ ▁ x i ˧˧ ▁ ɲ i n ˧˨ ▁ tʰ ɤ̆ j ˦˥ ▁ d u ə j ˧˧ ▁ k u ə ˨˩˦ ▁ n ɔ ˦˥ ▁ b a ŋ ˨˩˨ ▁ n ă m ˦˥ ▁ l ɤ̆ j ˧˧ ▁ d u ə j ˧˧ ▁ j a ˧˨ ▁ b ă k ˦˥ ▁ n ɔ ˦˥ ▁ w ă j ˧˧ ▁ ʈ ɤ ˨˩˦ ▁ l a j ˨˩˨
+DUMMY/wav/6504bb931c9f9f82b907e62348ed9a16.wav|j a ˧˨ ▁ t o j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ ŋ ɤ ˧˨ ▁ m o k͡p ˨˩˨ ▁ n ă m ˧˧ ▁ ʂ ă w ˧˧
+DUMMY/wav/b4a768aa34a4f9e83ba826cccd18b765.wav|ŋ ɯ ə j ˧˨ ▁ c e t ˦˥ ▁ ʈ ɤ ˨˩˦ ▁ j e ˧˨ ▁ j ɔ ˧˧ ▁ k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ j a w ˧˧ ▁ ɲ ɤ̆ m ˧˨ ▁ tʰ i ˧˧ ▁ tʰ e ˨˩˦
+DUMMY/wav/2b205fd8bf0fcd459c4d726a574314ae.wav|d ɯ ŋ ˧˨ ▁ k ă m ˧˧ ▁ ɣ ɛ t ˦˥ ▁ ʈ w i ə ŋ ˧˨ ▁ tʰ o ŋ͡m ˧˧ ▁ h ă j ˨˩˦ ▁ ʈ ɤ ˨˩˦ ▁ tʰ a n ˧˨ ▁ ʈ w i ə ŋ ˧˨ ▁ tʰ o ŋ͡m ˧˧
+DUMMY/wav/be42933a3d2c8dc7146b3590628e0feb.wav|b a ŋ ˨˩˨ ▁ w a ˨˩˦ ▁ l a ˧˨ ▁ k ɔ ˦˥ ▁ ʐ ɤ̆ k ˦˥ ▁ ɲ i ə w ˧˨
+DUMMY/wav/c2f5a7cd84a62a37fb70af05ea655ffe.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ m u ə ŋ ˦˥ ▁ h ɔ k͡p ˨˩˨ ▁ f ɯ ə ŋ ˧˧ ▁ f a p ˦˥ ▁ d e ˨˩˦ ▁ s ɤ̆ j ˧˧ ▁ j ɯ ŋ ˨˩˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ k o ŋ͡m ˧˧ ▁ ʈ i n ˧˨ ▁ ʂ i n ˧˧ ▁ h ɔ k͡p ˨˩˨ ▁ ɲ ɯ ˧˧ ▁ k ɔ ŋ͡m ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ k a ˦˥ ▁ j ɔ j ˧˧ ▁ j a ˧˨ ▁ k ɤ̆ j ˧˧ ▁ k o j ˦˥
+DUMMY/wav/b89cbb3c623bbc6360bd9608a1d54aa1.wav|t w i ə ŋ ˦˥ ▁ d ɯ ə ŋ ˧˨ ▁ ʂ ă k ˦˥ ▁ h a ˧˨ ▁ n o j ˨˩˨ ▁ n a m ˧˧ ▁ n i n ˧˧ ▁ c ă j ˨˩˨ ▁ h a ŋ ˧˨ ▁ ŋ ă j ˧˨
+DUMMY/wav/e467cec414cc72b8a917fa21f069d41b.wav|tʰ ɤ̆ m ˨˩˨ ▁ c i ˦˥ ▁ k ɔ ˦˥ ▁ k a ˨˩˦ ▁ s ɛ ˧˧ ▁ tʰ u ŋ͡m ˧˨ ▁ d o ŋ͡m ˧˧ ▁ l a n ˨˩˨ ▁ d i ˧˧ ▁ j a w ˧˨ ▁ ʐ ɯ ŋ ˧˨
+DUMMY/wav/4b8cd4e14465616e6f8f8a5aeec51869.wav|k e t ˦˥ ▁ n o j ˦˥ ▁ c i n ˦˥ ▁ l a ˧˨ ▁ n ă ŋ ˧˧ ▁ l ɯ ə ŋ ˨˩˨ ▁ d e ˨˩˦ ▁ ʈ a ŋ ˧˧ ▁ m a ŋ ˨˩˨ ▁ h w a t ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ j a ˧˨ ▁ d e ˨˩˦ ▁ l a m ˧˨ ▁ c ɔ ˧˧ ▁ m ɔ j ˨˩˨ ▁ tʰ ɯ ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ ŋ i ˨˩˦ ▁ ʐ ă ŋ ˧˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦
+DUMMY/wav/44b2df6d56cd0e88e478d4899b80bd78.wav|k e t ˦˥ ▁ w a ˨˩˦ ▁ k u ə j ˦˥ ▁ k u ŋ͡m ˧˨ ▁ l a ˧˨ ▁ p i t ˧˧
+DUMMY/wav/a4456b15e1de0f69de15dc67e5b7d041.wav|h ɤ ŋ ˧˧ ▁ t͡s u ˧˧
+DUMMY/wav/4fd679b4274a1cc83abe0e7e9e362f74.wav|j ɔ ˧˧ ▁ j ɤ̆ j ˨˩˨ ▁ m u ə ŋ ˦˥ ▁ n u ə j ˧˧ ▁ ɣ a ˧˨ ▁ f a j ˨˩˦ ▁ d ă ŋ ˧˧ ▁ k i ˦˥ ▁ j ɤ j ˦˥ ▁ d i ə ˨˩˨ ▁ f ɯ ə ŋ ˧˧
+DUMMY/wav/f2acc39d7cbf969496a26d0480f568af.wav|h w a ŋ ˨˩˦ ▁ j o ˧˧ ▁ tʰ ɤ j ˧˨ ▁ h a ŋ ˨˩˨ ▁ k u ə k ˨˩˨ ▁ ɣ ă p ˨˩˨ ▁ k ɤ̆ p ˦˥ ▁ k a w ˧˧ ▁ p a ˧˧ ▁ l ɛ ˧˧ ▁ s t i n ˧˧ ▁ i ˧˧ ▁ ʂ a ˧˧ ▁ ɛ ŋ ˧˧
+DUMMY/wav/d96b9b1c9a8b81a377ac4b42f7a95c16.wav|b a ˧˧ ▁ l a ˧˨ ▁ f a j ˨˩˦ ▁ c ɤ̆ m ˦˥ ▁ j ɯ k ˦˥ ▁ k a k ˦˥ ▁ c i n ˦˥ ▁ ʂ a t ˦˥ ▁ a p ˦˥ ▁ c e ˦˥ ▁ i ˧˧ ʐ a ŋ ˧˧
+DUMMY/wav/94bb1c0db29af813b51301875ee8f229.wav|m ɤ̆ j ˦˥ ▁ t ă j ˧˧ ▁ n ă j ˧˨ ▁ ă ŋ ˧˧ ▁ tʰ e o ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ ʈ u ŋ͡m ˦˥ ▁ k a ˨˩˦ ▁ c u k͡p ˨˩˨ ▁ ʈ i ə w ˨˩˨ ▁ d o ŋ͡m ˧˨
+DUMMY/wav/8f004203f563e68380b96e065c15233e.wav|j i ˧˨ ▁ tʰ e ˦˥ ▁ tʰ ɤ̆ m ˨˩˦ ▁ w i ɛ ŋ ˧˨ ▁ k i ˦˥ ▁ h ɤ p ˨˩˨ ▁ d o ŋ͡m ˧˨ ▁ ɕ i ɛ ˧˧ ▁ tʰ u ə k ˨˩˨ ▁ j e ˧˨ ▁ p i ˧˧ v ˧˧ p ɔ w ɛ ʁ ˧˧
+DUMMY/wav/11665c86741c718015fa6664159ef699.wav|c u ŋ͡m ˦˥ ▁ k ɔ ŋ͡m ˧˧ ▁ d a ˨˩˦ ▁ h ɯ ŋ ˦˥ ▁ x ɤ j ˨˩˦ ▁ w a ˦˥ ▁ j a ˧˨ ▁ b ɔ ˨˩˦ ▁ w a ˧˧ ▁ c w i ə ŋ ˨˩˨ ▁ d ɔ ˦˥
+DUMMY/wav/086d9ba9cd70509ec913b47ad5e6ec7b.wav|c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ f a j ˨˩˦ ▁ ʈ o ŋ͡m ˧˨ ▁ c u ŋ͡m ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ m o j ˧˧ ▁ ʈ ɯ ə ŋ ˧˨ ▁ k ɔ ˦˥ ▁ f ɤ̆ ŋ ˧˧ ▁ b ɔ ŋ͡m ˦˥ ▁ j o ˧˧ ▁ ʈ u ŋ͡m ˧˨ ▁ h w ă k ˨˩˨ ▁ l a ˧˨ ▁ ʈ o ŋ͡m ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ n ɯ ə k ˦˥ ▁ k ɔ ˦˥ ▁ ɲ i ə w ˧˨ ▁ c ɤ̆ k ˦˥ ▁ j i n ˧˧ ▁ j ɯ ə ŋ ˨˩˦ ▁ j a ˧˨ ▁ d ɛ m ˧˧ ▁ c u ŋ͡m ˦˥ ▁ ʐ a ˧˧ ▁ ŋ w a j ˧˨ ▁ ʈ ɤ j ˧˨ ▁ x w a ŋ ˨˩˦ ▁ ɣ i ˧˧ ▁ ɣ i ˧˧ ▁ tʰ a ŋ ˦˥ ▁ m o k͡p ˨˩˨ ▁ l ɤ̆ ŋ ˧˨
+DUMMY/wav/39c0306f0121cf9ca75f614f3d611131.wav|k ɔ ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ d a ŋ ˧˧ ▁ ʂ ă j ˧˧ ▁ b i ˦˥ ▁ t i ˨˩˦ ▁ x i ˧˧ ▁ s ɤ̆ j ˧˧ ▁ j ɯ ŋ ˨˩˨ ▁ l ɛ ɣ ɔ ˧˧
+DUMMY/wav/2208b9ecbcd531f7886fccab6d9bd17f.wav|ɲ ɯ ŋ ˧˧ ▁ ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ tˤ i ˧˧ ▁ t w ɤ̆ ŋ ˧˨ ▁ m ɛ ˨˩˨ ▁ t o j ˧˧ ▁ l a j ˨˩˨ ▁ ɣ ɔ j ˨˩˨ ▁ b a ˧˨ ▁ ɤ̆ j ˦˥ ▁ n ɔ j ˦˥ ▁ k ɔ ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ b i ə k ˦˥ ▁ l a ˧˨ ▁ n ɛ u ˦˥ ▁ c w i ə ŋ ˨˩˦ ▁ d e n ˦˥ ▁ m i ˨˩˦ ▁ k ɔ ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ tʰ ă j ˧˧ ▁ d o j ˨˩˦ ▁ t e n ˧˧ ▁ j a ˧˨ ▁ j ɤ j ˦˥ ▁ t i n ˦˥
+DUMMY/wav/8370bddf4104edaff82867bab3175d38.wav|d e ˧˨ ▁ ŋ i ˨˩˨ ▁ ʈ w i ˧˧ ▁ t o ˦˥ ▁ tˤ i ˧˧ ▁ tʰ a n ˧˧ ▁ n i ə ŋ ˧˧ ▁ d a n ˦˥ ▁ i ˧˧ ▁ o ŋ͡m ˧˧ ▁ j a ˧˨
+DUMMY/wav/a913f7e4ba7eb151b7ec96c53643599c.wav|ɣ i ˧˧ ▁ t ă w ˧˨ ▁ t i ˧˧ kʰ ɛ ˧˧ ▁ d e n ˦˥ ▁ ɣ ɤ̆ ŋ ˧˨ ▁ ʂ ɛ ŋ ˧˧ k a k u ˧˧ ▁ ʂ ă w ˧˧ ▁ x i ˧˧ ▁ ɲ ɤ̆ k ˨˩˨ ▁ ɣ ɤ̆ j ˧˧ ▁ ʂ o k͡p ˦˥
+DUMMY/wav/931612f921f5a2ab475048d9bbec937a.wav|b ɤ j ˨˩˦ ▁ j i ˧˨ ▁ x i ˧˧ ▁ a n ˧˧ ▁ c e t ˦˥ ▁ d i ˧˧ ▁ m o k͡p ˨˩˨ ▁ tʰ ɯ ˧˧ ▁ j i ə ŋ ˨˩˨ ▁ b i ˨˩˨ ▁ d o k͡p ˦˥ ▁ c ă j ˦˥ ▁ j a ˧˨ ▁ ʈ e n ˧˧ ▁ x ă p ˦˥ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥ ▁ tʰ ɯ ˧˧ ▁ j i ə ŋ ˨˩˨ ▁ b i ˨˩˨ ▁ d o k͡p ˦˥ ▁ c ă j ˦˥
+DUMMY/wav/3c125c4d9c37ab7afe3ea9eec8bcb01d.wav|ɲ ɔ m ˦˥ ▁ k o ŋ͡m ˧˧ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ b i ˨˩˨ ▁ b ă k ˦˥ ▁ w a ˨˩˦ ▁ t a ŋ ˧˧ ▁ x i ˧˧ ▁ d a ŋ ˧˧ ▁ d a n ˦˥ ▁ b a k ˨˩˨
+DUMMY/wav/aff846b7547fb3f3174659a84ad4d04f.wav|k u ŋ͡m ˨˩˦ ▁ l a ˧˨ ▁ j i ˧˨ ▁ ʂ a w ˧˧ ▁ t o j ˧˧ ▁ d e ˨˩˦ ▁ n ɔ ˦˥ ▁ d e n ˦˥ ▁ k u ə j ˦˥
+DUMMY/wav/4a9787be579cb547e8d28a255bf9cf4b.wav|h a j ˧˧ ▁ ɛ m ˧˧ ▁ b ɛ ˦˥ ▁ k i n ˧˧ ▁ h a j ˨˩˦ ▁ f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ tʰ i ˧˧ ▁ tʰ e ˨˩˦ ▁ ʈ o j ˧˧ ▁ ʂ o ŋ͡m ˧˧
+DUMMY/wav/e01657d7852114a222e8ab1fcdd55d37.wav|h i ə ŋ ˨˩˨ ▁ ʂ ɯ k ˦˥ ▁ x w e ˨˩˦ ▁ k u ə ˨˩˦ ▁ tˤ i ˧˧ ▁ c i ə ŋ ˦˥ ▁ ʂ i ˨˩˦ ▁ d a ŋ ˧˧ ▁ j ɤ̆ ŋ ˧˨ ▁ b i n ˧˨ ▁ f u k͡p ˨˩˨
+DUMMY/wav/dbaa5043a1182748d27b810b9cbeb62d.wav|k a ˨˩˦ ▁ h a j ˧˧ ▁ f a j ˨˩˦ ▁ b o j ˧˨ ▁ tʰ ɯ ə ŋ ˧˨ ▁ tʰ i ə k ˨˩˨ ▁ h a j ˨˩˨ ▁ l a ˧˨ ▁ ɛ ˧˧ ɛ ˧˧ ▁ t i ˨˩˦ ▁ d o ŋ͡m ˧˨
+DUMMY/wav/e0d861a70b94e6eed6e6dd974272c2fa.wav|k u k͡p ˨˩˨ ▁ tʰ i ˧˧ ▁ h a n ˧˨ ▁ a ŋ ˦˥ ▁ j ɤ̆ ŋ ˧˧ ▁ ʂ ɯ ˨˩˨ ▁ t i ˧˧ p i ˧˧
+DUMMY/wav/64b280ad4018dcfe8e12bc08f1e67a03.wav|j i ˦˥ ▁ t i ə ŋ ˧˨ ▁ k ɔ ˦˥ ▁ t i ə ŋ ˧˨ ▁ m ă k ˨˩˨ ▁ j a ˧˨ ▁ tˤ i ˧˧
+DUMMY/wav/060912c1dcd78fde991292b59df37ebe.wav|t͡sʰ a ˧˧ h a ˧˧ t͡s ˨˩˦ ɛ n ˧˧ ▁ ʈ i ə w ˧˨ ▁ t i ə ŋ ˧˧ ▁ c ɯ ə ˧˧ ▁ k ɔ ˦˥ ▁ f a ŋ ˨˩˦ ▁ ɯ ŋ ˦˥ ▁ j e ˧˨ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ ʈ e n ˧˧
+DUMMY/wav/e41679cfd871648bbb6d970620b52d97.wav|h i ə ŋ ˨˩˨ ▁ n ă j ˧˧ ▁ d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ j ɤ̆ ŋ ˦˥ ▁ d e ˧˨ ▁ l ɤ ŋ ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ j i ə k ˨˩˨ ▁ d i ə w ˧˨ ▁ ʈ i ˨˩˨ ▁ h i v ˧˧ ▁ b ă ŋ ˧˨ ▁ tʰ u ə k ˦˥ ▁ x i ˧˧ ▁ b e n ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ f a j ˨˩˦ ▁ u ə ŋ ˦˥ ▁ tʰ u ə k ˦˥ ▁ k a ˨˩˦ ▁ d ɤ j ˧˨
+DUMMY/wav/f15aff949f7780e07cd4d699af755110.wav|m o k͡p ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ f u ˨˩˨ ▁ n ɯ ˨˩˦ ▁ ɣ ɤ̆ ŋ ˧˨ ▁ w i ˧˧ ▁ b i ˨˩˨ ▁ j i n ˦˥ ▁ c ă k ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ s ɛ ˧˧ ▁ b a ˧˨ ▁ ɤ̆ j ˦˥ ▁ b i ˨˩˨ ▁ d ɤ̆ m ˧˧ ▁ ŋ a ŋ ˧˧ ▁ ɤ ˨˩˦ ▁ t o k͡p ˦˥ ▁ d o ˨˩˨ ▁ k a w ˧˧ ▁ d a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ t i n ˧˨ ▁ ʈ a ŋ ˨˩˨ ▁ ŋ w i ˧˧ ▁ k i t ˨˩˨
+DUMMY/wav/1bc033d3984ec0f9d7ac425c3739aa78.wav|b ɔ ˨˩˦ ▁ m a ˧˧ ▁ t u j ˦˥ ▁ j a w ˧˨ ▁ ɣ ɔ j ˦˥ ▁ tʰ u ə k ˦˥ ▁ l a ˦˥ ▁ b a ŋ ˦˥ ▁ k u ŋ͡m ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ tʰ w a t ˦˥
+DUMMY/wav/645d8116cd64e986b24c2d588ceb62cb.wav|t ˌɛ s ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ b i ˨˩˨ ▁ c ă j ˦˥ ▁ ʈ e n ˧˧ ▁ b i ə ŋ ˨˩˦ ▁ d ɔ ˨˩˦
+DUMMY/wav/5e1bf32d19e6eec80cea839451998f3a.wav|ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ x i ˧˧ ▁ t i n ˨˩˦ ▁ j ɤ̆ j ˨˩˨ ▁ d a ˨˩˦ ▁ tʰ ɤ̆ j ˦˥ ▁ n ă m ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ b e n ˨˩˨ ▁ j i ə ŋ ˨˩˨
+DUMMY/wav/556e55affa58c161c14a45aace6ff78b.wav|ŋ ă j ˧˧ ▁ ʂ a ŋ ˦˥ ▁ h o m ˧˧ ▁ ʂ ă w ˧˧ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ d a ˨˩˦ ▁ b ă k ˦˥ ▁ j ɯ ˨˩˦ ▁ t e n ˧˧ ▁ k ɤ̆ ŋ ˨˩˦
+DUMMY/wav/431d280f7e3d4231c26188d9c7bab953.wav|h ă j ˨˩˦ ▁ s ɛ m ˧˧ ▁ w a ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ b ă ŋ ˧˨ ▁ c ɯ ŋ ˦˥ ▁ ɛ t ˨˩˦ ɛ t ˨˩˦
+DUMMY/wav/f2180eb87b365e2ab713a4aad1601ffe.wav|d e ˨˩˦ ▁ d a t ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ɣ i ˧˨ ▁ m a ˧˨ ▁ tʰ ɯ k ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ b a ŋ ˨˩˦ ▁ tʰ ɤ̆ ŋ ˧˧ ▁ k a k ˦˥ ▁ k o ŋ͡m ˧˧ ▁ t i ˧˧ ▁ m ɔ ŋ͡m ˧˧ ▁ d ɤ j ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ x a j ˧˧ ▁ l a ˧˨ ▁ t o j ˦˥ ▁ w a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨ ▁ ɲ ɯ ŋ ˧˧ ▁ k o ŋ͡m ˧˧ ▁ x a j ˧˧ ▁ ʈ i ə k ˨˩˨ ▁ d e ˨˩˦ ▁ k u ŋ͡m ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ f a j ˨˩˦ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ j a j ˨˩˦ ▁ f a p ˦˥ ▁ j i ˧˨ ▁ x i ˧˧ ▁ m ɔ j ˨˩˨ ▁ tʰ ɯ ˦˥ ▁ k o ŋ͡m ˧˧ ▁ x a j ˧˧ ▁ tʰ i ˧˨ ▁ k u ŋ͡m ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ ɣ i ˧˨ ▁ x o ŋ͡m ˧˧ ▁ x a j ˧˧ ▁ k a ˨˩˦
+DUMMY/wav/c49d1d77dbce295daf326b7214d469a3.wav|tʰ ɤ̆ k ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ m ă j ˧˧ ▁ i w t u b ɛ ˧˧ ▁ k ɔ ˦˥ ▁ ʐ ɤ̆ k ˦˥ ▁ ɲ i ə w ˧˨ ▁ j i d ˈe o ʃ ˧˧ ▁ m e o ˧˨ ▁ j a w ˧˧ ▁ f o j ˦˥
+DUMMY/wav/da235c26a34e0d57eb3b39e06d1c50ac.wav|ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ ŋ e ˨˩˨ ▁ d o ˧˨ ▁ h w a ˨˩˨ ▁ j i ˧˧ ▁ t i n ˦˥ ▁ m a ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ f a t ˦˥ ▁ ʈ i ə ŋ ˨˩˦ ▁ j a ˧˨ ▁ j ɤ j ˦˥ ▁ ʂ ɯ ˨˩˨ ▁ k o ŋ͡m ˨˩˨ ▁ t a k ˦˥ ▁ k u ə ˨˩˦ ▁ i ˧˧ ▁ ʂ o ˦˥ ▁ d o ŋ͡m ˧˨ ▁ ŋ i p ˨˩˨ ▁ t a j ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ t i ˧˧ ▁ i m a ˧˧ ɣ ɛ ˧˧ ▁ m ɛ t̪ r i t ˧˧
+DUMMY/wav/746a4633a0d9e1d324b10723bdb56ebe.wav|j e t ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ k ɯ p ˦˥ ▁ s ɛ ˧˧ ▁ o m ˧˧ ▁ ʐ o j ˧˨ ▁ f i ˧˧ ▁ t a ŋ ˧˧ ▁ s a k ˦˥ ▁ j ɯ ə j ˦˥ ▁ m ɯ ə ŋ ˧˧
+DUMMY/wav/5872b06e8e683ceaf626664587172a6f.wav|f ɔ ŋ͡m ˦˥ ▁ j i ə ŋ ˧˧ ▁ j ɔ w ˧˧ ▁ b i ˨˩˨ ▁ b ă k ˦˥ ▁ j u ŋ͡m ˧˨ ▁ k l i p ˧˧ ▁ t o ŋ͡m ˦˥ ▁ t i ə ŋ ˧˨ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧
+DUMMY/wav/f74a0483575cc57713975fe0dc4c37ad.wav|b u ə k ˨˩˨ ▁ tʰ o j ˧˧ ▁ j i ə k ˨˩˨ ▁ k a ŋ ˦˥ ▁ b o ˨˩˨ ▁ ă ŋ ˧˧ ▁ c ă ŋ ˨˩˨ ▁ t i ə ŋ ˧˨ ▁ k u ə ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ ŋ e o ˧˨
+DUMMY/wav/3f5e7159ca5ba79d498e8536fefac3ff.wav|j u ˧˧ ▁ k i t ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ tʰ ɯ ə ŋ ˧˧ ▁ ɲ ɤ ˦˥ ▁ c i ˨˩˨ ▁ t ɯ ˧˧ ▁ l ă m ˦˥ ▁ a n ˧˧ ▁ a ˧˨
+DUMMY/wav/f7f8d1d6ccc6fa9a53a355951e3d9f84.wav|c u ˨˩˦ ▁ ɲ a ˧˨ ▁ ʈ ɔ ˨˩˨ ▁ c ɯ ə ˦˥ ▁ m a j ˨˩˨ ▁ j ɤ̆ m ˧˧ ▁ x o ŋ͡m ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ j a m ˨˩˦ ▁ a ŋ ˦˥
+DUMMY/wav/a7febdb328ef914a31e51c30e6bb0343.wav|j ɤ̆ ŋ ˧˧ ▁ l a ŋ ˧˨ ▁ d o ŋ͡m ˧˧ ▁ k o k͡p ˦˥ ▁ m u ə ŋ ˦˥ ▁ b a ŋ ˦˥ ▁ n o k͡p ˦˥ ▁ k ɤ̆ j ˧˧ ▁ ʂ ɯ ə ˧˧ ▁ ɔ ˧˧ t i ˧˧ ▁ t u ə j ˨˩˦
+DUMMY/wav/cd9036f13db8480ddbbf3c45306b6f68.wav|ɯ ŋ ˦˥ ▁ j i ə ŋ ˧˧ ▁ n a w ˧˨ ▁ f u ˧˨ ▁ h ɤ p ˨˩˨ ▁ j ɤ j ˦˥ ▁ j i ə k ˨˩˨ ▁ n a m ˧˧
+DUMMY/wav/6d921922feaf75063e1dd4f0a0f46f31.wav|b ɤ j ˨˩˦ ▁ j i ˧˨ ▁ n ɛ u ˦˥ ▁ b a ŋ ˨˩˨ ▁ l ɤ̆ j ˦˥ ▁ ɣ ɛ ŋ ˧˧ ▁ t o ŋ͡m ˨˩˦ ▁ h ɤ p ˨˩˨ ▁ p ʈ ɔ t e i n ˧˧ ▁ h w i n ˧˨ ▁ w a ŋ ˧˧ ▁ l u k͡p ˨˩˨ ▁ j a ˧˨ ▁ k ɤ̆ j ˦˥ ▁ n ɔ ˦˥ ▁ j a w ˧˨ ▁ m o k͡p ˨˩˨ ▁ t e ˦˥ ▁ b a w ˧˨
+DUMMY/wav/5f355091820ce6bb655f5a18b83caad5.wav|n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ l a ˧˨ ▁ o ŋ͡m ˧˧ ▁ h a ˧˧
+DUMMY/wav/bcffa0b769d6e532b4349ed004c40db7.wav|ʂ ɤ ˨˩˨ ▁ w a ˦˥ ▁ t o j ˧˧ ▁ j o j ˨˩˨ ▁ c ă j ˨˩˨ ▁ ʐ a ˧˧ ▁ x ɔ j ˨˩˦ ▁ f ɔ ŋ͡m ˧˨ ▁ l a w ˧˧ ▁ s u ə ŋ ˦˥ ▁ d ɤ̆ k ˦˥
+DUMMY/wav/b90a2916d2032d53e6bceec1531809ed.wav|ɣ ă p ˨˩˨ ▁ ɣ ɤ ˨˩˦ ▁ c i ə ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ d o ŋ͡m ˨˩˨ ▁ j i ə ŋ ˧˧ ▁ t ɤ j ˦˥ ▁ j a ˧˧ ▁ d i n ˧˨ ▁ ʂ a ŋ ˨˩˦ ▁ f u ˨˩˨
+DUMMY/wav/6434c00a08de52702e5e49885ed4b2ca.wav|ɲ ɯ ŋ ˨˩˦ ▁ i ˦˥ ▁ t ɯ ə ŋ ˨˩˦ ▁ tʰ ɤ̆ k ˨˩˨ ▁ ʐ a ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ s w ɤ̆ k ˦˥ ▁ f a t ˦˥ ▁ t ɯ ˧˨ ▁ n ă m ˧˧ ▁ ɛ t ˨˩˦ t i ˧˧ ▁ ʈ ɯ ə k ˦˥ ▁ k o ŋ͡m ˧˧ ▁ ŋ w i ə ŋ ˧˧ ▁ t a j ˨˩˨ ▁ i ˧˧ ▁ tʰ a n ˧˨ ▁ f o ˦˥ ▁ b i ˨˩˨ ▁ m ɤ̆ k ˦˥ ▁ t i t ˦˥ ▁ c ɯ ə ˧˧ ▁ b a w ˧˧ ▁ l ɤ̆ w ˧˧ ▁ d a ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ t i m ˧˨ ▁ tʰ ɤ̆ j ˦˥ ▁ ɲ ɯ ˧˧ ▁ ʈ e n ˧˧
+DUMMY/wav/3ece4fab20ce3df64eb01f43cb651766.wav|t ɯ ə ŋ ˦˥ ▁ m i ˨˩˦ ▁ tʰ ɯ ə ˧˨ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ w ɤ̆ ŋ ˧˧ ▁ m i ˨˩˦ ▁ d a ŋ ˧˧ ▁ tʰ u ə ˧˧ ▁ k ɛ m ˦˥ ▁ ŋ a ˧˧
+DUMMY/wav/4189119da3d88a1759e88183590facba.wav|b a w ˦˥ ▁ c i ˦˥ ▁ l a ˧˨ ▁ t ɤ̆ m ˦˥ ▁ ɣ ɯ ə ŋ ˧˧ ▁ f a ŋ ˨˩˦ ▁ a n ˦˥ ▁ t ɤ̆ m ˧˧ ▁ ʈ a ŋ ˨˩˨ ▁ s a ˨˩˦ ▁ h o j ˨˩˨
+DUMMY/wav/97b36f5ef642b83ad71c0aa7e4aec362.wav|ŋ ɯ ə j ˧˨ ▁ j ɔ ˧˧ ▁ tʰ a j ˦˥ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ j ɤ̆ ŋ ˧˧ ▁ t o k͡p ˨˩˨ ▁ k ɔ ˦˥ ▁ w i ɛ ŋ ˧˨ ▁ t ɯ ˨˩˨ ▁ w i ɛ t ˦˥
+DUMMY/wav/91094ce2432bb6c1c61751c1fe8bb8d9.wav|b o ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ tʰ ɯ ə ŋ ˧˧
+DUMMY/wav/a615b220d8901be2e74c4f0c3b967576.wav|m ă k ˨˩˨ ▁ x a k ˦˥ ▁ j i ˨˩˨ ▁ j a m ˦˥ ▁ d o k͡p ˦˥ ▁ b a w ˦˥ ▁ c ɔ ˧˧ ▁ k ɤ ˧˧ ▁ w a ŋ ˧˧ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧
+DUMMY/wav/b64720e99940f5279536e0237c7e79c8.wav|s w ɤ̆ k ˦˥ ▁ ŋ w a j ˨˩˨ ▁ l a m ˧˨ ▁ j i ə k ˨˩˨ ▁ c ɯ ə ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ b a w ˧˧ ▁ l ɤ̆ w ˧˧ ▁ d a ˨˩˦ ▁ ɣ ă p ˨˩˨ ▁ n a ŋ ˨˩˨
+DUMMY/wav/4b04e847916074dd7226d67325166126.wav|j ɤ̆ ŋ ˦˥ ▁ d e ˧˨ ▁ l a ˧˨ ▁ s ɛ m ˧˧ ▁ s ɛ m ˧˧ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ tʰ ɯ k ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ ʐ a ˧˧ ▁ ʂ a w ˧˧
+DUMMY/wav/614fc28699298ce8d292d3511d1d0861.wav|k ɯ ˦˥ ▁ s ɔ ŋ͡m ˧˧ ▁ j u ˨˩˨ ▁ l a ˧˨ ▁ k a ˨˩˦ ▁ ɲ a ˧˨ ▁ t u j ˧˧ ▁ d ɛ u ˧˨ ▁ f a j ˨˩˦ ▁ ʂ ɤ ˧˧ ▁ t a ŋ ˦˥
+DUMMY/wav/6dc01ff9cd3de1455f19408e89e8f246.wav|t o j ˧˧ ▁ d a ˨˩˦ ▁ ʈ a ˨˩˦ ▁ l ɤ j ˧˨ ▁ t o j ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ c ɔ ŋ͡m ˨˩˨ ▁ d e ˨˩˦ ▁ j ɤ ˨˩˨ ▁ ɤ ˨˩˦ ▁ t u ˧˨
+DUMMY/wav/9d4ab442251d83325dfa10affb86d586.wav|tʰ ɤ̆ k ˨˩˨ ▁ b ɤ̆ k ˦˥ ▁ ŋ ɤ ˧˨ ▁ x i ˧˧ ▁ b i ə k ˦˥ ▁ c i ˨˩˨ ▁ k u ŋ͡m ˨˩˦ ▁ d a ŋ ˧˧ ▁ ʂ a ŋ ˧˧ ▁ t e n ˧˧ ▁ ɲ a ˧˨
+DUMMY/wav/0d57bc5280dbcbeaed52e23c34ce8c5c.wav|m i ˨˩˦ ▁ b ɤ̆ k ˦˥ ▁ ŋ ɤ ˧˨ ▁ ʈ ɯ ə k ˦˥ ▁ ʂ o ˦˥ ▁ l ɯ ə ŋ ˨˩˨ ▁ m ă j ˦˥ ▁ b ă j ˧˧ ▁ ŋ a ˧˧ ▁ t a j ˨˩˨ ▁ ʂ i ɾ i ə ˧˧
+DUMMY/wav/0a52dbf40089823f2e8484083cfab888.wav|j a ˧˨ ▁ ɲ ɤ ˧˨ ▁ j i ə k ˨˩˨ ▁ l ɤ̆ p ˨˩˨ ▁ ʈ i n ˧˨ ▁ k i ˨˩˦ ▁ tʰ w ɤ̆ k ˨˩˨ ▁ ʂ o ˦˥ ▁ d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨
+DUMMY/wav/830dedebf7d2d4778a0f3fe215438805.wav|x o ŋ͡m ˧˧ ▁ a j ˧˧ ▁ ŋ i ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ ʐ ă ŋ ˧˨ ▁ t o j ˧˧ ▁ l a j ˨˩˨ ▁ ɣ ɯ j ˨˩˦ ▁ t i ə ŋ ˧˨ ▁ c ɔ ˧˧ ▁ a n ˧˧
+DUMMY/wav/26c7bb12bd56de7c72d7453abc116877.wav|b a ŋ ˨˩˦ ▁ tʰ ɤ̆ ŋ ˧˧ ▁ b i ˨˩˨ ▁ k a w ˦˥ ▁ x o ŋ͡m ˧˧ ▁ l a m ˧˨ ▁ j i ə k ˨˩˨ ▁ j ɤ j ˦˥ ▁ a j ˧˧ ▁ ɤ ˨˩˦ ▁ b i ə ˧˧ ʂ ɚ ˧˧
+DUMMY/wav/f0273cd34ac17b8e1d740196694c4693.wav|d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ m a ˧˨ ▁ h ɔ ˨˩˨ ▁ tʰ ɯ ə ŋ ˧˨ ▁ ă ŋ ˧˧ ▁ ɲ ɤ̆ k ˦˥ ▁ l a ˧˨ ▁ x a x u ə ˧˧
+DUMMY/wav/c647bf96ea155c6d47b1d2ee7175627a.wav|ʈ a k ɛ ŋ ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ w a j ˦˥ ▁ j ɤ̆ k ˨˩˨ ▁ ʐ ɤ̆ k ˦˥ ▁ d a ŋ ˦˥ ▁ ʂ ɤ ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ t a ˧˧ ▁ n ɔ j ˦˥ ▁ n ɔ ˦˥ ▁ n u ə k ˦˥ ▁ c ɯ ŋ ˨˩˦ ▁ t ă w ˧˨ ▁ tʰ w i ə ŋ ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ j a ˧˨ ▁ k a ˨˩˦ ▁ k a ˦˥ ▁ j ɔ j ˧˧ ▁ j a ˧˨ ▁ t ɔ ˧˧ ▁ l ɤ ŋ ˦˥ ▁ ɲ ɯ ˧˧ ▁ i ˧˧ ▁ h ɔ ŋ͡m ˧˨ ▁ d a w ˨˩˦
+DUMMY/wav/e1242d3c441b63f017d24256300c1952.wav|a n ˧˧ ▁ t a ˧˧ ▁ ɛ ˧˧ ▁ t u ə j ˨˩˦ ▁ ɤ ˨˩˦ ▁ s a ˨˩˦ ▁ k i ə ŋ ˦˥ ▁ tʰ i ə k ˦˥ ▁ h w i ə ŋ ˨˩˨ ▁ t i ə ŋ ˧˧ ▁ l a ŋ ˨˩˦
+DUMMY/wav/24183d5f097b4b31b5fd5ff4313fa309.wav|x a ˦˥ ▁ h ɤ ŋ ˧˧ ▁ m o k͡p ˨˩˨ ▁ c u k͡p ˦˥
+DUMMY/wav/acf168e3bc1ee76942200dbd6794f9d9.wav|t a j ˧˧ ▁ n a ŋ ˨˩˨ ▁ j a w ˧˧ ▁ tʰ o ŋ͡m ˧˧ ▁ t ă ŋ ˧˧ ▁ ʂ ɔ ˧˧ ▁ j ɤ j ˦˥ ▁ tʰ a ŋ ˦˥ ▁ ʈ ɯ ə k ˦˥
+DUMMY/wav/8506c892a8f5e93c9051d83792657f46.wav|k a l a ʃ n i k ɔ w ˧˧ ▁ l e n ˧˧ ▁ k e ˦˥ ▁ h w a t ˨˩˨ ▁ ʂ a ŋ ˨˩˦ ▁ s w ɤ̆ k ˦˥ ▁ t e n ˧˧ ▁ l ɯ ə ˨˩˦ ▁ c o ŋ͡m ˦˥ ▁ t ă ŋ ˧˧ ▁ j i x ɾ ˧˧ ▁ i ˧˧
+DUMMY/wav/0a24bf5f46260d5d8b9f3932ff69078a.wav|l ɤ̆ w ˧˨ ▁ n ă m ˧˧ ▁ ɣ ɔ k͡p ˦˥ ▁ t w i ə ŋ ˧˧ ▁ b o ˦˥ ▁ m i ˨˩˦ ▁ ʂ ă ŋ ˨˩˦ ▁ ʂ a ŋ ˧˨ ▁ t ɤ̆ ŋ ˦˥ ▁ k o ŋ͡m ˧˧ ▁ ʂ i ɾ i ə ˧˧
+DUMMY/wav/0cf4addaadb6da45fbed4c162329f06a.wav|m o k͡p ˨˩˨ ▁ l ɯ ə ŋ ˨˩˨ ▁ l ɤ ŋ ˦˥ ▁ ɣ o ˨˩˦ ▁ ʐ ɯ ŋ ˧˨ ▁ d a ŋ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ t ɤ̆ p ˨˩˨ ▁ k e t ˦˥ ▁ b e n ˧˧ ▁ d ɯ ə ŋ ˧˨
+DUMMY/wav/03156264e8e934a8fc82211aa634a6b0.wav|tʰ ɯ ˦˥ ▁ h a j ˧˧ ▁ l a ˧˨ ▁ k o ˦˥ ▁ t i n ˧˨ ▁ tʰ ɯ k ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ t o j ˨˩˨ ▁ f a m ˨˩˨ ▁ d e n ˦˥ ▁ k u ŋ͡m ˧˨
+DUMMY/wav/46f03128bb5e30014f0533b47f703691.wav|j i ə k ˨˩˨ ▁ c w i ə ŋ ˨˩˦ ▁ j a w ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ h w a ŋ ˧˨ ▁ tʰ a n ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ x w a ŋ ˨˩˦ ▁ ɣ i ˧˧ ▁ tʰ a ŋ ˦˥
+DUMMY/wav/ed10aa441cc1fefef057428beee2505a.wav|tʰ ɤ̆ j ˦˥ ▁ ŋ i ˧˧ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ s a ˨˩˦ ▁ f ɯ ə k ˦˥ ▁ t ɤ̆ ŋ ˧˧ ▁ m ɤ j ˧˨ ▁ j e ˧˨ ▁ l a m ˧˨ ▁ j i ə k ˨˩˨
+DUMMY/wav/12b19f1ae5fbbe842f513bd41504e37a.wav|ɤ ˨˩˦ ▁ f i ə ˦˥ ▁ t ɤ̆ j ˧˧ ▁ n a m ˧˧ ▁ k u ə ˨˩˦ ▁ ɲ ɤ̆ k ˨˩˨ ▁ b a ŋ ˨˩˦ ▁ k ɔ ˦˥ ▁ ɲ i ə w ˧˨ ▁ d a w ˨˩˦ ▁ ɲ ɔ ˨˩˦
+DUMMY/wav/4873a5fa24be2df1525584bd34d6f1c8.wav|t i ə ŋ ˦˥ ▁ tʰ ɛ ˧˧ ▁ tʰ ɛ ˦˥ ▁ k u ə ˨˩˦ ▁ c i ˨˩˨ ▁ tʰ ɤ̆ k ˦˥ ▁ l a m ˧˨ ▁ ɲ ɯ k ˦˥ ▁ t a j ˧˧ ▁ m ɔ j ˨˩˨ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/1789ab523bcec02755048c43ad1b7d9e.wav|d ɔ ˦˥ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ l i ˦˥ ▁ j ɔ ˧˧ ▁ m a ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ tʰ ɯ ə ŋ ˧˨ ▁ ŋ i ˨˩˦ ▁ d e n ˦˥ ▁ ʐ ɤ̆ k ˦˥ ▁ ɲ i ə w ˧˨ ▁ b ɤ j ˨˩˦ ▁ j i ˧˨ ▁ x w a ˧˧ ▁ h ɔ k͡p ˨˩˨
+DUMMY/wav/5df8476ddca773752e9badc53afb3def.wav|j a ˧˨ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ c i ə ŋ ˦˥ ▁ tʰ ă ŋ ˦˥
+DUMMY/wav/9288006c003ac6428025496318787f81.wav|k a k ˦˥ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ c ɯ ŋ ˦˥ ▁ ɣ ɔ j ˨˩˨ ▁ d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ k o ˦˥ ▁ a ŋ ˧˧ ▁ n i n ˧˧
+DUMMY/wav/12d2b5c335a9e84f8db7da09296f74f1.wav|t o j ˧˧ ▁ m u ə ŋ ˦˥ ▁ k a k ˦˥ ▁ b a ŋ ˨˩˨ ▁ j u ŋ͡m ˧˨ ▁ t ɤ ˧˨ ▁ j ɤ̆ j ˦˥ ▁ n ă j ˧˨ ▁ j a ˧˨ ▁ j i ə k ˦˥ ▁ t e n ˧˧ ▁ k u ə ˨˩˦ ▁ m o k͡p ˨˩˨ ▁ tʰ a n ˧˨ ▁ j i ə ŋ ˧˧ ▁ c i n ˦˥ ▁ f u ˨˩˦ ▁ k a k ˦˥ ▁ b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ j u p ˦˥ ▁ t o j ˧˧ ▁ t u ə ŋ ˧˨ ▁ ʂ o ˦˥ ▁ l ɯ ə ŋ ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ c e t ˦˥ ▁ j a w ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ j ă ŋ ˧˧ ▁ x o ˦˥ ▁ c i n ˦˥ ▁ f u ˨˩˦
+DUMMY/wav/51908862ebe2040c2afd8f184f2fc7a6.wav|h i ə ŋ ˨˩˨ ▁ j ɤ̆ ŋ ˨˩˦ ▁ k ɔ ŋ͡m ˧˨ ▁ i ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ m ă k ˦˥ ▁ k ɛ t ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ d o ŋ͡m ˦˥ ▁ d o ˨˩˦ ▁ n a t ˦˥
+DUMMY/wav/8251065102b8ff67023050c092b98dae.wav|ʂ ɯ ˨˩˨ ▁ c ɤ ˨˩˦ ▁ c ɛ ˧˧ ▁ x ɔ j ˦˥
+DUMMY/wav/92fe9c2a4f318fdb52a0148a2a4e5ef2.wav|ɲ ɤ̆ k ˨˩˨ ▁ l a j ˨˩˨ ▁ x o ŋ͡m ˦˥ ▁ x o ˨˩˦ ▁ j i ˧˨ ▁ f ɔ ŋ͡m ˦˥ ▁ s a ˨˩˨ ▁ t ɯ ˧˨ ▁ d i ə ŋ ˨˩˨ ▁ h a t ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧
+DUMMY/wav/c65b2e65b70d496d3a7cd39f9ca5fd19.wav|b ɤ m ˧˧ ▁ n ɯ ə k ˦˥ ▁ t ɯ k ˦˥ ▁ l a ˧˨ ▁ t ɯ ə j ˦˥ ▁ t i ə w ˧˧
+DUMMY/wav/386177815568e4a7c2a87d815e893071.wav|j u ŋ͡m ˨˩˦ ▁ t ă w ˧˨ ▁ d ɤ̆ w ˧˨ ▁ tʰ u ˦˥
+DUMMY/wav/a3f3e186c9ac0f868b7347cddd83ecd7.wav|f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ tʰ i ˧˧ ▁ tʰ e ˨˩˦ ▁ tʰ i ə w ˦˥ ▁ n i ə ŋ ˧˧ ▁ j ɯ ə j ˦˥ ▁ m ɯ ə ŋ ˧˧ ▁ n ɯ ə k ˦˥
+DUMMY/wav/1600e326c46554b0e3a2733c2c3dd69a.wav|ʈ ɤ̆ ŋ ˧˨ ▁ l ɤ̆ m ˧˧ ▁ l i n ˧˧ ▁ c i ˧˧
+DUMMY/wav/49d3f71afe637ad02e2cc1c8e37420bd.wav|ɛ ˧˧ ▁ ɛ ˧˧ ▁ t ˌe ˧˧ i ˧˧ ▁ l a ˧˨ ▁ ʂ i n ˧˧ ▁ ɲ ɤ̆ k ˨˩˨ ▁ l ɤ̆ ŋ ˧˨ ▁ tʰ ɯ ˦˥ ▁ ɛ ˧˧ j i ˧˧ ▁ k u ə ˨˩˦ ▁ j a w ˦˥ ▁ h w a ŋ ˧˨ ▁ f ʐ a ŋ ˧˧ s i ʃ ˧˧
+DUMMY/wav/a9e2d3e910a3c8ad698abbd13089c2c5.wav|c ɔ ˦˥ ▁ d ă k ˦˥ ▁ t i ə ŋ ˧˨
+DUMMY/wav/5696e1f4eeee6aa4e6c0057d3a4195b5.wav|a n ˧˧ ▁ ʂ i n ˧˧ ▁ j i ə ŋ ˧˧ ▁ n ɔ j ˦˥
+DUMMY/wav/148461f813a2f773db0904b4d57cb012.wav|ŋ ɯ ə j ˧˨ ▁ j ɤ̆ ŋ ˧˧ ▁ x o ŋ͡m ˧˧ ▁ n e n ˧˧ ▁ d u ə j ˨˩˦ ▁ tʰ e o ˧˧ ▁ c ɔ ˦˥ ▁ ʈ e n ˧˧ ▁ j ɔ ŋ͡m ˧˨ ▁ ʂ o ŋ͡m ˧˧ ▁ b ă ŋ ˧˧
+DUMMY/wav/efb0c5bca4280a7e00d7029370e5ec70.wav|h a j ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ b i ˨˩˨ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧ ▁ l a ˧˨ ▁ h a j ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ d i ˧˧ ▁ l a m ˧˨ ▁ k o ŋ͡m ˧˧
+DUMMY/wav/b19278564bed1cbe4c9b4068c46e65f8.wav|ʈ ɔ ŋ͡m ˧˧ ▁ n ă m ˧˧ ▁ t ˌe ˧˧ t i ˨˩˦ ▁ ʂ o ˦˥ ▁ n ă j ˧˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ l a ˧˨ ▁ ɣ i ˧˧ ʂ ɛ ˧˧ ▁ t i ˨˩˦ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/e7672ecf31a360b38052d03ef144be73.wav|w ɤ̆ ŋ ˧˧ ▁ d o j ˨˩˨ ▁ l i b ɛ ˧˧ ʐ i ə ˧˧ ▁ tʰ ă ŋ ˨˩˦ ▁ t ă j ˧˧ ▁ d a n ˦˥ ▁ j ɤ̆ ŋ ˧˧ ▁ ŋ e o ˧˨ ▁ j i ˧˨ ▁ ʂ ɤ ˨˩˨ ▁ ɛ b ɔ l a ˧˧
+DUMMY/wav/2bae8265f569cc81cadd97ff3cba08af.wav|j a j ˨˩˦ ▁ f a p ˦˥ ▁ k u ə ˨˩˦ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ l a ˧˨ ▁ k o ˦˥ ▁ ɣ ă ŋ ˦˥ ▁ b a w ˧˨ ▁ c e ˦˥ ▁ k a k ˦˥ ▁ l w a j ˨˩˨ ▁ tʰ u ə k ˦˥ ▁ k ɔ ˦˥ ▁ c ɯ k ˦˥ ▁ n ă ŋ ˧˧ ▁ ɲ ɯ ˧˧ ▁ b ă ŋ ˧˧ ▁ k e o ˧˧ ▁ f ɤ̆ ŋ ˧˧ ▁ t ɯ ˨˩˦ ▁ ʂ k ɔ t ˧˧ ▁ d e ˨˩˦ ▁ k o ˦˥ ▁ d i n ˨˩˨ ▁ p ʈ ɔ t e i n ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ h i n ˧˨ ▁ j a ŋ ˨˩˨ ▁ d u ŋ͡m ˦˥ ▁ k u ə ˨˩˦ ▁ n ɔ ˦˥
+DUMMY/wav/fd2c0b93505642bdf079eff8812a8364.wav|ɲ ɯ ŋ ˨˩˦ ▁ m a n ˨˩˦ ▁ w ɤ̆ ŋ ˧˨ ▁ a w ˦˥ ▁ ʐ a j ˨˩˦ ▁ ʐ a k ˦˥ ▁ ʈ e n ˧˧ ▁ m o k͡p ˨˩˨ ▁ b a j ˨˩˦ ▁ d ɤ̆ k ˦˥ ▁ ʈ o ŋ͡m ˦˥
+DUMMY/wav/a99513a7032af8ace7718347ba8022fa.wav|tʰ u ˨˩˦ ▁ t ɯ ə ŋ ˦˥ ▁ ă w ˧˧ ʈ a l i ə ˧˧ ▁ t ɔ n i ˧˧ ▁ a b ˧˧ b ɔ k͡p ˧˧ ▁ j a ˧˨ ▁ t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ ŋ a ˧˧ ▁ p u t i n ˧˧
+DUMMY/wav/c533566e6aa13f5c324f36888829dd5a.wav|j u ˨˩˨ ▁ c i m ˧˨ ▁ t ă w ˧˨ ▁ ɤ ˨˩˦ ▁ b a k ˨˩˨ ▁ l i ə w ˧˧
+DUMMY/wav/7079b8460ee6136676932b0df24367a1.wav|p l a n ɛ ˧˧ t a ɾ i ˧˧ ▁ ʐ ɛ s u ə r s ɛ ʃ ˧˧ ▁ n ɤ j ˧˧ ▁ x ɤ j ˨˩˦ ▁ s ɯ ə ŋ ˦˥ ▁ tʰ a m ˦˥ ▁ h i m ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ j a ŋ ˧˧ ▁ ʂ ă p ˦˥ ▁ t o ˨˩˦ ▁ c ɯ k ˦˥ ▁ k u ə k ˨˩˨ ▁ tʰ ă m ˧˧ ▁ j ɔ ˧˨ ▁ d ɤ̆ w ˧˨ ▁ t i ə ŋ ˧˧ ▁ j a w ˧˨ ▁ k u ə j ˦˥ ▁ n ă m ˧˧ ▁ n ă j ˧˧
+DUMMY/wav/7ebb6e528ae9f043f9a1ab0011073c58.wav|j a j ˧˨ ▁ c u k͡p ˨˩˨ ▁ ʈ ɯ ŋ ˦˥ ▁ t o j ˧˧ ▁ t ă ŋ ˨˩˨ ▁ k u ŋ͡m ˨˩˦ ▁ c ɯ ə ˧˧ ▁ d e n ˦˥ ▁ ʈ ă m ˧˧ ▁ ŋ a ŋ ˧˨ ▁ d o ŋ͡m ˧˨
+DUMMY/wav/41909616ec3aa20290ff5ba3776dbd70.wav|x w a ŋ ˨˩˦ ▁ tˤ i ˧˧ ▁ d i ə w ˧˨ ▁ ɔ ˧˧ ▁ b o ˨˩˨ ▁ l w ɤ̆ k ˨˩˨ ▁ n ă j ˧˨ ▁ k u ŋ͡m ˨˩˦ ▁ w i ˧˧ ▁ d i n ˨˩˨
+DUMMY/wav/db13e9991b33da6ae8f18a07ecdeb6bb.wav|x o ŋ͡m ˧˧ ▁ tʰ e ˨˩˦ ▁ s ɛ m ˧˧ ▁ tʰ ɯ ə ŋ ˧˨ ▁ ʂ ɯ k ˦˥ ▁ m a n ˨˩˨ ▁ h a t ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ k u ə ˨˩˦ ▁ n ɯ ə k ˦˥ ▁ ŋ a ˧˧
+DUMMY/wav/911dd89f78bd9f267cd80520a66bed5f.wav|ŋ ɯ ə j ˧˨ ▁ t u ŋ͡m ˧˧ ▁ j i ˧˧ j e o ˧˧ ▁ d u ŋ͡m ˨˩˨ ▁ d o ˨˩˨ ▁ t ă w ˧˨ ▁ ʈ u ŋ͡m ˧˧ ▁ ɲ ɤ̆ k ˨˩˨ ▁ l e n ˧˧ ▁ t i ə ŋ ˦˥
+DUMMY/wav/c9db71958e17c732dc5ca19ec948a39f.wav|h ɯ w ˨˩˦ ▁ b ɔ ˨˩˦ ▁ m ă k ˨˩˨ ▁ n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ j a ˧˨ ▁ l e n ˧˧ ▁ b ɤ ˧˨ ▁ ʈ o ŋ͡m ˦˥ ▁ j e ˧˨ ▁ w e ˧˧
+DUMMY/wav/0e4fa45b6c06fab2839572a244e5b9f7.wav|h ɔ ˨˩˨ ▁ ʂ ɛ ˨˩˦ ▁ f a j ˨˩˦ ▁ ɲ i n ˧˨ ▁ l a j ˨˩˨ ▁ k a t ˦˥ ▁ tʰ ɯ k ˦˥ ▁ h e ˨˩˨ ▁ tʰ o ŋ͡m ˦˥ ▁ j ɤ̆ ŋ ˨˩˨ ▁ h a n ˧˨
+DUMMY/wav/772f66745cc64d00e44625fe955f315a.wav|n o j ˨˩˦ ▁ d ă w ˧˧ ▁ n ă j ˧˨ ▁ w a ˦˥ ▁ l ɤ ŋ ˦˥ ▁ d o j ˦˥ ▁ j ɤ j ˦˥ ▁ j a ˧˧ ▁ d i n ˧˨ ▁ n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧
+DUMMY/wav/37c3a8287530ca9a56f67f59868db09a.wav|ʂ o ˦˥ ▁ t i ə ŋ ˧˨ ▁ n ă j ˧˨ ▁ k a k ˦˥ ▁ b i ˨˩˨ ▁ k a w ˦˥ ▁ c i ə ˧˧ ▁ ɲ ă w ˧˧ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ h e t ˦˥
+DUMMY/wav/e0d71bd97064c73b23247698e0470ff3.wav|f i ə ˦˥ ▁ ʈ ɯ ə k ˦˥ ▁ d ɯ ə ŋ ˧˨ ▁ l e ˧˧ ▁ j w ɤ̆ ŋ ˨˩˦ ▁ ʂ o ˦˥ ▁ ɕ i ˧˧ ▁ l a ˧˨ ▁ t w a ˧˨ ▁ ɲ a ˧˨ ▁ k u m ˧˧ h ɔ ˧˧
+DUMMY/wav/4ece660580de30d99a7d8c241aa3e1af.wav|d e n ˦˥ ▁ n ă j ˧˧ ▁ ɣ ɤ̆ ŋ ˧˨ ▁ n ɯ ə ˨˩˦ ▁ n ă m ˧˧ ▁ tʰ i ˧˨ ▁ j e ˧˨ ▁ j a ˧˨ ▁ d ɔ j ˧˨ ▁ l i ˧˧ ▁ h o ŋ͡m ˧˧
+DUMMY/wav/962a6eb948982eafe7b2159eadc29288.wav|m i ˨˩˦ ▁ l ɔ ˧˧ ▁ ŋ a j ˨˩˨ ▁ c i ˧˧ ▁ ɲ a n ˦˥ ▁ a l ˧˧ ▁ w a j ˧˧ ▁ n ɤ ˨˩˦ ▁ ʐ o ˨˩˨ ▁ x ă p ˦˥ ▁ n ɤ j ˧˧
+DUMMY/wav/b6103051300cfff320bc2b22553faadd.wav|tʰ i ə w ˦˥ ▁ f u ˨˩˨ ▁ ʈ o ŋ͡m ˦˥ ▁ tʰ w a t ˦˥ ▁ ʈ ɤ ˨˩˦ ▁ j e ˧˨ ▁ t o ˦˥ ▁ k a w ˦˥ ▁ k ɛ ˨˩˦ ▁ b u ə ŋ ˧˧ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/44051aa15c89bb46696950b4bafc25bc.wav|h ɔ ˨˩˨ ▁ d a ŋ ˧˧ ▁ t ɯ ˨˩˨ ▁ t ă j ˧˧ ▁ c i ə ˧˧ ▁ k ă k ˦˥ ▁ k a k ˦˥ ▁ j u ŋ͡m ˧˨ ▁ l a n ˨˩˦ ▁ tʰ o ˨˩˦ ▁ ʈ e n ˧˧
+DUMMY/wav/5d080139639a1c9e6c607c8d682eedf1.wav|d ɔ ˦˥ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ d i ə w ˧˨ ▁ ʐ ɤ̆ k ˦˥ ▁ t ɯ ˨˩˨ ▁ ɲ i ə ŋ ˧˧
+DUMMY/wav/e0f36cf094bb7a8129949e1cc916e66c.wav|ʈ e n ˧˧ ▁ d ɯ ə ŋ ˧˨ ▁ tʰ a w ˦˥ ▁ c ă j ˨˩˨ ▁ c u ŋ͡m ˦˥ ▁ k ɔ ˦˥ ▁ b ă k ˦˥ ▁ j ɯ ˨˩˦ ▁ m o k͡p ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ t i n ˧˧
+DUMMY/wav/854633bc15441ffb82fc9dd019ff2fa8.wav|t o j ˧˧ ▁ t ɯ ŋ ˧˨ ▁ l a m ˧˨ ▁ j i ə k ˨˩˨ ▁ j ɤ j ˦˥ ▁ t o ˨˩˦ ▁ c ɯ k ˦˥ ▁ t i n ˧˨ ▁ b a w ˦˥ ▁ j a ˧˨ ▁ tʰ a ŋ ˧˧ ▁ f i ə ŋ ˧˨ ▁ j e ˧˨ ▁ j i ə k ˨˩˨ ▁ tʰ i ə w ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ h ɔ ˨˩˨ ▁ ɲ i n ˧˨ ▁ t o j ˧˧ ▁ j a ˧˨ ▁ h ɔ j ˨˩˦ ▁ o ŋ͡m ˧˧ ▁ tʰ i ə w ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ n a w ˧˨
+DUMMY/wav/967d8f79bb696e6df2fb452e920a072e.wav|t ˌe ˧˧ i ɛ ˧˧ ▁ o ŋ͡m ˧˧ ▁ x w a ˧˧ ▁ ɣ ɔ j ˨˩˨ ▁ c i ˨˩˨ ▁ j ˧˧
+DUMMY/wav/67ca2990cb43c6521c0b987597a11cae.wav|m o k͡p ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ tʰ i ə ŋ ˧˧ ▁ ŋ a ˧˧ ▁ j u ŋ͡m ˧˨ ▁ m ɔ ˨˩˦ ▁ k ɛ p ˨˩˨ ▁ c ă k ˨˩˨ ▁ k o ˨˩˦ ▁ d o j ˦˥ ▁ tʰ u ˨˩˦
+DUMMY/wav/52740665eb5d4226f24bc114368889ae.wav|ʈ ɯ ə ŋ ˨˩˦ ▁ f ɔ ŋ͡m ˧˨ ▁ ɣ i ˧˧ d i ˧˧ ▁ d i ˧˧ ▁ b i ˨˩˨ ▁ d i ə w ˧˨ ▁ d o ŋ͡m ˨˩˨ ▁ l a m ˧˨ ▁ c w i ə ŋ ˧˧ ▁ j i ə ŋ ˧˧
+DUMMY/wav/c09e8de9dec0d5e269f960bdfb06079a.wav|h i ə ŋ ˨˩˨ ▁ t a j ˨˩˨ ▁ t o j ˧˧ ▁ c ɯ ə ˧˧ ▁ k ɔ ˦˥ ▁ k ɔ ŋ͡m ˧˧ ▁ ʂ o ˦˥ ▁ c i n ˦˥ ▁ s a k ˦˥ ▁ c i ˧˧ ▁ f i ˦˥ ▁ h e t ˦˥ ▁ b a w ˧˧ ▁ ɲ i ə w ˧˧ ▁ ɲ ɯ ŋ ˧˧ ▁ t o j ˧˧ ▁ c ă k ˦˥ ▁ c ă ŋ ˦˥ ▁ n ɔ ˦˥ ▁ ʂ ɛ ˨˩˦ ▁ x i m ˧˧ ▁ t o ŋ͡m ˦˥ ▁ h ɤ ŋ ˧˧ ▁ ɲ i ə w ˧˨ ▁ ʂ ɔ ˧˧ ▁ j ɤ j ˦˥ ▁ tʰ i ə k ˨˩˨ ▁ h a j ˨˩˨ ▁ t i ə ŋ ˧˨ ▁ t a ŋ ˧˨
+DUMMY/wav/37aefaf8d3e77310df47dc3b8ad2411c.wav|j i ˧˨ ▁ j ɤ̆ j ˨˩˨ ▁ m o k͡p ˨˩˨ ▁ ʂ o ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ k a k ˦˥ ▁ b a ŋ ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ x u ˧˧ ▁ j ɯ ə ˨˩˦ ▁ n ă j ˧˨
+DUMMY/wav/6272d27dfdddeea67587ac1eef9c0843.wav|j a ˧˨ ▁ b a ˧˨ ▁ d a ˨˩˦ ▁ t ɤ̆ k ˦˥ ▁ ɲ i ə ŋ ˧˧ ▁ l a ˧˨ ▁ t o j ˧˧ ▁ d a ŋ ˧˧ ▁ ɤ ˨˩˦ ▁ d ɤ̆ j ˧˧ ▁ , ▁ b a ˧˨ ▁ d a ˨˩˦ ▁ j ɯ ə k ˨˩˨ ▁ w a ˧˧
+DUMMY/wav/ed852150ac05d569b0778ee5e8e7f718.wav|h i n ˧˨ ▁ a n ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ l e ˨˩˦ ▁ k ɯ ə j ˦˥ ▁ t ɯ ə ŋ ˧˧ ▁ l a j ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ t i m ɛ ˧˧ ▁ j ɛ ˨˩˦ ▁ ʐ a ˧˧
+DUMMY/wav/0a2b96795e236d419f6bd8ac1eef1708.wav|h i ə ŋ ˨˩˨ ▁ j u ˨˩˨ ▁ a ŋ ˦˥ ▁ d a ŋ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ k ɤ ˧˧ ▁ w a ŋ ˧˧ ▁ c ɯ k ˦˥ ▁ n ă ŋ ˧˧ ▁ d i ə w ˧˨ ▁ ʈ a ˧˧
+DUMMY/wav/2e39a2fa591fa54cd6f920cd986f13e1.wav|j a ˧˨ ▁ k ɔ ˦˥ ▁ l ɛ ˨˩˦ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ d i ə w ˧˨ ▁ t o j ˧˧ ▁ tʰ i t ˦˥ ▁ ɲ ɤ̆ k ˦˥ ▁ j i ˧˨ ▁ t o j ˧˧ ▁ ŋ i ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ tʰ ɤ̆ m ˧˧ ▁ t ɤ̆ m ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ d ɛ u ˧˨ ▁ l a ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ tʰ i t ˦˥ ▁ k e ˨˩˦ ▁ c w i ə ŋ ˨˩˨
+DUMMY/wav/4b0f6cafaa9de3c4de12861c587fd44b.wav|n ɛ u ˦˥ ▁ n ɔ ˦˥ ▁ h ɤ p ˨˩˨ ▁ f a p ˦˥ ▁ m i n ˧˧ ▁ b a t ˨˩˨ ▁ tʰ i ˧˨ ▁ j ɯ ˧˧ ▁ l w ɤ̆ ŋ ˨˩˨ ▁ m ɤ j ˦˥ ▁ t i n ˧˧
+DUMMY/wav/a14e479b80a4b715810268432238a854.wav|k a n ˨˩˦ ▁ j a k ˦˥ ▁ j ɤ j ˦˥ ▁ ʈ u ŋ͡m ˧˧ ▁ t ɤ̆ m ˧˧ ▁ k a n ˨˩˦ ▁ b a w ˦˥ ▁ ʂ ɔ ŋ͡m ˦˥ ▁ tʰ ɤ̆ ŋ ˧˨ ▁ k u ə ˨˩˦ ▁ t i ˧˧ kʰ ɛ ˧˧
+DUMMY/wav/15f535945e65f131e412302b2af2016e.wav|n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ n ă m ˧˨ ▁ t a j ˨˩˨ ▁ x w a ŋ ˨˩˦ ▁ k ɔ ˨˩˦ ▁ k ɔ ˦˥ ▁ j e t ˦˥ ▁ c ă j ˦˥ ▁ l w a ŋ ˧˧ ▁ ʐ o ŋ͡m ˨˩˨
+DUMMY/wav/7955d9d8c8b6d20eac1364397408a282.wav|ŋ w i ə ŋ ˨˩˦ ▁ j ă ŋ ˧˧ ▁ ʂ a ŋ ˦˥ ▁ k u ŋ͡m ˧˨ ▁ t a ŋ ˧˧ ▁ j ɤ̆ k ˨˩˨ ▁ t a j ˨˩˨ ▁ k ɤ ˧˧ ▁ w a ŋ ˧˧ ▁ k i m ˨˩˦ ▁ l ɤ̆ m ˧˧
+DUMMY/wav/876df404dfb88261bdf6cc92e2acf160.wav|ʈ ɔ ŋ͡m ˧˧ ▁ l u k͡p ˦˥ ▁ t o j ˧˧ ▁ j ɛ ˨˩˦ ▁ a n ˧˧ ▁ c a ŋ ˧˨ ▁ t o j ˧˧ ▁ k o ˦˥ ▁ ɣ ă ŋ ˦˥ ▁ l a m ˧˨ ▁ tʰ ɤ̆ k ˨˩˨ ▁ ʂ a t ˦˥ ▁ j ɤ j ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ɣ i ˧˨ ▁ m i n ˧˨ ▁ h i n ˧˨ ▁ j u ŋ͡m ˧˧
+DUMMY/wav/edd17db1e33af7e20c6b782a03b42072.wav|j a ˧˨ ▁ ʐ o j ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ k ɔ ˦˥ ▁ k a ˨˩˦ ▁ m o k͡p ˨˩˨ ▁ f ɔ ŋ͡m ˧˨ ▁ b a ŋ ˧˧ ▁ j e ˧˨ ▁ ɲ i ə k ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ l ɯ k ˨˩˨ ▁ h ɔ k͡p ˨˩˨ ▁ t a j ˨˩˨ ▁ ʂ t a n ˧˧ f ɔ r d ˧˧
+DUMMY/wav/418a7de986940fc2378493e3cea16500.wav|t o j ˧˧ ▁ t i n ˧˧ ▁ ʐ ă ŋ ˧˨ ▁ m i t ˧˧ a ɛ l ˧˧ ▁ d a ˨˩˦ ▁ b i ˨˩˨ ▁ j e t ˦˥ ▁ h a j ˨˩˨
+DUMMY/wav/3e57ca4ea344aaacb8ae7bf4dec214ec.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ c ɔ ˧˧ ▁ c u ŋ͡m ˦˥ ▁ b ă j ˧˧ ▁ k a t ˦˥ ▁ m ă k ˨˩˨ ▁ d ɤ̆ k ˦˥ ▁ t͡s u ˧˧
+DUMMY/wav/356606c3a2b3c06a147031d70f1ed1fc.wav|j u ˨˩˨ ▁ tʰ a m ˨˩˦ ▁ ʂ a t ˦˥ ▁ ɤ ˨˩˦ ▁ p a k i ˧˧ ʂ t a ŋ ˧˧ ▁ j ɤ j ˦˥ ▁ k u ə k ˨˩˨ ▁ c i ə ŋ ˦˥ ▁ c o ŋ͡m ˦˥ ▁ x u ŋ͡m ˨˩˦ ▁ b o ˦˥
+DUMMY/wav/7211d8697b857f0ff13e174dc1a011e1.wav|m o k͡p ˨˩˨ ▁ c i ə k ˦˥ ▁ t i m ˧˧ ▁ k i t ˦˥ ▁ m i t ˧˧ ▁ ɛ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ ʈ ɯ ŋ ˧˧ ▁ b ă j ˧˨ ▁ t a j ˨˩˨ ▁ m ɔ n i n ɔ ˧˧
+DUMMY/wav/63317ba63fa3e1bbdfd8ec3388d6252a.wav|c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ d ɛ u ˧˨ ▁ ʐ ɤ̆ k ˦˥ ▁ j ɔ j ˨˩˦ ▁ j ɛ p ˨˩˨ ▁ h w a j ˧˨ ▁ ŋ i ˧˧ ▁ w a ˧˧ ▁ m o k͡p ˨˩˨ ▁ b e n ˧˧
+DUMMY/wav/be3d1de1864b0ae40b0b871471a68445.wav|h a ŋ ˧˨ ▁ ŋ i n ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ h ɔ ŋ͡m ˧˧ ▁ k ɔ ŋ͡m ˧˧ ▁ t w ɤ̆ ŋ ˧˨ ▁ h a n ˧˨ ▁ j i ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ j u p ˦˥ ▁ j i ə k ˨˩˨
+DUMMY/wav/d7ad401ec88ac9e73c6b1caaf443b24e.wav|ʈ ɔ ŋ͡m ˧˧ ▁ h a j ˧˧ ▁ j i ˦˥ ▁ j u ˨˩˨ ▁ n ă j ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ k ɤ ˧˧ ▁ b a ŋ ˨˩˦ ▁ k ɔ ˦˥ ▁ k a k ˦˥ ▁ k o ˨˩˦ ▁ m ă j ˦˥ ▁ h ɔ k͡p ˨˩˨ ▁ d i ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ m o ˧˧ ▁ f ɔ ŋ͡m ˨˩˦ ▁ j a ˧˨ ▁ k a ˨˩˦ ▁ ɲ ɯ ŋ ˨˩˦ ▁ k o ˨˩˦ ▁ m ă j ˦˥ ▁ h ɔ k͡p ˨˩˨ ▁ k a t ˦˥ ▁ d i ˧˧ ▁ ŋ w a j ˧˨ ▁ d ɤ j ˧˨ ▁ tʰ ɤ̆ k ˨˩˨
+DUMMY/wav/3cb4a57627a765d72fdb0851567aabd4.wav|t o j ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ f ɤ̆ w ˨˩˦ ▁ tʰ w ɤ̆ k ˨˩˨ ▁ ɤ ˨˩˦ ▁ k i ˧˨ ▁ t ɛ d ˧˧ ▁ t ˌe ˧˧ i ˧˧ ▁ n o k͡p ˦˥ ▁ j ɤ̆ ŋ ˨˩˦ ▁ l a ˧˨ ▁ k a j ˦˥ ▁ h o ŋ͡m ˧˧ ▁ d ă w ˧˧ ▁ n ă j ˧˨
+DUMMY/wav/d74807f34a8af230e4a129e212138694.wav|a j ˧˧ ʂ t a j ˧˧ ▁ n ɔ j ˦˥ ▁ tʰ ɤ̆ k ˨˩˨ ▁ d u ŋ͡m ˦˥ ▁ x i ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ h ɔ j ˨˩˦ ▁ k o ˧˧ ▁ ɲ ɔ k͡p ˦˥
+DUMMY/wav/e34f4b0c31fd40b303648753e08a290f.wav|j ɔ ˧˧ ▁ j e t ˦˥ ▁ tʰ ɯ ə ŋ ˧˧ ▁ n ă ŋ ˨˩˨ ▁ c i ˨˩˨ ▁ h w a ˧˧ ▁ d a ˨˩˦ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧ ▁ ʂ ă w ˧˧ ▁ d ɔ ˦˥
+DUMMY/wav/559983e600b2e0f080d8beb35e10120b.wav|ŋ w a j ˧˨ ▁ ʐ a ˧˧ ▁ ʂ i ɾ i ə ˧˧ ▁ k ɔ ŋ͡m ˧˨ ▁ k ɔ ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ t ă j ˧˧ ▁ a t ˦˥ ▁ c u ˨˩˦ ▁ b a j ˧˨ ▁ ʂ a ˧˧ ▁ ɛ ˧˧
+DUMMY/wav/e5edb2c78036c30d8987314f42620d5e.wav|l u k͡p ˦˥ ▁ n ă j ˧˨ ▁ t o j ˧˧ ▁ d o j ˨˩˨ ▁ m u ˨˩˦ ▁ b a w ˨˩˦ ▁ h i m ˨˩˦ ▁ k ɔ ŋ͡m ˧˨ ▁ t w ɤ̆ ŋ ˦˥ ▁ x o ŋ͡m ˧˧ ▁ d o j ˨˩˨
+DUMMY/wav/78a1842f068e7687ade656de53318c6e.wav|t i p ˦˥ ▁ ʂ ă w ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ l a ˧˨ ▁ k ɤ̆ j ˧˧ ▁ ɣ ɤ̆ j ˨˩˨ ▁ , ▁ k u ˨˩˦ ▁ k a ˧˨ ▁ ʐ o k͡p ˦˥ ▁ n a w ˧˨
+DUMMY/wav/c50a378342e115abd6200f25b97b2388.wav|c u ˦˥ ▁ c ɔ ˦˥ ▁ j a ˧˨ ▁ ɲ ɤ̆ k ˦˥ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥ ▁ w a ˧˧ ▁ d ɤ j ˧˨ ▁ ɤ ˨˩˦ ▁ t u ə j ˨˩˦ ▁ t ɔ ˧˧
+DUMMY/wav/0dfd699b7da4d6d530b0c396a9f57840.wav|h ă ŋ ˨˩˦ ▁ b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ t ɯ ə ŋ ˨˩˦ ▁ t ɯ ə ŋ ˨˩˨ ▁ x i ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ ɲ a ˧˨ ▁ j ă ŋ ˧˧ ▁ m ɔ j ˨˩˨ ▁ tʰ ɯ ˦˥ ▁ ʂ ɛ ˨˩˦ ▁ ʈ ɤ ˨˩˦ ▁ n e n ˧˧ ▁ ʐ ɤ̆ k ˦˥ ▁ k ă ŋ ˧˧ ▁ tʰ ă ŋ ˨˩˦ ▁ j a ˧˨ ▁ ɣ ɤ̆ p ˦˥ ▁ ɣ a p ˦˥
+DUMMY/wav/9d4dd7dcbd4a079efd583ce1b3c89846.wav|ɣ ɤ̆ ŋ ˧˨ ▁ p i t ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ m ă k ˦˥ ▁ b ɤ̆ j ˨˩˦ ▁ l i ə ŋ ˧˧ ▁ k e t ˦˥ ▁ j i ə k ˨˩˨ ▁ t a j ˨˩˨ ▁ d ă k ˦˥ ▁ l ă k ˦˥
+DUMMY/wav/320ba03723538e388516c64a9d383f33.wav|c i ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ x w a ŋ ˨˩˦ ▁ ɛ ˧˧ ▁ f u k͡p ˦˥ ▁ tʰ i ˧˨ ▁ t ă w ˧˨ ▁ ɣ ɤ̆ ŋ ˧˨ ▁ ɲ ɯ ˧˧ ▁ c i m ˧˨ ▁ h ă ŋ ˨˩˦
+DUMMY/wav/76eecf7aa023bc0cc447104a33c8effe.wav|b i ˨˩˨ ▁ k a w ˦˥ ▁ c ă ŋ ˨˩˦ ▁ m ɤ̆ w ˧˧ ▁ tʰ w ɤ̆ ŋ ˨˩˦ ▁ ɣ i ˧˨ ▁ j ɤ j ˦˥ ▁ k a k ˦˥ ▁ b i ˨˩˨ ▁ h a j ˨˩˨ ▁ k a ˨˩˦
+DUMMY/wav/dc9d91c6138608c35bf531aa6bbd329a.wav|u ə ŋ ˦˥ ▁ ʐ ɯ ə w ˨˩˨ ▁ ɣ ɛ ŋ ˧˧ ▁ t u ə ŋ ˧˧ ▁ k a j ˨˩˦ ▁ ɲ ă w ˧˧ ▁ j e t ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ ʐ o j ˧˨ ▁ t ɯ ˨˩˦ ▁ tʰ u ˨˩˦
+DUMMY/wav/84886400911aa938a7b320d9b04040c6.wav|h d b a ˧˧ ▁ l i ˧˧ h a ˧˧ ▁ h ɔ p ˨˩˨ ▁ b a ŋ ˧˨ ▁ j i ə k ˨˩˨ ▁ w ɤ̆ ŋ ˧˧ ▁ ŋ a ˧˧ ▁ j a w ˧˨ ▁ l a n ˨˩˦ ▁ tʰ o ˨˩˦ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧
+DUMMY/wav/aa84dc302f6f8e9e7c512f4cc27474f8.wav|t o j ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ ŋ e ˨˩˨ ▁ ʂ i ˨˩˦ ▁ j a ˧˨ ▁ m o k͡p ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ b o ˦˥ ▁ l ɤ̆ ŋ ˧˨ ▁ tʰ ɯ ˦˥ ▁ h a j ˧˧
+DUMMY/wav/1d8f5f93af16f6422816a35bc7a1db38.wav|j ɯ ˨˩˨ ▁ k i ə ŋ ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ b u ə j ˨˩˦ ▁ c i ə w ˧˨ ▁ n ă j ˧˧ ▁ t ă w ˧˨ ▁ ʂ ɛ ˨˩˦ ▁ k ɤ̆ p ˨˩˨ ▁ b ɤ ˧˨
+DUMMY/wav/6628e96ef28e20ab4c5d03d0cff76063.wav|j u ˨˩˨ ▁ j a ˧˧ ▁ c a m ˨˩˨ ▁ d a ˨˩˦ ▁ x i ə ŋ ˦˥ ▁ tˤ i ˧˧ ▁ n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ d ɛ u ˧˨ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧
+DUMMY/wav/4d6d93b3baf505e587adfd4565418a78.wav|ʂ ɯ ˨˩˨ ▁ h a m ˧˧ ▁ tʰ i t ˦˥ ▁ d o ˧˨ ▁ ŋ ɔ k͡p ˨˩˨ ▁ k u ə ˨˩˦ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ l a ˧˨ ▁ ʂ ɤ ˨˩˦ ▁ tʰ i t ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ d o ˧˨ ▁ ă ŋ ˧˧ ▁ n ă ŋ ˧˧ ▁ l ɯ ə ŋ ˨˩˨ ▁ k a w ˧˧ ▁ j ɔ ˧˧ ▁ b a ŋ ˨˩˦ ▁ n ă ŋ ˧˧ ▁ m a ˧˨ ▁ d a ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ t i ə ŋ ˦˥ ▁ h w a ˦˥
+DUMMY/wav/0fc62e1cfd5f2d9ed1a37cb822a49885.wav|ʂ o ˦˥ ▁ t i ə ŋ ˧˨ ▁ j i ˨˩˨ ▁ x a t ˦˥ ▁ n ă j ˧˨ ▁ l ɤ̆ j ˦˥ ▁ d i ˧˧ ▁ l a ˧˨ ▁ ɔ ˧˧ t i ˧˧ ▁ ʈ i ə w ˨˩˨ ▁ d o ŋ͡m ˧˨
+DUMMY/wav/db4dffe11beec2b649b4b10e6484fd59.wav|k ɯ w ˨˩˨ ▁ tʰ u ˨˩˦ ▁ t ɯ ə ŋ ˦˥ ▁ d ɯ k ˦˥ ▁ ɣ ɛ ʁ h a r d ˧˧ ▁ ʂ c ɾ w e ˧˧ ɛ r ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ t ɯ ŋ ˧˨ ▁ ŋ i ˨˩˦ ▁ ɲ ɯ ˧˧ ▁ j ɤ̆ j ˨˩˨
+DUMMY/wav/afe6748a75d122cb04f965274f0340cc.wav|k a k ˦˥ ▁ m o j ˦˥ ▁ w a ŋ ˧˧ ▁ h e ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ j a ˧˧ ▁ d i n ˧˨ ▁ d ɛ u ˧˨ ▁ ʐ ɤ̆ k ˦˥ ▁ tʰ w ɤ̆ ŋ ˨˩˨ ▁ h w a ˧˨
+DUMMY/wav/415853270853708d0c7801421c57d031.wav|o ŋ͡m ˧˧ ▁ d i n ˧˧ ▁ t i ə ŋ ˦˥ ▁ ʈ ɯ ə ŋ ˧˨ ▁ f ɔ ˦˥ ▁ ʈ ɯ ə ŋ ˨˩˦ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ s a ˨˩˦ ▁ l e ˧˧ ▁ tʰ a n ˧˧
+DUMMY/wav/546e98e26d2207d69372ab0d6b97d70a.wav|h i ə ŋ ˨˩˨ ▁ k ɤ ˧˧ ▁ w a ŋ ˧˧ ▁ kʰ d e t ˧˧ ▁ d a ŋ ˧˧ ▁ t i p ˦˥ ▁ t u k͡p ˨˩˨ ▁ d i ə w ˧˨ ▁ ʈ a ˧˧ ▁ l a m ˧˨ ▁ ʐ ɔ ˨˩˦
+DUMMY/wav/71d84e40917f89f67cfc663ea573bab8.wav|n ɔ ˦˥ ▁ ʈ ɤ ˨˩˦ ▁ tʰ a n ˧˨ ▁ t i n ˦˥ ▁ ŋ ɯ ə ŋ ˨˩˦ ▁ k u ə ˨˩˦ ▁ j ɤ̆ ŋ ˧˧ ▁ ŋ e o ˧˨ ▁ j a ˧˨ ▁ n o ˧˧ ▁ l e ˨˩˨
+DUMMY/wav/cb92726f4ae4f77050a05da3fc531abc.wav|ɲ ɯ ˧˧ ▁ j ɤ̆ j ˨˩˨ ▁ k a k ˦˥ ▁ ŋ ɤ̆ ŋ ˧˧ ▁ h a ŋ ˧˨ ▁ ʂ ɛ ˨˩˦ ▁ b i ˨˩˨ ▁ tʰ i ə k ˨˩˨ ▁ tʰ ɔ j ˧˨ ▁ n ă ŋ ˨˩˨ ▁ n e ˧˨
+DUMMY/wav/c29e21d72b98a668411b35e6475f0ca5.wav|j a ˧˨ ▁ b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ k ɔ ˦˥ ▁ h a ŋ ˧˨ ▁ ʈ ă m ˧˧ ▁ ʈ i ə w ˨˩˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ŋ o j ˧˧ ▁ ɲ a ˧˨ ▁ ɲ ɯ ˧˧ ▁ tʰ e ˦˥
+DUMMY/wav/b970727b7cfc184e139d51b8287ec228.wav|j i l m a ˧˧ ▁ ʐ u s ɛ f ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ l a ˧˨ ▁ n ɯ ˨˩˦ ▁ t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ d ɤ̆ w ˧˨ ▁ t i ə ŋ ˧˧ ▁ k u ə ˨˩˦ ▁ b ʐ a z i ɫ ˧˧
+DUMMY/wav/36e4d29ef5bf8451a5495e1afe540569.wav|t o j ˧˧ ▁ d a ˨˩˦ ▁ t ɔ ˧˧ ▁ t u ə j ˨˩˦ ▁ j a ˧˨ ▁ x i ˧˧ ▁ t o j ˧˧ ▁ d a ŋ ˧˧ ▁ ʈ ɯ ə k ˨˩˨ ▁ t w i ə k ˦˥ ▁ x i ˧˧ ▁ d o k͡p ˨˩˨ ▁ ŋ o k͡p ˨˩˨ ▁ tʰ ɯ k ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ k u ˦˥ ▁ ɲ ă j ˨˩˦ ▁ l o ŋ͡m ˨˩˨ ▁ ɲ a w ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ x i ˧˧ ▁ ʈ ɯ ə k ˨˩˨ ▁ s u ə ŋ ˦˥ ▁ d o j ˧˨ ▁ t o j ˧˧ ▁ b i ˨˩˨ ▁ t e ˧˧ ▁ l i ə k ˨˩˨
+DUMMY/wav/78b6753e7127dbf8bd5897ae3c0b6401.wav|tʰ a n ˧˧ ▁ ʈ a ˧˧ ▁ k i m ˨˩˦ ▁ ʈ a ˧˧ ▁ j w a n ˧˧ ▁ ŋ i p ˨˩˨ ▁ c ɯ ə ˧˧ ▁ f a t ˦˥ ▁ ʂ i n ˧˧ ▁ c o ŋ͡m ˧˨ ▁ c e o ˦˥
+DUMMY/wav/4dbfddffded0ffc1ba4a214b9a6ff9ae.wav|k a m p u ˧˧ c i ə ˧˧ ▁ l ɤ̆ p ˨˩˨ ▁ ɲ ɔ m ˦˥ ▁ k o ŋ͡m ˧˧ ▁ t a k ˦˥ ▁ k i m ˨˩˦ ▁ ʈ a ˧˧ ▁ j i ˧˧ ▁ f a m ˨˩˨ ▁ b ɤ̆ w ˧˨ ▁ k ɯ ˨˩˦
+DUMMY/wav/3a2066ebc7404970928f9a2cd4eef699.wav|t o j ˧˧ ▁ n ɔ j ˦˥ ▁ b ɤ j ˨˩˦ ▁ ɛ m ˧˧ ▁ d a ŋ ˧˧ ▁ t i ə ŋ ˦˥ ▁ b o ˨˩˨
+DUMMY/wav/9b397f43e591a797c0ab8d59a1779272.wav|f ɛ ˧˧ ▁ l i ˧˧ ▁ x a j ˧˧ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧ ▁ ʈ a w ˧˧ ▁ ʈ a ˨˩˦ ▁ i ˧˧
+DUMMY/wav/b56f973b351e59e890e359700aa5b872.wav|i ˧˧ ▁ a ŋ ˦˥ ▁ t i ˧˧ ▁ n ă m ˧˧ ▁ t u ˧˨ ▁ j ɤ j ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ d a ŋ ˧˨ ▁ b a ˧˨ ▁ x e o ˦˥ ▁ n ɔ j ˦˥
+DUMMY/wav/cffce1f5aabbed19eabc33df7cd548e9.wav|ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ ʈ a ŋ ˧˧ ▁ b i ˨˩˨ ▁ tʰ e m ˧˧ ▁ k a k ˦˥ ▁ t ă w ˧˨ ▁ h a j ˨˩˦ ▁ j a m ˦˥ ▁ ʂ i ə w ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨
+DUMMY/wav/6cabce8e7583dbcd5cf5fe295e213adb.wav|tʰ u ˨˩˦ ▁ t u k͡p ˨˩˨ ▁ d ă ŋ ˧˧ ▁ k i ˦˥ ▁ s ɛ ˧˧ ▁ w ɤ̆ ŋ ˧˧ ▁ d o j ˨˩˨ ▁ k u ə ˨˩˦ ▁ b o ˨˩˨ ▁ w o k͡p ˦˥ ▁ f ɔ ŋ͡m ˧˨
+DUMMY/wav/71b7e7931f2faa4cb7c474112683045f.wav|w ɤ̆ ŋ ˧˧ ▁ d o j ˨˩˨ ▁ tʰ a j ˦˥ ▁ l a ŋ ˧˧ ▁ t w i ə ŋ ˧˧ ▁ b o ˦˥ ▁ d a w ˨˩˦ ▁ c i n ˦˥ ▁ ʈ e n ˧˧ ▁ ʈ w i ə ŋ ˧˨ ▁ h i n ˧˨
+DUMMY/wav/ac230cae3d3b338f8ddeb6754743381a.wav|d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ x w a ŋ ˨˩˦ ▁ tʰ ɤ j ˧˨ ▁ j a ŋ ˧˧ ▁ tʰ a ŋ ˦˥ ▁ ɛ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ t a ˧˧ ▁ d a ŋ ˧˧ ▁ c i n ˨˩˦ ▁ ʂ ɯ ə ˨˩˦ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ j u ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ d ɤ̆ k ˦˥
+DUMMY/wav/d0f2e0fbc6303b16641309129428e8be.wav|t a j ˨˩˨ ▁ f i ə ŋ ˧˧ ▁ t w a ˧˨ ▁ t a j ˧˨ ▁ s e ˦˥ ▁ x a j ˧˧ ▁ x a j ˧˧ ▁ c ɯ ə ˧˧ ▁ k ɔ ˦˥ ▁ b ă ŋ ˧˨ ▁ l a j ˦˥
+DUMMY/wav/51e97577e0444bcb5f9b1abf5d5a32c4.wav|ɔ ˧˧ t i ˧˧ ▁ u ʃ ˧˧ ▁ ʈ w i ˧˧ ▁ t i m ˧˨ ▁ k ɛ ˨˩˦ ▁ j e t ˦˥ ▁ m o k͡p ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ c ɔ ˦˥
+DUMMY/wav/622338574953ac6f37c59ee76b0561c0.wav|c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ l ɯ ə ˨˩˨ ▁ c ɔ ŋ͡m ˨˩˨ ▁ j u ŋ͡m ˧˨ ▁ ʂ a ŋ ˨˩˦ ▁ s w ɤ̆ k ˦˥ ▁ k ɤ ŋ ˧˧ ▁ d ă w ˧˧
+DUMMY/wav/7824812baaf94c18edb249d9d5f6f2a7.wav|w a ŋ ˨˩˦ ▁ n i n ˧˧
+DUMMY/wav/97eac378d0b30508366f3544950d7456.wav|tʰ i ə w ˦˥ ▁ j a ˧˧ ▁ ʐ ɤ m ˨˩˦ ▁ ʂ a j ˧˨ ▁ ɣ ɔ ŋ͡m ˧˨ ▁ c w i ə ŋ ˧˧ ▁ l ɯ ə ˧˨ ▁ t i n ˧˨ ▁ k o ˧˧ ▁ ɣ a j ˦˥ ▁ ʈ ɛ ˨˩˦
+DUMMY/wav/e3643567f9e7dfcd6db33d1493abbfc2.wav|h i ə ŋ ˨˩˨ ▁ k a k ˧˧ ▁ tʰ a n ˧˧ ▁ s w ɤ̆ ŋ ˧˧ ▁ d a ŋ ˧˧ ▁ t i p ˦˥ ▁ t u k͡p ˨˩˨ ▁ l a m ˧˨ ▁ ʐ ɔ ˨˩˦ ▁ j u ˨˩˨ ▁ j i ə k ˨˩˨
+DUMMY/wav/031cb371396963027ccdeaf8a5175a70.wav|t o j ˧˧ ▁ d a ˨˩˦ ▁ t ɤ j ˦˥ ▁ a j ˧˧ ʈ i m ˧˧ ▁ x w a ŋ ˨˩˦ ▁ ɣ i ˧˧ ▁ l ɤ̆ ŋ ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ʂ u ə k ˦˥ ▁ w a ˦˥ ▁ ʈ i n ˧˨ ▁ s ɤ̆ j ˧˧ ▁ j ɯ ŋ ˨˩˨ ▁ ŋ w i ə ŋ ˧˧ ▁ m ɤ̆ w ˨˩˦ ▁ n ă j ˧˨ ▁ j a ˧˨ ▁ n ɔ ˦˥ ▁ k ɔ ˦˥ ▁ t e n ˧˧ ▁ ŋ w i ə ŋ ˧˧ ▁ m ɤ̆ w ˨˩˦ ▁ b a m b i ˧˧
+DUMMY/wav/d80529ab12ee359e31d79b5bb9c68e85.wav|ʂ ɯ ˨˩˨ ▁ j i ə k ˨˩˨ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ ʈ e n ˧˧ ▁ t ă w ˧˨ ▁ d i ə ŋ ˨˩˨ ▁ ŋ ɤ̆ m ˧˨ ▁ ʂ i n ˧˧ p ɔ ˧˧ ▁ h o m ˧˧ ▁ ɛ ˧˧ ▁ t͡s u ˧˧
+DUMMY/wav/3f03a73d2c9cb2120c6275be8c6522e0.wav|k a n ˨˩˨ ▁ d ɔ ˦˥ ▁ ɲ a ˧˨ ▁ k u ə ˨˩˦ ▁ a n ˧˧ ▁ ʈ ɤ̆ ŋ ˧˨ ▁ ŋ ɔ k͡p ˨˩˨ ▁ m i n ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ b i ˨˩˨ ▁ ʂ ɤ̆ p ˨˩˨
+DUMMY/wav/b3718e16a73b4fe8ea026bc986ce7647.wav|ʈ e n ˧˧ ▁ i ˧˧ ▁ t i ˨˩˦ ▁ d o ŋ͡m ˧˨ ▁ c ɔ ˧˧ ▁ n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ c ɤ̆ k ˦˥ ▁ d o k͡p ˨˩˨ ▁ j a ˧˧ ▁ k a m ˧˧
+DUMMY/wav/0a1138845613926f06b43f21e5f17b5b.wav|t w i ˧˧ ▁ j ɤ̆ j ˨˩˨ ▁ ʂ a m ˧˧ ʂ u ŋ͡m ˧˧ ▁ c ɔ ˧˧ ▁ ʐ ă ŋ ˧˨ ▁ d w a ŋ ˨˩˨ ▁ j i ˧˧ j e o ˧˧ ▁ d a ˨˩˦ ▁ b i ˨˩˨ ▁ c i n ˨˩˦ ▁ ʂ ɯ ə ˨˩˦
+DUMMY/wav/6e663d93c47b4166da05f5d529ec9c15.wav|tʰ ɤ j ˧˨ ▁ j a ŋ ˧˧ ▁ k u ə ˨˩˦ ▁ c w i ə ŋ ˦˥ ▁ d i ˧˧ ▁ h i ə ŋ ˨˩˨ ▁ j ɤ̆ ŋ ˨˩˦ ▁ c ɯ ə ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ w i ɛ t ˦˥ ▁ d i n ˨˩˨
+DUMMY/wav/398dc864e293a511bd36c08011feaf60.wav|ɲ ɯ ŋ ˧˧ ▁ m a ˧˨ ▁ n ɔ ˦˥ ▁ h ɤ j ˧˧ ▁ ɲ a m ˧˨ ▁ c a ŋ ˦˥
+DUMMY/wav/43b6c46ed882a1cb1eab675e96af5fbf.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ c ă j ˨˩˨ ▁ c ɯ ə ŋ ˧˧ ▁ ʈ i n ˧˨ ▁ ʐ ɯ ə ˨˩˦ ▁ t ă j ˧˧ ▁ ʂ a t ˨˩˨ ▁ l ɤ ŋ ˦˥ ▁ ɲ ɤ̆ k ˦˥ ▁ ʈ e n ˧˧ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥
+DUMMY/wav/6635928c6771ef373501565180903e2f.wav|ʐ ɤ̆ k ˦˥ ▁ m ă j ˧˧ ▁ j u ˨˩˨ ▁ j i ə k ˨˩˨ ▁ d a ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ j a ˧˨ ▁ ŋ ă ŋ ˧˧ ▁ c ă ŋ ˨˩˨
+DUMMY/wav/77bc1c51af1ef3266beaffe781a5bee9.wav|h ɤ̆ w ˨˩˨ ▁ j u ŋ͡m ˧˨ ▁ j a w ˧˧ ▁ j a ˧˨ ▁ ɣ a t ˨˩˨ ▁ t ɤ̆ ŋ ˦˥ ▁ k o ŋ͡m ˧˧ ▁ x i ə ŋ ˦˥ ▁ h ɤ̆ w ˨˩˨ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧
+DUMMY/wav/422331f43127ce127ca8160bdacabff7.wav|b i n ˧˨ ▁ tʰ w ɤ̆ ŋ ˨˩˨ ▁ f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ t i ɛ ˧˧ s u ˧˧ ▁ j u ˨˩˨ ▁ j i ˧˧ ▁ f a m ˨˩˨ ▁ j e ˧˨ ▁ d ɤ̆ k ˦˥ ▁ d a j ˧˧
+DUMMY/wav/a4601394f1a9568e5c19c141e642b293.wav|d ɯ ə k ˨˩˨ ▁ b i ə k ˦˥ ▁ ʂ ă p ˦˥ ▁ t ɤ j ˦˥ ▁ ʂ ɛ ˨˩˦ ▁ b a ŋ ˧˧ ▁ h a n ˧˨ ▁ ɡ i ˧˧ p i ˨˩˦ l ɛ ˧˧ ▁ tʰ e o ˧˧ ▁ m ɤ̆ w ˨˩˦ ▁ m ɤ j ˦˥
+DUMMY/wav/0e0a0ee7e2026263b9860cb3d1996355.wav|ʂ ă w ˧˧ ▁ x i ˧˧ ▁ l a w ˧˧ ▁ j a w ˧˨ ▁ t͡ʃ ˌe ˧˧ ɣ ˧˧ t ˈe ˧˧ ▁ t a j ˧˨ ▁ s e ˦˥ ▁ l a j ˦˥ ▁ s ɛ ˧˧ ▁ b ɔ ˨˩˦ ▁ c ă j ˨˩˨
+DUMMY/wav/cf33959ba117df8be91becf1fb1999ef.wav|d i ə w ˧˨ ▁ n ă j ˧˨ ▁ k ɔ ˦˥ ▁ ŋ i ə ˨˩˦ ▁ ɣ i ˧˨
+DUMMY/wav/a30e10131d289484edafd005ea69ce4b.wav|b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ ʂ ă ŋ ˨˩˦ ▁ l ɔ ŋ͡m ˧˨ ▁ k i m ˨˩˦ ▁ ʈ a ˧˧ ▁ d e ˨˩˦ ▁ tʰ ɤ̆ j ˦˥ ▁ l i ə w ˨˩˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ l w a j ˨˩˨ ▁ tʰ u ə k ˦˥ ▁ ʈ i ˨˩˨ ▁ u ŋ͡m ˧˧ ▁ tʰ ɯ ˧˧ ▁ m a ˧˨ ▁ b a ŋ ˨˩˨ ▁ ʂ ă p ˦˥ ▁ n ă j ˧˨ ▁ j u ŋ͡m ˧˨ ▁ k ɔ ˦˥ ▁ h i ə w ˨˩˨ ▁ w a ˨˩˦ ▁ c ɔ ˧˧ ▁ k ă ŋ ˧˧ ▁ b e n ˨˩˨ ▁ u ŋ͡m ˧˧ ▁ tʰ ɯ ˧˧ ▁ k u ə ˨˩˦ ▁ b a ŋ ˨˩˨
+DUMMY/wav/13d93cbe7a6bc9f59a3141aca14eac71.wav|n ɔ ˦˥ ▁ w ɤ̆ k ˦˥ ▁ ɯ k ˦˥ ▁ j ɤ j ˦˥ ▁ c o ŋ͡m ˧˨ ▁ ʂ i n ˧˧ ▁ ʐ a ˧˧ ▁ l a m ˧˨ ▁ l i ə w ˧˨ ▁ ɲ ɯ ˧˧ ▁ j ɤ̆ j ˨˩˨
+DUMMY/wav/cfc7e6af2e004ee2597fdd3ee980e33c.wav|o ŋ͡m ˧˧ ▁ h ɯ ə ˦˥ ▁ l a n ˨˩˦ ▁ d a w ˨˩˨ ▁ ŋ a ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ s ɛ m ˧˧ ▁ s ɛ t ˦˥ ▁ d e ˧˨ ▁ ŋ i ˨˩˨ ▁ n ă j ˧˨
+DUMMY/wav/b4a38e083cbd14e24b9751dfaff27cb7.wav|k u m ˨˩˨ ▁ t ɯ ˧˨ ▁ h o j ˨˩˨ ▁ c ɯ ŋ ˦˥ ▁ ʂ t ɔ k͡p ˧˧ h ɔ m ˧˧ ▁ b ă k ˦˥ ▁ ŋ u ə ŋ ˧˨ ▁ t ɯ ˧˨ ▁ k ɤ̆ w ˧˧ ▁ c w i ə ŋ ˨˩˨ ▁ n ă j ˧˨
+DUMMY/wav/fc0e0ecf1d52237db5fbcee36a47054c.wav|m i ˨˩˦ ▁ d a ŋ ˧˧ ▁ t u ŋ͡m ˧˧ ▁ h w a ˨˩˦ ▁ m u ˧˨ ▁ j e ˧˨ ▁ j ɤ ˧˨ ▁ ɣ ˧˧ ▁ t ɤ̆ ŋ ˦˥ ▁ k o ŋ͡m ˧˧ ▁ ʂ i ɾ i ə ˧˧
+DUMMY/wav/fcf85e11516e4615ecd5a3c35e97ccc5.wav|tʰ ɤ̆ ŋ ˧˧ ▁ tʰ e ˦˥ ▁ k o ˧˧ ▁ ɣ a j ˦˥ ▁ ʈ ɛ ˨˩˦ ▁ d a ˨˩˦ ▁ x i ə ŋ ˦˥ ▁ ɲ i ə w ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ b i ˨˩˨ ▁ ʂ o k͡p ˦˥
+DUMMY/wav/db9fa741866d69bda7d125fe6cd4d8df.wav|u ə j ˧˧ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ m a ŋ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ ɛ ˧˧ ▁ t e n ˧˧ ▁ l ɯ ə ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ d o j ˦˥ ▁ d ɤ̆ k ˦˥
+DUMMY/wav/8e6a71f40f811c38bf0303cf405b0e5e.wav|d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ t ɯ ˧˧ ▁ tʰ e ˦˥ ▁ d u ŋ͡m ˦˥
+DUMMY/wav/13ff64e4ad4b3fc530f148bd8dcd0bd0.wav|ɲ ɯ ˧˧ ▁ j ɤ̆ j ˨˩˨ ▁ l a m ˧˨ ▁ ʂ a w ˧˧ ▁ k ɔ ˦˥ ▁ c ɤ̆ k ˦˥ ▁ l ɯ ə ŋ ˨˩˨ ▁ k a ŋ ˦˥ ▁ b o ˨˩˨ ▁ t o k͡p ˦˥ ▁ d ɯ ə k ˨˩˨
+DUMMY/wav/92ee3f50d36a310fae124eaa3cac25f8.wav|j a w ˧˨ ▁ k u ə j ˦˥ ▁ tʰ a ŋ ˦˥ ▁ k ɤ ˧˧ ▁ t ˌe ˧˧ i ə ˧˧ ▁ j u ŋ͡m ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ ʐ a ˧˧ ▁ t u ˧˨ ▁ ʈ ɯ ə k ˦˥ ▁ tʰ ɤ j ˧˨ ▁ h a ŋ ˨˩˨
+DUMMY/wav/5ddd6f4145f0f27bd520120f0894883d.wav|tʰ a ŋ ˦˥ ▁ n ă m ˧˧
+DUMMY/wav/80457263f736d1efc0513112eb54ba26.wav|d ɯ ə k ˨˩˨ ▁ b i ə k ˦˥ ▁ b ɛ ˦˥ ▁ ʈ a j ˧˧ ▁ k ɔ ˦˥ ▁ t i ə ŋ ˧˨ ▁ ʂ ɯ ˨˩˦ ▁ j e ˧˨ ▁ b e n ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ k i n ˧˧
+DUMMY/wav/9a97457409d07d6c99c217b9cf41763f.wav|f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ tʰ i ˧˧ ▁ tʰ e ˨˩˦ ▁ b i ˨˩˨ ▁ d ɯ k ˦˥ ▁ l i ə ˧˨ ▁ c ɤ̆ ŋ ˧˧ ▁ j ɯ ə j ˦˥ ▁ ɣ ɤ̆ m ˧˨ ▁ k ɤ̆ w ˧˨
+DUMMY/wav/0ce663c770f97a4685bdde15dc4c6057.wav|s u ŋ͡m ˧˧ ▁ d o k͡p ˨˩˨ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧ ▁ t ˌe ˧˧ i ə ˧˧
+DUMMY/wav/3e158a9d7543e727c1fe056d1bbfc106.wav|b i ˨˩˨ ▁ k a w ˦˥ ▁ n ă j ˧˨ ▁ b i ˨˩˨ ▁ t a n ˧˧ ▁ t i ˧˧ p i ˧˧
+DUMMY/wav/2da795bfa94177b1b7f61d66dc9e821b.wav|ɲ ɯ ŋ ˨˩˦ ▁ k ɤ̆ w ˧˨ ▁ tʰ u ˨˩˦ ▁ m a ˧˨ ▁ x o ŋ͡m ˧˧ ▁ k ɯ ə j ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ b ɯ k ˦˥ ▁ h i n ˧˨ ▁ k u ə ˨˩˦ ▁ m i n ˧˨ ▁ k ɔ ˦˥ ▁ t u ə j ˨˩˦ ▁ tʰ ɔ ˨˩˨ ▁ ʈ u ŋ͡m ˧˧ ▁ b i n ˧˨ ▁ c i ˨˩˦ ▁ t i ˧˧ ▁ f ɤ̆ j ˨˩˦ ▁ ɛ ˧˧ ▁ n ă m ˧˧
+DUMMY/wav/c8cc2dc47316de626db0c186e9e391c4.wav|t a j ˧˨ ▁ s e ˦˥ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ ɣ ɔ j ˨˩˨ ▁ ɛ m ˧˧ ▁ d a n ˦˥ ▁ c e t ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ b i ˨˩˨ ▁ b ă k ˦˥
+DUMMY/wav/e88eb92a125d4e4deb5ee1328bbb8e10.wav|b a ˧˨ ▁ b u j ˧˨ ▁ tʰ i ˨˩˨ ▁ l a n ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ j i ə k ˨˩˨ ▁ k e ˨˩˦ ▁ l a j ˨˩˨
+DUMMY/wav/56ca1780f92697f8013bae823e19405b.wav|h i ˧˧ t͡ɕ i ˧˧ ▁ d i ˧˧ ▁ k a k ˦˥ ▁ t w i ə ŋ ˦˥ ▁ m i ə ŋ ˧˨ ▁ ʈ u ŋ͡m ˧˧
+DUMMY/wav/33782198fb3d72a8bb113ed9215ad6db.wav|j i ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ l i ˦˥ ▁ j ɔ ˧˧ ▁ t i t ˦˥ ▁ k ɯ k ˨˩˨ ▁ t a ˧˧ ▁ ŋ i ˨˩˦ ▁ ʐ ă ŋ ˧˨ ▁ t a ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ b a w ˧˧ ▁ j ɤ ˧˨ ▁ tʰ ɤ̆ j ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ b ă ŋ ˧˨ ▁ c ɯ ŋ ˦˥ ▁ c e t ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ j a ˧˨ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ b ă ŋ ˧˨ ▁ c ɯ ŋ ˦˥ ▁ c e t ˦˥ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/9e8132e01509deb9325977fe3feed7a6.wav|w a ˨˩˦ ▁ b ɔ ŋ͡m ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ d i ə w ˧˨ ▁ x i ə ŋ ˨˩˦ ▁ ɲ ɤ ˧˨ ▁ j a w ˧˨ ▁ ɣ i ˧˧ ▁ b a n ˦˥ ▁ s w ă j ˧˧ ▁ d ă k ˨˩˨ ▁ b i ə k ˨˩˨ ▁ j u p ˦˥ ▁ ʐ ɛ ˧˧ z ɛ ɾ ɔ ˧˧ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ j i ˧˧ ▁ c w i ə ŋ ˨˩˦ ▁ b ɤ̆ k ˦˥ ▁ k i ˧˨ ▁ h ɯ ə ŋ ˦˥ ▁ n a w ˧˨ ▁ j a ˧˨ ▁ k u ŋ͡m ˨˩˦ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ s w ă j ˧˧ ▁ w a n ˧˧ ▁ t a j ˨˩˨ ▁ c o ˨˩˦ ▁ k u ŋ͡m ˧˨ ▁ m o k͡p ˨˩˨ ▁ tʰ ɤ j ˧˨ ▁ d i m ˨˩˦
+DUMMY/wav/cf9e722601fc363b7e23c7f9e62713a0.wav|tʰ i ˨˩˨ ▁ ʈ ɯ ə ŋ ˨˩˦ ▁ j ɔ n ɛ t ˧˧ ʂ k ▁ x w i ə ŋ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ j ɤ̆ ŋ ˧˧ ▁ x o ŋ͡m ˧˧ ▁ ʐ a ˧˧ ▁ x ɔ j ˨˩˦ ▁ ɲ a ˧˨
+DUMMY/wav/ef6d805fe76db6213f03991ce84c6f15.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ l ɤ̆ p ˨˩˨ ▁ ʐ a ˧˧ ▁ j a ˦˥ ▁ tʰ w i ə k ˦˥ ▁ ʐ ă ŋ ˧˨ ▁ k u ə j ˦˥ ▁ k u ŋ͡m ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ k a j ˨˩˦ ▁ t i ə ŋ ˦˥ ▁ k a k ˦˥ ▁ k ă ŋ ˧˧ ▁ ɲ a ˧˨
+DUMMY/wav/c442aa57cbe740a1e6223f3ee11e086a.wav|j i ˧˧ j e o ˧˧ ▁ n ă j ˧˨ ▁ d a ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ tʰ ɯ k ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ t a j ˨˩˨ ▁ f ɔ ŋ͡m ˧˨ ▁ tʰ i ˦˥ ▁ ŋ i m ˨˩˨ ▁ j ɯ ə j ˦˥ ▁ b i ə ŋ ˨˩˦ ▁ a k w a ɾ i ʊ s ˧˧ ▁ b o ŋ͡m ˦˥ ▁ j ă m ˨˩˨ ▁ ŋ w a j ˧˨ ▁ x ɤ j ˧˧ ▁ b ɤ ˧˨ ▁ b i ə ŋ ˨˩˦ ▁ k i ˧˧ ▁ l a ʁ ɣ ɔ ˧˧ ▁ x w a ŋ ˨˩˦ ▁ ɛ ˧˧ ▁ m ɛ t ˦˥ ▁ j ɯ ə j ˦˥ ▁ m ă k ˨˩˨ ▁ b i ə ŋ ˨˩˦
+DUMMY/wav/415e0ae57057dc114b31e6ecfbe6df52.wav|t w i ˧˧ ▁ ɲ i ə ŋ ˧˧ ▁ h a j ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ʂ o ˦˥ ▁ d ɔ ˦˥ ▁ b i ˨˩˨ ▁ tʰ ɯ ə ŋ ˧˧ ▁ ʐ ɤ̆ k ˦˥ ▁ n ă ŋ ˨˩˨
+DUMMY/wav/c745ce266ded213945486b85ea09c6a3.wav|d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ ʂ ɯ ˨˩˨ ▁ k o ˦˥ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ d o k͡p ˨˩˨ ▁ s w ɤ̆ k ˦˥ ▁ b ɤ̆ k ˦˥ ▁ x a ˨˩˦ ▁ x a ŋ ˦˥
+DUMMY/wav/0ab0c3ae415573904426f94e43dfce5d.wav|d u ŋ͡m ˦˥ ▁ ʐ a ˧˧ ▁ f a j ˨˩˦ ▁ n ɔ j ˦˥ ▁ tʰ ɤ̆ k ˨˩˨ ▁ l a ˧˨ ▁ h ă j ˧˧ ▁ w a ˦˥ ▁ b ɤ̆ j ˧˧ ▁ j ɤ ˧˨ ▁ k ɔ ˦˥ ▁ l ɛ ˨˩˦ ▁ k a k ˦˥ ▁ b a ŋ ˨˩˨ ▁ ŋ i ˨˩˦ ▁ ʐ ă ŋ ˧˨ ▁ n ɔ ˦˥ ▁ w a ˦˥ ▁ k ɯ ŋ ˦˥ ▁ ɲ ă k ˦˥ ▁ x o ŋ͡m ˧˧ ▁ h ă j ˧˧ ▁ l ă m ˦˥ ▁ ɲ ɯ ŋ ˧˧ ▁ t o j ˧˧ ▁ m u ə ŋ ˦˥ ▁ n ɔ j ˦˥ ▁ ʐ ă ŋ ˧˨ ▁ ŋ o ŋ͡m ˧˧ ▁ ŋ ɯ ˨˩˦ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ k ɔ ˦˥ ▁ k a k ˦˥ ▁ w i ˧˧ ▁ t ă k ˦˥
+DUMMY/wav/7a47a0bce5be798aa7d49a9e7136778c.wav|f ɯ ə ŋ ˨˩˨ ▁ k u ŋ͡m ˨˩˦ ▁ l a ˧˨ ▁ d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ ʂ o ŋ͡m ˦˥ ▁ ɲ i ə w ˧˨ ▁ n ă m ˧˧ ▁ ɤ ˨˩˦ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥
+DUMMY/wav/b4dff977825eca90a58a217f8f509068.wav|l ɤ̆ ŋ ˧˨ ▁ n ă j ˧˨
+DUMMY/wav/7e7a240f663cb24579ce107cc8709cc8.wav|b a w ˨˩˨ ▁ l ɯ k ˨˩˨ ▁ ŋ ă j ˧˨ ▁ k a ŋ ˧˨ ▁ j a ˧˧ ▁ t ă ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ tʰ a ŋ ˦˥ ▁ j ɯ ə ˧˨ ▁ w a ˧˧
+DUMMY/wav/2f806da307f1431631f3bbe0ce83412c.wav|l e ˨˩˦ ▁ x a j ˧˧ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ ʂ o ˦˥ ▁ j ă j ˧˨ ▁ n ă j ˧˨ ▁ j ɔ ˧˧ ▁ k ɤ ˧˧ ▁ ʂ ɤ ˨˩˦ ▁ ʂ a ŋ ˨˩˦ ▁ s w ɤ̆ k ˦˥
+DUMMY/wav/658d4fb43ef5a130b4a5955360ff05ca.wav|k o ˧˧ ▁ j a w ˦˥ ▁ l u j ˧˨ ▁ s ɛ ˧˧ ▁ c e t ˦˥ ▁ ʈ ɔ ˧˨
+DUMMY/wav/7bbf182268c8e6cdbd6ba363b31cfde8.wav|n ɔ ˦˥ ▁ l a j ˨˩˨ ▁ h ɔ j ˨˩˦ ▁ j ɤ̆ j ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ m o k͡p ˨˩˨ ▁ b ɯ ə ˨˩˦ ▁ t i ə k ˨˩˨ ▁ tʰ i ˧˨ ▁ ʂ a w ˧˧ ▁ a ˨˩˨
+DUMMY/wav/a438b9988de39e2775e28ea6084a8fe7.wav|h a ŋ ˧˨ ▁ l w a t ˨˩˨ ▁ ʈ ɯ ə ŋ ˨˩˦ ▁ ʈ a m ˨˩˨ ▁ i ˧˧ ▁ t e ˦˥ ▁ s a ˨˩˦ ▁ b i ˨˩˨ ▁ k i ˨˩˦ ▁ l w ɤ̆ k ˨˩˨
+DUMMY/wav/12a120e5d5e57859782d0e218934c471.wav|b ɤ j ˨˩˦ ▁ o ŋ͡m ˧˧ ▁ b i ə k ˦˥ ▁ x i ˧˧ ▁ ʈ ɤ ˨˩˦ ▁ j e ˧˨ ▁ k ɤ̆ ŋ ˧˨ ▁ c i ˧˧ ▁ f i ˦˥ ▁ x a ˦˥ ▁ l ɤ ŋ ˦˥
+DUMMY/wav/9ca1956ec196f00a0ce45a2b82934c51.wav|c i ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ j a j ˧˨ ▁ tʰ ɤ̆ p ˨˩˨ ▁ k i ˨˩˦ ▁ h a ŋ ˧˨ ▁ ʈ i ə w ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ ʂ ɛ ˨˩˦ ▁ k ɔ ˦˥ ▁ x a ˨˩˦ ▁ n ă ŋ ˧˧ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ ʂ a j ˧˧ ▁ m o k͡p ˨˩˨ ▁ k a t ˦˥ ▁ ɲ a n ˧˧ ▁ c ɔ ŋ͡m ˦˥ ▁ k o ŋ͡m ˧˧ ▁ ŋ e ˨˩˨ ▁ ʂ i n ˧˧ ▁ h ɔ k͡p ˨˩˨ ▁ t i ə ŋ ˧˧ ▁ t i ə ŋ ˦˥
+DUMMY/wav/1b5ff45ceb983b7cf9fa8d566edb2448.wav|t i n ˧˨ ▁ h i n ˧˨ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧ ▁ j ɤ̆ ŋ ˨˩˦ ▁ j i ə ŋ ˨˩˦ ▁ b i ə ŋ ˦˥ ▁ f ɯ k ˦˥ ▁ t a p ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ŋ ă j ˧˨ ▁ tˤ i ˧˧ ▁ tˤ i ˧˧
+DUMMY/wav/4a8c9bc2dbc5e9597a67fe10ed00edb2.wav|ŋ ă j ˧˧ ▁ l ɤ̆ p ˨˩˨ ▁ t ɯ k ˦˥ ▁ k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ j a ˧˨ ▁ k ɯ w ˦˥ ▁ tʰ ɯ ə ŋ ˧˧ ▁ d e n ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ ʈ ɯ ə ŋ ˧˨
+DUMMY/wav/d778f6d7df892148e1f6d5e3a5515537.wav|m o k͡p ˨˩˨ ▁ i ˦˥ ▁ ŋ i ˨˩˦ ▁ j u k͡p ˨˩˨ ▁ d e n ˦˥ ▁ x i ˧˧ ▁ d o ŋ͡m ˧˨ ▁ c i ˦˥ ▁ f a ŋ ˧˧ ▁ j ă ŋ ˧˧ ▁ j i n ˨˩˦
+DUMMY/wav/69e736a9898c707cdde79c2d8d94dda4.wav|c i ə w ˧˨ ▁ tˤ i ˧˧ ▁ ɛ ˧˧ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ t i ˧˧ p i ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ k ɔ ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ c i n ˦˥ ▁ tʰ ɯ k ˦˥
+DUMMY/wav/e7320ec6748da33c633750a3a5a2ecdc.wav|ŋ w i ˧˧ ▁ k ɤ ˧˧ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ s u ŋ͡m ˧˧ ▁ d o k͡p ˨˩˨ ▁ j u ˨˩˦ ▁ ʈ a ŋ ˧˧ ▁ ʈ e n ˧˧ ▁ b i ə ŋ ˨˩˦ ▁ d o ŋ͡m ˧˧
+DUMMY/wav/4f492a6919fa02e3230538f6e0243f4c.wav|ɯ ŋ ˦˥ ▁ k ɯ ˨˩˦ ▁ j i ə ŋ ˧˧ ▁ t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧ ▁ p ɔ ɾ ɔ ʃ ɛ ŋ ˧˧ k ɔ ˧˧ ▁ o ŋ͡m ˧˧ ▁ l a ˧˨ ▁ a j ˧˧
+DUMMY/wav/fefd38e3502529bae1f43a73b241f805.wav|c i ə w ˧˨ ▁ k u ŋ͡m ˧˨ ▁ ŋ ă j ˧˨ ▁ h ɛ ŋ ˧˧ ʐ i ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ j a w ˧˨ ▁ ɲ a ˧˨ ▁ ʈ ɔ ˨˩˨ ▁ n ă j ˧˨ ▁ d e ˨˩˦ ▁ tʰ w e ˧˧
+DUMMY/wav/8048e461000d3c2a5bb427083addf470.wav|m i ˨˩˦ ▁ ɲ ɤ̆ k ˨˩˨ ▁ ă w ˧˧ ʂ a ˧˧ l i ə ˧˧ ▁ tʰ u k͡p ˦˥ ▁ j u k͡p ˨˩˨ ▁ h a n ˧˨ ▁ s ɯ ˨˩˦ ▁ tʰ e o ˧˧ ▁ l w ɤ̆ k ˨˩˨ ▁ ʈ e n ˧˧ ▁ b i ə ŋ ˨˩˦
+DUMMY/wav/c95cce66eaeac15e9017cc2795838330.wav|j a ˧˨ ▁ l i ə w ˨˩˨ ▁ b a ŋ ˨˩˨ ▁ ʂ ɛ ˨˩˦ ▁ m u ə ˧˧ ▁ m ɤ̆ w ˨˩˦ ▁ k u ə ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ x a k ˦˥ ▁ c ɯ ˦˥
+DUMMY/wav/09499a8389ec817bd00abc08c227b7bf.wav|l ɯ k ˨˩˨ ▁ l ɯ ə ŋ ˨˩˨ ▁ a ŋ ˧˧ ▁ n i n ˧˧ ▁ k ɯ w ˦˥ ▁ h o ˨˩˨ ▁ k ɔ ˦˥ ▁ m ă k ˨˩˨ ▁ t a j ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ ʈ ɯ ə ŋ ˧˨
+DUMMY/wav/b8b50c1138f148996fc690e01bfaba48.wav|s ɯ ˨˩˦ ▁ l i ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ n u ə j ˧˧ ▁ d o ŋ͡m ˨˩˨ ▁ j ɤ̆ k ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ t w ɤ̆ ŋ ˧˧ ▁ tʰ u ˨˩˦ ▁ w i ˧˧ ▁ d i n ˨˩˨
+DUMMY/wav/0d9f06f8fea25c125c8beec4b135d40a.wav|t w a ŋ ˧˨ ▁ l o j ˧˧ ▁ a n ˧˧ ▁ l i n ˧˧ ▁ d a ŋ ˧˧ ▁ n ɤ̆ p ˦˥ ▁ ʂ ă w ˧˧ ▁ ɣ e ˦˥ ▁ ʂ a l ɔ ŋ͡m ˧˧ ▁ ʐ a ˧˧ ▁ ŋ w a j ˧˨
+DUMMY/wav/4546953445474737d604de8f935e7a18.wav|w ɤ̆ ŋ ˧˨ ▁ a w ˦˥ ▁ d ɯ ə ˦˥ ▁ ʈ ɛ ˨˩˦ ▁ t o j ˧˧ ▁ c ɔ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ x a k ˦˥ ▁ , ▁ b ɛ l ˧˧ ▁ n ɔ j ˦˥
+DUMMY/wav/f3a56b020672bccd29a62b54d81b135d.wav|m a l i ˧˧ ▁ m ɤ̆ k ˦˥ ▁ ɕ i ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ n i ɣ ɛ ˧˧ ʐ i ə ˧˧ ▁ t ɕ i ˧˧ j ɔ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ a j ˧˧ ▁ k ɤ̆ p ˨˩˨ ▁ ɛ ˧˧ i ˧˧ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/b33dc4d7535442652c43d9948e9b73f0.wav|tʰ i ˧˨ ▁ ʂ a w ˧˧
+DUMMY/wav/2a4a76a42d1ed0f5eba8eae1887f70ed.wav|ŋ i ˧˧ ▁ k a ŋ ˧˧ ▁ ɣ ɤ̆ j ˧˧ ▁ ʐ a ˧˧ ▁ j ɛ ˧˧ ▁ j u ˨˩˨ ▁ ʈ o m ˨˩˨ ▁ s ɛ ˧˧ ▁ m ă j ˦˥ ▁ ʂ a ˧˧ ▁ l ɯ ə j ˦˥
+DUMMY/wav/9e222c1f47254c5c60efed0f8252bdaf.wav|j a ˧˨ ▁ ŋ ă j ˧˨ ▁ h o m ˧˧ ▁ ʂ ă w ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ ɤ ˨˩˦ ▁ k l eː v ə l a n d ˧˧
+DUMMY/wav/a34823baf7b90b83c0741060a75ac359.wav|b i ˨˩˨ ▁ k a w ˦˥ ▁ s i n ˧˧ ▁ l o j ˨˩˦ ▁ j ɤ ˨˩˨ ▁ s i n ˧˧ ▁ l o j ˨˩˦ ▁ h a j ˧˧ ▁ b e n ˧˧ ▁ j a ˧˧ ▁ d i n ˧˨
+DUMMY/wav/aeb28b46720860eba097c27fc4b87422.wav|t o j ˧˧ ▁ c i ˨˩˦ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ ʐ a ˧˧ ▁ m i n ˧˨ ▁ x o ŋ͡m ˧˧ ▁ d e n ˦˥ ▁ d ɔ ˦˥ ▁ d e ˨˩˦ ▁ tʰ u ˧˧ ▁ tʰ ɤ̆ p ˨˩˨ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ x i ˧˧ ▁ ɣ i ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ h ɔ ˨˩˨ ▁ w ă j ˧˧ ▁ ʈ ɤ ˨˩˦ ▁ l a j ˨˩˨ ▁ c i ə k ˦˥ ▁ s ɛ ˧˧ ▁ j i p ˧˧ ▁ b ɔ k͡p ˨˩˨ ▁ tʰ ɛ p ˦˥ ▁ l a j ˦˥ ▁ s ɛ ˧˧ ▁ d i ˧˧ ▁ j ɤ̆ j ˨˩˦ ▁ t ă j ˧˧ ▁ j a ˧˨ ▁ ɲ a w ˨˩˨ ▁ b a ŋ ˦˥
+DUMMY/wav/d402aaa6eef9e64539f064bf785f64ac.wav|n ɔ j i ˧˧ c ɛ ŋ ˧˧ k ɔ ˧˧ ▁ l a ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ b a ŋ ˨˩˨ ▁ tʰ ɤ̆ ŋ ˧˧ ▁ tʰ i ə k ˦˥ ▁ k u ə ˨˩˦ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ j ɤ̆ ŋ ˧˧ ▁ ʈ i ə w ˧˨ ▁ t i ə ŋ ˧˧
+DUMMY/wav/9d91529568a3289af1fbeea18b5f3d70.wav|b ɤ j ˧˧ ▁ tʰ w i ə ŋ ˧˨ ▁ l e n ˧˧ ▁ n ɔ k͡p ˦˥ ▁ ɲ a ˧˨ ▁ b ă k ˦˥ ▁ k a ˦˥ ▁ ʂ ɤ̆ w ˦˥ ▁ j ɯ ə ˨˩˦ ▁ f o ˦˥
+DUMMY/wav/09edb609d34d196aac874187b85e7f0d.wav|ɲ ɯ ŋ ˧˧ ▁ d a ŋ ˦˥ ▁ t i ə k ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ h e ˧˨ ▁ ŋ ɛ ˧˧ ▁ tʰ ɤ̆ j ˦˥ ▁ d i ə w ˧˨ ▁ n ă j ˧˨
+DUMMY/wav/fb1d38936c6b27ef2fc992695966e861.wav|ʂ o ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ c e t ˦˥ ▁ j ɔ ˧˧ ▁ ʂ i ə w ˧˧ ▁ b a w ˨˩˦ ▁ h a j ˧˧ j a ŋ ˧˧ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ h ɤ ŋ ˧˧ ▁ ɛ ˧˧
+DUMMY/wav/0ed952d5c2e26fe11b801eafd1a1f844.wav|ŋ ɯ ə j ˧˨ ▁ k a m p u ˧˧ c i ə ˧˧ ▁ d a ˨˩˦ ▁ d i ə w ˧˨ ▁ x i ə ŋ ˨˩˦ ▁ ʈ a m ˨˩˨ ▁ tʰ i ə ŋ ˧˧ ▁ j ă ŋ ˧˧ ▁ h ă j ˧˧ d ɛ ŋ ˧˧ ▁ t ɯ ˧˨ ▁ ʈ ɯ ə ŋ ˧˨ ▁ ʈ u ŋ͡m ˧˧ ▁ h ɔ k͡p ˨˩˨ ▁ k u ə ˨˩˦ ▁ h ɔ ˨˩˨
+DUMMY/wav/05314de20740cc78d90e59006927840a.wav|j u ˨˩˨ ▁ j i ə k ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ d a ŋ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ t i p ˦˥ ▁ t u k͡p ˨˩˨ ▁ d i ə w ˧˨ ▁ ʈ a ˧˧ ▁ s a k ˦˥ ▁ m i n ˧˧
+DUMMY/wav/8116bd9bd57d8da5ffc60e8616ce93a1.wav|c ă j ˦˥ ▁ k ɯ ə ˨˩˦ ▁ h a ŋ ˧˨ ▁ t a p ˨˩˨ ▁ h w a ˦˥ ▁ t a j ˨˩˨ ▁ h w i ə ŋ ˨˩˨ ▁ w i n ˧˨ ▁ l ɯ w ˧˧
+DUMMY/wav/41c92862dcdfb896a5f931880c82cfea.wav|t o j ˧˧ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ ʐ a ˧˧ ▁ ʐ ă ŋ ˧˨ ▁ x i ˧˧ ▁ l i ə ŋ ˧˧ ▁ k e t ˦˥ ▁ tˤ i ˧˧ ▁ d i m ˨˩˦ ▁ l a j ˨˩˨ ▁ c i ˨˩˦ ▁ k ɔ ˦˥ ▁ i ˧˧ ▁ tʰ ɯ ˦˥ ▁ a n ˨˩˦ ▁ h ɯ ə ŋ ˨˩˦ ▁ t ɤ j ˦˥ ▁ k u ə k ˨˩˨ ▁ ʂ o ŋ͡m ˦˥ ▁ k u ə ˨˩˦ ▁ t o j ˧˧ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ ʈ ɤ ˨˩˦ ▁ tʰ a n ˧˨ ▁ i ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ b o ˦˥ ▁ t w i ə k ˨˩˨ ▁ j ɤ j ˧˨
+DUMMY/wav/090080fd4a2db430fa81413f1f9a6d78.wav|k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ j u ˨˩˨ ▁ a ŋ ˦˥ ▁ b ă k ˦˥ ▁ ŋ u ə ŋ ˧˨ ▁ t ɯ ˧˨ ▁ m ɤ̆ w ˧˧ ▁ tʰ w ɤ̆ ŋ ˨˩˦ ▁ k a ˦˥ ▁ ɲ ɤ̆ ŋ ˧˧
+DUMMY/wav/84e2a85c5259d1edbae73041f2c9eaba.wav|j ˧˧ ▁ ɛ ˧˧ ▁ ă ŋ ˧˧ ▁ d ɯ k ˦˥ ▁ f ˧˧ ▁ ɛ ˧˧ ▁ m i ˨˩˦ ▁ t i f ɔ ŋ͡m ˧˧ ▁ c ɤ̆ w ˧˧ ▁ ɤ̆ w ˧˧
+DUMMY/wav/2880863fda493e0f502bcaf1c7d06f98.wav|d e ˧˨ ▁ ŋ i ˨˩˨ ▁ b u ə k ˨˩˨ ▁ tʰ o j ˧˧ ▁ j i ə k ˨˩˨ ▁ tʰ ɤ̆ m ˨˩˦ ▁ f a ŋ ˦˥ ▁ j ɔ j ˧˨ ▁ t i ə ŋ ˧˨ ▁ d ɯ ə ŋ ˧˧ ▁ ʂ ɯ ˨˩˨
+DUMMY/wav/315b5e7e24ba23742f80eadef6ae1b28.wav|k ă ŋ ˧˧ ▁ k ɯ ˦˥ ▁ w ɤ̆ ŋ ˧˧ ▁ ʂ ɯ ˨˩˨ ▁ t o j ˦˥ ▁ m ɤ̆ k ˨˩˨ ▁ j u ŋ͡m ˧˨ ▁ ɕ i ˧˧ ▁ k u ə ˨˩˦ ▁ m i ˨˩˦
+DUMMY/wav/7cc25c698e225488932cfbf50f2e02e7.wav|x o ŋ͡m ˧˧ ▁ m o ŋ͡m ˧˧ ▁ n a w ˧˨ ▁ j ɔ j ˨˩˦ ▁ k a ˨˩˦ ▁ m o ŋ͡m ˧˧ ▁ t w a ŋ ˦˥ ▁ l a ˧˨ ▁ i ə w ˦˥ ▁ ɲ ɤ̆ k ˦˥
+DUMMY/wav/12f1e38580a9676602422b9c46948fce.wav|t i ə w ˨˩˦ ▁ tʰ ɯ ə ŋ ˧˧ ▁ tʰ ɤ̆ k ˦˥ ▁ tʰ ɤ̆ ŋ ˧˨ ▁ j i ˧˨ ▁ t ă j ˧˧ ▁ ʈ ă ŋ ˦˥ ▁ ʂ ă w ˧˧ ▁ j u ˨˩˨ ▁ h w a ˨˩˦ ▁ h w a ŋ ˨˩˨
+DUMMY/wav/95a6e30328e6e212e507a045c7c97223.wav|m o j ˨˩˦ ▁ n ă m ˧˧ ▁ b ă ŋ ˧˧ ▁ k ɯ p ˦˥ ▁ n ă j ˧˨ ▁ c i ˨˩˦ ▁ tʰ ɯ k ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ m o k͡p ˨˩˨ ▁ j u ˨˩˨ ▁ k ɯ p ˦˥
+DUMMY/wav/dc7ee05c804c10072e9a964f42263f65.wav|m o k͡p ˨˩˨ ▁ tʰ a n ˧˧ ▁ n i ə ŋ ˧˧ ▁ b i ˨˩˨ ▁ c ɛ m ˦˥ ▁ j a ˨˩˦ ▁ m a ŋ ˧˧ ▁ n ă m ˧˧ ▁ c e t ˦˥ ▁ j ɛ ŋ ˧˧ ▁ d ɯ ə ŋ ˧˨
+DUMMY/wav/c0bcce3d2e46a545f8ec57f2f6d5a84a.wav|x o ŋ͡m ˧˧ ▁ ɲ ɯ ˧˧ ▁ m ɔ ŋ͡m ˧˧ ▁ d ɤ j ˨˩˨
+DUMMY/wav/b12917117365f3c9b362c6fc1e8788a0.wav|j a ˧˨ ▁ x i ˧˧ ▁ b a ŋ ˨˩˨ ▁ t ɤ j ˦˥ ▁ c ɤ j ˧˧ ▁ b ɔ ŋ͡m ˦˥ ▁ c ă j ˧˨ ▁ c ă ŋ ˨˩˦ ▁ a j ˧˧ ▁ k ɤ̆ ŋ ˧˨ ▁ n ɔ j ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ l a m ˧˨ ▁ ɣ i ˧˨ ▁ h ă j ˧˧ ▁ ʈ ɤ̆ ŋ ˨˩˨ ▁ b ɔ ŋ͡m ˦˥ ▁ c ă j ˧˨ ▁ n ă j ˧˨ ▁ l ɤ j ˨˩˨ ▁ i t ˦˥ ▁ ʐ a ˧˧ ▁ ʂ a w ˧˧
+DUMMY/wav/03a9ef1acecc7e37fda6cf39a6ede2b5.wav|k e t ˦˥ ▁ b u ə ŋ ˧˨ ▁ c ɔ ˧˧ ▁ h a j ˧˧ ▁ j a w ˦˥ ▁ j i ə ŋ ˧˧ ▁ m ɤ̆ m ˧˨ ▁ n ɔ ŋ͡m ˧˧ ▁ l a m ˧˨ ▁ c e t ˦˥ ▁ ʈ ɛ ˨˩˦
+DUMMY/wav/64fef6408da1e657cced5be258557fb5.wav|k e ˦˥ ▁ h w a t ˨˩˨ ▁ k ɯ p ˦˥ ▁ ɤ ˨˩˦ ▁ ɲ a ˧˨ ▁ ʈ ɔ ˨˩˨ ▁ k u ə ˨˩˦ ▁ d o j ˧˧ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ t i n ˧˨ ▁ ʈ ɛ ˨˩˦
+DUMMY/wav/ef0dc4ce89436042b71c9307fd358d0e.wav|k ɔ ŋ͡m ˧˧ ▁ c e t ˦˥ ▁ ʂ ă w ˧˧ ▁ x i ˧˧ ▁ ʂ i n ˧˧ ▁ m ɤ̆ j ˦˥ ▁ tʰ a ŋ ˦˥ ▁ m ɛ ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ d i ˧˧ ▁ l a m ˧˨
+DUMMY/wav/9d22f82fa3c5c12effc966a6ddfe16be.wav|d i ə w ˧˨ ▁ d ɔ ˦˥ ▁ ʐ ɤ̆ k ˦˥ ▁ w a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨ ▁ j i ˧˨ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ k a t ˦˥ ▁ k ɔ ŋ͡m ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ j a w ˧˧ ▁ t i p ˦˥
+DUMMY/wav/f89243346ba9aa39e489b07388a97ed8.wav|j a ˧˨ ▁ m o k͡p ˨˩˨ ▁ c ɯ ə ŋ ˧˧ ▁ ʈ i n ˧˨ ▁ x a k ˦˥ ▁ t e n ˧˧ ▁ l a ˧˨ ▁ l ɤ̆ p ˨˩˨ ▁ b a ŋ ˨˩˦ ▁ d o ˧˨ ▁ s a k ˦˥ ▁ ʂ w ɤ̆ k ˦˥ ▁ tʰ o ŋ͡m ˦˥ ▁ k e ˧˧ ▁ tʰ ɯ k ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ k a k ˦˥ ▁ f ɛ p ˦˥ ▁ t i n ˦˥ ▁ t w a ŋ ˦˥ ▁ h ɔ k͡p ˨˩˨ ▁ d e ˨˩˦ ▁ s a k ˦˥ ▁ d i n ˨˩˨ ▁ l i ə w ˨˩˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ʂ ɯ ˨˩˨ ▁ b ɤ̆ k ˦˥ ▁ tʰ ɯ ə ŋ ˧˨ ▁ n ă j ˧˨ ▁ l a ˧˨ ▁ j ɤ̆ w ˦˥ ▁ h i ə w ˨˩˨ ▁ l ɤ̆ m ˧˧ ▁ ʂ a ŋ ˧˨ ▁ w a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨
+DUMMY/wav/27902128d25e947fe96f7c3b6fb7c67f.wav|f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ k ɤ ˧˧ ▁ ʂ ɤ ˨˩˦ ▁ c i ə k ˦˥ ▁ ɣ a ʃ ˧˧ ▁ ʈ a j ˦˥ ▁ f ɛ p ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ ŋ u j ˨˩˨ ▁ ʈ a ŋ ˧˧
+DUMMY/wav/3b3866863915956a544d043629ff21ee.wav|ɲ ɯ ŋ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ l ɤ ŋ ˦˥ ▁ x o ŋ͡m ˧˧ ▁ tʰ i t ˦˥ ▁ i ˦˥ ▁ t ɯ ə ŋ ˨˩˦ ▁ d ɔ ˦˥
+DUMMY/wav/0a608df6d86dde96be0fe3a1ccc190b0.wav|c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ l a ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ɲ a ˧˨ ▁ j a w ˦˥
+DUMMY/wav/a42a02a4561dcf23e6be0f43a4da3e90.wav|k a j ˦˥ ▁ d ɔ ˦˥ ▁ t o j ˧˧ ▁ c ɯ ə ˧˧ ▁ n ă m ˦˥ ▁ d ɯ ə k ˨˩˨
+DUMMY/wav/0cb9cf68a42578b493578398ecc7fe37.wav|c a n ˦˥ ▁ j ă ŋ ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ ʂ ɤ ˨˩˦ ▁ n o j ˨˩˨ ▁ j u ˨˩˨ ▁ k a ˧˨ ▁ m ă w ˧˧ ▁ b i ˨˩˨ ▁ t a t ˨˩˨ ▁ a ˧˧ ▁ s i t ˦˥
+DUMMY/wav/97b81a71aca99021a7e661539530d517.wav|t w a ŋ ˧˨ ▁ b o ˨˩˨ ▁ w a ˦˥ ▁ ʈ i n ˧˨ ▁ h w a ˨˩˦ ▁ t a ŋ ˦˥ ▁ d ɛ u ˧˨ ▁ x o ŋ͡m ˧˧ ▁ ɣ ɤ̆ j ˧˧ ▁ o ˧˧ ▁ ɲ i m ˨˩˦
+DUMMY/wav/00185979ceae53fdbe92fc6e2b18c87d.wav|t a j ˨˩˨ ▁ tʰ i ˨˩˨ ▁ ʈ ɤ̆ ŋ ˦˥ ▁ ʂ t a k ˧˧ h a n ɔ w ˧˧ ▁ ɛ ˧˧ t i ˧˧
+DUMMY/wav/f3d2d66d32bff5df68e2eb1967809fcb.wav|t u ˨˩˨ ▁ d i m ˨˩˦ ▁ k ɤ ˧˨ ▁ b a k ˨˩˨ ▁ w i ˧˧ ▁ t u ˨˩˨ ▁ ɲ i ə w ˧˨ ▁ f u ˨˩˨ ▁ n ɯ ˨˩˦ ▁ tʰ a m ˧˧ ▁ j a ˧˧
+DUMMY/wav/4ecf4ca1a6cbee46c6c828bb4ec8d273.wav|d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ d ɯ ə ŋ ˧˨ ▁ o ŋ͡m ˦˥ ▁ j ɤ̆ ŋ ˨˩˦ ▁ x i ˦˥ ▁ d o k͡p ˦˥ ▁ j a j ˧˨ ▁ ɲ ɤ̆ k ˦˥ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥
+DUMMY/wav/68ed0246f46d8484d8e7f805c1f42ab9.wav|t o j ˦˥ ▁ t i ˧˧
+DUMMY/wav/5c182d061f4221cd2d1991943f5cb199.wav|j a ˧˨ ▁ n ɛ u ˦˥ ▁ b a ŋ ˨˩˨ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ b a t ˨˩˨ ▁ t u ə k ˨˩˨ ▁ h ă j ˧˧ ▁ m o k͡p ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ tʰ ɤ̆ ŋ ˧˧ ▁ m e m ˧˨ ▁ b a ŋ ˨˩˨ ▁ tʰ ɯ k ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ k ɤ̆ ŋ ˧˨ ▁ f a j ˨˩˦ ▁ b i ə k ˦˥ ▁ l a m ˧˨ ▁ tʰ e ˦˥ ▁ n a w ˧˨ ▁ d e ˨˩˦ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ m o j ˧˧ ▁ ʈ ɯ ə ŋ ˧˨ ▁ s u ŋ͡m ˧˧ ▁ w a n ˧˧ ▁ d e ˨˩˦ ▁ ɤ̆ ŋ ˨˩˦ ▁ ʈ o ŋ͡m ˦˥
+DUMMY/wav/5b36106590654ef68c3233312520f4b0.wav|h ɤ̆ w ˧˨ ▁ ɲ ɯ ˧˧ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ h w a t ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ n a w ˧˨
+DUMMY/wav/d5bd7d7c5576380c1232e7524c2d4bb2.wav|d o ŋ͡m ˧˨ ▁ tʰ a p ˦˥
+DUMMY/wav/662599549a2cf7b258ce5a5ede2835f1.wav|c ɤ j ˧˧ ▁ t a j ˧˨ ▁ s i w ˨˩˦ ▁ j e ˨˩˦ ▁ b i ˨˩˨ ▁ s u j ˦˥ ▁ w ɤ̆ j ˨˩˦
+DUMMY/wav/4cfb3388a2a4ff143c0a6fcef5e54ada.wav|a n ˧˧ ▁ k ɔ ˦˥ ▁ j u ŋ͡m ˧˨ ▁ tʰ e m ˧˧ ▁ ʂ i ʃ ə ˧˧ ▁ h ă j ˧˧ ▁ b ɔ ŋ͡m ˦˥ ▁ k ɯ ə j ˧˨ ▁ ɣ i ˧˨ ▁ x o ŋ͡m ˧˧ ▁ a n ˧˧
+DUMMY/wav/8cf7442c0059289a575a86d2019945e0.wav|h ɤ̆ w ˧˨ ▁ ɲ ɯ ˧˧ ▁ t ɤ̆ k ˦˥ ▁ k a ˨˩˦ ▁ k a k ˦˥ ▁ ŋ o j ˧˧ ▁ ɲ a ˧˨ ▁ d a ˨˩˦ ▁ b i ˨˩˨ ▁ f a ˦˥ ▁ h u j ˨˩˦
+DUMMY/wav/38d3ba615a6b5a623a3de40b0a903f0d.wav|m i ˨˩˦ ▁ h o j ˦˥ ▁ tʰ u k͡p ˦˥ ▁ i ˧˧ ʐ a k ˧˧ ▁ ɲ a n ˧˧ ▁ c ɔ ŋ͡m ˦˥ ▁ tʰ a n ˧˨ ▁ l ɤ̆ p ˨˩˨ ▁ c i n ˦˥ ▁ f u ˨˩˦ ▁ m ɤ j ˦˥
+DUMMY/wav/88b20e2e34d611715aab1850cbd8a41d.wav|j i ˧˧ j e o ˧˧ ▁ l e ˨˩˦ ▁ d ɔ ŋ͡m ˦˥ ▁ t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ ŋ a ˧˧ ▁ j ɫ a j i m i ʁ ˧˧ ▁ p u t i n ˧˧ ▁ t a j ˨˩˨ ▁ h a ˧˨ ▁ n o j ˨˩˨
+DUMMY/wav/aaeaa5af1273f88eaf852fabd4c67324.wav|j ɤ ˨˩˨ ▁ t o j ˧˧ ▁ j a ˧˨ ▁ t o j ˧˧ ▁ ʂ w i t ˦˥ ▁ l i ˧˧ ▁ h o ŋ͡m ˧˧ ▁ , ▁ o ŋ͡m ˧˧ ▁ b o k͡p ˨˩˨ ▁ b a t ˨˩˨
+DUMMY/wav/1518cffdf6c3f7baec13d3455013bff5.wav|t i ˧˧ kʰ ɛ ˧˧ ▁ d a ˨˩˦ ▁ j i ˧˧ ▁ f a m ˨˩˨ ▁ ŋ w i ə ŋ ˧˧ ▁ t ă k ˦˥ ▁ c o ŋ͡m ˦˥ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ j u ˨˩˦ ▁ l ɯ k ˨˩˨
+DUMMY/wav/1edd9e141be85cbd51f77cbdfabf0655.wav|t o j ˧˧ ▁ c ă k ˦˥ ▁ ʐ ă ŋ ˧˨ ▁ m i n ˧˨ ▁ d a ŋ ˧˧ ▁ k o ˦˥ ▁ ɣ ă ŋ ˦˥ ▁ x w i ə ŋ ˦˥ ▁ x i t ˦˥ ▁ b a ŋ ˨˩˦ ▁ tʰ ɤ̆ ŋ ˧˧ ▁ b ɯ ə k ˦˥ ▁ ʐ a ˧˧ ▁ ŋ w a j ˧˨ ▁ j a ˧˨ ▁ x a m ˦˥ ▁ f a ˦˥ ▁ l ɔ ŋ͡m ˧˧ j ɔ ŋ͡m ˧˧
+DUMMY/wav/d020690fb2ae4ce855eea57e28c99c89.wav|j a w ˧˧ ▁ w e i ˧˧ ʂ a ŋ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ tʰ a n ˧˨ ▁ l ɤ̆ p ˨˩˨ ▁ j a w ˦˥ ▁ f a j ˦˥ ▁ tʰ ɯ ə ŋ ˨˩˨ ▁ d e ˦˥ ▁ t w a ŋ ˧˨ ▁ n ă ŋ ˧˧
+DUMMY/wav/a11621bd15c951e03fe1933ef98c943c.wav|b ă k ˦˥ ▁ j u ˨˩˨ ▁ j ɤ̆ ŋ ˨˩˨ ▁ c w i ə ŋ ˨˩˦ ▁ ʈ a j ˦˥ ▁ f ɛ p ˦˥ ▁ ʂ ɯ ŋ ˧˨ ▁ d o ŋ͡m ˨˩˨ ▁ j ɤ̆ k ˨˩˨ ▁ h w a ŋ ˧˧ ▁ j a ˨˩˦
+DUMMY/wav/2ee9b6c928b5b4e6f051420f1836e43a.wav|n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ k u ə ˨˩˦ ▁ b i n ˧˨ ▁ k u ŋ͡m ˨˩˦ ▁ l a ˧˨ ▁ j ɤ ˨˩˨ ▁ k u ˨˩˦ ▁ k u ə ˨˩˦ ▁ o ŋ͡m ˧˧ ▁ t a ˧˧
+DUMMY/wav/de5aebe5cfeec85a2dad269d5a0c2e1b.wav|f a t ˦˥ ▁ ŋ o ŋ͡m ˧˧ ▁ ɤ̆ ŋ ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ ʂ i ɾ i ə ˧˧ ▁ b a ʃ a ʁ ˧˧ ▁ a l ˧˧ ▁ a ʂ ˧˧ a j ˧˧
+DUMMY/wav/4a5bc48c52ff4010808614a62e8d27be.wav|b e n ˨˩˨ ▁ j i ə ŋ ˨˩˨ ▁ d a ˧˨ ▁ n ă ŋ ˨˩˦ ▁ n ɤ j ˧˧ ▁ n a m ˧˧ ▁ j u ˧˧ ▁ x a t ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ d i ə w ˧˨ ▁ ʈ i ˨˩˨
+DUMMY/wav/1729867c016d8ba1e6c86163f7078992.wav|d ɤ̆ w ˧˨ ▁ t i ə ŋ ˧˧ ▁ l a ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ h a t ˨˩˨ ▁ j o ŋ͡m ˦˥ ▁ j a ˧˨ ▁ t e ˦˥ ▁ b a w ˧˨ ▁ ʂ i n ˧˧ ▁ h ɔ k͡p ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ b i ə ŋ ˦˥ ▁ d o j ˨˩˦ ▁ j ɛ ŋ ˧˧
+DUMMY/wav/e9e56f6ef7416d8e328fd76603be2318.wav|ʈ ɔ ŋ͡m ˧˧ ▁ ʂ o ˦˥ ▁ k a k ˦˥ ▁ ʂ i n ˧˧ ▁ j i ə ŋ ˧˧ ▁ tʰ i ə k ˨˩˨ ▁ m a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ l ă w ˧˧ ʐ a ˧˧ ▁ j a ŋ ˧˧ ▁ ʐ i n ˧˧
+DUMMY/wav/1ebf08fc78b3a816d73448d39b3df978.wav|ʈ i ə w ˧˨ ▁ t i ə ŋ ˧˧ ▁ ɣ ɤ̆ j ˧˧ ▁ ʂ ɯ ˨˩˨ ▁ j ɤ j ˦˥ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ l a ˧˨ ▁ j i ˧˨ ▁ j ɤ̆ ŋ ˨˩˨ ▁ j o j ˨˩˦
+DUMMY/wav/c0bb15018d9068c1ed6d9c1b2e27a127.wav|n ɔ ˦˥ ▁ c u ˨˩˦ ▁ i ə w ˦˥ ▁ h w a t ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ ɲ ɯ ˧˧ ▁ m o k͡p ˨˩˨ ▁ m ă j ˦˥ ▁ b ă j ˧˧ ▁ ʈ i n ˧˧ ▁ ʂ a t ˦˥
+DUMMY/wav/a07e4041bb0f17c02cf3a507096bea17.wav|h ɔ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ b i ə ŋ ˦˥ ▁ k a k ˦˥ ▁ tʰ ɯ k ˨˩˨ ▁ f ɤ̆ m ˨˩˦ ▁ k ɔ ˦˥ ▁ l ɤ j ˨˩˨ ▁ c ɔ ˧˧ ▁ ʂ ɯ k ˦˥ ▁ x w e ˨˩˦ ▁ ʈ ɤ ˨˩˦ ▁ n e n ˧˧ ▁ h ɤ p ˨˩˨ ▁ x ɤ̆ w ˨˩˦ ▁ j i ˨˩˨
+DUMMY/wav/80f02f54ef6e8a41fb2ad856062f6c78.wav|x i ˧˧ ▁ b a ŋ ˨˩˨ ▁ ʂ o ŋ͡m ˦˥ ▁ h w a ŋ ˧˨ ▁ t w a ŋ ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ tʰ ɯ k ˨˩˨ ▁ t a j ˨˩˨ ▁ x i ˧˧ ▁ t o j ˧˧ ▁ ʂ o ŋ͡m ˦˥ ▁ h w a ŋ ˧˨ ▁ t w a ŋ ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ tʰ ɯ k ˨˩˨ ▁ t a j ˨˩˨ ▁ c i ə k ˦˥ ▁ t ă w ˧˨ ▁ k u ə ˨˩˦ ▁ ʂ ɯ ˨˩˨ ▁ j i ə ŋ ˨˩˦ ▁ k a m ˨˩˦ ▁ ʐ o ŋ͡m ˨˩˨ ▁ m ɤ ˨˩˦
+DUMMY/wav/25dadd4e0e0ab5ca35d707a65024edfb.wav|tʰ o ˨˩˦ ▁ ɲ i ˨˩˦ ▁ k i ˧˨ ▁ ʈ i ə w ˨˩˨ ▁ d a j ˨˩˨ ▁ j i ə ŋ ˨˩˨ ▁ ʂ i ɾ i ə ˧˧ ▁ f a ŋ ˨˩˦ ▁ d o j ˦˥ ▁ t ɤ̆ ŋ ˦˥ ▁ k o ŋ͡m ˧˧
+DUMMY/wav/b7d60bb4c3c215eaf8a82a9753f0c0b5.wav|l u k͡p ˦˥ ▁ n ă j ˧˨ ▁ a n ˧˧ ▁ k o ŋ͡m ˧˧ ▁ ɣ ɔ j ˨˩˨ ▁ d i ə ŋ ˨˩˨ ▁ c ɔ ˧˧ ▁ k ɯ ə ŋ ˧˨ ▁ t ɤ j ˦˥ ▁ tʰ a m ˧˧ ▁ j a ˧˧
+DUMMY/wav/e939e807e6ecf7f86a0791125618ee79.wav|h i n ˧˨ ▁ a n ˨˩˦ ▁ tˤ i ˧˧ ▁ n ɯ ˨˩˦ ▁ ʂ i n ˧˧ ▁ b i ˨˩˨ ▁ d a n ˦˥ ▁ h o j ˨˩˨ ▁ d o ŋ͡m ˧˨ ▁ j a ˨˩˦ ▁ m a ŋ ˧˧
+DUMMY/wav/7763f16d5037b71f5f79a63ad900c9ea.wav|s ɛ t ˦˥ ▁ s ɯ ˨˩˦ ▁ ʂ ɤ ˧˧ ▁ tʰ ɤ̆ m ˨˩˦ ▁ j u ˨˩˨ ▁ a ŋ ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ d a j ˧˨ ▁ d i ə ŋ ˨˩˨ ▁ b i ə ŋ ˧˧ ▁ f u ˨˩˦
+DUMMY/wav/0943ef1388e38925723326bb588b77d0.wav|u ˧˧ k r a j ˧˧ n ɛ ˧˧ ▁ t w i ə ŋ ˧˧ ▁ b o ˦˥ ▁ d a p ˦˥ ▁ ʈ a ˨˩˦ ▁ m ɔ j ˨˩˨ ▁ l e n ˨˩˨ ▁ k ɤ̆ m ˦˥ ▁ j ɤ̆ ŋ ˨˩˨ ▁ k u ə ˨˩˦ ▁ ŋ a ˧˧
+DUMMY/wav/7bff6024d7946ef00de05bc4c2349ab6.wav|t ɯ ˨˩˦ ▁ h i n ˧˨ ▁ k ɛ ˨˩˦ ▁ j a ˨˩˦ ▁ j a n ˧˧ ▁ k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ d w a t ˨˩˨ ▁ m a ŋ ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ t i n ˧˨
+DUMMY/wav/2f58d36fec00c517666fa8fab1444f6b.wav|m ă k ˨˩˨ ▁ j u ˧˨ ▁ ʂ ɯ ˨˩˨ ▁ d ɔ j ˦˥ ▁ ŋ e o ˧˨ ▁ k u ə ˨˩˦ ▁ m i n ˧˨
+DUMMY/wav/b57dde1b6dd799557c8fee4e10ce1797.wav|d e ˨˩˦ ▁ t i m ˧˨ ▁ tʰ ɤ̆ j ˦˥ ▁ b a ŋ ˨˩˦ ▁ ŋ a ˨˩˦ ▁ t a ˧˧ ▁ d a ŋ ˧˧ ▁ ʂ o ŋ͡m ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ s a ˨˩˦ ▁ h o j ˨˩˨ ▁ u ŋ͡m ˨˩˦ ▁ h o ˨˩˨ ▁ a j a m ˧˧ ▁ i ˧˧ ▁ j a ˧˨ ▁ tʰ ɯ ə ŋ ˧˨ ▁ l ɤ ˧˧ ▁ l a ˧˨ ▁ a j a m ˧˧ ▁ i j ˧˧
+DUMMY/wav/b0c3df3fb9b514c881b0b2aad521e600.wav|ɲ i ə w ˧˨ ▁ ɲ ɤ̆ k ˦˥ ▁ j ɤ̆ ŋ ˨˩˦ ▁ l a ˧˨ ▁ h a ŋ ˧˨ ▁ w o k͡p ˦˥ ▁ d a j ˧˨ ▁ l w a ŋ ˧˧ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥
+DUMMY/wav/71ea59728d891de0ebc73bb587599de9.wav|d e ˨˩˦ ▁ c ă k ˦˥ ▁ c ă ŋ ˦˥ ▁ ʐ a ŋ ˧˨ ▁ m o k͡p ˨˩˨ ▁ ʂ o ˦˥ ▁ tʰ ɯ ˦˥ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ d a ˨˩˦ ▁ k ɔ ˦˥ ▁ j ɤ̆ ŋ ˦˥ ▁ d e ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ k ɔ ˦˥ ▁ t ɤ̆ k ˦˥ ▁ k a ˨˩˦ ▁ ɲ ɯ ŋ ˨˩˦ ▁ tʰ u ˨˩˦ ▁ t u k͡p ˨˩˨ ▁ n ă j ˧˨ ▁ w a n ˧˧ ▁ m o k͡p ˨˩˨ ▁ k u ə k ˨˩˨ ▁ b ɤ̆ w ˧˨ ▁ k ɯ ˨˩˦
+DUMMY/wav/7e9166ca3cf93fff3368cdd8ddd4ea38.wav|i ˧˧ ▁ a ŋ ˦˥ ▁ tʰ a n ˧˧ ▁ n i ə ŋ ˧˧ ▁ d ɤ̆ m ˧˧ ▁ c e t ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ j i ˧˨ ▁ b e n ˧˧ ▁ b a ŋ ˨˩˨ ▁ ɣ a j ˦˥
+DUMMY/wav/811655dd9ee7f4c31a569be104e9f94d.wav|c ă ŋ ˨˩˦ ▁ h i ə w ˨˩˦ ▁ h ɔ ˨˩˨ ▁ ŋ i ˨˩˦ ▁ tʰ e ˦˥ ▁ n a w ˧˨ ▁ , ▁ tʰ e o ˧˧ ▁ h a ŋ ˨˩˦ ▁ t i n ˧˧ ▁ ŋ a ˧˧ ▁ t a ʂ ˧˧
+DUMMY/wav/a681d4da10b3eba90fadaaa5dc555ee3.wav|k i m ˨˩˦ ▁ ʂ w a t ˦˥ ▁ t ɤ̆ k ˦˥ ▁ k a ˨˩˦ ▁ k a k ˦˥ ▁ k ɤ ˧˧ ▁ ʂ ɤ ˨˩˦ ▁ l a ˧˨ ▁ d i ə w ˧˨ ▁ ʐ ɤ̆ k ˦˥ ▁ x ɔ ˦˥
+DUMMY/wav/02cb8a5167f61fa5faa8b51924d30059.wav|h i ə ŋ ˨˩˨ ▁ t a j ˨˩˨ ▁ c i ˨˩˦ ▁ m ɤ j ˦˥ ▁ ʈ u k͡p ˨˩˨ ▁ j ɤ k ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ s ɛ ˧˧ ▁ m ă j ˦˥ ▁ l e n ˧˧ ▁ b ɤ ˧˨
+DUMMY/wav/82b22a863eebe6cb0ca30050b8c9a963.wav|tʰ e o ˧˧ ▁ l ɤ j ˧˨ ▁ a n ˧˧ ▁ t ˈe ˧˧
+DUMMY/wav/7103d4154575bf49245e1fb917deca20.wav|n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ m i ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ c ɔ ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ ɲ a ˧˨ ▁ tʰ ɤ̆ w ˧˨ ▁ a ŋ ˧˧ ▁ n i n ˧˧
+DUMMY/wav/31f0b193ba7294053bf51b615b327e7c.wav|ʂ ɯ k ˦˥ ▁ m a n ˨˩˨ ▁ tʰ ɤ ˨˩˨ ▁ ʂ ă ŋ ˧˧ ▁ d e m ˧˧ ▁ ŋ a ˧˧ ▁ j ɯ ə ˧˨ ▁ ʈ a ŋ ˧˧ ▁ b i ˨˩˨ ▁ h a ŋ ˧˨ ▁ l w a t ˨˩˨
+DUMMY/wav/d9e342c04fa19a99c72712df6b0a095a.wav|d i ə w ˧˨ ▁ ʈ a ˧˧ ▁ j u ˨˩˨ ▁ c ă j ˦˥ ▁ t͡s u ˧˧
+DUMMY/wav/83b8ff70a17cd5d71c24d7bb7e0e1397.wav|t o j ˧˧ ▁ d a n ˦˥ ▁ j a ˦˥ ▁ m i n ˧˨ ▁ j ɛ ˧˧ ▁ d i m ˨˩˦
+DUMMY/wav/e905753e758c3bb9ab4c7acdba49b8f9.wav|tʰ i ˧˧ ▁ tʰ e ˨˩˦ ▁ b ɛ ˦˥ ▁ l i n ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ d ɯ ə ˧˧ ▁ j e ˧˨ ▁ h a ˧˨ ▁ n o j ˨˩˨ ▁ c i ə w ˧˨ ▁ n ă j ˧˧
+DUMMY/wav/73c7e4e56ba68bd8edba460e149ec407.wav|m ă j ˦˥ ▁ b ă j ˧˧ ▁ n ɛ m ˦˥ ▁ b ɔ m ˧˧ ▁ c i ə ŋ ˦˥ ▁ tʰ w ɤ̆ k ˨˩˨ ▁ ʂ u ˧˧ ▁ t ɔ ˧˧ ▁ x o ŋ͡m ˧˧ ▁ m a ŋ ˧˧ ▁ j u ˨˩˦ ▁ x i ˦˥
+DUMMY/wav/f3f5251c94de20527ff7305eb3863661.wav|n ɯ ˨˩˦ ▁ j u ˧˧ ▁ h a n ˧˨ ▁ ŋ a ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ c i n ˧˧ ▁ f u k͡p ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ j a ŋ ˧˧ ▁ j a w ˧˨ ▁ t ˌe ˧˧ i ˧˧
+DUMMY/wav/65ee117923c993ead8c3ff8c1da3cf2a.wav|k a k ˦˥ ▁ b a ŋ ˨˩˨ ▁ b i ə k ˦˥ ▁ d ɔ ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ f a j ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ j ă j ˨˩˨ ▁ k a t ˦˥ ▁ t ɯ ˧˨ ▁ b ɔ ˨˩˦ ▁ i ˦˥ ▁ tʰ ɯ k ˦˥ ▁ b a w ˨˩˦ ▁ j e ˨˩˨ ▁ m o j ˧˧ ▁ ʈ ɯ ə ŋ ˧˨ ▁ m o k͡p ˨˩˨ ▁ i ˦˥ ▁ tʰ ɯ k ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ n ɤ̆ ŋ ˧˧ ▁ k a w ˧˧ ▁ m a n ˨˩˨ ▁ m ɛ ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ k i ˧˨ ▁ d a j ˨˩˨ ▁ x u ŋ͡m ˨˩˦ ▁ h w a ŋ ˨˩˦ ▁ k i n ˧˧ ▁ t e ˦˥ ▁ j a ˧˨ ▁ tʰ e ˦˥ ▁ c i ə ŋ ˦˥ ▁ i j ˧˧
+DUMMY/wav/2b43b58ce031bf7fce720f421dac0c18.wav|j u ˨˩˨ ▁ s a ˨˩˦ ▁ ʂ u ŋ͡m ˦˥ ▁ x i ə ŋ ˦˥ ▁ ɣ i ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ c e t ˦˥ ▁ ɛ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ b i ˨˩˨ ▁ tʰ ɯ ə ŋ ˧˧
+DUMMY/wav/623718d3297b38da636f0cbbe3408bd7.wav|j ɤ̆ j ˨˩˨ ▁ m a ˧˨ ▁ l a j ˨˩˨ ▁ k ɔ ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ t o ˦˥ ▁ t o j ˧˧ ▁ l a ˧˨ ▁ w o k͡p ˦˥ ▁ j ɤ̆ ŋ ˧˧ ▁ d a ŋ ˨˩˦
+DUMMY/wav/3a3fbd150564af8a9173bb417e31da34.wav|b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ h ɔ k͡p ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ b a ˧˧ ▁ d i ə w ˧˨ ▁ tʰ u ˦˥ ▁ j i ˨˩˨ ▁ t ɯ ˧˨ ▁ d ɤ̆ j ˧˧
+DUMMY/wav/7df8949726380349139e01ba792173ae.wav|d ɤ̆ w ˧˨ ▁ t i ə ŋ ˧˧ ▁ n ɔ ˦˥ ▁ c ɔ ˧˧ ▁ f ɛ p ˦˥ ▁ b a ŋ ˨˩˨ ▁ ʈ a j ˨˩˦ ▁ ŋ i m ˨˩˨ ▁ j u ˨˩˦ ▁ ʈ u ˨˩˨
+DUMMY/wav/cc64418f9195c65e8ae6acf0fee53a89.wav|s e p ˦˥ ▁ h a ŋ ˨˩˨ ▁ m ɤ j ˦˥ ▁ j ɛ ˧˧ ▁ k ɯ ə ŋ ˧˨ ▁ w o k͡p ˦˥ ▁ h a ŋ ˧˨ ▁ d ɤ̆ w ˧˨ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥ ▁ k i ˧˨ ▁ tˤ i ˧˧
+DUMMY/wav/53ddec8a295b0c31ce09558d627076a4.wav|t i n ˧˨ ▁ ʈ a ŋ ˨˩˨ ▁ ʂ ɯ k ˦˥ ▁ x w e ˨˩˦ ▁ k u ə ˨˩˦ ▁ h ɔ ˨˩˨ ▁ j ɤ̆ ŋ ˨˩˦ ▁ c ɯ ə ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ b o ˦˥
+DUMMY/wav/26553b4798fabe6cdc25f2af74276f58.wav|a n ˧˧ ▁ t a ˧˧ ▁ d a ŋ ˧˧ ▁ ʂ ă ŋ ˨˩˦ ▁ ʂ a ŋ ˧˨
+DUMMY/wav/fd1c57074ee96c744cb92e0a1a82f872.wav|ŋ a ˧˧ ▁ ʈ i n ˧˨ ▁ l a ŋ ˧˨ ▁ b a ŋ ˨˩˦ ▁ n ɤ̆ ŋ ˧˧ ▁ k ɤ̆ p ˦˥ ▁ ʂ u ŋ͡m ˦˥ ▁ ʈ ɯ ə ŋ ˧˨ ▁ h w i ə ŋ ˧˨ ▁ tʰ w a j ˨˩˨ ▁ a k ˧˧ ▁ ɛ ˧˧ m ˧˧
+DUMMY/wav/3041da5fcc5ee6ea945dd0db493543d3.wav|l o ˧˧ ▁ ʐ a k ˦˥ ▁ d i ə ŋ ˨˩˨ ▁ t ɯ ˨˩˦ ▁ j ɯ ə ˧˨ ▁ b i ˨˩˨ ▁ h a j ˨˩˦ ▁ w a ŋ ˧˧ ▁ t i ˧˧ p i ˧˧
+DUMMY/wav/16dce7ae41d3d79c8c6f115494496338.wav|i ˧˧ ʐ a ŋ ˧˧ ▁ x o ŋ͡m ˧˧ ▁ d i n ˨˩˨ ▁ f a t ˦˥ ▁ ʈ i ə ŋ ˨˩˦ ▁ k a k ˦˥ ▁ l w a j ˨˩˨ ▁ j u ˨˩˦ ▁ x i ˦˥ ▁ h a t ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧
+DUMMY/wav/2a46fd400a5f37f76a9fe88c3c13339c.wav|ŋ ɯ ə j ˧˨ ▁ ɲ a ˧˨ ▁ c ɔ ˧˧ ▁ b i ə k ˦˥ ▁ ʈ ɯ ə k ˦˥ ▁ x i ˧˧ ▁ m ɤ̆ k ˦˥ ▁ a n ˧˧ ▁ ʐ ɤ̆ k ˦˥ ▁ x w e ˨˩˦ ▁ m a n ˨˩˨
+DUMMY/wav/209a4fa8db3797a7de77c30c30b75d6a.wav|f i f ə ˧˧ ▁ ʈ e o ˧˧ ▁ ɣ e ˦˥ ▁ c u ˨˩˦ ▁ t i t ˨˩˨ ▁ l i ə ŋ ˧˧ ▁ d w a ŋ ˧˨ ▁ b ɔ ŋ͡m ˦˥ ▁ d a ˦˥ ▁ tʰ a j ˦˥ ▁ l a ŋ ˧˧
+DUMMY/wav/be23051a8a2b10c251bf3b6543574b97.wav|s ɯ ˨˩˦ ▁ l i ˦˥ ▁ ŋ i m ˧˧ ▁ h a n ˧˨ ▁ j i ˧˧ ▁ c o ŋ͡m ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ tʰ i ˧˧ ▁ h a n ˧˨ ▁ k o ŋ͡m ˧˧ ▁ j u ˨˩˨
+DUMMY/wav/aabebb65d53bbccc07a81744025c7682.wav|ʐ ɤ̆ k ˦˥ ▁ t i ə k ˦˥ ▁ d e n ˦˥ ▁ n ă j ˧˧ ▁ c i ə k ˦˥ ▁ b a ˧˧ ▁ l o ˧˧ ▁ j ɤ̆ ŋ ˨˩˦ ▁ b i ˨˩˨ ▁ tʰ ɤ̆ k ˦˥ ▁ l a k ˨˩˨
+DUMMY/wav/7df5025f8aba37b8b335826cda5f5027.wav|c i ˧˧ ▁ t i ə w ˧˧ ▁ l i ə ŋ ˧˧ ▁ b a ŋ ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ j a m ˨˩˦ ▁ t i ˧˧ ▁ c i ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ m o k͡p ˨˩˨ ▁ d e m ˧˧
+DUMMY/wav/334488cc9193abe65c7c841fc1b11939.wav|c i ə k ˦˥ ▁ m ă j ˦˥ ▁ b ă j ˧˧ ▁ ɣ ă p ˨˩˨ ▁ n a ŋ ˨˩˨ ▁ x i ˧˧ ▁ d a ŋ ˧˧ ▁ c ɤ ˨˩˦ ▁ tʰ e o ˧˧ ▁ p i ˧˧ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/353d6ec48c2a67a0264e9acea13f7fb6.wav|ɔ b a m a ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ d a ˨˩˦ ▁ l e n ˧˧ ▁ t i ə ŋ ˦˥ ▁ j e ˧˨ ▁ t i n ˧˨ ▁ h i n ˧˨ ▁ ʈ i m e ə ˧˧ ▁ ɤ ˨˩˦ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧
+DUMMY/wav/e22cbc3433d5d8a73db418a288ed3c2f.wav|a n ˨˩˦ ▁ c u p ˨˩˨ ▁ b ɯ ə k ˦˥ ▁ c ɤ̆ ŋ ˧˧ ▁ k u ə ˨˩˦ ▁ b u z ˧˧ ▁ a ɫ ˧ d r i n ˧˧ ▁ t ɯ ˧˨ ▁ t ă w ˧˨ ▁ a p ɔ l ˧˧ ▁ ɛ ˧˧
+DUMMY/wav/51226f68fbe5fa4f9ad8bf11f8fab09e.wav|j ɔ ˧˧ ▁ d ɔ ˦˥ ▁ k o ˧˧ ▁ tʰ a t ˦˥ ▁ tʰ ɯ k ˦˥ ▁ t o j ˧˧ ▁ l a m ˧˨ ▁ tʰ ɯ ˦˥ ▁ ɣ i ˧˨ ▁ d ɔ ˦˥ ▁ n ɯ ˨˩˦ ▁ t i n ˦˥ ▁ h ɤ ŋ ˧˧ ▁ m o k͡p ˨˩˨ ▁ c u k͡p ˦˥ ▁ t a w ˧˧ ▁ ɲ a ˨˩˦ ▁ h ɤ ŋ ˧˧ ▁ m o k͡p ˨˩˨ ▁ c u k͡p ˦˥ ▁ ɲ ɛ ˨˩˨ ▁ h ɤ ŋ ˧˧ ▁ j a ˧˨ ▁ ɲ ɯ ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ tʰ ɤ ˨˩˨ ▁ m ă j ˧˧ ▁ j ɔ j ˨˩˦ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ ŋ i ˨˩˦ ▁ m i n ˧˨ ▁ n e n ˧˧ ▁ d ɔ ˧˧ ▁ ʂ o ˦˥ ▁ l i ə w ˨˩˨ ▁ k u ə ˨˩˦ ▁ k o ˧˧ ▁ ɤ̆ j ˦˥
+DUMMY/wav/8e309d2db4a1fce277f3b714cb6b45f2.wav|f i ə ˦˥ ▁ k ɔ ʂ t a ˧˧ ▁ ʐ i ˧˧ k a ˧˧ ▁ s a k ˦˥ ▁ d i n ˨˩˨ ▁ d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ j u ˨˩˨ ▁ b u ə ŋ ˧˧ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/0dbb7e653972cd807bd63f1e9d22dc90.wav|ŋ ă j ˧˧ ▁ l ɤ̆ p ˨˩˨ ▁ t ɯ k ˦˥ ▁ ʂ
+DUMMY/wav/63819dbdb84bdce4d1db24cb79c0f212.wav|d i ə w ˧˨ ▁ d ɔ ˦˥ ▁ x o ŋ͡m ˧˧ ▁ f a j ˨˩˦ ▁ l a ˧˨ ▁ j e ˨˩˦ ▁ j a ŋ ˧˨
+DUMMY/wav/62fba60072751a59553d9e31c7e4efcf.wav|t ă ŋ ˧˧ ▁ k ɯ ə ŋ ˧˨ ▁ j a j ˨˩˦ ▁ w i ɛ t ˦˥ ▁ ʈ a n ˧˧ ▁ c ɤ̆ p ˦˥ ▁ b ă ŋ ˧˨ ▁ h w a ˧˨ ▁ j a j ˨˩˦ ▁ d o j ˦˥ ▁ tʰ w a j ˨˩˨
+DUMMY/wav/7dfa6f75f3129f27b18eb6ac4d489a43.wav|t a j ˨˩˨ ▁ ʂ a w ˧˧ ▁ d i ə w ˧˨ ▁ t ɯ ə ŋ ˨˩˦ ▁ c ɯ ŋ ˧˨ ▁ j o ˧˧ ▁ l i ˦˥ ▁ d ɔ ˦˥ ▁ l a j ˨˩˨ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧
+DUMMY/wav/f6d4196d3789d534dc57d0011106c317.wav|i ˧˧ ʐ a k ˧˧ ▁ h ă j ˧˧ ▁ a f ɣ a n i ʃ t a ŋ ˧˧ ▁ c ɯ ə ˧˧ ▁ tʰ e ˨˩˦ ▁ n ɔ j ˦˥ ▁ d a ˨˩˦ ▁ k ɔ ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ h w a ˧˨ ▁ b i n ˧˨
+DUMMY/wav/8474412b0aef3004d9a3e26cbb949b9b.wav|n ɔ j ˦˥ ▁ tʰ ɤ̆ k ˨˩˨ ▁ k ɔ j ˧˧ ▁ h o k͡p ˨˩˨ ▁ s w a ŋ ˧˨ ▁ m u ə ˧˧ ▁ t ă ŋ ˨˩˨ ▁ k a j ˦˥ ▁ n u ˨˩˨ ▁ ɲ i ə w ˧˧ ▁ t i ə ŋ ˧˨
+DUMMY/wav/b2dd014d1e35f28c85120f42ac24aa36.wav|a j ˧˧ ▁ ɤ ˨˩˦ ▁ d ɤ̆ j ˧˧ ▁ b i ə k ˦˥ ▁ ʐ ă ŋ ˧˨ ▁ m ɔ t ɛ l ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ t ɯ ˧˨ ▁ f a ˧˧
+DUMMY/wav/37491635465610e13edfee0686e1683e.wav|h ɤ ŋ ˧˧ ▁ n ɯ ə ˨˩˦ ▁ m ă k ˨˩˨ ▁ j u ˧˨ ▁ d a ˨˩˦ ▁ k ɔ ˦˥ ▁ m o k͡p ˨˩˨ ▁ k u ə k ˨˩˨ ▁ t i m ˧˨ ▁ k i m ˦˥ ▁ k e o ˦˥ ▁ j a j ˧˨ ▁ k u ə ˨˩˦ ▁ j ɯ ˨˩˨ ▁ a ŋ ˦˥ ▁ ʂ ɛ t i ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ j ɤ̆ ŋ ˨˩˦ ▁ c ɯ ə ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ s ɛ m ˧˧ ▁ c ɯ ə ŋ ˧˧ ▁ ʈ i n ˧˨ ▁ d o ˦˥ ▁ j u j ˧˧ ▁ ŋ w a j ˧˨ ▁ h a n ˧˨ ▁ t i n ˧˧ ▁ n a w ˧˨
+DUMMY/wav/2ec14d2b3c7f5a043823abdeff6cb132.wav|k ɔ ˦˥ ▁ j ɛ ˨˩˦ ▁ t o j ˧˧ ▁ d a ŋ ˧˧ ▁ l a k ˨˩˨ ▁ d e ˧˨ ▁ ɲ i ˨˩˦ ▁ j ɔ ˧˧ ▁ h o j ˧˨ ▁ h o p ˨˩˨ ▁ d ɤ̆ j ˦˥
+DUMMY/wav/dcf9ee6c80a369ba033f071a711dc1ca.wav|c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ d a ˨˩˦ ▁ c ɯ ə ˧˧ ▁ h e ˧˨ ▁ tʰ ɤ̆ j ˦˥ ▁ ʈ a j ˦˥ ▁ d ɤ̆ k ˦˥ ▁ ɲ i n ˧˨ ▁ t ɯ ˧˨ ▁ s a ˧˧ ▁ ɲ ɯ ˧˧ ▁ tʰ e ˦˥ ▁ n ă j ˧˨ ▁ ʈ ɯ ə k ˦˥ ▁ d ɤ̆ j ˧˧
+DUMMY/wav/0bc4274f5824be058ae3b2122d0d7a53.wav|a n ˧˧ ▁ w i ˦˥ ▁ b i ˨˩˨ ▁ l ɯ ə ˨˩˦ ▁ b ɛ ŋ ˦˥ ▁ j a w ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ k ɛ u ˧˧ ▁ k ɯ w ˦˥ ▁ tʰ ɤ̆ k ˦˥ ▁ tʰ a n ˧˧
+DUMMY/wav/43f09b364d3914031255ae67a36e62d7.wav|c u ˨˩˦ ▁ t i t ˨˩˨ ▁ u j ˨˩˦ ▁ b a ŋ ˧˧ ▁ ɔ l i m p i t ˧˧ ▁ w o k͡p ˦˥ ▁ t e ˦˥ ▁ l a m ˧˨ ▁ j i ə k ˨˩˨ ▁ c ɔ ˧˧ ▁ k a ˧˧ ɣ i ˧˧ b i ˧˧
+DUMMY/wav/065871979b5eb87e2f1cbc7ba5e9c822.wav|o ŋ͡m ˧˧ ▁ f a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨ ▁ h o ˨˩˦ ▁ k ɛ u ˧˧ ▁ ɣ ɔ j ˨˩˨
+DUMMY/wav/1b49cfeea2489eaae4a255d5f46d016d.wav|ʈ ɔ ŋ͡m ˧˧ ▁ ʂ u ə k ˦˥ ▁ ɣ i ˧˧ ▁ tʰ a ŋ ˦˥ ▁ b a w ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ h ɤ ŋ ˧˧ ▁ ɛ ˧˧ t i ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ c e t ˦˥ ▁ j a ˧˨ ▁ ʐ ɤ̆ k ˦˥ ▁ ɲ i ə w ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ x a k ˦˥ ▁ m ɤ̆ k ˦˥ ▁ t i t ˦˥
+DUMMY/wav/8a2a169bcb29d7d9ef45ad518c2cfdd1.wav|c o ˨˩˦ ▁ d e ˨˩˦ ▁ s ɛ ˧˧ ▁ k ɔ ˦˥ ▁ m a j ˦˥ ▁ c ɛ ˧˧ ▁ m ɯ ə ˧˧ ▁ n ă ŋ ˦˥ ▁ k ɔ ŋ͡m ˧˨ ▁ d ă k ˦˥ ▁ h ɤ ŋ ˧˧
+DUMMY/wav/3e7aeb6b34124dd230b72e2d862e2b62.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ k i m ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ i ˧˧ ▁ d w a ŋ ˨˩˨ ▁ b ă ŋ ˧˧ ▁ t w i ə ŋ ˧˧ ▁ ʈ w i ə ŋ ˧˨ ▁ ʂ a ŋ ˨˩˦ ▁ s w ɤ̆ k ˦˥ ▁ b ɤ j ˨˩˦ ▁ t a l i b a ŋ ˧˧
+DUMMY/wav/2f6da75a511bd39b4b473aeac5e68aca.wav|ʈ ɯ k ˨˩˨ ▁ tʰ ă ŋ ˧˧ ▁ t i p ˦˥ ▁ k ɤ̆ ŋ ˨˩˨ ▁ x u ˧˧ ▁ j ɯ k ˨˩˨ ▁ t ă w ˧˨ ▁ j a l ˧˧ n i j ˧˧ ▁ j ɔ ʃ t ɔ k͡p ˧˧ ▁ ɣ ă p ˨˩˨ ▁ n a ŋ ˨˩˨
+DUMMY/wav/4d37aa064d3bef9a2299e0a722ce9c7f.wav|j ɤ̆ j ˨˩˨ ▁ n e n ˧˧ ▁ d i ə w ˧˨ ▁ n ă j ˧˨ ▁ k ɔ ˦˥ ▁ ŋ i ə ˨˩˦ ▁ l a ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ j u ŋ͡m ˧˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ b ă k ˦˥ ▁ d ɤ̆ w ˧˨ ▁ x ɤ j ˨˩˦ ▁ d o ŋ͡m ˨˩˨ ▁ b ɤ̆ k ˦˥ ▁ k ɯ ˦˥ ▁ tʰ ɯ ˦˥ ▁ ɣ i ˧˨ ▁ h ɔ ˨˩˨ ▁ m u ə ŋ ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ j i ə ŋ ˧˧ ▁ ɣ a t ˨˩˨ ▁ l a m ˧˨
+DUMMY/wav/f71bb1565d013fbe7c01134c4f810ab8.wav|tʰ ɤ̆ m ˨˩˨ ▁ c i ˦˥ ▁ a l ɛ k ˦˥ s a n ˧˧ d ɛ r ˧˧ ▁ ɣ r a h a m ˧˧ ▁ b ɛ l ˧˧
+DUMMY/wav/90824f749c0577079c938990ee45e8b4.wav|tʰ ɤ̆ k ˨˩˨ ▁ l a ˧˨ ▁ tʰ u ˦˥ ▁ j i ˨˩˨ ▁ x i ˧˧ ▁ m a ˧˨ ▁ ɤ ˨˩˦ ▁ m o k͡p ˨˩˨ ▁ j a j ˧˨ ▁ n ɤ j ˧˧ ▁ s a ˧˧ ▁ s o j ˧˧ ▁ t a j ˨˩˨ ▁ tʰ a j ˦˥ ▁ l a ŋ ˧˧ ▁ h ɔ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˦˥ ▁ tʰ ɯ k ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ k u ə k ˨˩˨ ▁ f ɤ̆ w ˨˩˦ ▁ tʰ w ɤ̆ k ˨˩˨ ▁ j ɤ j ˦˥ ▁ d o ˨˩˨ ▁ t i n ˧˧ ▁ j i ˧˧ ▁ a ŋ ˧˧ ▁ t w a ŋ ˧˨ ▁ j a ˧˨ ▁ c w ɤ̆ ŋ ˨˩˦ ▁ s a k ˦˥ ▁ k a w ˧˧
+DUMMY/wav/4ab7f0f7140e0291dc898a4898e731c0.wav|m i ˨˩˦ ▁ k ɤ̆ ŋ ˧˧ ▁ ɲ ă k ˦˥ ▁ a p ˦˥ ▁ d ă k ˨˩˨ ▁ tʰ e m ˧˧ ▁ k ɤ̆ m ˦˥ ▁ j ɤ̆ ŋ ˨˩˨ ▁ d o j ˦˥ ▁ j ɤ j ˦˥ ▁ ŋ a ˧˧
+DUMMY/wav/546952deb408d7b9ef2d75630f538f17.wav|h a ŋ ˧˨ ▁ c u k͡p ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ j ɤ̆ ŋ ˧˧ ▁ b i ˨˩˨ ▁ tʰ ɯ ə ŋ ˧˧ ▁ j i ˧˨
+DUMMY/wav/f815f2a81d37c4ccc660812e0d9490b1.wav|ɲ ɯ ŋ ˨˩˦ ▁ j a j ˨˩˦ ▁ tʰ i ə ŋ ˧˧ ▁ h a ˧˨ ▁ d a ŋ ˧˧ ▁ c w i ə ŋ ˨˩˦ ▁ d o ŋ͡m ˨˩˨ ▁ ʐ a ˧˧ ▁ s a ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧
+DUMMY/wav/0ace51201cdb097bc5fd17c46e3455b6.wav|tʰ u ˨˩˦ ▁ j ɤ̆ w ˧˨ ▁ m o k͡p ˨˩˨ ▁ l a ˧˨ ▁ d i ə ˨˩˨ ▁ b a ŋ ˧˨ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ ɲ i ə w ˧˨ ▁ j u ˨˩˨ ▁ ɲ ɤ̆ k ˦˥
+DUMMY/wav/738cf08aa4ef00c5e42ea32790ccddde.wav|d a n ˦˥ ▁ b ɔ m ˧˧ ▁ l i ə w ˧˨ ▁ c e t ˦˥ ▁ ɲ ă m ˧˨ ▁ j a w ˧˨ ▁ d w a ŋ ˧˨ ▁ s ɛ ˧˧ ▁ ɛ u ˧˧ p ɔ l ˧˧ ▁ t a j ˨˩˨ ▁ a f ɣ a n i ʃ t a ŋ ˧˧
+DUMMY/wav/88f147df05142fd3e664946e3ff88d75.wav|c ɤ ˧˨ ▁ b a k ˦˥ ▁ ʂ i ˨˩˦ ▁ d e n ˦˥ ▁ n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ c e t ˦˥ ▁ ʐ o j ˧˨ ▁ tʰ i ˧˨ ▁ l a m ˧˨ ▁ ʂ a w ˧˧
+DUMMY/wav/eb13d7c11d105d869c4aeec955ae8414.wav|ɛ m ˧˧ ▁ m u ə ŋ ˦˥ ▁ n ɔ j ˦˥ ▁ ɣ i ˧˨ ▁ j ɤ j ˦˥ ▁ t ɤ̆ k ˦˥ ▁ k a ˨˩˦ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ t o k͡p ˦˥ ▁ ɤ ˨˩˦ ▁ d ɤ̆ j ˧˧
+DUMMY/wav/19055810355fa97588f196a9364924c3.wav|s ɛ ˧˧ ▁ tʰ i ə k ˦˥ ▁ j a p ˦˥ ▁ h ɯ ə ŋ ˦˥ ▁ j e ˧˨ ▁ tʰ i ˨˩˨ ▁ ʈ ɤ̆ ŋ ˦˥ ▁ j ɛ b a l t ˧˧ ʂ ɛ j ɔ ˧˧ ▁ k u ə j ˦˥ ▁ t w ɤ̆ ŋ ˧˨ ▁ ʈ ɯ ə k ˦˥
+DUMMY/wav/b66cca71d4f1704f86c035a5d4e9bfc3.wav|l ɤ p ˦˥ ▁ ʐ a w ˧˨ ▁ c ă ŋ ˦˥ ▁ ɤ ˨˩˦ ▁ m a j ˧˧ j a ŋ ˧˧ ▁ d a ˨˩˦ ▁ b i ˨˩˨ ▁ tʰ a w ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ j i ə ŋ ˧˧ ▁ d a ˦˥ ▁ l a t ˦˥ ▁ d ɯ ə ŋ ˧˨ ▁ d ɯ ə k ˨˩˨ ▁ j u ŋ͡m ˧˨ ▁ l a m ˧˨ ▁ j u ˨˩˦ ▁ x i ˦˥ ▁ ŋ ă j ˧˨ ▁ ʈ ɯ ə k ˦˥ ▁ d ɛ u ˧˨ ▁ d a ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ tʰ ă j ˧˧ ▁ tʰ e ˦˥ ▁ d e ˨˩˦ ▁ tʰ o ŋ͡m ˧˧ ▁ n u k͡p ˦˥ ▁ j a w ˧˧ ▁ tʰ o ŋ͡m ˧˧ ▁ j a w ˧˨ ▁ ʈ u ŋ͡m ˧˧ ▁ t ɤ̆ m ˧˧ ▁ w a ŋ ˨˩˦ ▁ ʈ ɯ ə ŋ ˧˨
+DUMMY/wav/dafb753fd95cb95756fa3f666c101191.wav|t o j ˧˧ ▁ h i ə w ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ k a t ˦˥ ▁ m a ˧˨ ▁ t ɯ ŋ ˧˨ ▁ tʰ a n ˧˨ ▁ j i ə ŋ ˧˧ ▁ f i ˧˧ ▁ d w a ŋ ˧˨ ▁ d o j ˦˥ ▁ m ă k ˨˩˨ ▁ j ɤ j ˦˥ ▁ t i n ˧˨ ▁ h u ə ŋ ˦˥ ▁ k u ˨˩˨ ▁ tʰ e ˨˩˦
+DUMMY/wav/7c749c6567d678715dc9337ee6e17715.wav|d ɤ̆ j ˧˧ ▁ d o ŋ͡m ˧˨ ▁ ŋ i ə ˨˩˦ ▁ j ɤ j ˦˥ ▁ j i ə k ˨˩˨ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ d ɯ ŋ ˦˥ ▁ tʰ e ˦˥ ▁ k o ˧˧ ▁ l ɤ̆ p ˨˩˨
+DUMMY/wav/5f3cc9004eeef06e9e2e5a399486a6a2.wav|f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ tʰ i ˧˧ ▁ tʰ e ˨˩˦ ▁ ŋ i ˧˧ ▁ k a ŋ ˧˧ ▁ x u ŋ͡m ˨˩˦ ▁ b o ˦˥ ▁ tʰ ɯ ˦˥ ▁ b a ˧˧
+DUMMY/wav/9e17f8a71613ca27dc007461ba0f35f4.wav|k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ tʰ u ˧˧ ▁ j ɯ ˨˩˦ ▁ ɲ i ə w ˧˨ ▁ t a ŋ ˧˧ ▁ j ɤ̆ k ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ c w i ə ŋ ˧˧ ▁ a ŋ ˦˥ ▁ ʈ e n ˧˧
+DUMMY/wav/8c0ef983fe19943d93ff4496788fa883.wav|j ɔ ˧˧ ▁ j ɤ̆ j ˨˩˨ ▁ ʂ ɯ k ˦˥ ▁ l a ŋ ˧˧ ▁ t w a ˨˩˦ ▁ ʐ ɤ̆ k ˦˥ ▁ ɲ a n ˧˧ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ ʂ ɯ ˨˩˨ ▁ k i t ˦˥ ▁ tʰ i t ˦˥ ▁ m ɤ j ˦˥
+DUMMY/wav/471c6fc8e7679df207001b87f527dbb7.wav|m o k͡p ˨˩˨ ▁ j ɔ ŋ͡m ˧˨ ▁ s w i ə ŋ ˦˥ ▁ d o ŋ͡m ˧˧ ▁ d u k͡p ˦˥ ▁ s ɛ ˧˧ ▁ k o ˨˩˨ ▁ ɤ ˨˩˦ ▁ tʰ u ˨˩˦ ▁ d o ˧˧ ▁ ʂ i ɾ i ə ˧˧
+DUMMY/wav/9f23b703dcefb94930c8608604aceb1b.wav|x i ˧˧ ▁ d ɔ ˦˥ ▁ o ŋ͡m ˧˧ ▁ c w e ˧˧ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ t e n ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ j a n ˧˧ ▁ ʂ a t ˦˥ ▁ j i ə ŋ ˦˥
+DUMMY/wav/c0fde818d8fbddea6b7d88fe9128c1dd.wav|ŋ i ə ˨˩˦ ▁ k ɤ̆ m ˧˨ ▁ j a w ˧˧ ▁ ʐ a t ˨˩˨ ▁ ɲ i ə w ˧˨ ▁ ɲ a t ˦˥ ▁ l e n ˧˧ ▁ j u ŋ͡m ˧˨ ▁ t ă j ˧˧ ▁ k u ə ˨˩˦ ▁ j ɤ ˨˩˨
+DUMMY/wav/1455d5f0d038c09214ed670ef245609e.wav|ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ k a ˨˩˦ ▁ h a j ˧˧ ▁ c u ŋ͡m ˧˧ ▁ ʂ o ŋ͡m ˦˥ ▁ j ɤ j ˦˥ ▁ ɲ ă w ˧˧ ▁ ɲ ɯ ˧˧ ▁ j ɤ ˨˩˨ ▁ c o ŋ͡m ˧˨
+DUMMY/wav/c3e80f7f4a4529de745ffcab0e12af23.wav|ʈ o m ˨˩˨ ▁ l ɤ̆ j ˦˥ ▁ ɛ ˧˧ i ˧˧ ▁ ʈ i ə w ˨˩˨ ▁ d o ŋ͡m ˧˨ ▁ t ɯ ˧˨ ▁ a t ˧˧ m ˧˧ ▁ ŋ ă j ˧˧ ▁ k o ŋ͡m ˨˩˦ ▁ b e n ˦˥ ▁ s ɛ ˧˧
+DUMMY/wav/c3156c4ad33d3be5eb9926913b7c0c61.wav|b ɯ ə k ˦˥ ▁ t i ə ŋ ˦˥ ▁ l i ə ŋ ˧˧ ▁ m i n ˧˧ ▁ m i ˨˩˦ ▁ ɲ ɤ̆ k ˨˩˨
+DUMMY/wav/9d3a415cea5c0c0b8255545bfc33f272.wav|t w i ˧˧ ▁ ɲ i ə ŋ ˧˧ ▁ o ŋ͡m ˧˧ ▁ c a ɾ a p ˧˧ ▁ x o ŋ͡m ˧˧ ▁ d o ŋ͡m ˧˨ ▁ i ˦˥ ▁ j ɤ j ˦˥ ▁ w a ŋ ˧˧ ▁ d i m ˨˩˦ ▁ n ă j ˧˨
+DUMMY/wav/1de33872773849ba30af93982202bb53.wav|ɲ ɯ ŋ ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ j ɤ̆ ŋ ˧˧ ▁ b a ŋ ˧˧ l a d ɛ ʃ ˧˧ ▁ d a ŋ ˧˧ ▁ ŋ o j ˧˨ ▁ c ɤ ˧˨ ▁ k ɯ w ˦˥ ▁ j i ə ŋ ˨˩˨ ▁ l ɯ ə ŋ ˧˧ ▁ tʰ ɯ k ˨˩˨
+DUMMY/wav/5d665691815270385859464b79c19020.wav|d u ŋ͡m ˨˩˨ ▁ d o ˨˩˨ ▁ ŋ i m ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨ ▁ ɤ ˨˩˦ ▁ b ɤ ˧˨ ▁ t ɤ̆ j ˧˧ ▁ ɛ ˧˧ i ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ b i ˨˩˨ ▁ tʰ ɯ ə ŋ ˧˧
+DUMMY/wav/a511af251eac90a107887c5f47f0f128.wav|tʰ i ˨˩˨ ▁ ʈ ɯ ə ŋ ˨˩˦ ▁ ʐ ɔ m a ˧˧ ▁ w i ɛ t ˦˥ ▁ d i n ˨˩˨ ▁ d ɔ ŋ͡m ˦˥ ▁ k ɯ ə ˨˩˦ ▁ m ɔ j ˨˩˨ ▁ j i t ˨˩˨ ▁ j u ˨˩˨ ▁ k o ŋ͡m ˧˧
+DUMMY/wav/f19bf4903058c6b140370ef7cb1dd4b5.wav|tʰ ɯ ˨˩˦ ▁ j u ˨˩˦ ▁ x i ˦˥ ▁ h ă j ˧˧ ▁ k u ə k ˨˩˨ ▁ t ɤ̆ ŋ ˦˥ ▁ k o ŋ͡m ˧˧ ▁ t ɯ ˧˨ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ m i ˨˩˦
+DUMMY/wav/91cfcaecdd217eeff2d9047036ce7087.wav|t ɯ ˧˨ ▁ m o k͡p ˨˩˨ ▁ tʰ i ə w ˦˥ ▁ n i ə ŋ ˧˧ ▁ t o j ˧˧ ▁ b i ə ŋ ˦˥ ▁ tʰ a n ˧˨ ▁ t o j ˧˧ ▁ b ɤ̆ j ˧˧ ▁ j ɤ ˧˨
+DUMMY/wav/df0c6bd4e67b69399384775a6260020b.wav|t w a ˧˨ ▁ t w i ə ŋ ˧˧ ▁ f a t ˨˩˨ ▁ f a m ˨˩˨ ▁ m i n ˧˧ ▁ h w a ŋ ˧˨ ▁ m ɯ k ˦˥ ▁ a ŋ ˦˥ ▁ ɣ i ˧˧ ▁ n ă m ˧˧ ▁ t u ˧˨
+DUMMY/wav/98cb99f60898a1500a48cb65a0952efd.wav|b a ŋ ˨˩˨ ▁ ʂ ɛ ˨˩˦ ▁ k ɤ̆ ŋ ˧˨ ▁ d a n ˦˥ ▁ j a ˦˥ ▁ t i n ˧˨ ▁ ʈ a ŋ ˨˩˨ ▁ k a ˦˥ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ j a ˧˨ ▁ t i n ˧˨ ▁ ʈ a ŋ ˨˩˨ ▁ t a j ˧˨ ▁ c i n ˦˥ ▁ d e ˨˩˦ ▁ w i ɛ t ˦˥ ▁ d i n ˨˩˨ ▁ l i ə w ˨˩˨ ▁ m o k͡p ˨˩˨ ▁ ʈ u ŋ͡m ˧˧ ▁ t ɤ̆ m ˧˧ ▁ c ă m ˧˧ ▁ ʂ ɔ k͡p ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ j a ˧˨ ▁ h ă j ˧˧ ▁ ɤ ˨˩˦ ▁ ɲ a ˧˨ ▁ l a ˧˨ ▁ ʂ ɯ ˨˩˨ ▁ l ɯ ə ˨˩˨ ▁ c ɔ ŋ͡m ˧˧ ▁ t o k͡p ˦˥ ▁ ɲ ɤ̆ k ˦˥
+DUMMY/wav/3b55047cccb208e448d19a1dd3a35b56.wav|n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ l e ˧˧ ▁ tʰ u j ˦˥ ▁ ŋ a ˧˧ ▁ b i ˨˩˨ ▁ b ɔ ŋ͡m ˨˩˦ ▁ ɲ ɛ ˨˩˨ ▁ d a ˨˩˦ ▁ s w ɤ̆ k ˦˥ ▁ j i ə ŋ ˨˩˨
+DUMMY/wav/bd71a84cb717ec100ea0ff77cb1e384a.wav|n ɯ ˨˩˦ ▁ ʂ i n ˧˧ ▁ m a ŋ ˧˧ ▁ s ă ŋ ˧˧ ▁ d o k͡p ˦˥ ▁ ʈ ɯ ə ŋ ˧˨ ▁ c i ˨˩˦ ▁ j i ˧˨ ▁ b i ˨˩˨
+DUMMY/wav/def3e3b767e76da6e6be5005739e2b63.wav|d i n ˧˧ ▁ w o k͡p ˦˥ ▁ x a n ˦˥ ▁ t a j ˨˩˨ ▁ k ɤ ˧˧ ▁ w a ŋ ˧˧ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ a n ˨˩˦ ▁ k w i ˧˧
+DUMMY/wav/13e1f3448f16a1b7d72d00e6a193a4b9.wav|m o k͡p ˨˩˨ ▁ h i n ˧˨ ▁ a n ˨˩˦ ▁ ʐ ɤ̆ k ˦˥ ▁ d a ŋ ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ b i ə w ˨˩˦ ▁ j ɯ ə ŋ ˧˧ ▁ j a ˧˨ ▁ x ɛ ŋ ˧˧ ▁ ŋ ɤ j ˨˩˨
+DUMMY/wav/cfffa77ac4788f57bb7921058c77da64.wav|ɲ ɯ ŋ ˧˧ ▁ t o j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ h e ˧˨ ▁ m u ə ˧˧ ▁ w ɤ̆ ŋ ˧˨ ▁ a w ˦˥ ▁ m ɤ j ˦˥
+DUMMY/wav/bca0e5b1879957172a3a1a1a4504b819.wav|m a j ˨˩˦ ▁ ʂ ă w ˧˧ ▁ m ɤ j ˦˥ ▁ b i ə k ˦˥ ▁ o ŋ͡m ˨˩˦ ▁ ɲ i n ˨˩˨ ▁ d ɔ j ˦˥ ▁ m ɤ̆ j ˦˥ ▁ ŋ ă j ˧˨ ▁ k i ə k ˨˩˨ ▁ ʂ ɯ k ˦˥
+DUMMY/wav/3d9405c424753c2db151e7d95105d922.wav|b a ŋ ˨˩˦ ▁ tʰ ɤ̆ ŋ ˧˧ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ ʂ w i ˧˧ ▁ ŋ i ˨˩˦ ▁ ʐ ɤ̆ k ˦˥ ▁ ɲ i ə w ˧˨ ▁ j e ˧˨ ▁ ŋ w i ə ŋ ˧˧ ▁ t ă k ˦˥ ▁ k u ə j ˦˥
+DUMMY/wav/0dd1558c3b31ebb77eb6176786cd3cd2.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ ʐ u k͡p ˦˥ ▁ ʐ a ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ i ˧˧ ▁ ʂ o ˦˥ ▁ b a j ˧˨ ▁ h ɔ k͡p ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ j i ə k ˨˩˨ ▁ tʰ ɯ ə ŋ ˧˧ ▁ m a j ˨˩˨ ▁ h w a ˦˥ ▁ j a ˧˨ ▁ f o ˨˩˦ ▁ b i ə ŋ ˦˥ ▁ j i b a t ˧˧
+DUMMY/wav/f3e15ab308058beb69ab46164e979acc.wav|m ă j ˧˧ ▁ tʰ ă j ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ t a ˧˧ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ d ɯ ə ˧˧ ▁ ʐ a ˧˧ ▁ ʂ ɯ ˨˩˨ ▁ b a w ˨˩˦ ▁ d a m ˨˩˦ ▁ ɲ ɤ̆ k ˦˥ ▁ d i n ˨˩˨
+DUMMY/wav/cf2a306f703a85f758b407ef2c51f074.wav|m i ˨˩˦ ▁ l a j ˨˩˨ ▁ j o j ˨˩˨ ▁ n ɯ ə k ˦˥ ▁ l a n ˨˩˨ ▁ j a w ˧˨ ▁ m o j ˦˥ ▁ w a ŋ ˧˧ ▁ h e ˨˩˨ ▁ j ɤ j ˦˥ ▁ p a k i ˧˧ ʂ t a ŋ ˧˧
+DUMMY/wav/0b0a807127c7615efde33c37bc1e55b1.wav|b ă k ˦˥ ▁ w a ˨˩˦ ▁ t a ŋ ˧˧ ▁ j u ˨˩˨ ▁ j ɤ̆ ŋ ˨˩˨ ▁ c w i ə ŋ ˨˩˦ ▁ ʈ a j ˦˥ ▁ f ɛ p ˦˥ ▁ ɛ t ˧˧ ▁ b a n ˦˥ ▁ h ɛ ˧˧ ɾ w i n ˧˧
+DUMMY/wav/faa649eef82cd54bdcc0a117ab4f1c64.wav|j ɤ̆ m ˨˩˦ ▁ d a p ˨˩˨ ▁ ŋ w a j ˧˨ ▁ d e n ˧˨ ▁ tʰ ɤ ˧˨ ▁ ɤ ˨˩˦ ▁ ɤ̆ ŋ ˦˥ ▁ d o ˨˩˨ ▁ ɛ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ c e t ˦˥
+DUMMY/wav/4cc1980e29ed5d85988ebf1070e5d0db.wav|h i n ˧˨ ▁ a n ˨˩˦ ▁ t ɯ ˧˨ ▁ j u ˨˩˨ ▁ s a ˨˩˦ ▁ ʂ u ŋ͡m ˦˥ ▁ ɤ ˨˩˦ ▁ j i ə ŋ ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ ŋ e ˨˩˨ ▁ m a s ˦˥ ʂ a ˧˧ ʈ u ʂ ɛ t ˦˥ ʂ
+DUMMY/wav/5c3ccc386f9cd128f15e96ebfbd70dd8.wav|ɣ ɛ t ˧˧ t i ˧˧ ▁ c i m a m a n ˧˧ d a ˧˧ ▁ a j i ˧˧ c i ə ˧˧ ▁ l a ˧˨ ▁ ɲ a ˧˨ ▁ j ă ŋ ˧˧ ▁ n o j ˨˩˦ ▁ t i ə ŋ ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ n i ɣ ɛ ˧˧ ʐ i ə ˧˧
+DUMMY/wav/0f5faa6478305f169d38ad6642bae2da.wav|ŋ w i ə ŋ ˧˧ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ j ɤ̆ ŋ ˨˩˦ ▁ t ɤ j ˦˥ ▁ j u ˨˩˨ ▁ j i ə k ˨˩˨ ▁ j ɤ̆ ŋ ˨˩˦ ▁ c ɯ ə ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ b o ˦˥
+DUMMY/wav/40db766d60d10f53a38fbaa441ff040f.wav|l u k͡p ˦˥ ▁ n ă j ˧˨ ▁ k a k ˦˥ ▁ h i p ˨˩˨ ▁ ʂ i ˨˩˦ ▁ l i ə ŋ ˧˨ ▁ ɤ̆ p ˨˩˨ ▁ j a w ˧˨ ▁ d i n ˨˩˨ ▁ x o ŋ͡m ˦˥ ▁ c e ˦˥
+DUMMY/wav/bdaaf3af66d20c899ca3a27a3ad16f30.wav|k ɤ̆ w ˧˧ ▁ h ɔ j ˨˩˦ ▁ c i n ˦˥ ▁ l a ˧˨ ▁ t a j ˨˩˨ ▁ ʂ a w ˧˧ ▁ c ɯ ˨˩˦ ▁ s ˧˧ ▁ l a j ˨˩˨ ▁ b i ə w ˨˩˦ ▁ tʰ i ˨˩˨ ▁ c ɔ ˧˧ ▁ ɤ̆ ŋ ˨˩˦ ▁ ʂ o ˦˥
+DUMMY/wav/a0c1207b8ccb1d6b42a8b2b976db9cc6.wav|b i ˦˥ ▁ ɤ̆ ŋ ˨˩˦ ▁ t a j ˧˨ ▁ s e ˦˥ ▁ t a k ˧˧ s i ˧˧ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧ ▁ j ɯ ə j ˦˥ ▁ k ɤ̆ w ˧˨ ▁ ɲ ɤ̆ k ˨˩˨ ▁ t ɤ̆ ŋ ˧˧
+DUMMY/wav/f51307b5b326ab0ebc806ec18dc24127.wav|k ɔ ˦˥ ▁ l ɛ ˨˩˦ ▁ d ɤ̆ j ˧˧ ▁ l a ˧˨ ▁ m ă j ˦˥ ▁ t i n ˦˥ ▁ k u ə ˨˩˦ ▁ t ɯ ə ŋ ˧˧ ▁ l a j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ m a ŋ ˧˨ ▁ h i n ˧˨ ▁ k a m ˨˩˦ ▁ ɯ ŋ ˦˥
+DUMMY/wav/8cbfa986f0424fa0604df3a18f276845.wav|c u ˨˩˦ ▁ t i t ˨˩˨ ▁ t i ˧˧ p i ˧˧
+DUMMY/wav/0fe92d09218db4cd3b62059b002d5ebe.wav|ŋ w a j ˧˨ ▁ ʐ a ˧˧ ▁ o ŋ͡m ˧˧ ▁ k ɔ ŋ͡m ˧˨ ▁ ɲ ɤ ˦˥ ▁ m o k͡p ˨˩˨ ▁ b a j ˧˨ ▁ t ɤ̆ p ˨˩˨ ▁ j a w ˦˥ ▁ j u k͡p ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ j ɤ̆ ŋ ˧˧ ▁ x i ˧˧ ▁ k ɔ ŋ͡m ˧˨ ▁ l a ˧˨ ▁ h ɔ k͡p ˨˩˨ ▁ ʂ i n ˧˧ ▁ m o j ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ l ɤ̆ j ˦˥ ▁ ʐ a ˧˧ ▁ m o k͡p ˨˩˨ ▁ t ɤ ˧˨ ▁ j ɤ̆ j ˦˥ ▁ j a ˧˨ ▁ ɣ i ˧˧ ▁ t e n ˧˧ ▁ m o k͡p ˨˩˨ ▁ tʰ a n ˧˨ ▁ j i ə ŋ ˧˧ ▁ c i n ˦˥ ▁ f u ˨˩˦ ▁ ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ b a w ˨˩˦ ▁ n ɛ u ˦˥ ▁ j i ə k ˦˥ ▁ m o k͡p ˨˩˨ ▁ l a ˦˥ ▁ tʰ ɯ ˧˧ ▁ c ɤ̆ ŋ ˧˧ ▁ tʰ ɤ̆ k ˨˩˨
+DUMMY/wav/5662054392942eb1f1b42354b4ec8230.wav|h ɤ̆ w ˧˨ ▁ h e t ˦˥ ▁ d o ˧˨ ▁ k ɯ w ˦˥ ▁ t e ˦˥ ▁ k ɔ ŋ͡m ˧˨ ▁ c ɤ̆ k ˦˥ ▁ d o ŋ͡m ˦˥ ▁ ɤ ˨˩˦ ▁ ʂ ɤ̆ ŋ ˧˧ ▁ b ă j ˧˧
+DUMMY/wav/63c3ca646dfb7d97f7dcb274941d718c.wav|b ɯ k ˦˥ ▁ tʰ ɯ ˧˧ ▁ k ɔ ˦˥ ▁ n o j ˨˩˨ ▁ j u ŋ͡m ˧˧ ▁ k a t ˦˥ ▁ d ɤ̆ j ˧˧ ▁ tˤ i ˧˧ ▁ tʰ a ŋ ˦˥ ▁ c i ˨˩˨ ▁ c ˧˧
+DUMMY/wav/d59a1f4634d58547bdc16c75d60f7dd6.wav|h ɔ ˨˩˨ ▁ b i ˨˩˨ ▁ tʰ ɯ ə ŋ ˧˧ ▁ ɲ ɛ ˨˩˨ ▁ h ɤ ŋ ˧˧ ▁ j ɤ j ˦˥ ▁ c ɯ k ˦˥ ▁ k ɯ w ˦˥ ▁ h o ˨˩˨ ▁ c ɔ ˧˧ ▁ h ă j ˧˧
+DUMMY/wav/16f1b646c5a19da94a7415a300669823.wav|w a ŋ ˨˩˦ ▁ ʈ i ˨˩˨
+DUMMY/wav/53e8bdf92b7ab8ad039a77baae5a2418.wav|ʐ ɤ̆ k ˦˥ ▁ t w i ə k ˨˩˨ ▁ c ɔ ˧˧ ▁ ʈ ɛ ˨˩˦ ▁ ɛ m ˧˧ ▁ d u ŋ͡m ˦˥ ▁ x o ŋ͡m ˧˧
+DUMMY/wav/957765335cfa9e9d368996e73393fb1d.wav|j ɯ ˨˩˨ ▁ f ɔ ŋ͡m ˧˨ ▁ d a ŋ ˧˧ ▁ c ɤ ˧˨ ▁ d ɤ j ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ t a ˧˧ ▁ n ɔ j ˦˥ ▁ ʐ ă ŋ ˧˨ ▁ tʰ ɤ j ˧˨ ▁ j a ŋ ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ c ɯ ə ˨˩˦ ▁ l a n ˧˨ ▁ t ɤ̆ k ˦˥ ▁ k a ˨˩˦ ▁ tʰ e ˦˥ ▁ k ɔ ŋ͡m ˧˨ ▁ n o j ˨˩˦ ▁ ʈ o ŋ͡m ˦˥ ▁ ʐ o ŋ͡m ˨˩˦ ▁ x u ŋ͡m ˨˩˦ ▁ x i p ˦˥ ▁ n ă j ˧˨
+DUMMY/wav/e0e8b6e27b99a1e4569ada741513f2c5.wav|k e t ˦˥ ▁ w a ˨˩˦ ▁ l a ˧˨ ▁ f ɔ ŋ͡m ˧˨ ▁ s ɛ t ˦˥ ▁ s ɯ ˨˩˦ ▁ b i n ˧˨ ▁ tʰ ɯ ə ŋ ˧˨ ▁ x o ŋ͡m ˧˧ ▁ ʂ ɯ ˨˩˨ ▁ k o ˦˥
+DUMMY/wav/c558dc7f4f67f257c3ff9f96055660de.wav|k o ŋ͡m ˧˧ ▁ j i ə ŋ ˧˧ ▁ t a w ˧˧ ▁ d a ŋ ˧˨ ▁ b i ˨˩˨ ▁ b i ə ŋ ˦˥ ▁ tʰ a n ˧˨ ▁ b o ˧˧ ▁ ʐ a k ˦˥ ▁ t a j ˨˩˨ ▁ ʂ a w ˧˧
+DUMMY/wav/63be9b88a6ce3537d2ad2b9580a8f90f.wav|t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ l i b ă ŋ ˧˧ ▁ m i c ɛ l ˧˧ ▁ ʂ u l e j ˧˧ m a ŋ ˧˧ ▁ d a ˨˩˦ ▁ l e n ˧˧ ▁ a ŋ ˦˥ ▁ j u ˨˩˨ ▁ b ă k ˦˥ ▁ k ɔ k͡p ˦˥
+DUMMY/wav/67f965f3fbe517b024688f20f7d50e1e.wav|ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ i t ˦˥ ▁ f u k͡p ˦˥ ▁ k a k ˦˥ ▁ d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ ʈ e n ˧˧ ▁ d a ˨˩˦ ▁ ʐ ɤ j ˧˨ ▁ d i ˧˧
+DUMMY/wav/93fefeb0520005e3bb14399f3a76b75f.wav|k o ˧˧ ▁ ɣ a j ˦˥ ▁ n ă j ˧˨ ▁ d a ˨˩˦ ▁ ŋ a ˨˩˦ ▁ s ɛ ˧˧ ▁ j a ˧˨ ▁ x o ŋ͡m ˧˧ ▁ ɲ i n ˧˨ ▁ tʰ ɤ̆ j ˦˥ ▁ ɣ i ˧˨
+DUMMY/wav/66dbc2520f6e7c72adf6beb875619984.wav|w ɤ̆ ŋ ˧˧ ▁ d o j ˨˩˨ ▁ tʰ a j ˦˥ ▁ l a ŋ ˧˧ ▁ d ɛ ˧˧ ▁ j w a ˨˩˨ ▁ ʂ ɛ ˨˩˦ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ j u ˨˩˦ ▁ l ɯ k ˨˩˨
+DUMMY/wav/7c91a99c2c3de8170cb12b0a8c120c2a.wav|ɲ ɯ ŋ ˨˩˦ ▁ j a ˧˧ ▁ d i n ˧˨ ▁ n ă j ˧˨ ▁ h ɔ ˨˩˨ ▁ m u ə ŋ ˦˥ ▁ k ɔ ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧
+DUMMY/wav/539d3da7f5424ea8a3c3cc6b68127e96.wav|x i ˧˧ ▁ j a w ˧˨ ▁ f ɔ ŋ͡m ˧˨ ▁ x a t ˦˥ ▁ m u ə ˧˧ ▁ j ɤ̆ m ˧˧ ▁ d ɯ ə ˧˧ ▁ c ɔ ˧˧ ▁ c ɤ̆ ŋ ˧˧ ▁ j a j ˧˨ ▁ h a ˧˧
+DUMMY/wav/bcf79ddf7f3d51d99b389749b1985fcd.wav|j i ˧˧ j e o ˧˧ ▁ tˤ i ˧˧ ▁ t ă w ˧˨ ▁ h w a ˨˩˦ ▁ h u k͡p ˦˥ ▁ ɲ ă w ˧˧ ▁ b ɛ p ˨˩˨ ▁ d ɤ̆ w ˧˨ ▁ ɤ ˨˩˦ ▁ tʰ u j ˨˩˨ ▁ ʂ i ˨˩˦
+DUMMY/wav/83b2866cb2153bcc25de2764d9987ffc.wav|h e ˨˩˨ ▁ tʰ o ŋ͡m ˦˥ ▁ d a n ˦˥ ▁ c ă ŋ ˨˩˨ ▁ t e n ˧˧ ▁ l ɯ ə ˨˩˦ ▁ k u ə ˨˩˦ ▁ i ˧˧ ʐ a ŋ ˧˧ ▁ j ɯ ə k ˨˩˨ ▁ k a ˨˩˦ ▁ ʂ ▁ ɛ t ˧˧
+DUMMY/wav/0a1537d0c2dd80b9f41fa80b99a25111.wav|ɣ ɤ̆ m ˧˨ ▁ k ɤ̆ w ˧˨ ▁ j i n ˨˩˦ ▁ t w i ˧˧ ▁ b i ˨˩˨ ▁ c i ə ˧˧ ▁ n ă m ˧˧ ▁ s ɛ ˨˩˦ ▁ b ă j ˨˩˦
+DUMMY/wav/503cf6275e103b7f02f5c6aec3cdc9b5.wav|tʰ o ˨˩˦ ▁ ɲ i ˨˩˦ ▁ k i ˧˨ ▁ ʂ ɛ ˨˩˦ ▁ n ɤ̆ ŋ ˧˧ ▁ k ɤ̆ p ˦˥ ▁ m ă j ˦˥ ▁ b ă j ˧˧ ▁ f ˧˧ ▁ ɛ ˧˧ ▁ c ɔ ˧˧ ▁ p a k i ˧˧ ʂ t a ŋ ˧˧
+DUMMY/wav/f5b07c2e699fd9a74e148552172bdb49.wav|s a ˧˨ ▁ s e o ˨˩˦ ▁ h a ŋ ˧˨ ▁ ʈ ă m ˧˧ ▁ ʈ i ə w ˨˩˨ ▁ d o ŋ͡m ˧˨ ▁ k u ə ˨˩˦ ▁ d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ c i n ˦˥ ▁ ʂ a t ˦˥
+DUMMY/wav/881ec2bfa209f599423486dd0b5f0553.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ ɣ o p ˨˩˨ ▁ tˤ i ˧˧ ▁ ʈ a ŋ ˧˧ ▁ l i ə ŋ ˧˨ ▁ k e ˧˨ ▁ tʰ a n ˧˨ ▁ m o k͡p ˨˩˨ ▁ ʈ a ŋ ˧˧ ▁ j i ˧˨ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ k a t ˦˥ ▁ d o k͡p ˨˩˨ ▁ j a ˨˩˦ ▁ t i p ˦˥ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ n ɔ ˦˥
+DUMMY/wav/a2529b711bb4c9e1de2abc99610114a8.wav|l u k͡p ˦˥ ▁ n ă j ˧˨ ▁ t o ˨˩˦ ▁ k o ŋ͡m ˧˧ ▁ t a k ˦˥ ▁ t i ə ŋ ˦˥ ▁ h a n ˧˨ ▁ k i m ˨˩˦ ▁ ʈ a ˧˧ ▁ h a n ˧˨ ▁ c i n ˦˥
+DUMMY/wav/fc07205f319811bfa44667aeef65a595.wav|b a w ˦˥ ▁ tʰ a n ˧˧ ▁ ʈ a ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ t i p ˦˥ ▁ t u k͡p ˨˩˨ ▁ tʰ o ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ t i p ˦˥ ▁ j u ˨˩˨ ▁ j i ə k ˨˩˨
+DUMMY/wav/d185c68ac96a081d7979b82c41c44d9f.wav|ɲ ɯ ŋ ˨˩˦ ▁ j u ˨˩˨ ▁ a ŋ ˦˥ ▁ m a ŋ ˨˩˨ ▁ j a ˧˧ ▁ d i n ˧˨ ▁ j i ˧˨ ▁ t i n ˧˧ ▁ l ɤ j ˧˨ ▁ tʰ ɤ̆ j ˧˨ ▁ b ɔ j ˦˥
+DUMMY/wav/9ce5b79a220b38505fd01dc9ae1078ff.wav|ʈ ɔ ŋ͡m ˧˧ ▁ k a k ˦˥ ▁ ɯ ŋ ˦˥ ▁ j i ə ŋ ˧˧ ▁ f ˧˧ ▁ ɛ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ s ɛ m ˧˧ ▁ l a ˧˨ ▁ ʂ a ŋ ˦˥ ▁ j a ˦˥ ▁ ɲ ɤ̆ k ˦˥
+DUMMY/wav/c2740d435e374d8f494bb0fba0e1a834.wav|tʰ ɯ k ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ m a ˧˨ ▁ n ɔ j ˦˥ ▁ t o j ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ b i ə k ˦˥ ▁ n ɯ ə ˨˩˦
+DUMMY/wav/b125a0073449349a2b62ca64f7380b8e.wav|j i ˧˨ ▁ tʰ e ˦˥ ▁ t w a ˧˨ ▁ k ɤ̆ ŋ ˧˨ ▁ ŋ ɛ ˧˧ ▁ t i p ˦˥ ▁ k a k ˦˥ ▁ i ˦˥ ▁ k i ə ŋ ˦˥ ▁ k u ə ˨˩˦ ▁ ˌɛ l ˧˧ ʂ ɑ ʊ ˧˧
+DUMMY/wav/731ce6099b8fe758c9748c76e5372be6.wav|o ŋ͡m ˧˧ ▁ a ʂ ˧˧ a j ˧˧ ▁ tʰ ă ŋ ˦˥ ▁ j ɤ j ˦˥ ▁ j ɤ j ˦˥ ▁ t i ˨˩˦ ▁ l e ˨˩˨ ▁ k u ˧˧ j i ˧˧ ▁ ʂ o ˦˥ ▁ f i ə w ˦˥ ▁ b ɤ̆ w ˧˨
+DUMMY/wav/97b62ed7bf7fd501200fd49f7a63394c.wav|m ɯ ə j ˧˨ ▁ f u ˨˩˨ ▁ n ɯ ˨˩˦ ▁ w i ɛ ŋ ˧˨ ▁ l ɯ k ˨˩˨ ▁ ɲ ɤ̆ k ˦˥ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥ ▁ ɣ o m ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ a j ˧˧
+DUMMY/wav/e54d586f9942adba6f46d52e14d57086.wav|k a ˨˩˦ ▁ tˤ i ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ b i ˨˩˨ ▁ b ɔ ŋ͡m ˨˩˦ ▁ n ă ŋ ˨˩˨ ▁ f a j ˨˩˦ ▁ ɲ ɤ̆ p ˨˩˨ ▁ j i ə ŋ ˨˩˨ ▁ k ɤ̆ p ˦˥ ▁ k ɯ w ˦˥
+DUMMY/wav/0aaf7ec2bc261832b4e7a4975589b4e7.wav|b ă k ˦˥ ▁ j ɯ ˨˩˦ ▁ tʰ u ˨˩˦ ▁ f a m ˨˩˨ ▁ b ă k ˦˥ ▁ k ɔ k͡p ˦˥ ▁ c ă w ˦˥ ▁ t o ŋ͡m ˦˥ ▁ t i ə ŋ ˧˨ ▁ ɛ m ˧˧ ▁ ɣ a j ˦˥
+DUMMY/wav/06dcb2d1813b7b7cb1b6ea7828dcf53e.wav|d e n ˦˥ ▁ ŋ ă j ˧˨ ▁ t ɔ ˧˧ ▁ t͡s u ˧˧ ▁ t ˌe ˧˧ i ə ˧˧ ▁ ʂ ɤ ŋ ˧˧ ▁ j a ˧˨ ▁ h w i ˧˧ ▁ b i ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ b ă k ˦˥ ▁ j ɯ ˨˩˦
+DUMMY/wav/9dda8a9a22bac2fa992a4d72482995db.wav|ʈ ɔ ŋ͡m ˧˧ ▁ i ˧˧ ▁ h o p ˨˩˨ ▁ c u ŋ͡m ˧˧ ▁ j a ˧˨ ▁ n ɛ u ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ x o ŋ͡m ˧˧ ▁ b ă k ˦˥ ▁ d ɤ̆ w ˧˨ ▁ ʈ a w ˧˧ ▁ d o j ˨˩˦ ▁ k a j ˦˥ ▁ c u ŋ͡m ˧˧ ▁ ɤ̆ j ˦˥ ▁ i ˧˧ ▁ k a t ˦˥ ▁ ŋ ɔ k͡p ˧˧ ▁ ŋ a w ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ ʐ a ˧˧ ▁ d i ˧˧ ▁ ʐ ɤ̆ k ˦˥ ▁ ʂ ɤ m ˦˥ ▁ k a m ˨˩˦ ▁ ɤ ŋ ˧˧ ▁ k a k ˦˥ ▁ b a ŋ ˨˩˨ ▁ ʐ ɤ̆ k ˦˥ ▁ ɲ i ə w ˧˨
+DUMMY/wav/929388895ab682ba43dacc63fb26ac68.wav|ŋ a ˧˧ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ t i p ˦˥ ▁ t u k͡p ˨˩˨ ▁ d a m ˧˨ ▁ f a ŋ ˦˥ ▁ j e ˧˨ ▁ x i ˦˥ ▁ d o k͡p ˦˥
+DUMMY/wav/14bfdf8520cf25365cb953e83cab00fc.wav|m ɯ k ˦˥ ▁ j a m ˨˩˦ ▁ ʈ e n ˧˧ ▁ t ɯ ə ŋ ˧˧ ▁ d ɯ ə ŋ ˧˧ ▁ ɛ ˧˧ ▁ ʂ ɔ ˧˧ ▁ j ɤ j ˦˥ ▁ j a ˦˥ ▁ ʈ ɤ̆ ŋ ˧˨ ▁ k u ˨˩˦
+DUMMY/wav/6c918fa6d7db1899dc91e56cb68f9657.wav|ŋ ɯ ə j ˧˨ ▁ j a m ˦˥ ▁ t w i ə ŋ ˨˩˦ ▁ c i ˨˩˦ ▁ k ɔ ˦˥ ▁ i ˧˧ ▁ d i ə w ˧˨ ▁ k i ə ŋ ˨˩˨ ▁ j w i ˧˧ ▁ ɲ ɤ̆ k ˦˥
+DUMMY/wav/d7ff0ba28cf42967032f06343624a390.wav|tʰ o ŋ͡m ˧˧ ▁ tʰ ɯ ə ŋ ˧˨ ▁ m o k͡p ˨˩˨ ▁ w a ˨˩˦ ▁ tʰ ɤ̆ ŋ ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ b a ŋ ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ ʈ a ˨˩˦ ▁ ɛ ˧˧
+DUMMY/wav/3a5b1b813a0ffd56f996bb1727f2961c.wav|m ɤ̆ j ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ h e n ˧˧ ▁ l ă m ˦˥ ▁ m ɤ j ˦˥ ▁ ɣ ă p ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ n ɔ ˦˥
+DUMMY/wav/d8348928b489519746925512b2e407e1.wav|m o k͡p ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ f u ˨˩˨ ▁ n ɯ ˨˩˦ ▁ h a ŋ ˧˨ ▁ s ɔ m ˦˥ ▁ k u ŋ͡m ˨˩˦ ▁ b i ˨˩˨ ▁ ɲ ɔ m ˦˥ ▁ n ă j ˧˨ ▁ c ɛ m ˦˥
+DUMMY/wav/fdbadd6d24fa69805fadea97871eea2f.wav|j u ˨˩˨ ▁ j i ə k ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ m o ˧˧ ▁ t a ˨˩˦ ▁ l a ˧˨ ▁ j ɔ ˧˧ ▁ ʈ u k͡p ˨˩˨ ▁ ʈ ă k ˨˩˨ ▁ k i ˨˩˦ ▁ tʰ w ɤ̆ k ˨˩˨
+DUMMY/wav/17c8e4aa4b195cbab16241db59b64418.wav|t w i ˧˧ ▁ ɲ i ə ŋ ˧˧ ▁ x i ˧˧ ▁ h ɔ j ˨˩˦ ▁ l a j ˨˩˨ ▁ b i ˨˩˨ ▁ k a w ˦˥ ▁ d a ˨˩˦ ▁ ɲ ɤ ˦˥ ▁ c i n ˦˥ ▁ s a k ˦˥
+DUMMY/wav/b5768cef96606bd4da75e90d3ca1b3b3.wav|j ɤ̆ ŋ ˧˧ ▁ l a ŋ ˧˨ ▁ n o j ˨˩˦ ▁ j ɤ̆ ŋ ˨˩˨ ▁ d ɔ j ˧˨ ▁ tʰ i ə ŋ ˦˥ ▁ k ɛ ˨˩˦ ▁ h i p ˦˥ ▁ j ɤ̆ m ˧˧ ▁ ʈ ɛ ˨˩˦ ▁ ɛ m ˧˧
+DUMMY/wav/32ae18652f8d73afead843e345c7f310.wav|d ɤ̆ j ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ s ɛ m ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ tʰ ɤ̆ k ˦˥ ▁ b a j ˨˩˨ ▁ ŋ i m ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨ ▁ k u ə ˨˩˦ ▁ i ʃ ˧˧
+DUMMY/wav/899b84c15ce00dceb826efd336b87ef8.wav|t o j ˦˥ ▁ t i ˧˧ ▁ ɛ ˧˧ ▁ ʐ ɤ̆ k ˦˥ ▁ d o ŋ͡m ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ j ɤ̆ ŋ ˧˧ ▁ t ɤ̆ p ˨˩˨ ▁ ʈ u ŋ͡m ˧˧ ▁ t a j ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ ʈ ɯ ə ŋ ˧˨
+DUMMY/wav/ae51130f06ff92c2170d4f755b0fbb48.wav|k a ˨˩˦ ▁ h w i ə ŋ ˨˩˨ ▁ ɲ a w ˦˥ ▁ ɲ a k ˦˥ ▁ ʂ ă w ˧˧ ▁ j u ˨˩˨ ▁ n ɯ ə k ˦˥ ▁ j e n ˦˥ ▁ c ă j ˦˥ ▁ ŋ u ŋ͡m ˧˨ ▁ ŋ u k͡p ˨˩˨
+DUMMY/wav/29b1514bcb608fe6eb960e5e01540ba4.wav|k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ h ɔ ŋ͡m ˧˧ ▁ k ɔ ŋ͡m ˧˧ ▁ h w a ŋ ˧˨ ▁ tʰ a n ˧˨ ▁ j i ə k ˨˩˨ ▁ j a j ˨˩˦ ▁ t w a ˨˩˦ ▁ d ɯ ə ŋ ˧˨ ▁ n a t ˧˧ h a ŋ ˧˧
+DUMMY/wav/34d100035e4db39722e465cbbc30cb29.wav|h i ə ŋ ˨˩˨ ▁ j ɤ ˧˨ ▁ d a ˨˩˦ ▁ d e n ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ i ə w ˧˧ ▁ k ɤ̆ w ˧˨ ▁ h ɔ ˨˩˨ ▁ j ɯ ŋ ˧˨ ▁ l a j ˨˩˨
+DUMMY/wav/99c1ccb052bfb4571dc666a038d0dde9.wav|d a ˨˩˦ ▁ n ɔ j ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ b a j ˧˨ ▁ j i ə ŋ ˨˩˦ ▁ j ă ŋ ˧˧ ▁ j e ˧˨ ▁ f ɔ ŋ͡m ˧˧ ▁ ʈ a w ˧˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ w i ɛ ŋ ˧˨ ▁ k u ə ˨˩˦ ▁ m i n ˧˨ ▁ ʂ ă w ˧˧ ▁ m o j ˨˩˦ ▁ k u ə k ˨˩˨ ▁ c i ə ŋ ˦˥ ▁ d i ə w ˧˨ ▁ t a ˧˧ ▁ ɲ ɤ ˦˥ ▁ d e n ˦˥ ▁ x o ŋ͡m ˧˧ ▁ f a j ˨˩˦ ▁ l ɤ j ˧˨ ▁ n ɔ j ˦˥ ▁ k u ə ˨˩˦ ▁ k ɛ ˨˩˦ ▁ tʰ u ˧˨ ▁ m a ˧˨ ▁ c i n ˦˥ ▁ l a ˧˨ ▁ ʂ ɯ ˨˩˨ ▁ i m ˧˧ ▁ l ă ŋ ˨˩˨ ▁ k u ə ˨˩˦ ▁ b a ŋ ˨˩˨ ▁ b ɛ ˧˨
+DUMMY/wav/75af8c54ebdfbd3c173487427c9c2e72.wav|j a ˧˧ ▁ d i n ˧˨ ▁ c ă w ˦˥ ▁ k ɤ ˧˧ ▁ b a ŋ ˨˩˦ ▁ j a ˧˨ ▁ k u ŋ͡m ˨˩˦ ▁ w a ŋ ˧˧ ▁ t ɤ̆ m ˧˧ ▁ t ɤ j ˦˥ ▁ c ă w ˦˥
+DUMMY/wav/283b7b24b8d3232186693ccd11a6951d.wav|ɲ ɯ ŋ ˧˧ ▁ h a t ˦˥ ▁ ʈ ɯ ə k ˦˥ ▁ t w a ŋ ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ l a ˨˩˨ ▁ x w a ˨˩˦ ▁ tʰ ɤ̆ ŋ ˧˧ ▁ x i ə ŋ ˦˥ ▁ t o j ˧˧ ▁ ʂ ɤ ˨˩˨ ▁ h a j ˨˩˦ ▁ h ɤ ŋ ˧˧ ▁ a j ˧˧ ▁ h e t ˦˥
+DUMMY/wav/b9c4061363bcfb0bd1392a65a755847b.wav|d a m ˦˥ ▁ c ă j ˦˥ ▁ b o k͡p ˦˥ ▁ l e n ˧˧ ▁ t a w ˨˩˨ ▁ tʰ a n ˧˨ ▁ ŋ ɔ ŋ͡m ˨˩˨ ▁ x ɔ j ˦˥ ▁ d ɛ ŋ ˧˧ ▁ x o ŋ͡m ˨˩˦ ▁ l o ˧˨
+DUMMY/wav/0552725e57d8aa6eb465f0314c4a6f4f.wav|t ɯ ə ŋ ˨˩˦ ▁ ɲ ɤ̆ m ˧˨ ▁ b ă k ˦˥ ▁ k ɔ k͡p ˦˥ ▁ ʈ ɛ ˨˩˦ ▁ ɛ m ˧˧ ▁ j ɤ ˨˩˨ ▁ c o ŋ͡m ˧˨ ▁ b i ˨˩˨ ▁ k ɔ ŋ͡m ˧˨ ▁ t ă j ˧˧
+DUMMY/wav/570cfc4d65141c659cfc533b124e6f1a.wav|j u ˨˩˨ ▁ ɲ ă j ˨˩˦ ▁ l ɤ̆ w ˧˨ ▁ ŋ ă j ˧˨ ▁ k ɤ ˧˧ ▁ ɣ i ˧˧ ▁ w a ˧˧ ▁ l ɤ j ˧˨ ▁ k e ˨˩˦ ▁ k u ə ˨˩˦ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ c ɯ ŋ ˦˥
+DUMMY/wav/f9a8be198664ff5a09b5fa74b12f00a1.wav|j ɔ ˧˧ ▁ d ɔ ˦˥ ▁ j ɤ j ˦˥ ▁ ɲ a k ˨˩˨ ▁ j a z ˦˥ ▁ ʂ ɤ̆ ŋ ˧˧ ▁ x ɤ̆ w ˦˥ ▁ n ă j ˧˨ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ d i ə w ˧˨ ▁ t w i ə k ˨˩˨ ▁ j ɤ j ˧˨
+DUMMY/wav/8ccbe4eb3b2ec94e35e03705ff885e97.wav|d e n ˦˥ ▁ t ˈeː ˧˧ h ˈa ˧˧ t ˌe ˧˧ ▁ f u k͡p ˦˥ ▁ k ɤ ˧˧ ▁ b a ŋ ˨˩˦ ▁ d a m ˦˥ ▁ c ă j ˦˥ ▁ d a ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ j ɤ̆ p ˨˩˨ ▁ t ă k ˦˥
+DUMMY/wav/a1b5d1385fec4833b53c52e551f90094.wav|ʂ ɛ ˨˩˦ ▁ h i ə w ˨˩˨ ▁ w a ˨˩˦ ▁ b i ə k ˦˥ ▁ b a w ˧˧ ▁ n ɛ u ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ k ɔ ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ d ɯ ə ˦˥ ▁ ʈ ɛ ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ ŋ a j ˨˩˨ ▁ m a w ˨˩˨ ▁ h i m ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ ŋ a j ˨˩˨ ▁ ʂ w i ˧˧ ▁ ŋ i ˨˩˦ ▁ j a ˧˨ ▁ l a ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ c i ə ŋ ˦˥ ▁ tʰ ă ŋ ˦˥
+DUMMY/wav/2c8a5b1b4f6669ff5b353c7aaf59555b.wav|b ă k ˦˥ ▁ d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ tʰ w e ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ ʈ ɔ ˨˩˨ ▁ d e ˨˩˦ ▁ t a ŋ ˧˨ ▁ ʈ ɯ ˨˩˦ ▁ m a ˧˧ ▁ t u j ˦˥
+DUMMY/wav/bf9fac732146f2964d61a0d0d21adf54.wav|ɣ a ˨˩˦ ▁ ʈ a j ˧˧ ▁ k ɤ̆ m ˧˨ ▁ j a w ˧˧ ▁ s o ŋ͡m ˧˧ ▁ j a w ˧˨ ▁ t i m ˨˩˨ ▁ j a ŋ ˧˨ ▁ d ɤ̆ m ˧˧ ▁ c e t ˦˥ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/736df85f681a9da395feb48045cc6473.wav|p u t i n ˧˧ ▁ j u ŋ͡m ˧˨ ▁ b a ŋ ˧˨ ▁ t ă j ˧˧ ▁ tʰ ɛ p ˦˥ ▁ , ▁ m i ˨˩˦ ▁ n a t ɔ ˧˧ ▁ c u ŋ͡m ˧˨ ▁ b ɯ ə k ˦˥
+DUMMY/wav/5880b7b34208a492b16f2e6df481ffb8.wav|b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ tʰ o ŋ͡m ˧˧ ▁ b a w ˦˥ ▁ c ɔ ˧˧ ▁ c i n ˦˥ ▁ w i ɛ ŋ ˧˨ ▁ b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ tʰ o ŋ͡m ˧˧ ▁ b a w ˦˥ ▁ c ɔ ˧˧ ▁ k a k ˦˥ ▁ ɲ a ˧˨ ▁ ʈ ɯ ə ŋ ˧˨
+DUMMY/wav/b51d49653ed8f0bb07cf81a9e6773b2a.wav|j a w ˧˨ ▁ n ă m ˧˧ ▁ ɛ t ˨˩˦ t i ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ b ă k ˦˥ ▁ d ɤ̆ w ˧˨ ▁ m o k͡p ˨˩˨ ▁ j ɯ ˨˩˨ ▁ a ŋ ˦˥ ▁ ŋ i ə ŋ ˧˧ ▁ k ɯ w ˦˥ ▁ d i ə w ˧˨ ▁ ʈ a ˧˧ ▁ tˤ i ˧˧ ▁ n ă m ˧˧ ▁ d e ˨˩˦ ▁ k o ˦˥ ▁ t i m ˧˨ ▁ h i ə w ˨˩˦ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ɣ i ˧˨ ▁ d a ŋ ˧˧ ▁ j i ə ŋ ˨˩˦ ▁ ʐ a ˧˧
+DUMMY/wav/aad6d09738e53539856c2323a52b15a6.wav|t ɤ̆ k ˦˥ ▁ ɲ i ə ŋ ˧˧ ▁ l a ˧˨ ▁ x o ŋ͡m ˧˧
+DUMMY/wav/efdb3b2f366530770f676edb86f61a0e.wav|n ɤ j ˧˧ ▁ ʂ a ŋ ˨˩˦ ▁ s w ɤ̆ k ˦˥ ▁ ɯ ŋ ˦˥ ▁ j i ə ŋ ˧˧ ▁ t i m ˧˨ ▁ n ă ŋ ˧˧ ▁ c ɔ ˧˧ ▁ x o ŋ͡m ˧˧ ▁ w ɤ̆ ŋ ˧˧ ▁ j i n ˧˧
+DUMMY/wav/b27dbd1c5d7e67d48d5b5ae130d50653.wav|c u ŋ͡m ˦˥ ▁ k u ŋ͡m ˨˩˦ ▁ d a ˨˩˦ ▁ b i ˨˩˨ ▁ l i ə ŋ ˧˧ ▁ k e t ˦˥ ▁ j ɤ j ˦˥ ▁ j i ʃ ˧˧ n i ˧˧ ▁ b i ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ k a t ˦˥ ▁ h w a ˦˥ ▁ tʰ a n ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ j ɤ̆ k ˨˩˨ ▁ d ɤ̆ ŋ ˧˨ ▁ d o ŋ͡m ˨˩˨ ▁ ŋ o ˦˥ ▁ ŋ u ˧˧ ▁ ŋ o k͡p ˦˥
+DUMMY/wav/ce39f33ad43d5e3b9193aa2a2b552b0e.wav|ʂ ă w ˧˧ ▁ x i ˧˧ ▁ d o ˨˩˦ ▁ s ă ŋ ˧˧ ▁ c i ə k ˦˥ ▁ s ɛ ˧˧ ▁ b o ŋ͡m ˧˨ ▁ b o k͡p ˦˥ ▁ c ă j ˦˥ ▁ j ɯ ˨˩˦ ▁ j o j ˨˩˨
+DUMMY/wav/5dcf61b0a82361db6d45ac25620b01be.wav|c ă j ˦˥ ▁ w a ŋ ˦˥ ▁ k a ɾ a w ˧˧ k ɛ ˧˧
+DUMMY/wav/4174c96d90b7b366f1f9186f1470f6fb.wav|j a m ˦˥ ▁ d o k͡p ˦˥ ▁ k t i ˧˧ ▁ t͡s ˧˧ p ˧˧ ▁ j ɯ ə k ˨˩˨ ▁ f ɤ̆ m ˨˩˦ ▁ j i ə k ˨˩˨ ▁ f a p ˦˥ ▁ ʂ ă p ˦˥ ▁ h ɤ̆ w ˧˨ ▁ t w a ˧˨
+DUMMY/wav/e179caae7edd0e99cf747203fa1656b0.wav|ŋ a n ˧˨ ▁ k o ŋ͡m ˧˧ ▁ ŋ i p ˨˩˨ ▁ c ă m ˧˧ ▁ ʂ ɔ k͡p ˦˥ ▁ ʂ ɯ k ˦˥ ▁ x w e ˨˩˦ ▁ m ɔ ŋ͡m ˧˧ ▁ m u ə ŋ ˦˥ ▁ m o k͡p ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ b a w ˨˩˦ ▁ j e ˨˩˨ ▁ m a n ˨˩˨ ▁ m ɛ ˨˩˦ ▁ h ɤ ŋ ˧˧ ▁ c ɔ ˧˧ ▁ k a k ˦˥ ▁ ɲ a ˧˨ ▁ f a t ˦˥ ▁ m i n ˧˧
+DUMMY/wav/266e0733cc6327a9f85918ae205bc105.wav|x a m ˦˥ ▁ ɲ a ˧˨ ▁ d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ m a ˧˧ ▁ t u j ˦˥ ▁ tʰ u ˧˧ ▁ k a ˨˩˦ ▁ l o ˧˧ ▁ h a ŋ ˧˨ ▁ n ɔ ŋ͡m ˦˥
+DUMMY/wav/7a071bf75b4d592e1e80e01a1098ab55.wav|h i ə ŋ ˨˩˨ ▁ d i ə ŋ ˨˩˨ ▁ a p ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ d ɯ ə ˧˧ ▁ j e ˧˨ ▁ j a ˦˥ ▁ ʈ i ˨˩˨ ▁ d i n ˨˩˨ ▁ m ɯ k ˦˥
+DUMMY/wav/c13be030767b1cc0ce7e6f4b05fd74a6.wav|d ɯ ə k ˨˩˨ ▁ b i ə k ˦˥ ▁ a n ˧˧ ▁ l ˧˧
+DUMMY/wav/83da5931268326c90cf9a49cea03d34a.wav|ŋ i ˧˧ ▁ f a m ˨˩˨ ▁ ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ tʰ u ˧˧ ▁ j ɔ ŋ͡m ˨˩˨ ▁ d o ˧˨ ▁ d a k ˨˩˨ ▁ ʐ o j ˧˨ ▁ b ɔ ˨˩˦ ▁ ʈ o ŋ͡m ˦˥
+DUMMY/wav/455ba3b95f7d9808948d4ab4fd10d3e4.wav|f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ j u ˨˩˨ ▁ x a j ˧˧ ▁ tʰ a k ˦˥ ▁ ɣ ɤ̆ ŋ ˧˨ ▁ t ˈi ˌm ɛ ˧˧ ʂ ɚ ˧˧ ▁ ɣ o ˨˩˦ ▁ w i ˦˥
+DUMMY/wav/a0c966345d57b0f7263ebe9ea3ec5385.wav|k u ŋ͡m ˧˨ ▁ ɲ i n ˧˨ ▁ l a j ˨˩˨ ▁ k u ə k ˨˩˨ ▁ d ɤ j ˧˨ ▁ t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ h u ɣ ɔ ˧˧ ▁ c a j ˧˧ ▁ w a ˧˧ ▁ a n ˨˩˦
+DUMMY/wav/562e95eb522bf52785b21b88363d8ad6.wav|t o ŋ͡m ˨˩˦ ▁ ʈ i ˨˩˨ ▁ j a ˦˥ ▁ t a j ˧˨ ▁ ʂ a ŋ ˨˩˦ ▁ b i ˨˩˨ ▁ k ɯ p ˦˥ ▁ h ɤ ŋ ˧˧ ▁ ɣ i ˧˧ ▁ t i ˨˩˦ ▁ d o ŋ͡m ˧˨
+DUMMY/wav/9eac5408329ee3939bc6b75b4302418b.wav|w i ɛ t ˦˥ ▁ d i n ˨˩˨ ▁ t ɯ ə ŋ ˨˩˦ ▁ ɲ ɯ ˧˧ ▁ l a ˧˨ ▁ l ɔ ˧˧ z i t ˧˧ ▁ d ɔ ˦˥ ▁ l a j ˨˩˨ ▁ ʐ ɤ̆ k ˦˥ ▁ x ɔ ˦˥ ▁ x ă ŋ ˧˧
+DUMMY/wav/67499f078a53edf8618029cd747cedce.wav|f a p ˦˥ ▁ t i ə ŋ ˦˥ ▁ h a n ˧˨ ▁ d ɤ k ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ k i t ˦˥ ▁ i ʃ ˧˧ ▁ d ɤ̆ w ˧˨ ▁ t i ə ŋ ˧˧ ▁ t a j ˨˩˨ ▁ i ˧˧ ʐ a k ˧˧
+DUMMY/wav/3d8a10a45e8b1980bdb2c39a783015ba.wav|c ă j ˦˥ ▁ t a j ˨˩˨ ▁ t w a ˧˨ ▁ ɲ a ˧˨ ▁ k a w ˧˧ ▁ t ɤ̆ ŋ ˧˨ ▁ ɤ ˨˩˦ ▁ t i ˧˧ p i ˧˧ ▁ h o ˧˨ ▁ c i ˦˥ ▁ m i n ˧˧
+DUMMY/wav/0830215d205e2aab834a330acfa6cce4.wav|f ɤ̆ ŋ ˧˨ ▁ l a ŋ ˧˧ ▁ k ɔ ˦˥ ▁ d ɯ ə ŋ ˧˨ ▁ b i ə ŋ ˧˧ ▁ j ɤ j ˦˥ ▁ c u ŋ͡m ˧˧ ▁ j a j ˧˨ ▁ i ˧˧
+DUMMY/wav/a6f4ae120e405681ff0740865a94d281.wav|o ŋ͡m ˧˧ ▁ d o ˨˩˦ ▁ d ɯ k ˦˥ ▁ h i ə ŋ ˨˩˦ ▁ c a n ˦˥ ▁ j ă ŋ ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ b o ˨˩˨ ▁ t ɯ ˧˧ ▁ f a p ˦˥
+DUMMY/wav/f88ab6183ceb5159c3ed1f4b71008791.wav|j a ˧˨ ▁ t o j ˧˧ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ ʐ a ˧˧
+DUMMY/wav/0e20b1139cbbf846cd9a9a0f3a04eb60.wav|j a ˧˨ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ l i ˦˥ ▁ j ɔ ˧˧ ▁ t o j ˧˧ ▁ i ə w ˧˧ ▁ ɛ m ˧˧
+DUMMY/wav/a8c7fc35fc0441cc66e456ba3bad93a8.wav|t o j ˧˧ ▁ l a ˧˨ ▁ t i ə ŋ ˦˥ ▁ ʂ i ˨˩˦ ▁ j a j ˧˧ j i d ˧˧ ▁ h a ŋ ˧˧ ʂ ɔ ŋ͡m ˧˧ ▁ j a ˧˨ ▁ t o j ˧˧ ▁ t a w ˨˩˨ ▁ n e n ˧˧ ▁ ʐ ɔ b ɔ k͡p ˧˧ ▁ j ɤ j ˦˥ ▁ t i n ˦˥ ▁ k a t ˦˥
+DUMMY/wav/25e522e7a44f9d5ed30fc6509f89324e.wav|m ă j ˦˥ ▁ t ɯ ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ d ɔ k͡p ˨˩˨ ▁ b i ə ŋ ˨˩˦ ▁ ʂ o ˦˥ ▁ s ɛ ˧˧ ▁ c u p ˨˩˨ ▁ a n ˨˩˦ ▁ m ɔ j ˨˩˨ ▁ c i ə k ˦˥ ▁ s ɛ ˧˧ ▁ c ă j ˨˩˨ ▁ ŋ a ŋ ˧˧ ▁ j a ˧˨ ▁ c w i ə ŋ ˨˩˦ ▁ tʰ a n ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ d w a ŋ ˨˩˨ ▁ k i ˦˥ ▁ t ɯ ˨˩˨ ▁ c ɔ ˧˧ ▁ m ă j ˦˥ ▁ d ɔ k͡p ˨˩˨ ▁ d e ˨˩˦ ▁ h ɔ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ k i m ˨˩˦ ▁ ʈ a ˧˧ ▁ j a n ˧˧ ▁ ʂ a t ˦˥ ▁ n ɔ ŋ͡m ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ s ɛ ˧˧ ▁ k ɔ ˦˥ ▁ x a ˨˩˦ ▁ n ă ŋ ˧˧ ▁ b i ˨˩˨ ▁ ʈ w i ˧˧ ▁ n a ˨˩˦ ▁ j i ˧˨ ▁ f a m ˨˩˨ ▁ l w ɤ̆ k ˨˩˨
+DUMMY/wav/effe7c269e241bf2ca6ba9665343e6ab.wav|ʂ ă w ˧˧ ▁ ɣ i ˧˧ ▁ ŋ ă j ˧˨ ▁ ŋ i ˨˩˦ ▁ j ă j ˨˩˨ ▁ t u ˦˥ ▁ d a ˨˩˦ ▁ ɣ ɤ̆ j ˧˧ ▁ ʐ a ˧˧ ▁ j u ˨˩˨ ▁ a ŋ ˦˥
+DUMMY/wav/d3118b9c175583b213332ec2631cd413.wav|j a ˧˨ ▁ k ɔ ˦˥ ▁ m o k͡p ˨˩˨ ▁ b a j ˧˨ ▁ b a w ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ t ɤ ˧˨ ▁ n ɛ u ˧˧ ▁ i ɔ r k͡p ˧˧ ▁ t i m ɛ ʃ ˧˧ ▁ ʂ o ˦˥ ▁ ʐ a ˧˧ ▁ tʰ a ŋ ˦˥ ▁ ɛ ˧˧ ▁ n ă m ˧˧ ▁ t ˈi ə ˧˧ ▁ d a ˨˩˦ ▁ j i ə k ˦˥
+DUMMY/wav/3e1e12099aaab7ea942d122c6a21781b.wav|k ɔ ˦˥ ▁ m o k͡p ˨˩˨ ▁ a n ˧˧ ▁ c a ŋ ˧˨ ▁ t e n ˧˧ ▁ l a ˧˨ ▁ ɣ a ɾ i ˧˧ ▁ k i l ˧˧ d a l ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ d a ŋ ˧˧ ▁ l a j ˦˥ ▁ m ă j ˦˥ ▁ b ă j ˧˧ ▁ ʐ i ə ŋ ˧˧ ▁ d u ŋ͡m ˦˥ ▁ l u k͡p ˦˥ ▁ i b m ˧˧ ▁ t ɤ j ˦˥ ▁ d e ˨˩˦ ▁ t i m ˧˨ ▁ m o k͡p ˨˩˨ ▁ h e ˨˩˨ ▁ d i ə w ˧˨ ▁ h a n ˧˨ ▁ c ɔ ˧˧ ▁ m ă j ˦˥ ▁ t i n ˦˥ ▁ k a ˦˥ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ i b m ˧˧ ▁ ɲ ɯ ŋ ˧˧ ▁ a n ˧˧ ▁ ɤ̆ j ˦˥ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ ɤ ˨˩˦ ▁ d ɔ ˦˥ ▁ n e n ˧˧ ▁ h ɔ ˨˩˨ ▁ d a ˨˩˦ ▁ w ă j ˧˧ ▁ l a j ˨˩˨ ▁ t i m ˧˨ ▁ b i l ˧˧ ▁ ɣ a t ɛ ʃ ˧˧
+DUMMY/wav/225b50cfa3189c4d90d623954cd1109c.wav|j a k ˦˥ ▁ j a w ˨˩˨ ▁ c ɛ m ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ j ɯ ə ˨˩˦ ▁ f o ˦˥ ▁ h a ˧˨ ▁ n o j ˨˩˨ ▁ h w a ŋ ˧˨ ▁ j w i ˧˧
+DUMMY/wav/702d0fab1306b4c5611cbc7bac591f8b.wav|t e n ˧˧ ▁ k ɯ p ˦˥ ▁ d a ˨˩˦ ▁ l ɤ̆ j ˦˥ ▁ c i ə ˧˨ ▁ x w a ˦˥ ▁ j a ˧˨ ▁ f ɔ ŋ͡m ˦˥ ▁ s ɛ ˧˧ ▁ t ɤ̆ w ˨˩˦ ▁ tʰ w a t ˦˥
+DUMMY/wav/3a991dcfc586e42a93e05b0e9f26320b.wav|ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ c w i ə ŋ ˨˩˦ ▁ d i ˧˧ ▁ n a m ˧˧ ▁ d i n ˨˩˨ ▁ w a ŋ ˨˩˦ ▁ n i n ˧˧ ▁ d e ˨˩˦ ▁ t i ə w ˧˧ ▁ tʰ u ˨˩˨
+DUMMY/wav/20af1079ce07eface659cab8288a0f30.wav|c ɤ̆ k ˦˥ ▁ l ɯ ə ŋ ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ x i ˦˥ ▁ t o k͡p ˦˥ ▁ h ɤ ŋ ˧˧ ▁ j a ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ tʰ u ˧˧ ▁ h w a t ˨˩˨ ▁ ʐ ɤ̆ k ˦˥ ▁ ɲ i ə w ˧˨ ▁ ʈ a j ˦˥ ▁ k ɤ̆ j ˧˧ ▁ ŋ ă j ˧˧ ▁ ʂ ă w ˧˧ ▁ ʂ ɤ̆ ŋ ˧˧ ▁ ɲ a ˧˨
+DUMMY/wav/df9ce38d05273e8f39d4b2649d4a82dc.wav|d ɔ ˦˥ ▁ c i n ˦˥ ▁ l a ˧˨ ▁ k o ŋ͡m ˧˧ ▁ ŋ e ˨˩˨ ▁ k a m ˦˥ ▁ ɤ ŋ ˧˧ ▁ k o ŋ͡m ˧˧ ▁ ŋ e ˨˩˨ ▁ n ă j ˧˨ ▁ ʂ ɛ ˨˩˦ ▁ t ɤ j ˦˥ ▁ t ă j ˧˧ ▁ k a k ˦˥ ▁ b a k ˦˥ ▁ ʂ i ˨˩˦ ▁ tʰ u ˦˥ ▁ i ˧˧ ▁ ʈ ɯ ə k ˦˥ ▁ tʰ a ŋ ˦˥ ▁ i ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ d a ŋ ˧˧ ▁ l a m ˧˨ ▁ h e t ˦˥ ▁ ʂ ɯ k ˦˥ ▁ d e ˨˩˦ ▁ d ɯ ə ˧˧ ▁ t ɤ̆ ŋ ˨˩˨ ▁ t ă j ˧˧ ▁ c ɔ ˧˧ ▁ h ɔ ˨˩˨ ▁ h i ˧˧ ▁ j ɔ ŋ͡m ˨˩˨ ▁ l a ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ n ă m ˧˧ ▁ t ɤ j ˦˥ ▁ tʰ o j ˧˧
+DUMMY/wav/ba783bd804b3f784a01b774cfc90ad60.wav|m o k͡p ˨˩˨ ▁ d i ə w ˧˨ ▁ m a ˧˨ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ f a j ˨˩˦ ▁ tʰ u ˦˥ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ j ɤ j ˦˥ ▁ c i n ˦˥ ▁ m i n ˧˨ ▁ j ɤ j ˦˥ ▁ ʂ ɯ ˨˩˨ ▁ ɣ e ˧˧ ▁ t ɤ m ˨˩˦ ▁ k i n ˧˧ ▁ h w a ŋ ˧˨ ▁ l a ˧˨ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ h i ə w ˧˨ ▁ ʐ o j ˧˨
+DUMMY/wav/b2a3bff248209d77ec8b2ce38bbd60c5.wav|ɲ ɯ ŋ ˧˧ ▁ x i ˧˧ ▁ k a k ˦˥ ▁ ɲ a ˧˨ ▁ j a w ˦˥ ▁ j u k͡p ˨˩˨ ▁ s ɤ̆ j ˧˧ ▁ j ɯ ŋ ˨˩˨ ▁ l ɤ p ˦˥ ▁ h ɔ k͡p ˨˩˨ ▁ t ɯ ˧˧ ▁ j w i ˧˧ ▁ t ă ŋ ˧˧ ▁ ʂ ă p ˦˥ ▁ ʂ ɯ ˨˩˨ ▁ b i n ˧˨ ▁ d ă ŋ ˨˩˦ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧
+DUMMY/wav/39bcc5cdfe83b1fb8898466c10b5295e.wav|m u k͡p ˨˩˨ ▁ t i ə w ˧˧ ▁ t i p ˦˥ ▁ tʰ e o ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ k u ə k ˨˩˨ ▁ tʰ a n ˧˧ ▁ ʈ ɯ ŋ ˧˨ ▁ k u ə ˨˩˦ ▁ k i m ˧˧ ▁ j ɔ ŋ͡m ˧˧ ▁ u ŋ͡m ˧˧
+DUMMY/wav/651f953eb2315f6f7e35fa992ab98cd9.wav|h a j ˨˩˦ ▁ j ɯ ə ŋ ˧˧
+DUMMY/wav/478ba21f3a7e2059c4cdca492a053d57.wav|b i ˦˥ ▁ m ɤ̆ k ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ ŋ ɤ ˧˨ ▁ b e n ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ k a k ˦˥ ▁ ɲ a ˧˨ ▁ t u ˧˨ ▁ ɤ ˨˩˦ ▁ m i ˨˩˦
+DUMMY/wav/6cdfa8d10f2ec827e0927c6f51fa4faa.wav|x w a n ˨˩˦ ▁ x ă k ˦˥ ▁ w a ˨˩˦ ▁ d a ŋ ˨˩˨ ▁ f u k͡p ˨˩˨ ▁ l ɯ ə ˨˩˦ ▁ l a w ˧˧ ▁ ɲ a n ˧˧ ▁ x ɔ j ˨˩˦ ▁ b e ˨˩˨ ▁ f ɔ ŋ͡m ˦˥
+DUMMY/wav/37d983926289afe4472481ff84a1118b.wav|ʂ ɤ ŋ ˧˧ ▁ k u ŋ͡m ˧˨ ▁ k a k ˦˥ ▁ d a ŋ ˧˨ ▁ ɛ m ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ d ɯ ə ŋ ˧˨ ▁ j ɤ̆ j ˧˧ ▁ b i ˨˩˨ ▁ ʈ i ə k ˨˩˨ ▁ f a ˦˥
+DUMMY/wav/04d2a2566e49f9cae72e59ea0ce61f69.wav|h o j ˧˨ ▁ ʈ ɯ ə k ˦˥ ▁ k ɔ ˦˥ ▁ j a w ˨˩˨ ▁ t o j ˧˧ ▁ ʐ ɤ̆ k ˦˥ ▁ tʰ i t ˦˥ ▁ j i ə k ˦˥ ▁ b a j ˧˨ ▁ j e ˧˨
+DUMMY/wav/846cb7e301188e5e11f3be97af79ad5b.wav|ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ b a ŋ ˨˩˨ ▁ t w i ə ŋ ˧˨ ▁ d ɛ ˧˨ ▁ tʰ a w ˨˩˦ ▁ c ɔ ˧˧ ▁ t u ˦˥ ▁ t i p ˦˥ ▁ t u k͡p ˨˩˨ ▁ d a n ˦˥
+DUMMY/wav/8dafddfdc66339125220e5c174d593e8.wav|t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ ŋ a ˧˧ ▁ p u t i n ˧˧ ▁ d ɔ ŋ͡m ˦˥ ▁ t u ə j ˨˩˦ ▁ m ɤ j ˦˥ ▁ j ɯ ə ˨˩˦ ▁ t ɤ̆ m ˧˧ ▁ b a w ˨˩˦ ▁ ʂ i ɾ i ə ˧˧
+DUMMY/wav/96ef76964d08a243b4fa086f694e8a0f.wav|m i ˨˩˦ ▁ j a ˧˨ ▁ d o ŋ͡m ˧˨ ▁ m i n ˧˧ ▁ ʂ ă p ˦˥ ▁ t ɤ̆ p ˨˩˨ ▁ ʈ ɤ̆ ŋ ˨˩˨ ▁ f ɔ ŋ͡m ˧˨ ▁ tʰ u ˨˩˦ ▁ t e n ˧˧ ▁ l ɯ ə ˨˩˦
+DUMMY/wav/3f115e1dc9ad8d45ba3888f3902078d6.wav|ʈ u ŋ͡m ˧˧ ▁ h a ŋ ˧˨ ▁ f o j ˦˥ ▁ h ɤ p ˨˩˨ ▁ ŋ ă ŋ ˧˧ ▁ k ă ŋ ˧˧ ▁ tʰ ă ŋ ˨˩˦ ▁ ʈ e n ˧˧ ▁ b a ŋ ˦˥ ▁ d a w ˨˩˦ ▁ ʈ i ə w ˧˨ ▁ t i ə ŋ ˧˧
+DUMMY/wav/c72553f95e0b805ba1b4ef0ee535edbd.wav|d ɔ ˦˥ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ f a ŋ ˨˩˦ ▁ s a ˨˩˨ ▁ j o ˧˧ ▁ d i ə w ˧˨ ▁ k i ə ŋ ˨˩˨ ▁ j i n ˧˧ ▁ k l i t ˧˧ ▁ b i n ˧˧ ▁ tʰ e ˦˥ ▁ l a ˧˨ ▁ j a w ˧˨ ▁ l i t ˨˩˨ ▁ ʐ o j ˧˨ ▁ f a j ˨˩˦ ▁ d i ˧˧ ▁ tʰ o j ˧˧ ▁ ʈ e ˨˩˦ ▁ h ɔ p ˨˩˨ ▁ ʐ o j ˧˨ ▁ h ɔ p ˨˩˨ ▁ h a n ˧˨ ▁ tʰ i ˧˨ ▁ ʐ ɤ̆ k ˦˥ ▁ w a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨ ▁ d u ŋ͡m ˦˥ ▁ c ɯ ˦˥
+DUMMY/wav/cf60bc763bb68c300bf2ee6f48ac874b.wav|ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ ɲ a j ˦˥ ▁ tʰ i ə k ˦˥ ▁ k e ˦˥ ▁ t ă w ˧˨ ▁ ʂ ɤ̆ ŋ ˧˧ ▁ b ă j ˧˧ ▁ h a t ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ m i ˨˩˦
+DUMMY/wav/f3f140731cdc0818fc5694f81e7fb1aa.wav|n ɔ ˦˥ ▁ k u ŋ͡m ˨˩˦ ▁ b i ˨˩˨ ▁ t ɤ̆ m ˧˧ ▁ tʰ ɤ̆ ŋ ˧˨ ▁ ɲ ɯ ŋ ˧˧ ▁ j a ŋ ˨˩˨ ▁ t ɤ̆ m ˧˧ ▁ tʰ ɤ̆ ŋ ˧˨ ▁ f ɤ̆ ŋ ˧˧ ▁ l i ə k ˨˩˨
+DUMMY/wav/06b029afaad820b002c2da4448322af3.wav|ɲ ɯ ŋ ˧˧ ▁ h o m ˧˧ ▁ ʂ ă w ˧˧ ▁ ʐ a t ˧˧ h ɔ ɾ ɛ ˧˧ ▁ l a j ˨˩˨ ▁ ɣ ɔ j ˨˩˨ ▁ ʐ u c i k a ˧˧ ▁ d e n ˦˥ ▁ j ă ŋ ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ h ă ŋ ˦˥
+DUMMY/wav/ddf2832fa8488a2df837163673ccbed0.wav|m o k͡p ˨˩˨ ▁ t a j ˧˨ ▁ s e ˦˥ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧ ▁ ʂ ă w ˧˧ ▁ k u ə k ˨˩˨ ▁ ʈ w i ˧˧ ▁ ʂ a t ˦˥ ▁ k i n ˧˧ ▁ h w a ŋ ˧˨
+DUMMY/wav/15721b69b5add810ed964936bcf17ae2.wav|j i ˧˨ ▁ j ɤ̆ j ˨˩˨ ▁ j i ə k ˨˩˨ ▁ w a ŋ ˧˧ ▁ ʂ a t ˦˥ ▁ n ɔ ˦˥ ▁ ʐ ɤ̆ k ˦˥ ▁ tʰ u ˦˥ ▁ j i ˨˩˨
+DUMMY/wav/40c27d44e68fcfc402041ba2c2463710.wav|t ă w ˧˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ c ɤ ˨˩˦ ▁ tʰ e o ˧˧ ▁ ɛ ˧˧ k a ˧˧ ▁ ʂ i ˨˩˦ ▁ w a ŋ ˧˧ ▁ tʰ u j ˨˩˦ ▁ tʰ u ˨˩˦ ▁ d w a ŋ ˧˨
+DUMMY/wav/b659ecc4ff28e55e9364a635b8752890.wav|ʈ ɯ ə k ˦˥ ▁ d ɔ ˦˥ ▁ j u ˨˩˨ ▁ j i ə k ˨˩˨ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ j a w ˧˨ ▁ x w a ŋ ˨˩˦ ▁ ɛ f ˧˧ ▁ ŋ ă j ˧˨ ▁ ɛ ˧˧ ▁ ɣ i ˧˧
+DUMMY/wav/21d3af213e668ca3514e66e6e318efe8.wav|j ɤ ˧˨ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ tʰ w a t ˦˥ ▁ x ɔ j ˨˩˦ ▁ k a j ˦˥ ▁ j ɔ ŋ͡m ˧˨ ▁ d e o ˧˧ ▁ k o ˨˩˦
+DUMMY/wav/27293a6a5eb9871e907599ea4ea3449e.wav|j ɯ ə ˧˨ ▁ b ɤ j ˧˧ ▁ j ɯ ə j ˦˥ ▁ ʂ o ŋ͡m ˧˧ ▁ tʰ a n ˧˧ ▁ n i ə ŋ ˧˧ ▁ n ă j ˧˨ ▁ j ɯ ə ˧˨ ▁ ŋ ɛ u ˧˧ ▁ ŋ a w ˧˧ ▁ h a t ˦˥
+DUMMY/wav/8547dbf28340d4e3f13329d51069c55f.wav|ʂ a ŋ ˦˥ ▁ ŋ ă j ˧˨ ▁ i ˧˧ ▁ ɣ i ˧˧ ▁ t ˌe ˧˧ i ə ˧˧ ▁ ŋ w a ŋ ˧˧ ▁ k ɔ ˦˥ ▁ m ă k ˨˩˨ ▁ t a j ˨˩˨ ▁ ɲ a ˧˨ ▁ j i ˧˧ ▁ tʰ i ˨˩˨ ▁ h w a j ˧˨
+DUMMY/wav/0574e7df6f4d5d1acdf0d4dc9bb5c411.wav|k ɔ ŋ͡m ˧˨ ▁ a n ˧˧ ▁ tʰ ɯ k ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ d a ŋ ˧˧ ▁ d ɯ ə k ˨˩˨ ▁ k ɤ̆ p ˦˥ ▁ k ɯ w ˦˥ ▁ t a j ˨˩˨ ▁ b e n ˨˩˨ ▁ j i ə ŋ ˨˩˨
+DUMMY/wav/50e7ad4dbea254d2490f7c3b044f4bfa.wav|ʂ i ɾ i ə ˧˧ ▁ l a j ˨˩˨ ▁ t o ˦˥ ▁ k a w ˦˥ ▁ tʰ o ˨˩˦ ▁ ɲ i ˨˩˦ ▁ k i ˧˨ ▁ j i ˧˧ ▁ f a m ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ f ɤ̆ ŋ ˨˩˨
+DUMMY/wav/7a89182aa140af6c8d605435dcd7aa66.wav|n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ l i ə ŋ ˧˧ ▁ j a ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ j e t ˦˥ ▁ d a ŋ ˨˩˨ ▁ h w a ˧˧ ▁ k a j ˨˩˦ ▁ ʈ e n ˧˧ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/faafd5ceee8ef701f84d203c8822dc97.wav|ŋ ɯ ə j ˧˨ ▁ d a ŋ ˧˨ ▁ o ŋ͡m ˧˧ ▁ ɣ i ˧˧
+DUMMY/wav/3fc88604d86204ea5523b855833e46d1.wav|c i ˧˧ ▁ tʰ a w ˧˧ ▁ s i n ˧˧ ▁ c i ə ˧˧ ▁ b u ə ŋ ˧˨ ▁ k u ŋ͡m ˧˨ ▁ j a ˧˧ ▁ d i n ˧˨ ▁ h a j ˧˧ ▁ ɛ m ˧˧
+DUMMY/wav/7789a35df5e16b73a318da031a7e5fde.wav|b ɤ̆ j ˧˧ ▁ j ɤ ˧˨ ▁ c w i ə ŋ ˨˩˨ ▁ n ă j ˧˨ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ ɣ i ˧˨ ▁ b i ˦˥ ▁ m ɤ̆ k ˨˩˨
+DUMMY/wav/b324417df2dae28096ca2f6f8dbc69fe.wav|k u ə k ˨˩˨ ▁ ʂ ă ŋ ˧˧ ▁ k a ˦˥ ▁ k i ˧˨ ▁ w a j ˦˥ ▁ b ă ŋ ˧˨
+DUMMY/wav/f5fe99f895092f12021e6237ff1bbfc6.wav|d a n ˦˥ ▁ b ɔ m ˧˧ ▁ l i ə w ˧˨ ▁ c e t ˦˥ ▁ t a j ˨˩˨ ▁ n i ɣ ɛ ˧˧ ʐ i ə ˧˧ ▁ x i ə ŋ ˦˥ ▁ k ɤ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ tʰ i ə k ˨˩˨ ▁ m a ŋ ˨˩˨
+DUMMY/wav/c535db4942cebe95c6577af54e323446.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ ʂ ɤ ˨˩˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ɣ i ˧˨ ▁ d ɤ̆ k ˦˥ ▁ n ɯ ə k ˦˥ ▁ k u ə ˨˩˦ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ l a m ˧˨ ▁ d e ˨˩˦ ▁ tʰ ă j ˧˧ ▁ m ă k ˨˩˨ ▁ c ɔ ˧˧ ▁ k ɔ ŋ͡m ˧˧ ▁ ʈ a j ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ c o ŋ͡m ˧˨ ▁ t o j ˧˧ ▁ ɔ ʁ l a ŋ ˧˧ d ɔ ˧˧ ▁ j a ˧˧ ▁ d i n ˧˨ ▁ j a ˧˨ ▁ c i n ˦˥ ▁ t o j ˧˧
+DUMMY/wav/9b2720a6bf00c333c61426b5a1258a7e.wav|m ă k ˨˩˨ ▁ x a k ˦˥ ▁ ɕ i ˧˧ ▁ ɔ ˧˧ ▁ n ă m ˧˧ ▁ n ɯ ə ˨˩˦ ▁ t o j ˧˧ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ n ɔ j ˦˥ ▁ j ɤ j ˦˥ ▁ k a k ˦˥ ▁ k ɔ ŋ͡m ˧˧ ▁ t o j ˧˧ ▁ ʐ ă ŋ ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ d a ˨˩˦ ▁ l a m ˧˨ ▁ m ɔ j ˨˩˨ ▁ tʰ ɯ ˦˥ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ d e ˨˩˦ ▁ x ă k ˦˥ ▁ f u k͡p ˨˩˨ ▁ d i ə w ˧˨ ▁ n ă j ˧˨ ▁ m o k͡p ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ j a j ˧˧ ▁ d w a ŋ ˨˩˨ ▁ w a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨ ▁ ɲ ɤ̆ k ˦˥ ▁ k u ə ˨˩˦ ▁ tʰ e ˦˥ ▁ h e ˨˩˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧
+DUMMY/wav/897d51af34b08b86a35419ef7dc15917.wav|b a ˧˧ ▁ k ɛ ˨˩˦ ▁ k u ə j ˦˥ ▁ k u ŋ͡m ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ b ă ŋ ˧˧ ▁ k ɯ p ˦˥ ▁ l i ə ŋ ˧˧ ▁ t i n ˨˩˦ ▁ d ɤ̆ w ˧˨ ▁ tʰ u ˦˥
+DUMMY/wav/a9695d61f5edd7f5910796e32ba50706.wav|k o ˧˧ ▁ ɣ a j ˦˥ ▁ d ɤ̆ m ˧˧ ▁ c e t ˦˥ ▁ b a ŋ ˨˩˨ ▁ ʈ a j ˧˧ ▁ l i n ˨˩˦ ▁ a ŋ ˦˥ ▁ ɛ ˧˧ ▁ n ă m ˧˧ ▁ t u ˧˨
+DUMMY/wav/e62257ef1ab0f5d9d8e94fad7cba281e.wav|b a ŋ ˦˥ ▁ j ɤ̆ m ˧˧ ▁ n ɯ ə ˨˩˦ ▁ t i ˨˩˦
+DUMMY/wav/45484f335520bccbc2002fe522eeb986.wav|w a j ˧˧ ▁ c i ˨˩˦ ▁ ʈ i t ˦˥ ▁ k a w ˦˥ ▁ b u ə k ˨˩˨ ▁ u ŋ͡m ˨˩˦ ▁ h o ˨˩˨ ▁ x u ŋ͡m ˨˩˦ ▁ b o ˦˥ ▁ t ɯ ˧˨ ▁ i ˧˧ ʐ a k ˧˧
+DUMMY/wav/c1b7afc10d11e3a85ac344cb3d943f1d.wav|s ɯ ˨˩˦ ▁ l i ˦˥ ▁ tʰ u ə k ˦˥ ▁ l a ˦˥ ▁ l ɤ̆ w ˨˩˨ ▁ ɣ ă p ˨˩˨ ▁ x ɔ ˦˥ ▁ j ɔ ˧˧ ▁ l w ɤ̆ k ˨˩˨
+DUMMY/wav/6c73e5abdb496a2cb393f1fd40cf53f9.wav|ʈ a m ˨˩˨ ▁ ʈ o ŋ͡m ˨˩˨ ▁ k u ə ˨˩˦ ▁ k o ŋ͡m ˧˧ ▁ t i ˧˧ ▁ k o ˨˩˦ ▁ f ɤ̆ ŋ ˧˨ ▁ b e ˧˧ ▁ t o ŋ͡m ˧˧ ▁ j a ŋ ˧˧ ▁ n i n ˧˧
+DUMMY/wav/bc9580c264e0b4ee073841d9f878a5c4.wav|j ɔ ˧˧ ▁ t͡ʃ ˌe ˧˧ ɣ ˧˧ t ˈe ˧˧ ▁ l a j ˦˥ ▁ s ɛ ˧˧ ▁ tʰ ă ŋ ˦˥ ▁ ɣ ɤ̆ p ˦˥ ▁ n e n ˧˧ ▁ ʂ u ŋ͡m ˦˥ ▁ k ɯ p ˦˥ ▁ k ɔ ˧˨ ▁ l u ə ŋ ˧˧
+DUMMY/wav/ff4c5dc6874856f8cd905270a0b42882.wav|w a ŋ ˦˥ ▁ i n t ɛ r n ɛ t ˧˧ ▁ tʰ ɯ ə ŋ ˧˨ ▁ c i ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ m ɤ ˨˩˦ ▁ k ɯ ə ˨˩˦ ▁ d e n ˦˥ ▁ tˤ i ˧˧ ▁ tʰ o j ˧˧ ▁ c ɯ ˦˥
+DUMMY/wav/20bbe15723b06cbefea36f03bb44bea6.wav|k ɔ ŋ͡m ˧˧ ▁ ɣ a j ˦˥ ▁ k ɤ ˧˧ ▁ ʈ ɯ ə ŋ ˨˩˦ ▁ k ɤ ˧˧ z ɛ ˧˧ t s ˈi ə ˧˧
+DUMMY/wav/1255196ad837aa51889d3c9836500910.wav|t o j ˧˧ ▁ d a ˨˩˦ ▁ tʰ e m ˧˧ ▁ j i ˨˩˨ ▁ ʈ i ˦˥ ▁ k u ə ˨˩˦ ▁ t o j ˧˧ ▁ b ă ŋ ˧˨ ▁ b a ŋ ˨˩˦ ▁ d o ˧˨ ▁ ɡ u ɡ ə l ˧˧ ▁ j a ˧˨ ▁ n ɔ ˦˥ ▁ ʈ ɯ k ˨˩˨ ▁ t w i ə ŋ ˦˥ ▁ j i ˧˨ ▁ j ɤ̆ j ˨˩˨ ▁ h ă j ˨˩˦ ▁ tʰ ɯ ˨˩˦ ▁ j i ˧˧ ▁ c w i ə ŋ ˨˩˦ ▁ n ɔ ˦˥ ▁ j ɔ ŋ͡m ˧˨ ▁ w a n ˧˧
+DUMMY/wav/52509022936c28dc627affc07120ec78.wav|ŋ ɯ ə j ˧˨ ▁ j ɤ̆ ŋ ˧˧ ▁ k u ŋ͡m ˧˨ ▁ l ɯ k ˨˩˨ ▁ l ɯ ə ŋ ˨˩˨ ▁ c ɯ k ˦˥ ▁ n ă ŋ ˧˧ ▁ t i m ˧˨ ▁ k i m ˦˥ ▁ n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧
+DUMMY/wav/98b9334e47c29a214b44b1551d312ee0.wav|ʈ ɔ ŋ͡m ˧˧ ▁ x i ˧˧ ▁ d ɔ ˦˥ ▁ m i ˨˩˦ ▁ k ɔ ˦˥ ▁ x w a ŋ ˨˩˦ ▁ t͡s u ˧˧
+DUMMY/wav/646187024d715f06a79235734658ded8.wav|t o j ˧˧ ▁ l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ j a w ˦˥ ▁ ʂ ɯ ˧˧ ▁ k i ˨˩˦ ▁ tʰ w ɤ̆ k ˨˩˨ ▁ j a ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ɛ ˧˧ ▁ n ă m ˧˧ ▁ w a ˧˧ ▁ t o j ˧˧ ▁ j a ŋ ˨˩˦ ▁ j ă j ˨˩˨ ▁ j e ˧˨ ▁ f ɤ̆ ŋ ˧˧
+DUMMY/wav/5d7b9e390860c52f067f66210a7b47d5.wav|ɲ ɯ ŋ ˧˧ ▁ x i ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ c e ˦˥ ▁ n ɯ ə k ˦˥ ▁ j a w ˧˨ ▁ d i ə ˨˩˦ ▁ k u ə ˨˩˦ ▁ n ɔ ˦˥ ▁ n ɔ ˦˥ ▁ j ɤ̆ ŋ ˨˩˦ ▁ ŋ ɯ ə k ˦˥ ▁ l e n ˧˧ ▁ ɲ i n ˧˨ ▁ j a ˧˨ ▁ j ɤ̆ j ˨˩˦ ▁ d u ə j ˧˧ ▁ t ɔ ˨˩˦ ▁ j ɛ ˨˩˦ ▁ b i ə k ˦˥ ▁ ɤ ŋ ˧˧
+DUMMY/wav/48b15c0de3d9d99e390206925b916e10.wav|j i ˧˨ ▁ j ɤ̆ j ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ l w ɤ̆ k ˨˩˨ ▁ n ă j ˧˨ ▁ f ɔ ŋ͡m ˧˨ ▁ k ɤ̆ ŋ ˧˨ ▁ l a m ˧˨ ▁ n o j ˨˩˦ ▁ b ɤ̆ k ˨˩˨ ▁ h ɤ ŋ ˧˧
+DUMMY/wav/94b9981d50b1535040b3c472debac957.wav|ŋ ɯ ˧˧ ▁ j ɤ̆ ŋ ˧˧ ▁ ʈ u ŋ͡m ˦˥ ▁ l o k͡p ˨˩˨ ▁ b i ə ŋ ˨˩˦ ▁ j ɤ j ˦˥ ▁ x w a ŋ ˧˧ ▁ t ă w ˧˨ ▁ d ɤ̆ j ˧˨ ▁ k a ˦˥ ▁ k ɤ m ˧˧
+DUMMY/wav/7c4ea9e8dffc8b48ba5827b6de668ffb.wav|f i ə ˦˥ ▁ ʂ ă w ˧˧ ▁ k a k ˦˥ ▁ t i ə w ˧˧ ▁ d e ˧˨ ▁ t i n ˧˧ ▁ t ɯ k ˦˥ ▁ j e ˧˨ ▁ k a k ˦˥ ▁ t w a ˧˨ ▁ ɲ a ˧˨ ▁ n ă j ˧˨ ▁ l a ˧˨ ▁ ʂ o ˦˥ ▁ f ɤ̆ ŋ ˨˩˨ ▁ k u ə ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ k o ŋ͡m ˧˧ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ s ɤ̆ j ˧˧ ▁ j ɯ ŋ ˨˩˨ ▁ d i ˧˧ ▁ s w ɤ̆ k ˦˥ ▁ x ɤ̆ w ˨˩˦ ▁ l a w ˧˧ ▁ d o ŋ͡m ˨˩˨
+DUMMY/wav/f71dc4f0a5c4f297df20a3c2a76252db.wav|o ŋ͡m ˧˧ ▁ t w i ə ŋ ˦˥ ▁ j a j ˨˩˦ ▁ tʰ i t ˦˥
+DUMMY/wav/1b7b229743468bb306bb6f1d95925865.wav|h ă j ˧˧ ▁ b a ŋ ˨˩˨ ▁ d o k͡p ˨˩˨ ▁ f a ˦˥ ▁ b a ŋ ˨˩˨ ▁ tʰ ɤ̆ k ˨˩˨ ▁ t w i ə k ˨˩˨ ▁ j ɤ j ˧˨
+DUMMY/wav/9bb9e644bb70012e8006380ccb9b29f6.wav|x i ˧˧ ▁ f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ ʐ a ˧˧ ▁ a j ˧˧ ▁ d ɔ ˦˥ ▁ k ɔ ˦˥ ▁ tʰ i ˨˩˨ ▁ l ɯ k ˨˩˨ ▁ k ɛ m ˦˥ ▁ tʰ ɯ ˨˩˦ ▁ tʰ a t ˦˥ ▁ t i p ˦˥ ▁ tʰ e o ˧˧ ▁ l a ˧˨ ▁ l ɤ̆ ŋ ˧˨ ▁ ʐ a ˧˧ ▁ ŋ w i ə ŋ ˧˧ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ d e ˨˩˦ ▁ l a m ˧˨ ▁ d ɯ ə k ˨˩˨ ▁ d i ə w ˧˨ ▁ d ɔ ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ k ɤ̆ ŋ ˧˨ ▁ ŋ i ə ŋ ˧˧ ▁ k ɯ w ˦˥ ▁ ʂ ɤ̆ w ˧˧ ▁ j a w ˧˨ ▁ b e n ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ m ă k ˦˥
+DUMMY/wav/d7a727c27ecbcd26c3c762314e5765b7.wav|j a ˧˨ ▁ n ɛ u ˦˥ ▁ d ɔ ˦˥ ▁ l a ˧˨ ▁ ʂ ɯ ˨˩˨ ▁ tʰ ɤ̆ k ˨˩˨ ▁ tʰ i ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ɣ i ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ m u ə ŋ ˦˥ ▁ l a m ˧˨ ▁ l a ˧˨ ▁ m u ə ŋ ˦˥ ▁ t i m ˧˨ ▁ h i ə w ˨˩˦ ▁ b o ŋ͡m ˦˥ ▁ b a j ˧˨ ▁ h ɔ k͡p ˨˩˨ ▁ t ɯ ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ h i ˧˧ ▁ l a p ˨˩˨ ▁ j a ˧˨ ▁ m o k͡p ˨˩˨ ▁ b a j ˧˨ ▁ h ɔ k͡p ˨˩˨ ▁ t ɯ ˧˨ ▁ c ɤ̆ w ˧˧ ▁ m i ˨˩˦ ▁ l a ˧˧ ▁ t i n ˧˧
+DUMMY/wav/804f84f9d2f6d68ce56d071d4c45cf5f.wav|ŋ ɯ ə j ˧˨ ▁ j ɤ̆ ŋ ˧˧ ▁ m i ə ŋ ˧˨ ▁ d o ŋ͡m ˧˧ ▁ u k͡p ˧˧ ʐ a j ˧˧ n a ˧˧ ▁ f u ˨˩˦ ▁ h w a ˧˧ ▁ ʈ e n ˧˧ ▁ m a n ˨˩˦ ▁ j ɤ ˨˩˦ ▁ m a ˧˧ h ɛ ˧˧ ɛ ˧˧
+DUMMY/wav/86ff0b54192e0aa4ee83d6e9fbd35fad.wav|t i m ˧˨ ▁ k i m ˦˥ ▁ m o k͡p ˨˩˨ ▁ k a t ˦˥ ▁ t i p ˦˥ ▁ k ɤ̆ ŋ ˨˩˨ ▁ m a ŋ ˧˧ ▁ t i n ˦˥ ▁ h ɤ p ˨˩˨ ▁ t a k ˦˥ ▁ j a ˧˨ ▁ tʰ w a j ˨˩˦ ▁ m a j ˦˥
+DUMMY/wav/10117d2b3c019c28afc4f7be1ad59012.wav|c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ t i ə ŋ ˦˥ ▁ ʈ i ə ŋ ˨˩˦ ▁ t o k͡p ˦˥ ▁ f ɤ̆ ŋ ˧˨ ▁ tʰ ɯ ˦˥ ▁ ɲ ɤ̆ k ˦˥ ▁ j a ˧˨ ▁ d a ˨˩˦ ▁ k ɔ ˦˥ ▁ k i ə ŋ ˦˥ ▁ tʰ ɯ k ˦˥ ▁ j e ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ w i ˧˧ ▁ l w ɤ̆ k ˨˩˨ ▁ k u ə ˨˩˦ ▁ ʂ ɯ ˨˩˨ ▁ t i ə ŋ ˦˥ ▁ h w a ˦˥ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ m ɔ j ˨˩˨ ▁ ʈ ɯ ə ŋ ˧˨ ▁ h ɤ p ˨˩˨ ▁ ʈ ɯ ˧˨ ▁ d i ə w ˧˨ ▁ k i ə ŋ ˨˩˨ ▁ tʰ a j ˦˥ ▁ k ɯ k ˨˩˨
+DUMMY/wav/a2cb68620410c99d8f7869278069c063.wav|ʂ ɯ ə ˨˩˦ ▁ j u t ˧˧ ▁ l a j i ˧˧ ▁ k a w ˧˧ ▁ x w e ˨˩˦ ▁ b i ˨˩˨ ▁ t o ˦˥ ▁ k ɛ m ˦˥ ▁ c ɤ̆ k ˦˥ ▁ l ɯ ə ŋ ˨˩˨
+DUMMY/wav/0406dcd8f36e36b345f390eeb9e22d17.wav|h i ə ŋ ˨˩˨ ▁ n ă j ˧˧ ▁ ʈ a j ˦˥ ▁ t i m ˧˧ ▁ k u ə ˨˩˦ ▁ i ʃ ˧˧ ▁ d a ŋ ˧˧ ▁ ɤ ˨˩˦ ▁ ʂ i ɾ i ə ˧˧ ▁ j a ˧˨ ▁ i ˧˧ ʐ a k ˧˧
+DUMMY/wav/dad2c8c2834eeda47409a38cd627fe82.wav|x i ˧˧ ▁ d i ə w ˧˨ ▁ n ă j ˧˨ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ m e o ˨˩˨ ▁ n ă j ˧˨ ▁ h w a t ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ ʈ e n ˧˧ ▁ k i ˧˧ n ɔ t ɛ ˧˧ ▁ k u ə ˨˩˦ ▁ p a w ˧˧ p w ă n t ˧˧ ▁ n ɔ ˦˥ ▁ h w a t ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ ʈ e n ˧˧ ▁ m ɔ j ˨˩˨ ▁ c ɯ ə ŋ ˧˧ ▁ ʈ i n ˧˨ ▁ t ɤ̆ k ˦˥ ▁ k a ˨˩˦ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ɣ i ˧˨ ▁ b a ŋ ˨˩˨ ▁ f a j ˨˩˦ ▁ l a m ˧˨ ▁ l a ˧˨ ▁ ɤ̆ ŋ ˦˥ ▁ f i m ˦˥ ▁ b ˧˧
+DUMMY/wav/eaf547aeac7a82d372f6dece1c9d2f3a.wav|t o ŋ͡m ˨˩˦ ▁ ʂ o ˦˥ ▁ t i ə ŋ ˧˨ ▁ f a t ˨˩˨ ▁ n o p ˨˩˨ ▁ ŋ ɤ̆ ŋ ˧˧ ▁ ʂ a t ˦˥ ▁ ɣ ɤ̆ ŋ ˧˨ ▁ k ɤ ˧˧ ▁ t i ˨˩˦ ▁ d o ŋ͡m ˧˨
+DUMMY/wav/4bf0b3a898d555b3f7515a404ca92782.wav|c w i ə ŋ ˨˩˦ ▁ h o ˨˩˨ ▁ x ɤ̆ w ˨˩˦ ▁ k ɔ ˦˥ ▁ f a j ˨˩˦ ▁ l a m ˧˨ ▁ l a j ˨˩˨ ▁ c ɯ ŋ ˦˥ ▁ m i n ˧˧ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ j ɤ̆ ŋ ˧˧
+DUMMY/wav/b0706f7c6039495a8a1c0211c4585d8d.wav|j a v i ʃ ˧˧ ▁ j a ˧˨ ▁ d a ˨˩˦ ▁ t i m ˧˨ ▁ ʐ a ˧˧ ▁ l a m ˧˨ ▁ tʰ e ˦˥ ▁ n a w ˧˨ ▁ d e ˨˩˦ ▁ t ă ŋ ˧˧ ▁ ʂ o ˦˥ ▁ l ɯ ə ŋ ˨˩˨ ▁ ɔ ŋ͡m ˧˧ ▁ ʈ ɯ ə k ˦˥ ▁ o ŋ͡m ˦˥ ▁ k i n ˦˥ ▁ m ă j ˦˥ ▁ w ă j ˧˧
+DUMMY/wav/fc6bc3e67fa9b2d7b4e4b3b025e22901.wav|k a k ˦˥ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ j i ə ŋ ˧˧ ▁ j o j ˨˩˨ ▁ j a ŋ ˧˨ ▁ j i ˧˧ ▁ c w i ə ŋ ˨˩˦ ▁ t a j ˧˨ ▁ ʂ a ŋ ˨˩˦ ▁ ʐ a ˧˧ ▁ ŋ w a j ˧˨
+DUMMY/wav/abfcf6dd6a62f7527fc176e5669a6f16.wav|b ɤ̆ k ˦˥ ▁ k ɯ ˦˥ ▁ n ɤ j ˧˧ ▁ d ɤ̆ w ˧˧ ▁ j u ˧˨ ▁ l a ˧˨ ▁ ʂ i ə ʐ a ˧˧ ▁ l e o n ɛ ˧˧ ▁ h ă j ˧˧ ▁ b ɔ ʂ t ɔ ŋ͡m ˧˧ ▁ t o j ˧˧ ▁ h i ˧˧ ▁ j ɔ ŋ͡m ˨˩˨ ▁ d i ə w ˧˨ ▁ n ă j ˧˨ ▁ x o ŋ͡m ˧˧ ▁ c i ˨˩˦ ▁ x o j ˧˧ ▁ f u k͡p ˨˩˨ ▁ m a ˧˨ ▁ k ɔ ŋ͡m ˧˨ ▁ tʰ ă j ˧˧ ▁ d o j ˨˩˦ ▁ k a m ˨˩˦ ▁ tʰ ɯ k ˦˥ ▁ j e ˧˨ ▁ t i m ˧˨ ▁ n ă ŋ ˧˧ ▁ k ɔ ŋ͡m ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ s i n ˧˧ ▁ k a m ˨˩˦ ▁ ɤ ŋ ˧˧ ▁ ʐ ɤ̆ k ˦˥ ▁ ɲ i ə w ˧˨
+DUMMY/wav/9f3867c5f7680a739ae1877efd00a6e2.wav|t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ a p ˦˥ ▁ ɣ a ˧˧ ▁ n i ˧˧ ▁ s t a ŋ ˧˧ ▁ k a m ˧˧ ▁ k e t ˦˥ ▁ b a w ˨˩˦ ▁ d a m ˨˩˦ ▁ a ŋ ˧˧ ▁ n i n ˧˧ ▁ w o k͡p ˦˥ ▁ j a ˧˧
+DUMMY/wav/165c5bade44e569c712bf368545ca6e7.wav|t w i ˧˧ ▁ ɲ i ə ŋ ˧˧ ▁ s w i ə ŋ ˧˧ ▁ l a j ˨˩˨ ▁ t i p ˦˥ ▁ t u k͡p ˨˩˨ ▁ ʈ i ˧˧ ▁ h o ˧˧ ▁ b ă k ˦˥ ▁ ʈ ɔ j ˦˥ ▁ c i ˨˩˨
+DUMMY/wav/75821044d4a5114484c13d7a1ebad041.wav|t o j ˧˧ ▁ b i ə k ˦˥ ▁ k a ɾ ɔ l i n ˧˧ ▁ p ɔ ʁ k ɔ ˧˧ ▁ l a ˧˨ ▁ k a m ɛ ˧˧ ʐ a ˧˧ ▁ p i ˧˧ ▁ c ɔ ˧˧ ▁ t ă w ˧˨ ▁ j u ˨˩˦ ▁ ʈ u ˨˩˨ ▁ k a s ˧˧ s i n i ˧˧
+DUMMY/wav/2c3b56c08d3a5b5b19af633dc0c9cabc.wav|m ă k ˦˥ ▁ tʰ ɤ̆ ŋ ˧˨ ▁ j a m ˦˥ ▁ ʂ a t ˦˥ ▁ a ŋ ˧˧ ▁ n i n ˧˧ ▁ t a j ˨˩˨ ▁ tʰ a n ˧˨ ▁ f o ˦˥ ▁ b i ə ŋ ˧˧ ▁ h w a ˧˨
+DUMMY/wav/506c03f47f2ed3416ea85c228ce6cca0.wav|n ɛ u ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ j ɤ̆ k ˨˩˨ ▁ k ɔ ˦˥ ▁ j ɛ ˨˩˦ ▁ b i ə k ˨˩˨ ▁ l ɤ̆ p ˨˩˨ ▁ l a j ˨˩˨ ▁ c i n ˦˥ ▁ l a ˧˨ ▁ n ɤ j ˧˧ ▁ d e ˨˩˦ ▁ k a k ˦˥ ▁ b ɯ ə k ˦˥ ▁ ʂ ɔ ŋ͡m ˦˥ ▁ l i ə ŋ ˧˧ ▁ t u k͡p ˨˩˨ ▁ k u ə ˨˩˦ ▁ ɲ ɯ ŋ ˨˩˦ ▁ j ɤ̆ k ˨˩˨ ▁ d ɔ ˦˥ ▁ j a w ˧˨ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥ ▁ k u ə ˨˩˦ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ tʰ i ˧˨ ▁ ʂ a w ˧˧
+DUMMY/wav/07ea1d4ddcc5f9003630149582d1bfc0.wav|t o j ˧˧ ▁ ʂ i n ˧˧ ▁ ʐ a ˧˧ ▁ ɤ ˨˩˦ ▁ b a ˧˧ ▁ l a ŋ ˧˧ ▁ ɲ ɯ ŋ ˧˧ ▁ j ɤ ˧˨ ▁ d a ŋ ˧˧ ▁ ɤ ˨˩˦ ▁ m i ˨˩˦
+DUMMY/wav/77e1fd61c11336de8d21e4fb75963686.wav|c o ŋ͡m ˧˨ ▁ d i ˧˧ ▁ l a m ˧˨ ▁ s a ˧˧ ▁ j ɤ ˨˩˨ ▁ l w a ˨˩˦ ▁ tʰ e ˨˩˦ ▁ c a t ˧˧ ▁ j ɤ j ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ x a k ˦˥
+DUMMY/wav/b6f6a68783ca79dca6e1e9738184fab2.wav|k i ə w ˨˩˦ ▁ n ă j ˧˨ ▁ tʰ i ˧˨ ▁ t i ə ŋ ˧˨ ▁ c ɤ j ˧˧ ▁ h u j ˨˩˨ ▁ k u ə ˨˩˦ ▁ t o j ˧˧ ▁ m ɤ̆ k ˦˥ ▁ ʈ ă ŋ ˦˥ ▁ ʐ o j ˧˨
+DUMMY/wav/5f029c9ee8bbe76d372a34874630bde8.wav|k ɤ̆ ŋ ˨˩˨ ▁ k a n ˨˩˦ ▁ ɲ ɯ ŋ ˨˩˦ ▁ tʰ a n ˧˨ ▁ f o ˦˥ ▁ b i ˨˩˨ ▁ b ɔ ˨˩˦ ▁ h w a ŋ ˧˧ ▁ ʈ e n ˧˧ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥
+DUMMY/wav/104a8e3c847b5eed556e1af860771a9a.wav|k u ə k ˨˩˨ ▁ d u ə ˧˧ ▁ j a w ˧˨ ▁ ɲ a ˧˨ ▁ ʈ ă ŋ ˦˥ ▁ b ɤ̆ k ˦˥ ▁ ŋ ɤ ˧˨ ▁ ʈ ɤ ˨˩˦ ▁ n e n ˧˧ ▁ ɣ ă j ˧˧ ▁ k ɤ̆ ŋ ˦˥
+DUMMY/wav/1205b5128ed80a7b9ef6bc000cb09125.wav|t o j ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ b ɔ ˨˩˦ ▁ m ɤ̆ j ˦˥ ▁ a n ˧˧ ▁ d ɔ ˦˥ ▁ l a j ˨˩˨ ▁ j a ˧˨ ▁ d i ˧˧ ▁ ʐ a ˧˧ ▁ ŋ w a j ˧˨
+DUMMY/wav/0d1b39ebe83c2995969957cbbab95f48.wav|j a ˧˨ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ m u ə ŋ ˦˥ ▁ l a m ˧˨ ▁ ʂ a w ˧˧ ▁ d e ˨˩˦ ▁ k a n ˨˩˦ ▁ j a k ˦˥ ▁ m ɔ j ˨˩˨ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/97c5eee8f76058ddc71c398ebe871ea8.wav|tʰ ɤ̆ j ˦˥ ▁ o ŋ͡m ˧˧ ▁ d ˧˧
+DUMMY/wav/4a2e40a8b1163a23c2a7bb3f6e632bf1.wav|d i ə w ˧˨ ▁ b i n ˧˨ ▁ tʰ ɯ ə ŋ ˧˨
+DUMMY/wav/c9d719355b0c7e0d7acc0425472f9f5d.wav|tʰ ɤ̆ m ˧˧ ▁ k u ŋ͡m ˧˧ ▁ b i ˦˥ ▁ ʂ ɯ ˨˩˦
+DUMMY/wav/d4e0b0f4b1ba6339c888c3b0ba6f089c.wav|k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ d a ˨˩˦ ▁ b ă k ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ d a ŋ ˧˨ ▁ o ŋ͡m ˧˧ ▁ n ă j ˧˨ ▁ j a w ˧˨ ▁ ŋ ă j ˧˨ ▁ ɛ ˧˧ ▁ ɣ i ˧˧
+DUMMY/wav/bcaed1d8ee2c5fd3965870dafcf9c1b8.wav|d ɤ̆ p ˨˩˨ ▁ b u ə ˦˥ ▁ j a ˨˩˦ ▁ m a ŋ ˧˧ ▁ k a ˨˩˦ ▁ ɲ a ˧˨ ▁ j ɛ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ ʐ o j ˧˨ ▁ t ɯ ˨˩˨ ▁ t ɯ ˨˩˦
+DUMMY/wav/c913e00712682003b71977e1f4cbdcc3.wav|h ɤ ŋ ˧˧ ▁ tˤ i ˧˧
+DUMMY/wav/45b99ea3877a6e2baa9ce77ad13ea533.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ m u ə ŋ ˦˥ ▁ b i ə k ˦˥ ▁ c i n ˦˥ ▁ s a k ˦˥ ▁ ʂ o ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ b i ˨˩˨ ▁ tʰ ɯ ə ŋ ˧˧ ▁ j ɔ ŋ͡m ˧˧
+DUMMY/wav/8cc990283ec57000b7bd3c381dd0a876.wav|j a ˧˨ ▁ t o j ˧˧ ▁ b o j ˦˥ ▁ ʐ o j ˦˥ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ x ɔ k͡p ˦˥ ▁ ɲ ɯ ˧˧ ▁ i ˧˧ ▁ d ɯ ə ˦˥ ▁ ʈ ɛ ˨˩˦ ▁ k ɔ ŋ͡m ˧˧
+DUMMY/wav/5681799124b4c26d8467f6763fba0131.wav|t i ə k ˦˥ ▁ tʰ ă j ˧˧ ▁ m o k͡p ˨˩˨ ▁ ʂ o ˦˥ ▁ b ɯ k ˦˥ ▁ a n ˨˩˦ ▁ w a ŋ ˧˧ ▁ ʈ ɔ ŋ͡m ˨˩˨ ▁ l a ˧˨ ▁ w a ˦˥ ▁ b i ə w ˨˩˦ ▁ t ɯ ə ŋ ˨˩˨ ▁ j a ˧˨ ▁ ɣ ɤ̆ j ˧˧ ▁ ʂ ɯ ˨˩˨ ▁ x ɔ ˦˥ ▁ c i w ˨˩˨ ▁ c ɔ ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧
+DUMMY/wav/a0b103d92ddc394ecad1dddf3ef37125.wav|k a ˨˩˦ ▁ h a j ˧˧ ▁ ŋ o j ˧˧ ▁ l a ŋ ˧˨ ▁ n ă j ˧˨ ▁ k a t ˦˥ ▁ tʰ a n ˧˨ ▁ f o ˦˥ ▁ j ɔ n ɛ t ˧˧ ʂ k ▁ x w a ŋ ˨˩˦ ▁ ɔ ˧˧ k a m ˧˧
+DUMMY/wav/1d1c4c9f6753187269a6ecff763daac2.wav|n ɛ u ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ t i ə ŋ ˦˥ ▁ h w a ˦˥ ▁ ɲ ɯ ˧˧ ▁ t i n ˧˧ ▁ t i n ˧˧ ▁ tʰ i ˧˨ ▁ h ă ŋ ˨˩˦ ▁ d ɤ̆ j ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ l a ˧˨ ▁ c w ɤ̆ ŋ ˨˩˦ ▁ m ɯ k ˨˩˨ ▁ j e ˧˨ ▁ k a j ˦˥ ▁ d ɛ p ˨˩˨
+DUMMY/wav/5ea982dc5d2b0f15d63e2f753dcda1d0.wav|ˌɛ l ˧˧ d i ˧˧ p ˈe ˧˧ ▁ tʰ ă ŋ ˦˥ ▁ a p ˦˥ ▁ d a w ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ k u ə k ˨˩˨ ▁ t o ŋ͡m ˨˩˦ ▁ t w i ə ŋ ˨˩˦ ▁ k ɯ ˨˩˦ ▁ ɲ ɤ̆ k ˨˩˨ ▁ b a ŋ ˨˩˦
+DUMMY/wav/07a3d831ff1dc13bcf8e4d8d27031219.wav|b i ˦˥ ▁ tʰ ɯ ˧˧ ▁ d a ŋ ˨˩˦ ▁ c ɛ ŋ ˧˧ ▁ ɣ ɛ ŋ ˧˧ m i n ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ʈ a ŋ ˧˧ ▁ f u k͡p ˨˩˨ ▁ k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ j a ˨˩˦
+DUMMY/wav/ae55c6ec9580177fd8049c7976b93ed4.wav|m ɤ̆ w ˧˧ ▁ tʰ w ɤ̆ ŋ ˨˩˦ ▁ l u k͡p ˦˥ ▁ u ə ŋ ˦˥ ▁ k a f ɛ ˧˧ ▁ ɛ m ˧˧ ▁ ʈ a j ˧˧ ▁ c ɛ m ˦˥ ▁ c e t ˦˥ ▁ a n ˧˧ ▁ h ɔ ˨˩˨
+DUMMY/wav/2d39dc4b29192d62576c5d9318879b80.wav|k ă ŋ ˧˧ ▁ tʰ ă ŋ ˨˩˦ ▁ k ɔ ˦˥ ▁ j ɤ̆ w ˦˥ ▁ h i ə w ˨˩˨ ▁ ŋ ă j ˧˨ ▁ k a ŋ ˧˨ ▁ l e o ˧˧ ▁ tʰ a ŋ ˧˧ ▁ t a j ˨˩˨ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧
+DUMMY/wav/b1dc095fb346d1a0f556415b5c8cadc2.wav|ɲ ɯ ŋ ˨˩˦ ▁ h i n ˧˨ ▁ a n ˨˩˦ ▁ b o ˦˥ ▁ j i ə k ˨˩˨ ▁ n e n ˧˧ ▁ h ɔ k͡p ˨˩˨ ▁ t ɤ̆ p ˨˩˨ ▁ t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ m i ˨˩˦
+DUMMY/wav/69ce91a3efd880022e21147e47a25a7a.wav|ʈ ɔ ŋ͡m ˧˧ ▁ tʰ ɤ j ˧˨ ▁ j a ŋ ˧˧ ▁ d ɔ ˦˥ ▁ j a j ˧˨ ▁ k u ə k ˨˩˨ ▁ c i ə ŋ ˦˥ ▁ x a k ˦˥ ▁ k u ŋ͡m ˨˩˦ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧
+DUMMY/wav/16dfeec83596aed3f91f518e135a7772.wav|l w a j ˧˨ ▁ c i m ˧˧ ▁ n ă j ˧˨ ▁ x o ŋ͡m ˧˧ ▁ b i ə k ˦˥ ▁ b ă j ˧˧ ▁ j a ˧˨ ▁ t ɔ ˧˧ ▁ ɲ ɯ ˧˧ ▁ d a ˧˨ ▁ d i ə w ˨˩˦
+DUMMY/wav/d5c3549ed7b8d8f1d2ab29b851096df6.wav|t o j ˧˧ ▁ ʈ a ˨˩˦ ▁ l ɤ j ˧˨ ▁ o ˧˨ ▁ n ɔ ˦˥ ▁ ɲ ɯ ˧˧ ▁ m o k͡p ˨˩˨ ▁ f ɤ̆ ŋ ˧˨ ▁ tʰ e m ˧˧ ▁ j a w ˧˨ ▁ k ɔ ŋ͡m ˧˧ ▁ b i ə k ˦˥ ▁ d ɤ̆ j ˦˥ ▁ x i ˧˧ ▁ k ɔ ŋ͡m ˧˧ ▁ k ɤ̆ ŋ ˧˨ ▁ t a w ˨˩˨ ▁ ʐ a ˧˧ ▁ m o k͡p ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ e t ˦˥ ▁ m ɤ j ˦˥ ▁ t ɯ ˧˨ ▁ e t ˦˥ ▁ c a ˧˧ ▁ j a ˧˨ ▁ e t ˦˥ ▁ m ɛ ˨˩˨
+DUMMY/wav/c222ccc0fab4a391568ee70014e79197.wav|ŋ w a j ˨˩˨ ▁ ʈ ɯ ə ŋ ˨˩˦ ▁ b ʐ a z i ɫ ˧˧ ▁ t ɯ ˧˨ ▁ c ɯ k ˦˥ ▁ j i ˧˨ ▁ ŋ i ˨˩˨ ▁ ʂ i ˨˩˦ ▁ b ɔ l i ˧˧ j i ə ˧˧ ▁ d a w ˧˨ ▁ t ɤ̆ w ˨˩˦
+DUMMY/wav/406c126c48fe4eb62d91d811382d41b7.wav|s ɛ ˧˧ ▁ k o ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ k i m ˨˩˦ ▁ ʈ a ˧˧ ▁ k i ˨˩˦ ▁ l ɯ ə ŋ ˨˩˦ ▁ b e n ˧˧ ▁ ŋ w a j ˧˨ ▁ k ă ŋ ˧˧ ▁ k ɯ ˦˥
+DUMMY/wav/cbc41e94bd9bc4014b7a324f39992a20.wav|f a p ˦˥ ▁ ʈ i ə ŋ ˨˩˦ ▁ x a j ˧˧ ▁ t ă w ˧˨ ▁ ʂ ɤ̆ ŋ ˧˧ ▁ b ă j ˧˧ ▁ t ɤ j ˦˥ ▁ j u ŋ͡m ˧˨ ▁ j i n ˨˩˨ ▁ c o ŋ͡m ˦˥ ▁ i ʃ ˧˧
+DUMMY/wav/42a76044e833a8b07cbd3986e237abba.wav|tʰ ɤ̆ m ˨˩˨ ▁ c i ˦˥ ▁ c ɔ ˧˧ ▁ l a ˧˨ ▁ j e ˨˩˦ ▁ ʐ ă ŋ ˧˨ ▁ t o j ˧˧ ▁ c i ˨˩˦ ▁ n ɔ j ˦˥ ▁ d e n ˦˥ ▁ f ɤ̆ ŋ ˧˨ ▁ l ɤ ŋ ˦˥ ▁ k a k ˦˥ ▁ h w a t ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ j o ˧˧ ▁ h a j ˨˩˨ ▁ ʈ e n ˧˧ ▁ t w i t ˧˧ t ɛ ʁ ˧˧
+DUMMY/wav/0d2f8295de1b5a82b5249c1b110bf600.wav|d ɯ ə ŋ ˧˨ ▁ b ă ŋ ˧˧ ▁ ʈ e n ˧˧ ▁ d a ˦˥ ▁ c ɯ ˨˩˦ ▁ tʰ ɤ̆ p ˨˩˨ ▁ d a ˨˩˦ ▁ s ɤ̆ j ˧˧ ▁ j ɯ ŋ ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ i ˧˧ ▁ ɣ i ˧˧
+DUMMY/wav/e46a714f36b27f832f66fb1046536c38.wav|ŋ a ˧˧ ▁ m u ə ŋ ˦˥ ▁ n a t ɔ ˧˧ ▁ ʈ a ˨˩˦ ▁ l ɤ j ˧˨ ▁ c w i ə ŋ ˨˩˨ ▁ d ɯ ə ˧˧ ▁ w ɤ̆ ŋ ˧˧ ▁ d e n ˦˥ ▁ d o ŋ͡m ˧˧ ▁ ɤ̆ w ˧˧
+DUMMY/wav/d11c8b835eb7f6d4f92bcafd7bf2b4a8.wav|t u ˧˧ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ l ɤ j ˧˨ ▁ j a ˧˨ ▁ ʐ u ˨˩˦ ▁ a n ˧˧ ▁ ʈ a j ˧˧ ▁ l a ˧˨ ▁ k ɔ ˧˨ ▁ tʰ a m ˧˧ ▁ j a ˧˧
+DUMMY/wav/f0845eafb59866baab9daa45e32c0b61.wav|ɲ ɯ ŋ ˧˧ ▁ j u ˧˨ ▁ d i ə w ˧˨ ▁ n ă j ˧˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ ɣ ɤ̆ j ˧˧ ▁ w a ŋ ˧˧ ▁ ŋ a j ˨˩˨ ▁ c ɔ ˧˧ ▁ k a k ˦˥ ▁ ɲ a ˧˨ ▁ w a ŋ ˨˩˦ ▁ k a w ˦˥ ▁ ɲ ɯ ŋ ˧˧ ▁ tʰ ɯ k ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ d ɔ ˦˥ ▁ j ɤ̆ ŋ ˨˩˦ ▁ l a ˧˨ ▁ d i ə w ˧˨ ▁ h ă j ˧˧
+DUMMY/wav/d1fbbf2d580256566c45e84f4322a469.wav|ɲ ɯ ŋ ˨˩˦ ▁ ɣ i ˧˨ ▁ d a ŋ ˧˧ ▁ s ă j ˨˩˦ ▁ ʐ a ˧˧ ▁ tʰ ɤ̆ k ˨˩˨ ▁ x o ŋ͡m ˧˧ ▁ tʰ e ˨˩˦ ▁ c ɤ̆ p ˦˥ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ d ɯ ə k ˨˩˨
+DUMMY/wav/1a32e2592019854aefd04e9725d6830a.wav|ɲ i ə w ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ j ɤ̆ ŋ ˧˧ ▁ d e n ˦˥ ▁ c i ə ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ j ɤ j ˦˥ ▁ j a ˧˧ ▁ d i n ˧˨ ▁ n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧
+DUMMY/wav/89510f0e9c1709e5b075aa27da13f781.wav|c i n ˦˥ ▁ ʈ i ˨˩˨ ▁ t w a ŋ ˧˨ ▁ k ɤ̆ w ˧˨ ▁ j ɤ̆ j ˨˩˨ ▁ ʂ ɔ ŋ͡m ˦˥ ▁ j i ˧˨ ▁ b e ˧˧ ▁ b o j ˦˥ ▁ k u ə ˨˩˦ ▁ f i f ə ˧˧
+DUMMY/wav/12a706e062d5d91b3472f0b0963825cb.wav|n ă m ˧˧ ▁ ɛ t ˨˩˦ i ˧˧ f a ˧˧ ▁ ʂ i n ˧˧ p ɔ ˧˧ ▁ b i ˨˩˨ ▁ b u ə k ˨˩˨ ▁ f a j ˨˩˦ ▁ ʐ ɤ j ˧˨ ▁ x ɔ j ˨˩˦ ▁ l i ə ŋ ˧˧ ▁ b a ŋ ˧˧ ▁ m a l ă j ˧˧ ʂ i ə ˧˧
+DUMMY/wav/f8c587efde51dbdc3a7589439b1f0aa7.wav|n ɤ ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ k u ə ˨˩˦ ▁ i t a l i ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ d a ŋ ˧˧ ▁ d ɯ ŋ ˦˥ ▁ t ɔ p ˧˧ ▁ d ɤ̆ w ˧˨ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥
+DUMMY/wav/947fcb92394f6c5f29496fa8e7268055.wav|ʐ ɤ̆ k ˦˥ ▁ m ă j ˧˧ ▁ j u ˨˩˨ ▁ c ă j ˦˥ ▁ x o ŋ͡m ˧˧ ▁ ɣ ɤ̆ j ˧˧ ▁ tʰ i ə k ˨˩˨ ▁ h a j ˨˩˨ ▁ ɣ i ˧˨ ▁ b e ˧˨ ▁ ŋ ɯ ə j ˧˨
+DUMMY/wav/ea31dce57de61e5d9d5d4cd32b843609.wav|b i n ˧˧ ▁ ʂ i ˨˩˦ ▁ m i ˨˩˦ ▁ t w ɤ̆ ŋ ˧˨ ▁ ʈ a ˧˧ ▁ x u ˧˧ ▁ j ɯ k ˨˩˨ ▁ b i ə ŋ ˧˧ ▁ j ɤ j ˦˥ ▁ j ɤ j ˦˥ ▁ m ɛ k ˦˥ s i ˧˧ k ɔ ˧˧
+DUMMY/wav/5417531d64e7f641b80787898843d965.wav|n ɔ ˦˥ ▁ j i ə ŋ ˨˩˦ ▁ ʐ a ˧˧ ▁ m a ˧˨ ▁ h w a ŋ ˧˨ ▁ t w a ŋ ˧˨ ▁ x o ŋ͡m ˧˧ ▁ k ɤ̆ ŋ ˧˨ ▁ f ɤ̆ ŋ ˧˨ ▁ f a j ˨˩˦ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ d e n ˦˥ ▁ m o k͡p ˨˩˨ ▁ ʂ o ˦˥ ▁ t i ə ŋ ˧˨ ▁ l ɤ ŋ ˦˥ ▁ n ɔ ˦˥ ▁ l a ŋ ˧˧ ▁ ʐ o ŋ͡m ˨˩˨ ▁ ʐ a ˧˧ ▁ h w a ŋ ˧˨ ▁ t w a ŋ ˧˨ ▁ b ă ŋ ˧˨ ▁ ʈ w i ə ŋ ˧˨ ▁ m i ə ŋ ˨˩˨ ▁ j o ŋ͡m ˦˥ ▁ ɲ ɯ ˧˧ ▁ j i ˧˧ ▁ ʐ u k͡p ˧˧ ▁ j ɤ̆ j ˨˩˨ ▁ l a ŋ ˧˧ ▁ ʐ a ˧˧ ▁ t ɯ ˧˨ ▁ j a w ˦˥ ▁ j i ə ŋ ˧˧ ▁ f u ˨˩˨ ▁ h w i n ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ l a m ˧˨ ▁ k o ŋ͡m ˧˧ ▁ t a k ˦˥ ▁ j a w ˦˥ ▁ j u k͡p ˨˩˨
+DUMMY/wav/e0fb00b93d9fecad7be6db8fb2355e59.wav|l ɔ k͡p ˨˩˨ ▁ l ɯ ə j ˦˥ ▁ t o j ˨˩˨ ▁ f a m ˨˩˨ ▁ m o j ˧˧ ▁ ʈ ɯ ə ŋ ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ s w ɤ̆ k ˦˥ ▁ ɲ ɤ̆ p ˨˩˨ ▁ x ɤ̆ w ˨˩˦
+DUMMY/wav/383a69bb0f39ca6a60458226ae7db771.wav|t o j ˧˧ ▁ d a ˨˩˦ ▁ c ɯ ŋ ˦˥ ▁ k i ə ŋ ˦˥ ▁ d i ə w ˧˨ ▁ d ɔ ˦˥
+DUMMY/wav/2ff02a6eed236144ece0fa290a9994c9.wav|t i m ˧˨ ▁ tʰ ɤ̆ j ˦˥ ▁ s a k ˦˥ ▁ c e t ˦˥ ▁ j ɯ ə j ˦˥ ▁ d ă j ˦˥ ▁ tʰ a ŋ ˧˧ ▁ m ă j ˦˥ ▁ b e n ˨˩˨ ▁ j i ə ŋ ˨˩˨ ▁ ɛ ˧˧ ▁ k ɤ ˧˧
+DUMMY/wav/1d19a9cd3faaa0083e52062823fc9199.wav|ʐ ɤ̆ k ˦˥ ▁ d ă k ˦˥ ▁ d ɔ ˨˩˦ ▁ d e ˨˩˦ ▁ t a w ˨˩˨ ▁ ʐ a ˧˧ ▁ ʈ ɯ ŋ ˦˥ ▁ n e n ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ j e ˨˩˦ ▁ h i ə w ˨˩˦ ▁ x i ˧˧ ▁ k ɔ ŋ͡m ˧˧ ▁ k a j ˦˥ ▁ k ɛ ŋ ˦˥ ▁ c ɔ ŋ͡m ˨˩˨ ▁ ʂ ɛ ˨˩˦ ▁ j a n ˧˨ ▁ c u ŋ͡m ˦˥ ▁ c ɔ ˧˧ ▁ a j ˧˧
+DUMMY/wav/b2afdc4b5c09e9249fa71ee6be3aca01.wav|t o j ˧˧ ▁ m u ə ŋ ˦˥ ▁ k ɔ ˦˥ ▁ m o k͡p ˨˩˨ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥ ▁ w ɛ b ˧˧ ▁ k ɔ ˦˥ ▁ h ɤ ŋ ˧˧ ▁ w i ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ j u ŋ͡m ˧˨ ▁ d ɯ ə k ˨˩˨ ▁ ʂ ɯ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ t o k͡p ˦˥ ▁ d o ˨˩˨ ▁ ɲ a n ˧˧ ▁ ɲ ɤ̆ k ˦˥ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦
+DUMMY/wav/c9a3c438936becbd8138414fc165438f.wav|ɲ ɯ ŋ ˧˧ ▁ j ɤ j ˦˥ ▁ b a ŋ ˨˩˦ ▁ c ɤ̆ k ˦˥ ▁ k u ə ˨˩˦ ▁ m i n ˧˨ ▁ t o j ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ c ɔ ˧˧ ▁ f ɛ p ˦˥ ▁ l ɔ ŋ͡m ˧˨ ▁ t ɯ ˨˩˨ ▁ ʈ ɔ ŋ͡m ˨˩˨ ▁ k u ə ˨˩˦ ▁ m i n ˧˨ ▁ l ɛ ŋ ˧˧ ▁ l ɔ j ˨˩˦ ▁ j a w ˧˨
+DUMMY/wav/2635d8ad68abe743bf9597cedbd2aae6.wav|n ɤ̆ w ˦˥ ▁ c a w ˦˥ ▁ ɤ ˨˩˦ ▁ u b ˧˧ - n d ˧˧ ▁ s a ˨˩˦ ▁ ɛ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ j ɯ ə ŋ ˦˥ ▁ j ɔ ŋ͡m ˧˨ ▁ l a w ˧˧ ▁ l i ˦˥
+DUMMY/wav/4aaef49d1cde67f83218b4fb46acc7ed.wav|ɲ ɤ̆ k ˨˩˨ ▁ b a ŋ ˨˩˦ ▁ f a ŋ ˨˩˦ ▁ d o j ˦˥ ▁ j u ˨˩˨ ▁ f ɔ ŋ͡m ˦˥ ▁ j e ˨˩˨ ▁ t i n ˧˧ ▁ k u ə ˨˩˦ ▁ ʈ i ə w ˧˨ ▁ t i ə ŋ ˧˧
+DUMMY/wav/987ce4270c4d87cdcd7df97fcbd81f74.wav|u k͡p ˧˧ ʐ a j ˧˧ n a ˧˧ ▁ x o ŋ͡m ˧˧ ▁ ʈ a ˨˩˦ ▁ t i ə ŋ ˧˨ ▁ d u ŋ͡m ˦˥ ▁ h a ŋ ˨˩˨ ▁ ŋ a ˧˧ ▁ j w a ˨˩˨ ▁ c ă ŋ ˨˩˨ ▁ x i ˦˥ ▁ d o k͡p ˦˥
+DUMMY/wav/b5d4b46d425e748da17b625572b717ad.wav|b ă k ˦˥ ▁ k ɛ ˨˩˦ ▁ t ɤ̆ m ˧˧ ▁ tʰ ɤ̆ ŋ ˧˨ ▁ l e n ˧˧ ▁ k e ˦˥ ▁ h w a t ˨˩˨ ▁ j e t ˦˥ ▁ k a ˨˩˦ ▁ j a ˧˧ ▁ d i n ˧˨
+DUMMY/wav/8f5556bd2e864235502fe5d7085811e5.wav|b ɯ ə ˧˨ ▁ b a j ˨˩˦ ▁ k ɤ̆ p ˦˥ ▁ j ɤ̆ j ˦˥ ▁ c ɯ ŋ ˦˥ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ x w i ə k ˦˥ ▁ t ɤ̆ k ˨˩˨ ▁ d e ˨˩˦ ▁ l a m ˧˨ ▁ ɣ i ˧˨
+DUMMY/wav/dcd154dca1aff5fbbbf5de20c8bc29cc.wav|t e n ˧˧ ▁ n ă j ˧˨ ▁ k ɔ ˦˥ ▁ m ă k ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ j a n ˧˧ ▁ ʂ a t ˦˥ ▁ x u ŋ͡m ˨˩˦ ▁ b o ˦˥ ▁ k u ə ˨˩˦ ▁ m i ˨˩˦
+DUMMY/wav/8fe7ced7e198866649289b056af0b9a2.wav|ɲ a ˧˨ ▁ d ɤ̆ w ˧˨ ▁ t ɯ ˧˧ ▁ ʂ k i ˧˧ ▁ m i n i n ˧˧ ▁ n o p ˨˩˨ ▁ d ɤ ŋ ˧˧ ▁ l e n ˧˧ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ t i ˧˧ p i ˧˧
+DUMMY/wav/edba4ac36b5aa1d9f9b1caf687ee6a25.wav|h w a ŋ ˧˨ ▁ t ɯ ˨˩˦ ▁ tʰ u j ˨˩˨ ▁ d i ə ŋ ˨˩˦ ▁ b i ˨˩˨ ▁ t ɤ̆ ŋ ˦˥ ▁ k o ŋ͡m ˧˧ ▁ t a j ˨˩˨ ▁ h o p ˨˩˨ ▁ d e m ˧˧ ▁ f a p ˦˥
+DUMMY/wav/284d2e294ab2128aa1792d3214ec43b8.wav|m ă j ˧˧ ▁ c ɔ ˧˧ ▁ tˤ i ˧˧ ▁ c ă w ˦˥ ▁ ɲ i n ˧˨ ▁ m a ˧˨ ▁ ʂ ɤ ˨˩˨
+DUMMY/wav/eaa966db00ca9a161a947758c2ba2970.wav|ʂ j ɛ t ˧˧ l a n ə ˧˧ ▁ ʐ ɔ ʂ l i n ə ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ b o ˨˩˨ ▁ d o ŋ͡m ˧˨ ▁ f u k͡p ˨˩˨ ▁ k u ə ˨˩˦ ▁ ɲ a ˧˨ ▁ m ă j ˦˥ ▁ b a n ˦˥ ▁ k e o ˨˩˨
+DUMMY/wav/51c6d751b25f7c440e702dc449605772.wav|f a ŋ ˧˧ ▁ j ă ŋ ˧˧ ▁ a n ˧˧ ▁ j u ˨˩˦ ▁ ʐ a ˧˧ ▁ h ɤ̆ w ˧˨ ▁ t w a ˧˨ ▁ t a j ˨˩˨ ▁ t i ˧˧ pʰ i ˧˧ t s ˌɛ m ˧˧
+DUMMY/wav/ebfbaa8aa9163b3667a398bfbdc807a6.wav|h i ə ŋ ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ n ă j ˧˨ ▁ d ɯ ə k ˨˩˨ ▁ d ɯ ə ˧˧ ▁ j e ˧˨ ▁ tʰ u ˨˩˦ ▁ d o ˧˧ ▁ d e ˨˩˦ ▁ tʰ ɤ̆ m ˨˩˦ ▁ j ɤ̆ ŋ ˦˥
+DUMMY/wav/b18e88363861eec02e6c4c6e49939207.wav|j a ˧˧ ▁ d i n ˧˨ ▁ l ɔ ˧˧ ▁ h ɤ̆ w ˨˩˨ ▁ ʂ ɯ ˨˩˨ ▁ c ɔ ˧˧ ▁ b a ˧˨ ▁ f ɯ ə ŋ ˨˩˨ ▁ j a ˧˨ ▁ b a ˧˨ ▁ ʈ ɛ t ˨˩˨
+DUMMY/wav/ece7a70331615014635f0eb4514d7115.wav|m ă k ˨˩˨ ▁ x a k ˦˥ ▁ m ɔ j ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ d a ˨˩˦ ▁ j a ŋ ˦˥ ▁ l e n ˧˧ ▁ d ɯ ə ŋ ˧˨ ▁ f o ˦˥ ▁ k a k ˦˥ ▁ t w a ˧˨ ▁ ɲ a ˧˨
+DUMMY/wav/89305afea2581c4b153489a228d52f91.wav|d w a ŋ ˧˨ ▁ tʰ i ˨˩˨ ▁ h ɯ ə ŋ ˧˧ ▁ s w ɤ̆ k ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ t a j ˨˩˨ ▁ t w a ˧˨ ▁ a ŋ ˦˥ ▁ ɤ ˨˩˦ ▁ m a l ă j ˧˧ ʂ i ə ˧˧
+DUMMY/wav/ed23e53ff2ef1945ec6dea7943aa9aec.wav|f a t ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ j i ə ŋ ˧˧ ▁ m a t ˦˥ ▁ s a ˧˧ ▁ d o k͡p ˨˩˨ ▁ t ɯ ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ f ɔ ŋ͡m ˧˨ ▁ s o ŋ͡m ˧˧ ▁ h ɤ j ˧˧
+DUMMY/wav/8f208e217a06b35f34213aa41936da9f.wav|b ă k ˦˥ ▁ ɣ ɔ ŋ͡m ˨˩˨ ▁ h a j ˧˧ ▁ d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ c w i ə ŋ ˧˧ ▁ k ɯ p ˦˥ ▁ j ɤ̆ k ˨˩˨ ▁ ʈ e n ˧˧ ▁ d ɯ ə ŋ ˧˨ ▁ f o ˦˥
+DUMMY/wav/0573ec88063a2d4ff4cda64aefdb67dc.wav|m ă j ˦˥ ▁ b ă j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ l a j ˦˥ ▁ f o ˨˩˦ ▁ b i ə ŋ ˦˥ ▁ ɲ ɤ̆ k ˦˥ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥
+DUMMY/wav/0212a2a025160c50368f866cc2c78af7.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ j ɛ ˨˩˦ ▁ l a j ˨˩˨ ▁ b a ŋ ˨˩˦ ▁ m ă w ˧˨ ▁ n ă j ˧˨
+DUMMY/wav/c2acb567194e98d6c3e3ac3442a23304.wav|c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ k ɤ̆ ŋ ˧˨ ▁ b i ə k ˦˥ ▁ d i ə w ˧˨ ▁ ɣ i ˧˨ ▁ l a m ˧˨ ▁ n e n ˧˧ ▁ h w a t ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ k u ə ˨˩˦ ▁ k a k ˦˥ ▁ t o ˨˩˦ ▁ c ɯ k ˦˥ ▁ n ă j ˧˨
+DUMMY/wav/b1183c7700777fa83c61f4618e5061ce.wav|j a ˧˨ ▁ t a ˧˧ ▁ c i ˨˩˦ ▁ k ɔ ˦˥ ▁ h a j ˧˧ ▁ d o j ˧˧ ▁ m ă k ˦˥ ▁ j ɤ̆ ŋ ˨˩˦ ▁ d ɯ ə ŋ ˧˨ ▁ c ɔ ˧˧ ▁ d i ˧˧
+DUMMY/wav/5bbb6390abedb25344fb55664cdaa5c5.wav|j ɯ ə ˧˨ ▁ n ɔ j ˦˥ ▁ o ŋ͡m ˧˧ ▁ d a ŋ ˧˧ ▁ j ɯ ə ˧˨ ▁ c ă j ˨˩˨ ▁ ʐ a ˧˧ ▁ c ɛ m ˦˥ ▁ d o ŋ͡m ˧˨ ▁ m o k͡p ˨˩˨ ▁ ɲ a t ˦˥
+DUMMY/wav/d90059540583a223062b5cd0eec30322.wav|b ă k ˦˥ ▁ b o ŋ͡m ˦˥ ▁ ŋ ɯ ə j ˧˨ ▁ n ɯ ə k ˦˥ ▁ ŋ w a j ˧˨ ▁ c i m ˦˥ ▁ d w a t ˨˩˨ ▁ t a j ˧˨ ▁ ʂ a ŋ ˨˩˦
+DUMMY/wav/7c0ddc4b2676e39476a709ab03b62a08.wav|k ɔ ˦˥ ▁ l ɛ ˨˩˦ ▁ j ɤ̆ j ˨˩˨ ▁ j i ˧˨ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ɲ a ˧˨ ▁ t w i ə ŋ ˨˩˦ ▁ j u ŋ͡m ˨˩˨ ▁ d a ŋ ˧˧ ▁ d e n ˦˥ ▁ t i m ˧˨ ▁ t o j ˧˧ ▁ j a ˧˨ ▁ n ɔ j ˦˥ ▁ c u ŋ͡m ˦˥ ▁ t a ˧˧ ▁ d a ˨˩˦ ▁ n u ə j ˧˧ ▁ l ɤ ŋ ˦˥ ▁ m o k͡p ˨˩˨ ▁ tʰ e ˦˥ ▁ h e ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ ʈ ɛ ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ tʰ e ˨˩˦ ▁ c i w ˨˩˨ ▁ n o j ˨˩˦ ▁ m o k͡p ˨˩˨ ▁ ŋ ă j ˧˨ ▁ m a ˧˨ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ f ɤ̆ ŋ ˧˨ ▁ tʰ ɯ ə ŋ ˨˩˦
+DUMMY/wav/2244a905d9c08b61e7a3d858a3b01831.wav|t ɯ ˧˨ ▁ a ŋ ˦˥ ▁ l e ˨˩˨ ▁ f i l i p ˧˧ n ɛ ʃ ˧˧ ▁ k i ə ŋ ˨˩˨ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥
+DUMMY/wav/2047eaa71c0cb5c9b6ae5f905118b60d.wav|h u ŋ͡m ˧˧ ▁ tʰ ɤ̆ ŋ ˧˨ ▁ s e p ˦˥ ▁ h a ŋ ˧˨ ▁ d e ˨˩˦ ▁ d e n ˦˥ ▁ d e n ˦˥ ▁ l ɯ ə k ˨˩˨ ▁ j a w ˧˨ ▁ l ɤ̆ j ˦˥ ▁ k a t ˦˥
+DUMMY/wav/32ceac2da7026419658ae9ff18706d27.wav|m o j ˨˩˦ ▁ ŋ ă j ˧˨ ▁ k u ŋ͡m ˧˧ ▁ k ɤ̆ p ˦˥ ▁ x w a ŋ ˨˩˦ ▁ ɛ t ˧˧ ▁ ʂ w ɤ̆ k ˦˥ ▁ ă ŋ ˧˧
+DUMMY/wav/125c63375b8cc9e1b7e54c9734eee7d4.wav|j ɤ j ˦˥ ▁ ɲ ɯ ŋ ˨˩˦ ▁ ŋ ɯ ə j ˧˨ ▁ x a k ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ t a j ˨˩˨ ▁ l a ˧˨ ▁ x o ŋ͡m ˧˧ ▁ l i ə ŋ ˧˧ ▁ w a ŋ ˧˧
+DUMMY/wav/c9d787c4e8eeb1472bfd1fa461727086.wav|x o ŋ͡m ˧˧ ▁ t i m ˧˨ ▁ tʰ ɤ̆ j ˦˥ ▁ tˤ i ˧˧ ▁ m a n ˨˩˦ ▁ j ɤ ˨˩˦
+DUMMY/wav/49c0e80a4a1a18a4c61d06c031ea1e81.wav|h ɔ l ˧˧ w ʊ d ˧˧ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ c i ˧˧ ▁ h a ŋ ˧˨ ▁ ʈ i ə w ˨˩˨ ▁ d o ˧˧ ▁ l a ˧˧ ▁ d e ˨˩˦ ▁ l a m ˧˨ ▁ m o k͡p ˨˩˨ ▁ h a n ˧˨ ▁ l a ŋ ˧˧ ▁ d o ˧˧ ▁ tʰ i ˨˩˨ ▁ ɲ ɔ ˨˩˦ ▁ c ɔ ˧˧ ▁ m o k͡p ˨˩˨ ▁ b o ˨˩˨ ▁ f i m ˧˧ ▁ b ɤ j ˨˩˦ ▁ h ɔ ˨˩˨ ▁ f a j ˨˩˦ ▁ l a m ˧˨ ▁ n ɔ ˦˥ ▁ tʰ u ˨˩˦ ▁ k o ŋ͡m ˧˧
+DUMMY/wav/9d572134951b64d366385e4a59d092e4.wav|i t ˦˥ ▁ ɲ ɤ̆ k ˦˥ ▁ ɛ ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ d a ˨˩˦ ▁ tʰ i ə k ˨˩˨ ▁ m a ŋ ˨˩˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ j u ˨˩˨ ▁ t a j ˧˧ ▁ n a ŋ ˨˩˨
+DUMMY/wav/047ebba59849e0be65887152d36e57ba.wav|a n ˧˧ ▁ h u k͡p ˦˥ ▁ t a j ˧˨ ▁ n ă ŋ ˧˧ ▁ ʈ ɛ ˨˩˦ ▁ j a w ˧˨ ▁ l i n ˨˩˦ ▁ j ɯ k ˨˩˨ ▁ a ŋ ˧˧ ▁ n i n ˧˧ ▁ m a ŋ ˨˩˨
+DUMMY/wav/d40a35eba5b861ff1b85062584010411.wav|c i ə ŋ ˦˥ ▁ d ɤ̆ w ˦˥ ▁ k ɤ ˧˧ ▁ l a m ˧˨ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ c ɯ ŋ ˦˥ ▁ c ɔ ˧˧ ▁ d o j ˧˧ ▁ j ɤ ˨˩˨ ▁ c o ŋ͡m ˧˨ ▁ ʈ ɛ ˨˩˦
+DUMMY/wav/09d7f75520a981d6966afbe475d4e22d.wav|ŋ a ˨˩˦ ▁ ʂ ɤ̆ p ˦˥ ▁ m ă k ˨˩˨ ▁ x i ˧˧ ▁ l ɤ̆ ŋ ˧˨ ▁ d ɤ̆ w ˧˨ ▁ d ɯ ə k ˨˩˨ ▁ j u ŋ͡m ˧˨ ▁ m ă j ˦˥ ▁ t ɤ̆ p ˨˩˨ ▁ c ă j ˨˩˨
+DUMMY/wav/63dd341598d354be747ec86c03eead57.wav|t o j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ t i n ˧˧
+DUMMY/wav/a21f734de88a0c5561ea3f30a2c94bfb.wav|t i n ˧˧ ▁ ʂ a ŋ ˦˥
+DUMMY/wav/13d33b00fffff59b6aa1c1bbea10bc98.wav|ɛ m ˧˧ ▁ w a ˦˥ ▁ n ɔ ŋ͡m ˦˥ ▁ n ă j ˨˩˦ ▁ m ɤ̆ k ˦˥ ▁ x o ŋ͡m ˧˧
+DUMMY/wav/cda06abf39475ce6364c961f41386eb9.wav|t ˈe ˧˧ ▁ ʐ ɤ̆ k ˦˥ ▁ i t ˦˥ ▁ x i ˧˧ ▁ c i ə ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ c w i ə ŋ ˨˩˨ ▁ t i n ˧˨ ▁ i ə w ˧˧ ▁ k u ə ˨˩˦ ▁ m i n ˧˨
+DUMMY/wav/70a731651f041bf4b7fd685adb8b3f56.wav|tʰ ɤ̆ j ˦˥ ▁ j ɤ̆ j ˨˩˨ ▁ j a w ˧˧ ▁ d e n ˦˥ ▁ k o ŋ͡m ˧˧ ▁ a ŋ ˧˧ ▁ s a ˨˩˦ ▁ j i n ˨˩˦ ▁ ʈ u ŋ͡m ˧˧ ▁ d ɤ̆ w ˧˨ ▁ tʰ u ˦˥
+DUMMY/wav/cd03d9b9ea786e2132f104c6122834b5.wav|m i ˧˧ ▁ ɤ ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ʈ a j ˨˩˨ ▁ ɲ a ˧˨ ▁ m i ˧˧ ▁ n ă m ˧˧ ▁ n i ˧˧ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ t e t ˦˥
+DUMMY/wav/d651b2ea9851a26a83b610d397b007d0.wav|o ŋ͡m ˧˧ ▁ t ɤ̆ p ˨˩˨ ▁ k ɤ̆ ŋ ˨˩˨ ▁ b i n ˧˨
+DUMMY/wav/bee958d547bdd3bbc6f9f0e4a5127580.wav|b ă k ˦˥ ▁ ʂ o ŋ͡m ˦˥ ▁ ʐ ă ŋ ˦˥ ▁ h o ˨˩˦ ▁ m a ŋ ˧˧ ▁ c u ə ˦˥ ▁ x o ŋ͡m ˨˩˦ ▁ l o ˧˨ ▁ ɤ ˨˩˦ ▁ f u ˦˥ ▁ tʰ ɔ ˨˩˨
+DUMMY/wav/67771abca752c50686626415f07a062a.wav|d i ə ˨˩˨ ▁ d i m ˨˩˦ ▁ n ă j ˧˨ ▁ t w a ˨˩˨ ▁ l a k ˨˩˨ ▁ t a j ˨˩˨ ▁ ʈ u ŋ͡m ˧˧ ▁ t ɤ̆ m ˧˧ ▁ k u ə ˨˩˦ ▁ l ɔ w ɛ ʁ ˧˧ ▁ e a s ˧˧ ▁ ʂ i j ɛ ˧˧ ▁ ŋ ă j ˧˨ ▁ n ă j ˧˧ ▁ n ɔ ˦˥ ▁ j ɤ̆ ŋ ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ s ɛ m ˧˧ ▁ l a ˧˨ ▁ j u ŋ͡m ˧˨ ▁ d ɤ̆ k ˦˥ ▁ d o ŋ͡m ˧˧ ▁ j ɤ̆ ŋ ˧˧ ▁ ɲ ɤ̆ k ˦˥ ▁ tʰ a n ˧˨ ▁ f o ˦˥
+DUMMY/wav/997ae6cced07195a1d0426690d06cbd0.wav|j a ˨˩˦ ▁ j ɤ ˧˨ ▁ j a w ˧˨ ▁ m u ə ˧˧ ▁ j a ŋ ˧˨ ▁ ʐ o j ˧˨ ▁ j ɤ̆ k ˨˩˨ ▁ j ɤ̆ j ˧˧ ▁ c w i ə ŋ ˧˨ ▁ b ɔ ˨˩˦ ▁ c ă j ˨˩˨
+DUMMY/wav/39e16005b047aa126ecc3a72839086ae.wav|b ɛ ˦˥ ▁ t i ˦˥ ▁ h ɤ k ˦˥ ▁ h a ˧˧ ▁ h ɤ k ˦˥ ▁ h a j ˨˩˦ ▁ c ă j ˨˩˨ ▁ d e n ˦˥ ▁ d o ŋ͡m ˧˨ ▁ k a n ˨˩˦ ▁ ʂ a t ˦˥
+DUMMY/wav/d325949ab39f9323cd6d21007ff9e445.wav|k a t ˦˥ ▁ t ă k ˨˩˨ ▁ l o ŋ͡m ˨˩˨ ▁ h a n ˧˨ ▁ ŋ ă j ˧˧ ▁ k a n ˨˩˨ ▁ k w i ˧˧ l ɛ ˧˧ ɔ ˧˧ ▁ c i n ˦˥ ▁ w i ɛ ŋ ˧˨ ▁ x o ŋ͡m ˧˧ ▁ b i ə k ˦˥
+DUMMY/wav/681f152644ed11cc1b7585ada82f816d.wav|ɤ̆ ŋ ˦˥ ▁ d o ˨˩˨ ▁ m u ə ŋ ˦˥ ▁ m u ə ˧˧ ▁ j ɛ ˧˧ ▁ t i ˨˩˦ ▁ u ʃ ˧˧ ▁ j u ˨˩˦ ▁ x i ˦˥ ▁ t ɯ ˧˨ ▁ ŋ a ˧˧
+DUMMY/wav/9c4c8a6f0e4cde0be4e4ac7e554ac3c7.wav|tʰ ɯ k ˨˩˨ ▁ h a n ˧˨ ▁ f ɯ ə ŋ ˧˧ ▁ a ŋ ˦˥ ▁ j a j ˨˩˦ ▁ k ɯ w ˦˥ ▁ k ɔ ŋ͡m ˧˧ ▁ t i n ˧˧ ▁ b i ˨˩˨ ▁ b ă k ˦˥ ▁ k ɔ k͡p ˦˥
+DUMMY/wav/fdfc99f19bd64c4685eb7f1c999fe0e2.wav|k u ŋ͡m ˧˨ ▁ d i ˧˧ ▁ j ɤ j ˦˥ ▁ o k͡p ˦˥ ▁ h o m ˧˧ ▁ d ɔ ˦˥ ▁ k ɔ ŋ͡m ˧˨ ▁ b a ˧˧ ▁ f u ˨˩˨ ▁ n ɯ ˨˩˦ ▁ x a k ˦˥
+DUMMY/wav/1292f6175d598012222bd009b75f04e4.wav|ŋ a ˧˧ ▁ l e n ˧˧ ▁ k e ˦˥ ▁ h w a t ˨˩˨ ▁ n ɤ̆ ŋ ˧˧ ▁ k ɤ̆ p ˦˥ ▁ m ă j ˦˥ ▁ b ă j ˧˧ ▁ n ɛ m ˦˥ ▁ b ɔ m ˧˧ ▁ t u ˧˧ ▁ t ˌe ˧˧ m ˧˧ ɛ ˧˧
+DUMMY/wav/cc8986ad2fe77d58d6625ad44f02de80.wav|t o j ˧˧ ▁ ʂ o ŋ͡m ˦˥ ▁ ʈ e n ˧˧ ▁ t ɤ̆ ŋ ˧˨ ▁ ɣ i ˧˧ ▁ ɤ ˨˩˦ ▁ k i ə ˧˧
+DUMMY/wav/010b1070177ede5da3ed45e534e7be37.wav|ŋ a ˧˧ ▁ m ɤ̆ k ˦˥ ▁ l i ə ŋ ˧˧ ▁ l a k ˨˩˨ ▁ j ɤ j ˦˥ ▁ k a k ˦˥ ▁ j e ˨˩˨ ▁ t i n ˧˧ ▁ j a ˧˨ ▁ ʈ a m ˨˩˨ ▁ i ʃ ˧˧
+DUMMY/wav/683e5d1de07d9d173ea4b5a1406d244b.wav|t ă w ˧˨ ▁ ʈ u ŋ͡m ˧˧ ▁ w o k͡p ˦˥ ▁ w i ˧˧ ▁ h i p ˦˥ ▁ t ă w ˧˨ ▁ k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ b i ə ŋ ˨˩˦ ▁ j i ə k ˨˩˨ ▁ n a m ˧˧
+DUMMY/wav/338b2cd71a6aa58566f26d92ddf3d9d4.wav|j ɯ ə ŋ ˧˨ ▁ b e n ˨˩˨ ▁ n ɤ j ˧˧ ▁ c i ˨˩˨ ▁ l i ˧˧ ▁ n ă m ˧˨ ▁ ŋ i ˨˩˦ ▁ ʂ ă w ˧˧ ▁ x i ˧˧ ▁ f ɤ̆ w ˨˩˦ ▁ tʰ w ɤ̆ k ˨˩˨
+DUMMY/wav/2215b9246669a8769cd667c43e0a1b59.wav|h d b a ˧˧ ▁ j a ˧˧ ▁ h a ŋ ˨˩˨ ▁ l ɯ k ˨˩˨ ▁ l ɯ ə ŋ ˨˩˨ ▁ j ɯ ˨˩˦ ▁ z i n ˧˨ ▁ h w a ˧˨ ▁ b i n ˧˨ ▁ ɤ ˨˩˦ ▁ l ɛ b a n ɔ ŋ͡m ˧˧
+DUMMY/wav/d65ba3b0631a5e4e2c842462b43be9a0.wav|c e ˦˥ ▁ d o ˨˩˨ ▁ ʈ a ˨˩˦ ▁ tʰ u ˧˨ ▁ l a w ˧˧ ▁ c ɔ ˧˧ ▁ j ɤ̆ ŋ ˧˧ ▁ tʰ e ˦˥ ▁ n a w ˧˨ ▁ tʰ ɯ ə ˧˧ ▁ o ŋ͡m ˧˧
+DUMMY/wav/1180adeac2a955d72b5a23fddfc4ec8a.wav|ɲ i ə w ˧˨ ▁ m ɔ ŋ͡m ˦˥ ▁ h a ŋ ˧˨ ▁ ʐ ɤ m ˨˩˦ ▁ ɣ ă ŋ ˦˥ ▁ m a k ˦˥ ▁ ŋ w a j ˨˩˨ ▁ c i ˨˩˨ ▁ t ˈe ˧˧
+DUMMY/wav/054c82c8de1c4d8f97d5171e56897a87.wav|b i ʃ ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ a p ˦˥ ▁ j u ŋ͡m ˨˩˨ ▁ c ɔ ˧˧ ▁ d e n ˦˥ ▁ x i ˧˧ ▁ k ɔ ˦˥ ▁ tʰ o ŋ͡m ˧˧ ▁ b a w ˦˥ ▁ x a k ˦˥
+DUMMY/wav/4258b5192f57d99ed2a4b558f1cfcc5d.wav|k ɔ ˦˥ ▁ m o k͡p ˨˩˨ ▁ t i ˨˩˦ ▁ ʈ ɛ ˨˩˦ ▁ ɛ m ˧˧ ▁ ʈ e n ˧˧ ▁ tʰ e ˦˥ ▁ j ɤ j ˦˥ ▁ j a ˧˨ ▁ t i ˧˧ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ʂ o ˦˥ ▁ c u ŋ͡m ˦˥ ▁ x o ŋ͡m ˧˧ ▁ k ɔ ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ ŋ u ə ŋ ˧˨ ▁ d i ə ŋ ˨˩˨ ▁ t a j ˧˧ ▁ ɲ a ˧˨ ▁ h ă j ˧˧ ▁ t a j ˨˩˨ ▁ ʈ ɯ ə ŋ ˧˨
+DUMMY/wav/cb9a0459de82c9ddf8697ee848a487fa.wav|k ɔ ˦˥ ▁ h ă j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ d ɯ ə ŋ ˧˨ ▁ j ɤ̆ j ˧˧ ▁ b u ə ŋ ˧˧ ▁ l ɤ̆ w ˨˩˨ ▁ j a ŋ ˧˨ ▁ t a j ˨˩˨ ▁ h a ˧˨ ▁ n o j ˨˩˨
+DUMMY/wav/5ab72adb7aadf52d01f25fe648e5c409.wav|t i m ˧˨ ▁ c u ˨˩˦ ▁ ʂ ɤ ˨˩˦ ▁ h ɯ w ˨˩˦ ▁ s ɛ ˧˧ ▁ m ă j ˦˥ ▁ b i ˨˩˨ ▁ m ɤ̆ k ˦˥ ▁ t a j ˨˩˨ ▁ t ɤ̆ j ˧˧ ▁ h o ˧˨
+DUMMY/wav/01fd5195bf6f30b091d0d6abdabb83d8.wav|j a ˧˨ ▁ t o j ˧˧ ▁ tʰ ɯ ˨˩˦ ▁ m o k͡p ˨˩˨ ▁ j a j ˧˨ ▁ ŋ w i ə ŋ ˧˧ ▁ m ɤ̆ w ˨˩˦ ▁ t o j ˧˧ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ d ɯ ə k ˨˩˨ ▁ m o k͡p ˨˩˨ ▁ c u k͡p ˦˥ ▁ ʈ ɤ ˨˩˨ ▁ k ɤ̆ p ˦˥ ▁ t ɯ ˧˨ ▁ ʂ t a n ˧˧ f ɔ r d ˧˧
+DUMMY/wav/b4d6c64d71c350a3ea0a9d2c45cb6592.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ f a j ˨˩˦ ▁ j ɯ ˨˩˦ ▁ b i ˦˥ ▁ m ɤ̆ k ˨˩˨ ▁ j ɤ j ˦˥ ▁ ɲ a ˧˨ ▁ tʰ i ə k ˦˥ ▁ k e ˦˥ ▁ k o ŋ͡m ˧˧ ▁ ŋ i p ˨˩˨ ▁ c ɔ ˧˧ ▁ d e n ˦˥ ▁ x i ˧˧ ▁ k o ˧˧ ▁ ɤ̆ j ˦˥ ▁ c ɤ̆ p ˦˥ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ k o ŋ͡m ˧˧ ▁ j i ə k ˨˩˨ ▁ ɲ ɯ ŋ ˧˧ ▁ c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ d a ˨˩˦ ▁ d i ˧˧ ▁ m o k͡p ˨˩˨ ▁ c ă ŋ ˨˩˨ ▁ d ɯ ə ŋ ˧˨ ▁ j a j ˧˨
+DUMMY/wav/bdb45b4673f21a841c40f4538f48a4a5.wav|c u ŋ͡m ˦˥ ▁ t o j ˧˧ ▁ c ɯ ə ˧˧ ▁ t i m ˧˨ ▁ ʐ a ˧˧ ▁ j a j ˨˩˦ ▁ f a p ˦˥ ▁ c ɔ ˧˧ ▁ t i n ˧˨ ▁ h u ə ŋ ˦˥ ▁ n ă j ˧˨
+DUMMY/wav/2f3870088bb394ec504adebe4b3979d3.wav|j ɤ ˨˩˨ ▁ c o ŋ͡m ˧˨ ▁ b a ˧˨ ▁ k w ˧˧
+DUMMY/wav/504d7f00a80fca2f00608042576ed3e1.wav|n a ŋ ˧˧ ▁ j a j ˨˩˦ ▁ l o ˨˩˨ ▁ ʈ i n ˧˨ ▁ h w a t ˨˩˨ ▁ d o ŋ͡m ˨˩˨ ▁ k u ə ˨˩˦ ▁ s i t ˦˥ ▁ l o ˧˧ ▁ h a ˧˨ ▁ n o j ˨˩˨
+DUMMY/wav/f0686d01c3d0e44e644e372f37e00532.wav|l ɯ k ˨˩˨ ▁ l ɯ ə ŋ ˨˩˨ ▁ l i ˧˧ ▁ x a j ˧˧ ▁ u ˧˧ k r a j ˧˧ n ɛ ˧˧ ▁ ʈ u k͡p ˨˩˨ ▁ s w ɤ̆ k ˦˥ ▁ w a ŋ ˧˧ ▁ ʂ a t ˦˥ ▁ j i ə ŋ ˧˧ ▁ ɔ ʃ k ɛ ˧˧
+DUMMY/wav/0ddeec5080a3e7a05d44b5bd6fe6ee36.wav|d o j ˨˩˨ ▁ k ɯ w ˦˥ ▁ h o ˨˩˨ ▁ d a ŋ ˧˧ ▁ l a m ˧˨ ▁ j i ə k ˨˩˨ ▁ t a j ˨˩˨ ▁ h i ə ŋ ˨˩˨ ▁ ʈ ɯ ə ŋ ˧˨ ▁ t a j ˧˧ ▁ n a ŋ ˨˩˨
+DUMMY/wav/b331ba932134ecae7164f4c0514e759d.wav|m ɯ k ˦˥ ▁ t i ə ŋ ˧˨ ▁ d ă k ˨˩˨ ▁ k ɯ ə k ˨˩˨ ▁ t ɯ ˧˨ ▁ ɛ ˧˧ ▁ ɛ ˧˧ i ˧˧ ▁ ʈ i ə w ˨˩˨ ▁ d o ŋ͡m ˧˨ ▁ m o j ˨˩˦ ▁ l ɤ̆ ŋ ˧˨ ▁ c ɤ j ˧˧
+DUMMY/wav/06d0fa6e7671e2a5528276a2a177ed51.wav|ʂ ă w ˧˧ ▁ d ɔ ˦˥ ▁ j ɛ ˧˧ ▁ l a n ˨˩˦ ▁ d a w ˨˩˨ ▁ f a ˧˧ h a ˧˧ ʂ ə ˧˧ ▁ k u ŋ͡m ˧˨ ▁ d ɯ ŋ ˦˥ ▁ l e n ˧˧ ▁ s i n ˧˧ ▁ l o j ˨˩˦
+DUMMY/wav/63e4ce187df304ee714dffd62b892d40.wav|d ɤ̆ w ˧˨ ▁ t i ə ŋ ˧˧ ▁ t o j ˧˧ ▁ j i ə k ˦˥ ▁ c ɯ ə ŋ ˧˧ ▁ ʈ i n ˧˨ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ ɲ i ə w ˧˨ ▁ ŋ o ŋ͡m ˧˧ ▁ ŋ ɯ ˨˩˦ ▁ l ɤ̆ p ˨˩˨ ▁ ʈ i n ˧˨ ▁ x a k ˦˥ ▁ ɲ ă w ˧˧ ▁ d e ˨˩˦ ▁ n ă m ˦˥ ▁ d ɯ ə k ˨˩˨ ▁ k ă ŋ ˧˧ ▁ b a ŋ ˨˩˦ ▁ j i ˦˥ ▁ j u ˨˩˨ ▁ p i t ˧˧ h ɔ ŋ͡m ˧˧ ▁ k ˈɛ ˧˧ ▁ j a j ˧˧ ▁ j ɤ̆ ŋ ˧˧ ▁ j ɤ̆ ŋ ˧˧
+DUMMY/wav/28d14e4d02aa741c297569f6754e8728.wav|j a ˧˨ ▁ i ˧˧ ▁ d i ə w ˧˨ ▁ n ɯ ə ˨˩˦ ▁ l i ə w ˨˩˨ ▁ b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ ʈ ɤ ˨˩˦ ▁ tʰ a n ˧˨ ▁ i ˧˧ ▁ f u ˨˩˨ ▁ h w i n ˧˧ ▁ t o k͡p ˦˥ ▁ ɲ ɯ ˧˧ ▁ b a ŋ ˨˩˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦
+DUMMY/wav/bcfd2864b497c86a5c308abac26b9448.wav|ʂ ɯ ˨˩˨ ▁ c ɤ̆ ŋ ˧˨ ▁ c ɯ ˧˨ ▁ l ɯ ə ŋ ˨˩˦ ▁ l ɯ ˨˩˨ ▁ l a ˧˨ ▁ x o ŋ͡m ˧˧ ▁ t o k͡p ˦˥
+DUMMY/wav/796ac686c030d1f74d67562480849970.wav|h a j ˧˧ ▁ m ɛ ˨˩˨ ▁ k ɔ ŋ͡m ˧˧ ▁ b i ˨˩˨ ▁ ʂ a t ˦˥ ▁ h a j ˨˩˨ ▁ j a ˨˩˦ ▁ m a ŋ ˧˧ ▁ t a j ˨˩˨ ▁ ɲ a ˧˨ ▁ ʐ i ə ŋ ˧˧
+DUMMY/wav/442010c1bfeeff57433da65c265c37d9.wav|ɲ ɯ ŋ ˨˩˦ ▁ k ɤ̆ w ˨˩˨ ▁ b ɛ ˦˥ ▁ j i ˨˩˨ ▁ tʰ a n ˧˨ ▁ n i ə ŋ ˧˧ ▁ l a ˧˨ ▁ d o j ˦˥ ▁ t ɯ ə ŋ ˨˩˨ ▁ k u ə ˨˩˦ ▁ j ɔ ŋ͡m ˧˧
+DUMMY/wav/4eb399aeaa9c6f59f99c40f1eb843c5f.wav|l e ˨˩˦ ▁ a ŋ ˧˧ ▁ t a ŋ ˦˥ ▁ c i ˨˩˨ ▁ d o ˨˩˦ ▁ tʰ i ˨˩˨ ▁ m i ˨˩˦ ▁ t i ə ŋ ˧˧ ▁ t a j ˨˩˨ ▁ h a ŋ ˧˨ ▁ w o k͡p ˦˥
+DUMMY/wav/16102ffe44a479c916317d77324887ba.wav|h w a ˨˩˦ ▁ h w a ŋ ˨˩˨ ▁ tʰ i ə w ˧˧ ▁ ʐ u j ˨˩˨ ▁ m o k͡p ˨˩˨ ▁ s ɯ ə ŋ ˨˩˦ ▁ ɣ o ˨˩˦ ▁ ʈ ɔ ŋ͡m ˧˧ ▁ d e m ˧˧
+DUMMY/wav/bb30001314650cd2ac6654ad7daf685d.wav|k a j ˦˥ ▁ k e t ˦˥ ▁ b i ˧˧ ▁ tʰ a m ˨˩˦ ▁ k u ə ˨˩˦ ▁ w i n ˧˨ ▁ b u p ˦˥ ▁ b e ˧˧ ▁ ɤ ˨˩˦ ▁ t ɤ̆ p ˨˩˨ ▁ k u ə j ˦˥
+DUMMY/wav/1ebe9af25002c6aa53c66fded53bbc98.wav|t o j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ f u ˨˩˨ ▁ ʈ a t ˦˥ ▁ j e ˧˨ ▁ m a ŋ ˨˩˦ ▁ n ă j ˧˨ ▁ n e n ˧˧ ▁ x o ŋ͡m ˧˧ ▁ n ă m ˦˥ ▁ d ɯ ə k ˨˩˨
+DUMMY/wav/91908447e59ad9ba69860c8c28797bc5.wav|b a ˧˨ ▁ c i ˧˧ ▁ b e n ˧˧ ▁ k ă ŋ ˧˧ ▁ ɲ a ˧˨ ▁ d ɯ ə k ˨˩˨ ▁ j ɯ ˨˩˦ ▁ ŋ w i ə ŋ ˧˧ ▁ ɣ ɤ̆ ŋ ˧˨ ▁ m o k͡p ˨˩˨ ▁ n ă m ˧˧
+DUMMY/wav/98d978bc2a5db95cc69fa9fbc9469caf.wav|d i ˧˧ ▁ j i ə ŋ ˦˥ ▁ b a ŋ ˨˩˨ ▁ ŋ ɯ ə j ˧˨ ▁ d a ŋ ˧˨ ▁ o ŋ͡m ˧˧ ▁ b i ˨˩˨ ▁ k ɯ ə ˦˥ ▁ k o ˨˩˦ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧
+DUMMY/wav/54dd8e9fc6c2b4a5578cfed02d8ae576.wav|k ɔ ŋ͡m ˧˧ ▁ ɣ a j ˦˥ ▁ t o j ˧˧ ▁ h ɔ j ˨˩˦ ▁ ʂ a w ˧˧ ▁ a ˨˩˨
+DUMMY/wav/1a8a455d1163ec1ba67c8256e8af138b.wav|x u ˧˧ ▁ ɲ a ˧˨ ▁ ʈ ɔ ˨˩˨ ▁ n ɤ j ˧˧ ▁ h a j ˧˧ ▁ j ɤ ˨˩˨ ▁ c o ŋ͡m ˧˨ ▁ k o ŋ͡m ˧˧ ▁ ɲ ɤ̆ ŋ ˧˧ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧
+DUMMY/wav/225f723aee5d3eac8bb47adbd7e15cec.wav|t a j ˨˩˨ ▁ t w a ˧˨ ▁ d ɯ k ˦˥ ▁ x a j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ c u ˨˩˦ ▁ d i t ˦˥ ▁ ʂ a t ˦˥ ▁ h a j ˨˩˨ ▁ n a ŋ ˨˩˨ ▁ ɲ ɤ̆ ŋ ˧˧
+DUMMY/wav/d46b2a22b9f4d9b08f399555acdadeae.wav|k ɔ ˦˥ ▁ ʐ ɤ̆ k ˦˥ ▁ ɲ i ə w ˧˨ ▁ j ɯ ˨˩˦ ▁ l i ə w ˨˩˨ ▁ x a k ˦˥ ▁ x a w ˨˩˦ ▁ ʂ a t ˦˥ ▁ j e ˧˨ ▁ j a w ˧˧ ▁ tʰ o ŋ͡m ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ d ɯ ə ˧˧ ▁ ʐ a ˧˧ ▁ b ɤ j ˨˩˦ ▁ c i n ˦˥ ▁ f u ˨˩˦ ▁ a n ˧˧ ▁ j a ˧˨ ▁ b ɤ j ˨˩˦ ▁ j i ˧˨ ▁ h ɔ ˨˩˨ ▁ t a w ˨˩˨ ▁ ʐ a ˧˧ ▁ n ɔ ˦˥ ▁ j ɯ ə ˨˩˨ ▁ ʈ e n ˧˧ ▁ ɲ ɯ ŋ ˨˩˦ ▁ j ɯ ˨˩˦ ▁ l i ə w ˨˩˨ ▁ l i ə ŋ ˧˧ ▁ k e t ˦˥ ▁ t i ə w ˧˧ ▁ c w ɤ̆ ŋ ˨˩˦ ▁ n e n ˧˧ ▁ ŋ ɯ ə j ˧˨ ▁ j u ŋ͡m ˧˨ ▁ k ɔ ˦˥ ▁ tʰ e ˨˩˦ ▁ t a w ˨˩˨ ▁ ʐ a ˧˧ ▁ b a ŋ ˨˩˦ ▁ d o ˧˨ ▁ b ă ŋ ˧˨ ▁ k a t ˦˥ ▁ k l i t ˧˧ ▁ c u ə k ˨˩˨
+DUMMY/wav/2d797deea3638f40006964e61b072e4b.wav|ŋ a ˧˧ ▁ k u ŋ͡m ˨˩˦ ▁ k o ˦˥ ▁ w ɤ̆ ŋ ˧˧ ▁ t a j ˨˩˨ ▁ x u ˧˧ ▁ j ɯ k ˨˩˨ ▁ ʈ a n ˧˧ ▁ c ɤ̆ p ˦˥ ▁ j ɤ j ˦˥ ▁ ɲ ɤ̆ k ˨˩˨
+DUMMY/wav/9d39a2c0c8421338f74b0360c5be957d.wav|h a ˨˩˨ ▁ j i ə ŋ ˨˩˨ ▁ ʈ a w ˧˧ ▁ w i ɛ ŋ ˧˨ ▁ d a m ˧˨ ▁ f a ŋ ˦˥ ▁ ɲ a n ˧˧ ▁ c ɔ ˧˧ ▁ t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ ɔ b a m a ˧˧
+DUMMY/wav/4e67cb2308680b9f6fcab2ce138ff340.wav|j i ˧˨ ▁ j e t ˦˥ ▁ tʰ ɯ ə ŋ ˧˧ ▁ ʐ ɤ̆ k ˦˥ ▁ n ă ŋ ˨˩˨ ▁ n e n ˧˧ ▁ c i ˨˩˨ ▁ c ɯ ə ˧˧ ▁ tʰ e ˨˩˦ ▁ ʈ ɔ ˧˨ ▁ c w i ə ŋ ˨˩˨
+DUMMY/wav/293244c09120822bcbb6ce59238010c5.wav|a n ˧˧ ▁ b i ˨˩˨ ▁ t a j ˧˧ ▁ n a ŋ ˨˩˨ ▁ n e n ˧˧ ▁ ʈ i ˦˥ ▁ ɲ ɤ ˦˥ ▁ k ɔ ŋ͡m ˧˨ ▁ c ɯ ə ˧˧ ▁ h o j ˧˨ ▁ f u k͡p ˨˩˨
+DUMMY/wav/446c992a74f941882cc864ba34985c4a.wav|t o j ˧˧ ▁ d a ˨˩˦ ▁ l a m ˧˨ ▁ j i ə k ˨˩˨ ▁ j ɤ j ˦˥ ▁ m o k͡p ˨˩˨ ▁ f ɔ ŋ͡m ˧˨ ▁ tʰ i ˦˥ ▁ ŋ i m ˨˩˨ ▁ ɤ ˨˩˦ ▁ d a j ˨˩˨ ▁ h ɔ k͡p ˨˩˨ ▁ k a l i f ɔ ɾ l i ə ˧˧
+DUMMY/wav/6694452f99c86db658f1bffabec47386.wav|h a j ˧˧ ▁ b o ˦˥ ▁ k ɔ ŋ͡m ˧˧ ▁ ŋ u ˨˩˦ ▁ ʈ e n ˧˧ ▁ j ɯ ə ŋ ˧˨ ▁ b i ˨˩˨ ▁ ʂ ɛ t ˦˥ ▁ d a n ˦˥ ▁ t ɯ ˨˩˦ ▁ j ɔ ŋ͡m ˧˧
+DUMMY/wav/3c230480a343d44f4158a34c161cf77f.wav|b a ˧˨ ▁ k u ŋ͡m ˨˩˦ ▁ d ɯ ə k ˨˩˨ ▁ t o ŋ͡m ˧˧ ▁ j i n ˧˧ ▁ l a ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ m ɛ ˨˩˨ ▁ k u ə ˨˩˦ ▁ ʈ i ə w ˧˨ ▁ t i ə ŋ ˧˧
+DUMMY/wav/a5b02527f838d135c8ba3c22e4333aac.wav|ʈ ɔ ŋ͡m ˧˧ ▁ l u k͡p ˦˥ ▁ t ɤ̆ m ˧˧ ▁ ʂ ɯ ˨˩˨ ▁ c i ˨˩˨ ▁ h a ˧˧ ▁ tʰ ɯ ə ŋ ˧˨ ▁ ɣ ɔ j ˨˩˨ ▁ c o ŋ͡m ˧˨ ▁ l a ˧˨ ▁ n ɔ ˦˥
+DUMMY/wav/38f0240103e09f77b608ffd847bfafdc.wav|t o ŋ͡m ˨˩˦ ▁ tʰ o ŋ͡m ˦˥ ▁ m i ˨˩˦ ▁ d a ŋ ˧˧ ▁ k o ˨˩˦ ▁ j u ˨˩˦ ▁ m o k͡p ˨˩˨ ▁ ʈ ɤ̆ ŋ ˨˩˨ ▁ d ɤ̆ w ˦˥ ▁ b ɔ ŋ͡m ˦˥ ▁ ʐ o ˨˩˦
+DUMMY/wav/dcc052ae946d5d1f136c7dd72b2a9e4c.wav|t o j ˧˧ ▁ b i ˨˩˨ ▁ tʰ u ˧˧ ▁ h u k͡p ˦˥ ▁ b ɤ j ˨˩˦ ▁ h i ə ŋ ˨˩˨ ▁ t ɯ ə ŋ ˨˩˨ ▁ a n ˦˥ ▁ ʂ a ŋ ˦˥ ▁ b i ˨˩˨ ▁ k a ŋ ˨˩˦ ▁ l a j ˨˩˨ ▁ , ▁ n e n ˧˧ ▁ t o j ˧˧ ▁ m u ə ŋ ˦˥ ▁ t i m ˧˨ ▁ k a t ˦˥ ▁ j ɤ̆ k ˨˩˨ ▁ c ɤ̆ k ˦˥ ▁ h w a ˦˥ ▁ h i ə ŋ ˨˩˨ ▁ t ɯ ə ŋ ˨˩˨ ▁ d ɔ ˦˥
+DUMMY/wav/3f76450a4672ca9b9c45fe8173e29c5e.wav|k ɯ ˦˥ ▁ ɛ ˧˧ ▁ ɛ f ˧˧ ▁ l a ˧˨ ▁ j ɤ̆ ŋ ˧˧ ▁ l a m ˧˨ ▁ ʐ ɤ̆ j ˨˩˦ ▁ l ɔ ˧˧ ▁ k u ə ŋ ˦˥ ▁ ɣ ɔ j ˦˥ ▁ c ă j ˨˩˨ ▁ j ɔ j ˧˧
+DUMMY/wav/7ba6f192e058de2ff720ebd6b39a58ad.wav|c ă j ˦˥ ▁ l ɤ ŋ ˦˥ ▁ t a j ˨˩˨ ▁ tˤ i ˧˧ ▁ k ă ŋ ˧˧ ▁ ɲ a ˧˨ ▁ k u ˨˩˦ ▁ ʈ e n ˧˧ ▁ f o ˦˥ ▁ f u ŋ͡m ˧˨ ▁ h ɯ ŋ ˧˧
+DUMMY/wav/d96a22760deaa5bdd16bc1ed13ed85cc.wav|h o m ˧˧ ▁ n ă j ˧˧ ▁ t o j ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ n ɔ j ˦˥ ▁ j ɤ j ˦˥ ▁ k a k ˦˥ ▁ b a ŋ ˨˩˨ ▁ j e ˧˨ ▁ f a k ˦˥ ▁ tʰ a w ˨˩˦ ▁ d i ə ŋ ˨˩˨ ▁ t ɯ ˨˩˦
+DUMMY/wav/3b4c8728f1a1bdf49b52afdd5a823318.wav|k ɔ ˧˨ ▁ s ɛ ˧˧ ▁ c ă j ˨˩˨ ▁ l w a ŋ ˨˩˨ ▁ x i ˧˧ ▁ c u ˨˩˦ ▁ t i t ˨˩˨ ▁ d a ˧˨ ▁ n ă ŋ ˨˩˦ ▁ ɣ i ˧˧ ▁ h i n ˧˨
+DUMMY/wav/b685bf0790b05f73d2ae9bb418136575.wav|k u ə k ˨˩˨ ▁ x u ŋ͡m ˨˩˦ ▁ h w a ŋ ˨˩˦ ▁ n ă j ˧˨ ▁ ɛ u ˧˧ ▁ ʂ ɛ ˨˩˦ ▁ f a j ˨˩˦ ▁ d ɯ ŋ ˦˥ ▁ m u j ˨˩˦ ▁ c i w ˨˩˨ ▁ ʂ a w ˧˨
+DUMMY/wav/d7b5e3a10979fc87b4bf18162a27e46b.wav|l a ˧˨ ▁ m o k͡p ˨˩˨ ▁ ɲ a ˧˨ ▁ tʰ i ə ŋ ˧˧ ▁ j ă ŋ ˧˧ ▁ h ɔ k͡p ˨˩˨ ▁ t o j ˧˧ ▁ x o ŋ͡m ˧˧ ▁ tʰ e ˨˩˦ ▁ t i n ˧˧ ▁ ʐ ă ŋ ˧˨ ▁ l w a j ˧˨ ▁ ŋ ɯ ə j ˧˨ ▁ l a ˧˨ ▁ k e t ˦˥ ▁ tʰ u k͡p ˦˥ ▁ k u ə ˨˩˦ ▁ k ɤ̆ w ˧˧ ▁ c w i ə ŋ ˨˩˨
+DUMMY/wav/67be819fefcf61c8aa0cf3a6d454e922.wav|k ɤ̆ ŋ ˨˩˨ ▁ k a n ˨˩˦ ▁ l ă p ˦˥ ▁ ʐ a p ˦˥ ▁ t ă w ˧˨ ▁ tʰ ɤ̆ ŋ ˧˨ ▁ c ɤ̆ w ˧˧ ▁ k ɤ ˧˧ ▁ j a ˧˨ ▁ t e n ˧˧ ▁ l ɯ ə ˨˩˦ ▁ d ɤ̆ j ˨˩˦
+DUMMY/wav/ede40100c1df47aebf6a9af2d75e70f4.wav|j a j ˧˧ ▁ s w e m i n ˧˧ ▁ b i ˨˩˨ ▁ k a n ˨˩˦ ▁ ʂ a t ˦˥ ▁ b ă k ˦˥ ▁ j ɯ ˨˩˦ ▁ ŋ ă j ˧˧ ▁ t a j ˨˩˨ ▁ ʂ ɤ̆ ŋ ˧˧ ▁ b ă j ˧˧
+DUMMY/wav/3f6d1786caeb7b017ec6f85f828c001f.wav|ʈ ɤ j ˧˨ ▁ tʰ a ŋ ˦˥ ▁ ɔ ˧˧ ▁ n ă ŋ ˦˥ ▁ c ɔ j ˦˥ ▁ c a ŋ ˧˧ ▁ m ă k ˨˩˨ ▁ b i ə ŋ ˨˩˦ ▁ ʂ a ŋ ˦˥ ▁ l ɤ̆ p ˦˥ ▁ l w a ˦˥
+DUMMY/wav/53534d2337b4fc06ed6721feff004707.wav|t a j ˨˩˨ ▁ d ɤ̆ j ˧˧ ▁ ŋ ɔ k͡p ˨˩˨ ▁ j a ˧˨ ▁ c i ˨˩˨ ▁ ɛ ŋ ˧˧ ▁ k ɔ ˦˥ ▁ l ɤ j ˧˨ ▁ w a ˧˧ ▁ t i ə ŋ ˦˥ ▁ l a j ˨˩˨
+DUMMY/wav/18ae36467d247560465ba1e35ba068f8.wav|h ɔ k͡p ˨˩˨ ▁ ʈ ɔ ˧˨ ▁ tʰ ɤ j ˧˨ ▁ n ă j ˧˧ ▁ d a ˨˩˦ ▁ tʰ e ˦˥ ▁ ɯ ˧˧
+DUMMY/wav/81da54366b2ee4bc98dd1eb5b0637909.wav|k ɯ w ˨˩˨ ▁ j a m ˦˥ ▁ d o k͡p ˦˥ ▁ ɔ t͡s e a ŋ ˧˧ b a ŋ ˧˧ ▁ c i ˧˧ ▁ ɲ a n ˦˥ ▁ h a ˧˨ ▁ t i n ˨˩˦ ▁ f a ŋ ˧˧ ▁ tʰ i ˨˩˨ ▁ l a ŋ ˧˧
+DUMMY/wav/837f53b7bdd91dea601c54e4806c1836.wav|ɲ ɤ̆ ŋ ˨˩˨ ▁ j i ə ŋ ˨˩˨ ▁ n o j ˨˩˦ ▁ x i p ˦˥ ▁ ʂ ɤ ˨˩˨ ▁ m o k͡p ˨˩˨ ▁ tʰ ɤ j ˧˨ ▁ k u ə ˨˩˦ ▁ x o ŋ͡m ˧˧ ▁ w ɤ̆ ŋ ˧˧ ▁ m i ˨˩˦
+DUMMY/wav/9ad0dd0f28e919c928df0244efdf08e9.wav|h ɔ ˨˩˨ ▁ tʰ ɯ ə ˧˨ ▁ ɲ ɤ̆ ŋ ˨˩˨ ▁ ɲ i ə w ˧˨ ▁ d i ə w ˧˨ ▁ d u ŋ͡m ˦˥ ▁ ɲ ɯ ˧˧ ▁ l ɤ j ˧˨ ▁ b a ˧˨ ▁ ŋ ˧˧ ▁ n ɔ j ˦˥
+DUMMY/wav/5db6ffec66ebaa80f959595ca5dabe74.wav|l i ə w ˨˩˨ ▁ ʐ ă ŋ ˧˨ ▁ d e n ˦˥ ▁ x i ˧˧ ▁ n a w ˧˨ ▁ ɲ a ŋ ˧˨ ▁ f i ˧˧ ▁ m ɤ j ˦˥ ▁ c w i ə ŋ ˨˩˦ ▁ m i n ˧˨
